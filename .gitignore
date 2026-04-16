@@ -2,3 +2,13 @@
 node_modules/
 docs/.vitepress/cache
 docs/.vitepress/dist
+
+# Halo backup folders (do not commit raw backups)
+*-backup-*/
+
+# pnpm / Windows 安装残留的临时文件
+_tmp_*
+
+# Python 常规忽略
+__pycache__/
+*.pyc

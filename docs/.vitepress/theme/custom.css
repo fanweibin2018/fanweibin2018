@@ -1,0 +1,247 @@
+/* Blog overrides for VitePress default theme */
+
+:root {
+  --vp-c-brand-1: #3e7bff;
+  --vp-c-brand-2: #3566d9;
+  --vp-c-brand-3: #2a57bf;
+  --vp-home-hero-name-color: var(--vp-c-brand-1);
+}
+
+.dark {
+  --vp-c-brand-1: #7ea9ff;
+  --vp-c-brand-2: #5c8cff;
+  --vp-c-brand-3: #456eda;
+}
+
+/* ---------- Home ---------- */
+.blog-home {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 48px 24px 64px;
+}
+.blog-home .hero {
+  text-align: center;
+  padding: 24px 0 40px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  margin-bottom: 40px;
+}
+.blog-home .hero h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 8px;
+}
+.blog-home .hero .lead {
+  color: var(--vp-c-text-2);
+  font-size: 1.05rem;
+}
+.blog-home .hero-stats {
+  margin-top: 18px;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+}
+.blog-home .hero-stats strong {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  margin-right: 4px;
+}
+
+.block {
+  margin-top: 40px;
+}
+.block-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.block-head h2 {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+.block-head .more {
+  font-size: 0.9rem;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+.block-head .more:hover { text-decoration: underline; }
+
+/* ---------- Post list ---------- */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.post-item {
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.post-item:last-child { border-bottom: 0; }
+.post-link {
+  display: block;
+  padding: 18px 0;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: background 0.15s;
+  border-radius: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.post-link:hover {
+  background: var(--vp-c-bg-soft);
+}
+.post-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  line-height: 1.4;
+}
+.post-link:hover .post-title { color: var(--vp-c-brand-1); }
+.post-excerpt {
+  margin-top: 6px;
+  font-size: 0.92rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.post-meta {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  font-size: 0.82rem;
+  color: var(--vp-c-text-3);
+}
+.post-meta time {
+  color: var(--vp-c-text-2);
+  font-variant-numeric: tabular-nums;
+}
+.tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+  line-height: 1.5;
+}
+.tag.tag-soft {
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+}
+.post-cat, .post-tags {
+  display: inline-flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+/* ---------- Post meta line on article page ---------- */
+.post-meta-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  font-size: 0.85rem;
+  color: var(--vp-c-text-3);
+  margin: -8px 0 32px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed var(--vp-c-divider);
+}
+.post-meta-line time { color: var(--vp-c-text-2); }
+
+/* ---------- Tag cloud ---------- */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.tag-cloud.big { gap: 10px; margin-bottom: 36px; }
+.tag-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 16px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1) !important;
+  font-size: 0.88rem;
+  text-decoration: none !important;
+  transition: all 0.15s;
+  border: 1px solid var(--vp-c-divider);
+}
+.tag-chip:hover {
+  background: var(--vp-c-brand-soft);
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1) !important;
+}
+.tag-chip .count {
+  font-size: 0.75rem;
+  color: var(--vp-c-text-3);
+  background: var(--vp-c-bg);
+  border-radius: 8px;
+  padding: 1px 6px;
+}
+
+/* ---------- Archive ---------- */
+.archive, .tags-page {
+  max-width: 860px;
+  margin: 0 auto;
+}
+.archive-summary {
+  color: var(--vp-c-text-2);
+  font-size: 0.9rem;
+}
+.archive-year h2, .tag-section h2 {
+  font-size: 1.4rem;
+  margin: 36px 0 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+.year-count {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--vp-c-text-3);
+}
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.archive-list li {
+  display: flex;
+  gap: 14px;
+  align-items: baseline;
+  padding: 8px 0;
+  border-bottom: 1px dashed var(--vp-c-divider);
+}
+.archive-list li:last-child { border-bottom: 0; }
+.archive-list time {
+  flex: 0 0 auto;
+  color: var(--vp-c-text-3);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85rem;
+  min-width: 72px;
+}
+.archive-list a {
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+.archive-list a:hover { color: var(--vp-c-brand-1); }
+
+/* Hide the page <h1> we inject for posts so it doesn't double with VitePress */
+.VPDoc .main > .content .vp-doc > h1:first-child { margin-top: 0; }
+
+@media (max-width: 640px) {
+  .blog-home { padding: 24px 16px 48px; }
+  .blog-home .hero h1 { font-size: 1.8rem; }
+  .hero-stats { gap: 14px; font-size: 0.8rem; }
+}
