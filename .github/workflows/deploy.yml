@@ -2,6 +2,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 permissions:
   contents: read
   pages: write
@@ -18,10 +20,12 @@ jobs:
           cache: pnpm
       - run: pnpm install
       - run: pnpm run docs:build
-      - uses: actions/upload-pages-artifact@v3
+      - if: github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
   deploy:
+    if: github.event_name == 'push'
     needs: build
     runs-on: ubuntu-latest
     environment:
