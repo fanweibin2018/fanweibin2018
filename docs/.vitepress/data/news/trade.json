@@ -3,8 +3,35 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-29T08:30:00+08:00",
+  "updatedAt": "2026-05-29T16:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260529-003",
+      "title": "沃尔玛在美国33个市场上线30分钟送达服务",
+      "summary": "沃尔玛向 Walmart+ 会员推出\"30 分钟送达\"服务，覆盖美国 33 个市场逾 10 万种商品，需额外支付 10 美元配送费；此举加剧沃尔玛与亚马逊在即时零售领域的竞争，为跨境卖家在沃尔玛平台参与即时配送服务提供参考。",
+      "publishedAt": "2026-05-29T14:12:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/s9FFjwde",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260529-001",
+      "title": "TikTok Shop将于6月15日上线波兰、荷兰、比利时及奥地利，6月1日起开放卖家入驻",
+      "summary": "TikTok Shop 宣布于 2026 年 6 月 15 日上线波兰、荷兰、比利时和奥地利四个欧洲新市场，卖家入驻注册从 6 月 1 日起开放；波兰市场限时将佣金从 9% 降至 2%，平台提供物流合作与数字钱包整合支持，是 TikTok Shop 加速欧洲市场版图扩张的重要举措。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/qNiuJGAW",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260529-002",
+      "title": "DHL电子商务与USPS签署百亿美元级多年独家协议，强化美国尾程配送",
+      "summary": "DHL 电子商务与美国邮政 USPS 签署超 100 亿美元多年期独家合作协议，DHL 将通过 USPS 全美包裹投递网络处理跨境进口小包及本土电商件末端配送，旨在提升北美市场履约时效与成本竞争力，利好跨境电商卖家北美市场配送体验。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/SAjAOI20",
+      "subCategory": "物流仓储"
+    },
     {
       "id": "trade-20260528-001",
       "title": "红海危机致中东跨境物流延误",
@@ -31,6 +58,24 @@
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/pHO0KCwB",
       "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260528-004",
+      "title": "Lazada马来西亚LazMall本土店自5月21日起调整佣金费率并加大品牌赋能投入",
+      "summary": "Lazada 马来西亚宣布自 2026 年 5 月 21 日起调整 LazMall 本土店及品牌佣金费率，同步加大品牌赋能投入，优化平台收入结构，支持卖家与品牌增长，维护 LazMall 平台质量与消费者信任度。",
+      "publishedAt": "2026-05-28",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/FAjrGQnn",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260528-005",
+      "title": "印尼延长家居织物进口保障税两年，税率较旧规明显下调",
+      "summary": "印度尼西亚财政部将家居织物进口保障措施关税执行期延长两年，首年税率从 22717 印尼盾/公斤大幅降至 9841 印尼盾，第二年进一步降至 9248 印尼盾，整体税率较旧规明显下调，利好从中国进口家居织物产品至印尼市场的跨境卖家。",
+      "publishedAt": "2026-05-28",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/1fKMNY7a",
+      "subCategory": "关税法规"
     },
     {
       "id": "trade-20260526-002",

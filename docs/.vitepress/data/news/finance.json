@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-29T08:30:00+08:00",
+  "updatedAt": "2026-05-29T16:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260529-002",
+      "title": "智谱股价大涨！AI大消息，Anthropic估值飙升",
+      "summary": "Anthropic 完成 650 亿美元 H 轮融资、估值达 9650 亿美元消息推动港股大模型概念股上涨，智谱当日涨幅接近 18%，总市值突破 8000 亿港元；A 股 AI 相关科技概念股亦跟涨，市场将 Anthropic 接近万亿美元估值解读为全球 AI 商业化进程加速的重要信号。",
+      "publishedAt": "2026-05-29T14:06:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3933875.html",
+      "subCategory": "港股"
+    },
     {
       "id": "finance-20260529-001",
       "title": "Anthropic融资650亿美元，筹备近万亿美元估值IPO",
@@ -13,6 +22,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/837.htm",
       "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260528-001",
+      "title": "A股V型反转，6月怎么走？",
+      "summary": "5 月 28 日 A 股午后探底回升呈 V 型反转，沪指微涨 0.12% 收 4098.64 点，创业板指涨 1.96% 收 4125.07 点，深证成指涨 0.8%；3018 只个股收涨，科技、通信、电子、军工板块表现活跃，分析人士指出缩量态势显示资金仍偏谨慎，建议控制仓位五至七成。",
+      "publishedAt": "2026-05-28T23:19:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3932857.html",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260527-005",
