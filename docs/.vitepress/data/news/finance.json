@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-29T08:30:00+08:00",
+  "updatedAt": "2026-05-30T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260530-001",
+      "title": "通用人工智能科技公司MiniMax正式启动A股IPO",
+      "summary": "AI公司MiniMax于5月29日与中信证券签署上市辅导协议，正式启动A股科创板IPO流程；公司2022年成立，2026年1月已在港交所上市，港股总市值超2600亿港元，若A股IPO成功将成为首家实现A+H两地上市的大模型企业。",
+      "publishedAt": "2026-05-30",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3935275.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260530-002",
+      "title": "广期所出手：收紧碳酸锂期货持仓限额",
+      "summary": "广州期货交易所公告收紧碳酸锂期货持仓限额，自LC2610合约起单边持仓6万手以上时限额调整为持仓的5%，6万手以内上限为3000手；旨在防范过度投机，应对近期因供应端扰动导致的碳酸锂价格异常波动。",
+      "publishedAt": "2026-05-30",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3935385.html",
+      "subCategory": "大宗商品"
+    },
     {
       "id": "finance-20260529-001",
       "title": "Anthropic融资650亿美元，筹备近万亿美元估值IPO",
