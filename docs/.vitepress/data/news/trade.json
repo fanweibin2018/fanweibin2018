@@ -3,8 +3,89 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-05-29T08:30:00+08:00",
+  "updatedAt": "2026-05-30T08:30:00+08:00",
   "items": [
+    {
+      "id": "trade-20260529-008",
+      "title": "TikTok Shop美区Sloosh水上充气床7天销售45万美元创爆款",
+      "summary": "水上休闲品牌Sloosh在TikTok Shop美区仅用7天实现45万美元销售，爆发系数达188%；品牌采用美国设计结合国内供应链策略，通过达人种草与内容规模化运营快速爆量，为年中大促备战提供选品参考。",
+      "publishedAt": "2026-05-29T17:35:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/xsJbgKNf",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260529-007",
+      "title": "美贸易代表将就部分中国商品降税征求公众意见，覆盖约300亿美元非敏感商品",
+      "summary": "美国贸易代表办公室将发布公告征求公众意见，讨论约300亿美元中国输美非敏感商品降税事宜；预期涉及烟花、家居用品、玩具、服装鞋类及部分电子配件，为中美贸易休战框架的延续动作。",
+      "publishedAt": "2026-05-29T17:15:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/g9HX3PL5",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260529-003",
+      "title": "2026年亚马逊Prime Day确认于6月举行，覆盖26个国家和地区",
+      "summary": "亚马逊官方确认2026年Prime Day将于6月举行，覆盖美国、加拿大、墨西哥及英、法、德等26个国家和地区；卖家需按规定截止日期完成入仓和促销提报，逾期货件不保证Prime标识及大促曝光资格。",
+      "publishedAt": "2026-05-29T13:52:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/yKIc5mXb",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260529-009",
+      "title": "英国16家零售巨头联名施压政府加征海外小包关税",
+      "summary": "包括Next、玛莎百货、Primark等16家英国零售连锁企业联合向政府施压，要求对海外低价值包裹征收2.6英镑关税，旨在削弱Shein、Temu、AliExpress等跨境平台的价格优势，保护本土实体零售业竞争力。",
+      "publishedAt": "2026-05-29T10:07:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/kaG1Op12",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260529-006",
+      "title": "亚马逊将于6月29日起调整自配送处理时间要求",
+      "summary": "亚马逊宣布从2026年6月29日起对自配送商品实施新处理时间管理要求，同步提升SFP及Premium Shipping项目配送标准；卖家需确保处理时间设置与实际发货能力一致，否则影响迟发率和账户绩效。",
+      "publishedAt": "2026-05-29T09:56:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/iy41LUJb",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260529-001",
+      "title": "TikTok Shop将于6月15日上线波兰、荷兰、比利时及奥地利，6月1日起开放卖家入驻",
+      "summary": "TikTok宣布在波兰、荷兰、比利时和奥地利推出TikTok Shop，6月15日正式上线，6月1日起开放卖家注册并上传商品；波兰市场交易佣金暂时下调至2%，平台推出跨欧洲商品同步功能，是TikTok Shop加速欧洲布局的重要节点。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/qNiuJGAW",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260529-004",
+      "title": "DHL电子商务与USPS签署百亿美元级多年独家协议，强化美国尾程配送",
+      "summary": "DHL集团旗下电子商务部门与美国邮政签署超百亿美元多年期独家合作协议，将利用USPS全美配送网络处理跨境进口小包和本土电商件末端配送，提升北美市场履约时效和成本竞争力。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/SAjAOI20",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260529-002",
+      "title": "欧盟依据《数字服务法》对Temu处以2亿欧元罚款",
+      "summary": "欧盟委员会因Temu未履行《数字服务法》义务处以2亿欧元罚款，主因平台未能有效识别和下架危险商品，涉及超标化学物质婴儿玩具和窒息风险产品；这是欧盟DSA框架下的第二张罚单，Temu须在8月底前提交整改计划。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/aJq8fDBW",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260529-005",
+      "title": "越南监管机构要求Shopee推迟实施新收费计划",
+      "summary": "越南国家竞争委员会要求Shopee推迟原定5月29日实施的新收费方案，该方案拟每笔订单自动扣除1%收入划入广告余额；监管机构应卖家投诉介入评估对卖家成本及市场竞争的影响。",
+      "publishedAt": "2026-05-29",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/LhhptPxT",
+      "subCategory": "平台政策"
+    },
     {
       "id": "trade-20260528-001",
       "title": "红海危机致中东跨境物流延误",
@@ -30,6 +111,33 @@
       "publishedAt": "2026-05-28T14:11:00+08:00",
       "source": "AMZ123",
       "url": "https://www.amz123.com/kx/pHO0KCwB",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260528-005",
+      "title": "TikTok Shop在西班牙18个月吸纳2.1万本土卖家，规模超越亚马逊13年积累",
+      "summary": "TikTok Shop自2024年进入西班牙后18个月已吸引2.1万名本土卖家，超过亚马逊在当地13年活跃卖家规模；约18.7%西班牙电商企业通过该平台销售，美妆品类增长突出，市场排名已升至西班牙第七位。",
+      "publishedAt": "2026-05-28T11:09:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/4gfP217v",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260528-006",
+      "title": "TikTok Shop一季度全球GMV达274.53亿美元，东南亚贡献超七成交易份额",
+      "summary": "TikTok Shop 2026年第一季度全球GMV达274.53亿美元，东南亚市场GMV191.5亿美元，占整体份额超七成；泰国、印尼、马来西亚成为主要增长动力，东南亚主导地位持续强化。",
+      "publishedAt": "2026-05-28T10:17:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/rK1bwNn2",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260528-004",
+      "title": "亚马逊将禁止店铺私下转让及质押行为",
+      "summary": "亚马逊将于2026年8月24日更新《商业解决方案协议》，明确禁止卖家未经书面许可转让或质押协议项下权利，包括销售收入受偿权；旨在降低账号买卖带来的平台风险。",
+      "publishedAt": "2026-05-28",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/26ew2TRV",
       "subCategory": "平台政策"
     },
     {
