@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-01T18:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260601-003",
+      "title": "华为 MatePad Pro Max 发布：平板首搭红枫影像、麒麟 T93 旗舰芯，5999 元起",
+      "summary": "华为推出旗舰平板MatePad Pro Max，全球最轻薄大尺寸平板设计，厚度4.7mm、重约499g；搭载麒麟T93/T93 Pro旗舰芯片，配备13.2英寸94%屏占比OLED无刘海屏，首次在平板上搭载第二代红枫原色摄像头，色彩准确度提升120%；内置10400mAh电池支持66W快充，六扬声器系统；悦享款起价5999元，最高配版12999元。",
+      "publishedAt": "2026-06-01T16:00:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/238.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-002",
+      "title": "华为 nova 16 Pro / Ultra 手机发布：3899 元起，麒麟 9010S 芯片、业界独家红枫 2 亿影像",
+      "summary": "华为发布nova 16 Pro和Ultra，均搭载麒麟9010S处理器与业界独家第二代红枫RYYB 2亿像素主摄（1/1.28英寸传感器），6.84英寸1-120Hz LTPO屏，7000mAh电池与100W快充；机身厚度仅7.1mm，Ultra额外支持50W无线充电和IP68/IP69防水；Pro版3899元起，Ultra版4699元起，均运行HarmonyOS 6.1，6月5日开售。",
+      "publishedAt": "2026-06-01T15:32:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/194.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-001",
+      "title": "英伟达 RTX Spark PC 处理器正式发布：联发科合作 20 核 CPU + 英伟达 RTX GPU，首批电脑秋季推出",
+      "summary": "英伟达在COMPUTEX 2026正式发布RTX Spark PC处理器，采用与联发科合作的20核Grace ARM架构CPU搭配Blackwell RTX GPU（6144个CUDA核心），AI性能达1 PFLOP，台积电3nm工艺，128GB统一内存；可本地运行1200亿参数大模型、编辑12K视频、生成4K AI视频；首批产品将于今年秋季由华硕、戴尔、惠普、联想、微软Surface及微星推出。",
+      "publishedAt": "2026-06-01T12:39:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/088.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260601-005",
+      "title": "英伟达 N1x 处理器预发布跑分曝光，单核性能与苹果 M3 Max 基本持平",
+      "summary": "英伟达N1x处理器Geekbench 6预发布跑分曝光，作为RTX Spark PC处理器核心，采用联发科设计的20核ARM CPU；单核与多核成绩与三年前发布的苹果M3 Max基本持平；分析指出差距源于N1x尚处预发布阶段软件未完全优化，以及苹果生态系统深度优化的长期积累，正式产品预计今年秋季随首批搭载PC推出。",
+      "publishedAt": "2026-06-01T07:39:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/919.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260601-004",
+      "title": "停服三年后，天涯社区今日正式恢复访问",
+      "summary": "天涯社区自2023年4月1日因IDC欠费停服三年，2026年6月1日零时以tianya.net新域名正式恢复访问；首批开放部分精华帖浏览，6月内将逐步恢复互动功能；同步推出限量9999枚数字藏品\"天涯重启者徽章\"，持有者享社区治理投票权及线下消费权益；天涯社区创建于1999年，是互联网早期网络文学与网红文化的重要发源地。",
+      "publishedAt": "2026-06-01T06:53:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/957/906.htm",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260531-016",
       "title": "历经 22 年，图像编辑软件 Paint.NET 终于拿到 paint.net 域名",
@@ -654,15 +699,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260522-009",
-      "title": "AMD 向中国台湾地区投资 100 亿美元，加速建设 AI 基础设施",
-      "summary": "AMD 宣布向中国台湾地区投资超 100 亿美元，与日月光半导体、矽品精密工业等合作伙伴推进先进封装技术；将开发 2.5D 桥接互联技术实现高带宽互联，下半年部署 Helios 机架级平台，搭载 Instinct MI450X GPU 和第六代 EPYC 处理器，以提升 AI 系统性能和能效。",
-      "publishedAt": "2026-05-21T01:35:00-04:00",
-      "source": "AMD",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260522-010",
       "title": "特斯拉因缺少认证标签宣布在美召回 14575 辆 2025-2026 款 Model Y",
       "summary": "特斯拉在美召回 14,575 辆 2025-2026 款 Model Y，原因是缺少联邦法规 49 C.F.R. Part 567 要求的认证标签，其缺失可能导致车主无意超载并增加碰撞风险；特斯拉将免费检查并安装认证标签，不涉及软件缺陷。",
@@ -681,24 +717,6 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260522-002",
-      "title": "Epic 指责苹果\"藐視法庭\"，苹果向最高法院请求复审",
-      "summary": "苹果向最高法院提交34页请愿书，要求审查与Epic Games反垄断诉讼中的藐視法庭裁定；苹果主张民事藐視应基于禁令\"明确文本\"而非\"精神\"认定，且禁令适用范围不应超出Epic一案本身，Epic指控苹果持续抗拒法院命令强制开放应用内支付链接。",
-      "publishedAt": "2026-05-21",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260522-001",
-      "title": "WordPress 7.0 发布：AI 建站新起点，超 420 项增强与修复",
-      "summary": "WordPress 7.0正式版发布，875名以上贡献者参与，带来420多项功能增强与修复；版本原生集成AI能力，新增AI客户端与接口，支持图片生成和文本编辑；同时优化后台界面、响应式编辑体验、移动端导航自定义及设计工具，是AI时代CMS建站的重要里程碑。",
-      "publishedAt": "2026-05-20",
-      "source": "WordPress.org",
-      "url": "https://wordpress.org/news/2026/05/armstrong/",
-      "subCategory": "开发者工具"
-    },
-    {
       "id": "tech-20260522-013",
       "title": "Deno 2.8",
       "summary": "Deno 2.8发布，新增7个子命令：deno audit fix（自动修复漏洞包）、deno ci（可重现安装验证）、deno pack（构建npm包）、deno transpile（剥离TypeScript类型）、deno why（追踪依赖链）等；npm冷安装速度提升3.66倍，node:http吞吐量翻倍，Node.js API兼容性从42%升至76.4%，新增import defer提案支持和Chrome DevTools网络检测。",
@@ -707,23 +725,5 @@
       "url": "https://deno.com/blog/v2.8",
       "subCategory": "开发者工具"
     },
-    {
-      "id": "tech-20260521-009",
-      "title": "第三代元 PLUS 11.99 万元起正式上市，全系搭载第二代刀片电池及闪充技术",
-      "summary": "比亚迪第三代元PLUS正式上市，官方指导价11.99万至14.99万元，全系搭载第二代刀片电池，提供540km和630km两种续航版本，标配闪充技术（10%至70%约五分钟），采用后驱布局，可选200kW或240kW电机，配备云辇-C智能阻尼车身控制系统及可升级的天神之眼B辅助驾驶系统。",
-      "publishedAt": "2026-05-21",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/byd-launches-third-gen-yuan-plus-suv/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260521-008",
-      "title": "小米 YU7 GT 正式发布：38.99 万元起，\"大满配\"42.99 万元",
-      "summary": "小米YU7 GT正式发布，售价38.99万元起，\"大满配\"版42.99万元；搭载V8s EVO双电机（最高转速28000rpm），综合最大马力1003PS，零百加速2.92秒，最高时速300km/h；CLTC续航705km，101.7kWh三元锂电池；当晚21时开启大定。",
-      "publishedAt": "2026-05-21",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/xiaomi-launches-yu7-gt-for-elite-drivers/",
-      "subCategory": "智能汽车"
-    }
   ]
 }
