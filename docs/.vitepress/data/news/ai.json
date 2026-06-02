@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-02T17:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260602-001",
+      "title": "微软Build 2026发布MAI模型家族，推出MAI-Thinking-1等自研AI模型",
+      "summary": "微软在Build 2026开发者大会上正式发布MAI（Microsoft AI）自研模型家族，旗舰推理模型MAI-Thinking-1在复杂逻辑与代码任务上性能突出；此举标志微软在大模型领域加快构建与OpenAI互补的自研能力，强化技术自主性并形成差异化产品矩阵。",
+      "publishedAt": "2026-06-02",
+      "source": "Microsoft",
+      "url": "https://news.microsoft.com/build-2026/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260602-002",
+      "title": "OpenAI GPT-5.5、GPT-5.4及Codex正式登陆亚马逊Bedrock平台",
+      "summary": "亚马逊AWS宣布OpenAI旗下GPT-5.5、GPT-5.4及代码生成工具Codex正式在Amazon Bedrock平台全面商业可用，企业开发者可通过统一API接口调用上述模型；此次上线是AWS丰富托管AI模型生态的重要举措，也是OpenAI多渠道商业化战略的组成部分。",
+      "publishedAt": "2026-06-01",
+      "source": "AWS",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260531-002",
+      "title": "英伟达发布Cosmos 3，全球首款全开源全模态物理AI基础大模型",
+      "summary": "英伟达正式发布Cosmos 3物理AI基础模型，定位全球首款全开源全模态物理世界理解模型，支持机器人和自动驾驶的物理环境感知、状态预测及行为规划；模型权重完全开源，面向具身智能开发者及科研机构，是英伟达构建物理AI生态基础设施的核心布局。",
+      "publishedAt": "2026-05-31",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "subCategory": "具身智能"
+    },
     {
       "id": "ai-20260531-001",
       "title": "消息称因战略分歧，三星与 OpenAI 定制 AI 芯片研发项目陷入停滞",
