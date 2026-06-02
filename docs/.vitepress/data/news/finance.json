@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260602-003",
+      "title": "谷歌母公司 Alphabet 宣布 800 亿美元大额融资，用于 AI 基础设施与算力建设",
+      "summary": "Alphabet宣布进行共计800亿美元的大额股权融资，用于AI基础设施与算力投资。融资方案包括300亿美元包销公开发行、400亿美元ATM计划和伯克希尔·哈撒韦100亿美元私募投资；该公司2026年资本支出预计1800至1900亿美元，Google Cloud业务保持强劲增长。",
+      "publishedAt": "2026-06-02T08:12:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/958473.htm",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260602-002",
+      "title": "为与特斯拉合并埋下伏笔？SpaceX 修订 IPO 文件称未来或大规模增发股权",
+      "summary": "SpaceX在修订后IPO招股文件中新增表述，称未来可能在并购交易中大规模增发股权；此举被外界解读为为与特斯拉合并做准备。公司采用多级投票权结构确保马斯克在股权稀释后仍保持绝对控制权，SpaceX预计募资750亿美元，并计划收购Cursor等其他企业。",
+      "publishedAt": "2026-06-02T07:47:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/958468.htm",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260602-001",
+      "title": "SpaceX IPO 文件新增风险提示：AI 数据中心面临水资源短缺风险",
+      "summary": "SpaceX在IPO申报文件中新增风险条款，警示公司数据中心面临水资源短缺风险。大规模数据中心冷却需消耗巨量水资源，干旱、水源竞争或监管管控可能导致企业无法获取充足冷却用水，进而延缓或中止基建扩容，是SpaceX IPO文件新披露的重要经营风险。",
+      "publishedAt": "2026-06-02T07:38:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/958465.htm",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260601-002",
+      "title": "宇树科技科创板 IPO 过会，受理到上会仅 73 天，拟募资 42 亿元",
+      "summary": "上交所科创板上市委审议通过宇树科技首发申请，从受理到上会仅历时73天，创科创板审核新速度。公司拟募资42.02亿元，是国内人形机器人全球出货量第一企业（2025年出货量超5500台，全球占比约32.4%），美团为最大外部机构股东，有望成为A股"具身智能第一股"。",
+      "publishedAt": "2026-06-01",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzwyqm5185650.shtml",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260601-001",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "Anthropic已向美国证券交易委员会秘密递交首次公开募股申请（S-1草案），公司估值9650亿美元，完成650亿美元H轮融资，年化营收突破470亿美元。实际IPO时间取决于市场条件，尚未确定股数与发行价，竞争对手OpenAI同样在筹备上市，两大AI实验室将共同开启AI行业上市大年。",
+      "publishedAt": "2026-06-01",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260531-001",
       "title": "国家统计局：2026年5月制造业PMI为50.0%，比上月下降0.3个百分点",

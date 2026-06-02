@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-02T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260602-003",
+      "title": "谷歌强推 AI 引发用户反感，DuckDuckGo 宣布为 Chrome / 火狐浏览器推出"无 AI 搜索插件"",
+      "summary": "谷歌宣布全面AI化搜索引擎改造后引发用户反感，DuckDuckGo推出针对Chrome和Firefox的扩展插件，允许用户将其无AI搜索页面设为默认引擎。该公司5月中旬美国地区浏览器安装量增长21%，iOS平台增长33%；DuckDuckGo强调AI应由用户自行选择而非被强制植入。",
+      "publishedAt": "2026-06-02T08:27:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/958478.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260602-002",
+      "title": "5 月特斯拉欧洲销量强势反弹，法国同比暴涨 655%",
+      "summary": "特斯拉在欧洲市场实现销量反弹，5月多国新车注册量大幅上升。法国领涨欧洲，新车上牌量同比激增至5446辆，创该国5月销售纪录；丹麦、西班牙等国也实现三位数增长。柏林超级工厂产能持续优化，Model Y表现突出，特斯拉欧洲市场销量已实现实质性反转。",
+      "publishedAt": "2026-06-02",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/958471.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260602-001",
+      "title": "黑客诱骗 Meta AI 客服，盗取多名 Instagram 用户账号",
+      "summary": "Instagram发现并修复了一个安全漏洞。攻击者通过欺骗Meta AI客服机器人，利用VPN伪造用户地理位置，诱导机器人向攻击者邮箱发送验证码，进而重置密码并接管受害者账号，受影响账户包括白宫官方账号等，攻击无需破解原绑定邮箱。",
+      "publishedAt": "2026-06-02T07:27:00+08:00",
+      "source": "IT之家",
+      "url": "https://m.ithome.com/html/958462.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260601-004",
+      "title": "华为 MatePad Pro Max 发布：平板首搭红枫影像、麒麟 T93 系列旗舰芯、"剪掉"刘海，5999 元起",
+      "summary": "华为推出MatePad Pro Max专业平板，搭载麒麟T93 Pro处理器，定价5999元起。厚度仅4.7mm、重量499g，采用13.2英寸无刘海OLED屏幕（屏占比94%），首次搭载红枫原色摄像头，配备10400mAh电池支持66W快充，性能较上代提升45%，搭载鸿蒙双桌面系统。",
+      "publishedAt": "2026-06-01T16:00:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/238.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-003",
+      "title": "3899 元起：华为 nova 16 Pro / Ultra 手机发布，麒麟 9010S 芯片、业界独家红枫 2 亿影像",
+      "summary": "华为发布nova 16 Pro和Ultra两款新机，起价3899元，6月5日开售。搭载麒麟9010S芯片，配备业界独家2亿像素红枫影像系统，屏幕峰值亮度达6000nits，电池容量7000mAh，支持100W快充；Pro版厚度7.1mm，Ultra版支持IP68防护和50W无线充电。",
+      "publishedAt": "2026-06-01T15:32:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/194.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-002",
+      "title": ""全球最强大的桌面 AI 超级计算机"，英伟达 DGX Station for Windows 发布",
+      "summary": "英伟达CEO黄仁勋在2026台北国际电脑展发布DGX Station for Windows，首款将GB300 Grace Blackwell级AI基础架构引入Windows生态的桌面超级计算机，配备748GB相干内存、20 petaflops FP4性能，支持万亿参数AI模型和数百个智能体并行运行，将于2026年第四季度上市，由华硕、戴尔等推出相关产品。",
+      "publishedAt": "2026-06-01T13:00:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/091.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260601-001",
+      "title": "英伟达 RTX Spark PC 处理器正式发布：联发科合作 20 核 CPU + 英伟达 RTX GPU，首批电脑秋季推出",
+      "summary": "英伟达CEO黄仁勋在2026台北国际电脑展上推出RTX Spark处理器，由联发科合作的20核Grace CPU与英伟达Blackwell RTX GPU组成，采用台积电3nm工艺。首批产品将由华硕、戴尔、惠普等品牌于今年秋季推出，支持14/16英寸轻薄笔记本和紧凑台式机，提供约200 TOPS端侧AI算力，支持128GB统一内存。",
+      "publishedAt": "2026-06-01T12:39:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/088.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260531-016",
       "title": "历经 22 年，图像编辑软件 Paint.NET 终于拿到 paint.net 域名",
