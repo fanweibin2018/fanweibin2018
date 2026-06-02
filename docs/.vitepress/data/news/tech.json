@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-05-31T16:35:00+08:00",
+  "updatedAt": "2026-06-02T17:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260602-001",
+      "title": "AMD公布锐龙AI Max+合作电脑阵容，含小米、海盗船、联想等品牌",
+      "summary": "AMD在COMPUTEX 2026期间公布搭载锐龙AI Max+处理器的合作品牌阵容，涵盖小米、海盗船（CORSAIR）、联想等知名厂商，相关机型将陆续发布；锐龙AI Max+系列配备高性能NPU，面向AI PC和高性能移动计算场景，是AMD发力AI PC生态的重要进展。",
+      "publishedAt": "2026-06-02T16:40:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/823.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260602-002",
+      "title": "AI需求远超预期，Arm有望提前实现自研芯片150亿美元营收目标",
+      "summary": "Arm首席执行官表示，受AI基础设施旺盛需求驱动，公司自研芯片业务营收增速超出预期，有望提前达成此前设定的150亿美元年营收目标；Arm自研芯片主要面向数据中心AI推理场景，标志公司正加速从IP授权向直接芯片销售模式转型。",
+      "publishedAt": "2026-06-02",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/815.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260601-001",
+      "title": "3899元起：华为nova 16 Pro/Ultra手机发布，搭载麒麟9010S芯片",
+      "summary": "华为正式发布nova 16 Pro和nova 16 Ultra两款机型，均搭载麒麟9010S芯片，nova 16 Pro售价3899元起，Ultra版配备更大尺寸屏幕及升级影像系统；两款机型支持HarmonyOS 5，并集成华为最新端侧AI功能，是nova系列2026年主力旗舰。",
+      "publishedAt": "2026-06-01T15:32:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/194.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260531-016",
       "title": "历经 22 年，图像编辑软件 Paint.NET 终于拿到 paint.net 域名",
@@ -205,7 +232,7 @@
     },
     {
       "id": "tech-20260529-003",
-      "title": ""全球最小的智能戒指"：Oura Ring 5 发布，尺寸较前代小 40%",
+      "title": "\"全球最小的智能戒指\"：Oura Ring 5 发布，尺寸较前代小 40%",
       "summary": "Oura公司推出新款智能戒指Ring 5，相比Ring 4尺寸缩小40%，宽度仅6.09毫米。产品采用重构的传感系统和电池方案，在更小体积下保留现有追踪功能。新增Health Radar、AI健康建议、医疗记录导入和GLP-1追踪工具，支持血压和呼吸监测。售价399美元起，需订阅服务。",
       "publishedAt": "2026-05-29T08:05:14+08:00",
       "source": "IT之家",
@@ -215,7 +242,7 @@
     {
       "id": "tech-20260528-001",
       "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶",
-      "summary": "比亚迪正式推出自主研发的"璇玑A3"智驾芯片，采用4nm工艺，已启动规模量产。该芯片支持L3和L4级自动驾驶，三颗芯片总算力超过2100TOPS，通过深度算法优化使算力利用率提升一倍。比亚迪拥有从设计到制造的完整芯片产业链，已推出2000多款芯片产品，现有7000余人的研发团队。",
+      "summary": "比亚迪正式推出自主研发的\"璇玑A3\"智驾芯片，采用4nm工艺，已启动规模量产。该芯片支持L3和L4级自动驾驶，三颗芯片总算力超过2100TOPS，通过深度算法优化使算力利用率提升一倍。比亚迪拥有从设计到制造的完整芯片产业链，已推出2000多款芯片产品，现有7000余人的研发团队。",
       "publishedAt": "2026-05-28T20:21:28+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/780.htm",
@@ -224,7 +251,7 @@
     {
       "id": "tech-20260528-004",
       "title": "蔚来ES9正式上市：49.8万元起，租电购买39万元起，姚明现身发布会！李斌强势喊话：跟别的\"9\"不是一回事",
-      "summary": "蔚来旗舰SUV产品ES9正式上市，推出三个版本，租电购买方案从39万元起，整车购买方案从49.8万元起。篮球巨星姚明出任首席体验官。李斌强调ES9是"智能电动行政SUV品类的开创者"，车长5365mm、轴距3250mm，具有同级最大装载能力。",
+      "summary": "蔚来旗舰SUV产品ES9正式上市，推出三个版本，租电购买方案从39万元起，整车购买方案从49.8万元起。篮球巨星姚明出任首席体验官。李斌强调ES9是\"智能电动行政SUV品类的开创者\"，车长5365mm、轴距3250mm，具有同级最大装载能力。",
       "publishedAt": "2026-05-28T15:06:38+08:00",
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-05-28/4411051.html",
@@ -697,33 +724,6 @@
       "source": "WordPress.org",
       "url": "https://wordpress.org/news/2026/05/armstrong/",
       "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260522-013",
-      "title": "Deno 2.8",
-      "summary": "Deno 2.8发布，新增7个子命令：deno audit fix（自动修复漏洞包）、deno ci（可重现安装验证）、deno pack（构建npm包）、deno transpile（剥离TypeScript类型）、deno why（追踪依赖链）等；npm冷安装速度提升3.66倍，node:http吞吐量翻倍，Node.js API兼容性从42%升至76.4%，新增import defer提案支持和Chrome DevTools网络检测。",
-      "publishedAt": "2026-05-22",
-      "source": "Deno",
-      "url": "https://deno.com/blog/v2.8",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260521-009",
-      "title": "第三代元 PLUS 11.99 万元起正式上市，全系搭载第二代刀片电池及闪充技术",
-      "summary": "比亚迪第三代元PLUS正式上市，官方指导价11.99万至14.99万元，全系搭载第二代刀片电池，提供540km和630km两种续航版本，标配闪充技术（10%至70%约五分钟），采用后驱布局，可选200kW或240kW电机，配备云辇-C智能阻尼车身控制系统及可升级的天神之眼B辅助驾驶系统。",
-      "publishedAt": "2026-05-21",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/byd-launches-third-gen-yuan-plus-suv/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260521-008",
-      "title": "小米 YU7 GT 正式发布：38.99 万元起，\"大满配\"42.99 万元",
-      "summary": "小米YU7 GT正式发布，售价38.99万元起，\"大满配\"版42.99万元；搭载V8s EVO双电机（最高转速28000rpm），综合最大马力1003PS，零百加速2.92秒，最高时速300km/h；CLTC续航705km，101.7kWh三元锂电池；当晚21时开启大定。",
-      "publishedAt": "2026-05-21",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/05/21/xiaomi-launches-yu7-gt-for-elite-drivers/",
-      "subCategory": "智能汽车"
     }
   ]
 }
