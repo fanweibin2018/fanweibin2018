@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-04T08:30:00+08:00",
   "items": [
+    {
+      "id": "policy-20260603-001",
+      "title": "特朗普签署AI行政令，顶级AI模型可自愿接受联邦国家安全审查",
+      "summary": "特朗普签署行政令建立自愿性AI安全审查框架，允许开发者在发布前将顶级AI模型提交联邦机构进行国家安全风险评估，参与完全自愿，此举是其此前拒绝类似政策立场的逆转，旨在平衡技术竞争力与国家安全双重目标。",
+      "publishedAt": "2026-06-02T15:58:00-04:00",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/trump-signs-executive-order-that-allows-voluntary-federal-vetting-of-top-ai-models-for-national-security-risks",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20260602-001",
       "title": "打击网络侵权盗版，国家版权局等四部门启动“剑网 2026”专项行动",

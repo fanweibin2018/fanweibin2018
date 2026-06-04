@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-04T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260604-001",
+      "title": "MRVL Stock Soars As AI Data Center Story Accelerates",
+      "summary": "美国芯片设计商Marvell Technology股价因AI数据中心需求加速而持续上扬，Q1 FY27营收达24.18亿美元同比增长28%，第二季度指引同比增速35%，多家华尔街机构上调目标价。",
+      "publishedAt": "2026-06-03T12:33:00-04:00",
+      "source": "StocksToTrade",
+      "url": "https://stockstotrade.com/news/marvell-technology-inc-mrvl-news-2026_06_03/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260603-001",
+      "title": "A股午评：三大指数集体收涨，创业板指站上4200点",
+      "summary": "2026年6月3日A股午盘，创业板指大涨近4%首次突破4200点创历史新高，科创50涨近5%，沪指涨0.56%；光通信及CPO概念板块领涨，通信、电子、半导体板块集体走强，全市场成交额超1.9万亿元。",
+      "publishedAt": "2026-06-03T12:01:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-03/10633476.shtml",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260602-005",
       "title": "创业板指涨逾2% CPO概念涨幅居前",
