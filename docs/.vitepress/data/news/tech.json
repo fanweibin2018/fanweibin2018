@@ -3,7 +3,7 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-04T08:30:00+08:00",
   "items": [
     {
       "id": "tech-20260602-001",
@@ -31,6 +31,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/958/097.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260601-005",
+      "title": "英伟达发布 DGX Station for Windows，支持万亿参数 AI 模型本地推理",
+      "summary": "英伟达在COMPUTEX 2026发布DGX Station for Windows，基于GB300 Grace Blackwell Ultra超级芯片，支持最高748GB相干内存、20 petaFLOPS FP4算力及800Gb/s互联，可运行最高万亿参数AI模型并支持数百个并发智能体；定位运行Windows的企业AI超级工作站，预计2026年Q4由华硕、戴尔、惠普、联想等发货。",
+      "publishedAt": "2026-06-01T13:00:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/958/091.htm",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260601-002",
@@ -715,15 +724,6 @@
       "source": "Electrek",
       "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-011",
-      "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
-      "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
-      "subCategory": "航空航天"
     }
   ]
 }

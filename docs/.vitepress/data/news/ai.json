@@ -3,8 +3,71 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-04T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260604-001",
+      "title": "特斯拉奥斯汀 Robotaxi 全区域无安全员服务正式上线",
+      "summary": "特斯拉宣布奥斯汀整个都市区无安全员Robotaxi服务正式上线，此前约一年试运行期间用户候车逾30分钟；目前奥斯汀投入运营约50辆，远少于Waymo的250余辆，特斯拉计划后续将服务扩展至达拉斯和休斯顿。",
+      "publishedAt": "2026-06-04T07:57:11+08:00",
+      "source": "网易",
+      "url": "https://www.163.com/dy/article/KUIJ37QJ0511B8LM.html",
+      "subCategory": "自动驾驶"
+    },
+    {
+      "id": "ai-20260603-006",
+      "title": "Uber 四个月耗尽全年 AI 预算，出台新政限制单人单工具每月消费 1500 美元",
+      "summary": "Uber四个月耗尽全年AI预算后，出台新政将每位员工每月每款AI编程工具消费上限设为1500美元，适用于Claude Code、Cursor等工具；员工可通过内部面板追踪用量，超限需审批；公司COO同期质疑AI投入难以建立与新功能交付的直接关联。",
+      "publishedAt": "2026-06-03T06:51:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/959/030.htm",
+      "subCategory": "AI企业应用"
+    },
+    {
+      "id": "ai-20260603-005",
+      "title": "OpenAI Codex 扩展使用场景，新增六大岗位插件，周活跃用户破 500 万",
+      "summary": "OpenAI扩展Codex智能体使用场景，推出数据分析、创意制作、销售、产品设计、公股投资及投资银行六类岗位专属插件，覆盖62个应用和110项技能；Codex周活跃用户突破500万，非开发者用户占比约20%，增速为开发者群体的三倍。",
+      "publishedAt": "2026-06-03T06:41:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/959/028.htm",
+      "subCategory": "AI产品发布"
+    },
+    {
+      "id": "ai-20260603-004",
+      "title": "Suno 完成 4 亿美元 D 轮融资，估值 54 亿美元",
+      "summary": "AI音乐生成平台Suno完成4亿美元D轮融资，估值54亿美元较7个月前翻倍；Bond Capital领投，IVP、Forerunner等跟投；付费用户超200万、年经常性收入3亿美元，将推出与版权方联合研发的新音乐模型，同时仍面临多家唱片公司版权诉讼。",
+      "publishedAt": "2026-06-03",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+      "subCategory": "AI融资"
+    },
+    {
+      "id": "ai-20260603-003",
+      "title": "Meta Business Agent 全球发布，集成 WhatsApp / Instagram / Messenger 三平台",
+      "summary": "Meta向全球发布Business Agent AI商业智能体，集成WhatsApp Business、Instagram和Messenger平台，可自动处理客户咨询、预约及支付，是Meta继广告收入外首次向企业提供订阅型AI服务，WhatsApp端按Token用量计费。",
+      "publishedAt": "2026-06-03",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "subCategory": "AI产品发布"
+    },
+    {
+      "id": "ai-20260603-002",
+      "title": "Anthropic 联合 MITRE ATT&CK 发布 AI 赋能网络威胁年度报告",
+      "summary": "Anthropic联合MITRE ATT&CK发布一年期AI赋能网络威胁研究报告，梳理AI工具在漏洞侦察、钓鱼内容生成及代码辅助等攻击环节中的应用模式；报告指出攻击者利用AI能力呈规模化扩张趋势，同时AI防御工具在漏洞检测速度上已初步领先人工修补能力。",
+      "publishedAt": "2026-06-03",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "subCategory": "AI安全"
+    },
+    {
+      "id": "ai-20260603-001",
+      "title": "Anthropic 发布 Claude 合作伙伴网络服务轨道，设三级认证体系",
+      "summary": "Anthropic在Claude合作伙伴网络下发布服务轨道与合作伙伴中心，设精选、首选、全球顶级三个层级，要求分别累积10/100/1000名认证从业者；自3月项目启动以来已有逾4万家企业申请，超1万名顾问完成认证，配合1亿美元初始资金推进企业AI服务生态建设。",
+      "publishedAt": "2026-06-03",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "subCategory": "AI企业应用"
+    },
     {
       "id": "ai-20260602-001",
       "title": "中国第一：阿里发布 Qwen3.7-Plus 模型，升级多模态交互混合 AI 智能体",
@@ -561,24 +624,6 @@
       "publishedAt": "2026-05-06T15:00:00+08:00",
       "source": "OpenAI",
       "url": "https://openai.com/index/gpt-5-5-instant/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260424-001",
-      "title": "DeepSeek V4 正式开源，首次打通华为昂腾，百万上下文成默认",
-      "summary": "DeepSeek V4采用混合注意力架构（CSA+HCA），首次原生支持华为昂腾与英伟达GPU双平台，百万token上下文为默认配置，推理成本大幅下降，开源后迅速在国产大模型生态内获得广泛适配。",
-      "publishedAt": "2026-04-24",
-      "source": "InfoQ",
-      "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260416-001",
-      "title": "Anthropic 发布 Claude Opus 4.7，编码基准较前代提升 13%",
-      "summary": "Claude Opus 4.7 在软件工程编码基准上较 Opus 4.6 提升13%，视觉支持最高375万像素图像，在Finance Agent与GDPval-AA评测达行业最高，定价与前代一致，新增xhigh推理精度控制等级及任务预算公测功能。",
-      "publishedAt": "2026-04-16",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "subCategory": "大模型"
     }
   ]

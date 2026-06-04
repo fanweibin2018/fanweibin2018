@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-04T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260603-001",
+      "title": "SpaceX 确认 IPO 发行价每股 135 美元，目标融资 750 亿美元",
+      "summary": "SpaceX正式确认IPO发行价为每股135美元，计划融资最多750亿美元，目标估值超1.8万亿美元；路演预计6月4日启动，6月11日最早定价，6月12日在纳斯达克以SPCX代码上市，由高盛和摩根士丹利联合承销，若成功将超越沙特阿美创史上最大IPO记录。",
+      "publishedAt": "2026-06-03T09:23:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3940572.html",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260602-005",
       "title": "创业板指涨逾2% CPO概念涨幅居前",
