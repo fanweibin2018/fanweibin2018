@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-08T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260607-001",
+      "title": "2026 年全国高考今日开考，多地启用 AI 智能巡查系统严防考试作弊",
+      "summary": "2026年全国高考于6月7日正式开考，北京、广东、四川等多个省份在考场内外部署AI智能巡查系统，通过人脸识别、行为异常分析等技术实时监测疑似作弊行为，部分考场同步启用5G无线信号屏蔽与无人机低空巡逻，是AI技术在教育考试安全领域规模化应用的典型案例。",
+      "publishedAt": "2026-06-07",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/006.htm",
+      "subCategory": "互联网产品"
+    },
     {
       "id": "tech-20260602-001",
       "title": "COMPUTEX 2026｜高通CEO安蒙定义智能体之年，以计算连续体重构AI规模化",
@@ -715,15 +724,6 @@
       "source": "Electrek",
       "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-011",
-      "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
-      "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
-      "subCategory": "航空航天"
     }
   ]
 }
