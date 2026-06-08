@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-08T08:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260606-002",
+      "title": "字节跳动：没有造车或推出汽车品牌的计划，和赛豆没有股权合作",
+      "summary": "字节跳动正式辟谣，声明没有造车或推出汽车品牌的计划，赛豆不是字节跳动或豆包旗下品牌，双方不存在股权合作关系；公司表示与汽车行业的合作仅限于为合作伙伴提供豆包大模型、智能座舱等AI技术服务。",
+      "publishedAt": "2026-06-06T13:06:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/960/839.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260606-001",
+      "title": "古尔曼：苹果 iOS 27 将改善 iPhone 17 等机型续航",
+      "summary": "彭博社科技记者古尔曼披露，苹果将在iOS 27中清理底层架构，移除旧版遗留代码并重写部分功能，以提升系统整体运行效率并改善iPhone 17等机型的续航表现；目前尚无具体续航提升的量化数据，改善效果将在系统发布后验证。",
+      "publishedAt": "2026-06-06T06:42:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/960/756.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260603-001",
+      "title": "苹果 MacBook Neo 以低价策略成功破圈，开售三周出货 110 万台",
+      "summary": "苹果MacBook Neo开售三周出货110万台，以4599元起步价较MacBook Air低约45%，成功吸引大量首次购买Mac用户；美国占出货量44%，印度等新兴市场表现突出，分析师预测苹果在400-699美元笔记本市场份额将从约2%升至约15%。",
+      "publishedAt": "2026-06-03T07:43:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/959/047.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260602-001",
       "title": "COMPUTEX 2026｜高通CEO安蒙定义智能体之年，以计算连续体重构AI规模化",
@@ -591,15 +618,6 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260523-008",
-      "title": "有身份证了！人形机器人将实现全流程溯源",
-      "summary": "全国首个人形机器人全生命周期管理服务平台在北京上线，为每台机器人赋予29位唯一数字身份证编码；平台已覆盖全国100余家企业、200余个产品型号，完成逾2.8万台机器人全生命周期赋码，实现从生产、销售、维护到回收的全程可追溯管理。",
-      "publishedAt": "2026-05-23",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html",
-      "subCategory": "机器人"
-    },
-    {
       "id": "tech-20260523-003",
       "title": "外钛内铝：三星被曝正研发新型'双相'框架以提升折叠屏手机耐用与散热性能，应对苹果液态金属创新",
       "summary": "三星正研发融合钛铝的\"双相\"机身框架，外部为坚固钛合金，内部采用高导热航空级铝材作为散热芯片，被视为对苹果液态金属技术的回应；因纳米注塑成本极高，该技术仅限高端折叠屏和超薄旗舰机型，具体量产时间尚未公布。",
@@ -625,6 +643,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/226.htm",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260523-008",
+      "title": "有身份证了！人形机器人将实现全流程溯源",
+      "summary": "全国首个人形机器人全生命周期管理服务平台在北京上线，为每台机器人赋予29位唯一数字身份证编码；平台已覆盖全国100余家企业、200余个产品型号，完成逾2.8万台机器人全生命周期赋码，实现从生产、销售、维护到回收的全程可追溯管理。",
+      "publishedAt": "2026-05-23",
+      "source": "科技日报",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/23/content_521282.html",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260522-008",
+      "title": "安克 Liberty 5 Pro / Max 发布：搭自主研发 Thus AI 芯片，1399 元起",
+      "summary": "安克发布 Liberty 5 Pro 和 Pro Max 两款降噪耳机，均搭载自主研发 Thus AI 芯片；Pro 版配 0.96 英寸屏幕，支持 AI 实时翻译，国补后 1070.23 元；Pro Max 版配 1.78 英寸 AMOLED 屏，具备 AI 会议助手，国补后 1376.23 元；两款均具备 6.5 小时单次续航（开启 ANC）、28 小时总续航、蓝牙 6.1 及 IP55 防水。",
+      "publishedAt": "2026-05-22T23:32:00+08:00",
+      "source": "Anker (PR Newswire)",
+      "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260522-014",
@@ -672,15 +708,6 @@
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260522-006",
-      "title": "Lightmatter 公布业界首款液冷激光网卡 Guide DR，可节省 75% 机架占用",
-      "summary": "Lightmatter 推出业界首款液冷激光网卡 Guide DR，较传统外部激光小型可插拔模块节省 75% 机架占用，预计 2026 年 Q4 出样；集成数十个激光器，支持 64 根光纤驱动 256 条 200Gbps 通道；四个模块在 1RU 高度内可实现 204.8Tbps 交换带宽，传统方案需 4RU 空间。",
-      "publishedAt": "2026-05-22",
-      "source": "The AI Journal",
-      "url": "https://aijourn.com/lightmatter-unveils-guide-dr-industry-first-liquid-cooled-laser-nic-that-quadruples-rack-density/",
-      "subCategory": "网络基础设施"
-    },
-    {
       "id": "tech-20260522-007",
       "title": "AMD 苏姿丰：CPU 目前供应紧张，未来 5 年市场年复增长率超 35%",
       "summary": "AMD 首席执行官苏姿丰表示，受 AI 基础设施加速建设驱动，CPU 市场未来 5 年年复增长率将超 35%，远超过去 3 至 4 年 3% 至 4% 的增速；当前 CPU 供应紧张超出预期，数据中心内存和电力供应同样存在瓶颈。",
@@ -690,40 +717,13 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260522-008",
-      "title": "安克 Liberty 5 Pro / Max 发布：搭自主研发 Thus AI 芯片，1399 元起",
-      "summary": "安克发布 Liberty 5 Pro 和 Pro Max 两款降噪耳机，均搭载自主研发 Thus AI 芯片；Pro 版配 0.96 英寸屏幕，支持 AI 实时翻译，国补后 1070.23 元；Pro Max 版配 1.78 英寸 AMOLED 屏，具备 AI 会议助手，国补后 1376.23 元；两款均具备 6.5 小时单次续航（开启 ANC）、28 小时总续航、蓝牙 6.1 及 IP55 防水。",
-      "publishedAt": "2026-05-22T23:32:00+08:00",
-      "source": "Anker (PR Newswire)",
-      "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260522-009",
-      "title": "AMD 向中国台湾地区投资 100 亿美元，加速建设 AI 基础设施",
-      "summary": "AMD 宣布向中国台湾地区投资超 100 亿美元，与日月光半导体、矽品精密工业等合作伙伴推进先进封装技术；将开发 2.5D 桥接互联技术实现高带宽互联，下半年部署 Helios 机架级平台，搭载 Instinct MI450X GPU 和第六代 EPYC 处理器，以提升 AI 系统性能和能效。",
-      "publishedAt": "2026-05-21T01:35:00-04:00",
-      "source": "AMD",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260522-010",
-      "title": "特斯拉因缺少认证标签宣布在美召回 14575 辆 2025-2026 款 Model Y",
-      "summary": "特斯拉在美召回 14,575 辆 2025-2026 款 Model Y，原因是缺少联邦法规 49 C.F.R. Part 567 要求的认证标签，其缺失可能导致车主无意超载并增加碰撞风险；特斯拉将免费检查并安装认证标签，不涉及软件缺陷。",
+      "id": "tech-20260522-006",
+      "title": "Lightmatter 公布业界首款液冷激光网卡 Guide DR，可节省 75% 机架占用",
+      "summary": "Lightmatter 推出业界首款液冷激光网卡 Guide DR，较传统外部激光小型可插拔模块节省 75% 机架占用，预计 2026 年 Q4 出样；集成数十个激光器，支持 64 根光纤驱动 256 条 200Gbps 通道；四个模块在 1RU 高度内可实现 204.8Tbps 交换带宽，传统方案需 4RU 空间。",
       "publishedAt": "2026-05-22",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-011",
-      "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
-      "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
-      "subCategory": "航空航天"
+      "source": "The AI Journal",
+      "url": "https://aijourn.com/lightmatter-unveils-guide-dr-industry-first-liquid-cooled-laser-nic-that-quadruples-rack-density/",
+      "subCategory": "网络基础设施"
     }
   ]
 }

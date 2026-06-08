@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-08T08:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260605-001",
+      "title": "腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成",
+      "summary": "腾讯高级执行副总裁汤道生在腾讯云AI产业应用大会上披露，2026年腾讯大部分代码已由AI生成；内部AI编程工具CodeBuddy在超90%工程师中使用，AI代码占比超50%，整体编码时间平均缩短40%以上，研发提效超20%。",
+      "publishedAt": "2026-06-05T11:04:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/960/323.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260603-001",
+      "title": "DeepSeek 大消息，融资有新进展",
+      "summary": "DeepSeek正进行外部首轮融资，目标约500亿元人民币，创始人梁文锋拟个人出资200亿元，腾讯和宁德时代分别拟参投约100亿和50亿元；消息称融资接近完成，投后估值预计达3500至4000亿元，将刷新中国AI企业单轮融资纪录。",
+      "publishedAt": "2026-06-03T19:13:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3942310.html",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260602-001",
       "title": "中国第一：阿里发布 Qwen3.7-Plus 模型，升级多模态交互混合 AI 智能体",
@@ -159,24 +177,6 @@
       "subCategory": "AI编程"
     },
     {
-      "id": "ai-20260522-009",
-      "title": "Anthropic Project Glasswing：AI 一个月发现超 1 万个高危漏洞，修补速度已成瓶颈",
-      "summary": "Anthropic公布Project Glasswing首月进展：基于Claude Mythos Preview协助约50家合作伙伴扫描代码库，一个月内在关键软件中发现逾1万个高危和严重级安全漏洞；研究表明AI发现漏洞速度已超过人工修补能力，形成新安全瓶颈；Anthropic同步开放代码库扫描工具并支持开源安全基金会，协助防御方主动应对漏洞风险。",
-      "publishedAt": "2026-05-22",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260522-007",
-      "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
-      "summary": "DeepSeek官方宣布DeepSeek-V4-Pro API于5月31日起永久降价，调整为原定价的1/4；原价输入缓存命中0.1元/百万Tokens、缓存未命中12元/百万Tokens、输出24元/百万Tokens，此前2.5折促销期结束后将正式固化为永久定价，进一步降低国产顶级大模型的API使用成本。",
-      "publishedAt": "2026-05-22",
-      "source": "AndroidHeadlines",
-      "url": "https://www.androidheadlines.com/2026/05/deepseek-v4-pro-api-price-cut-permanent-ai-rate-limits.html",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260522-006",
       "title": "效率、成本、精度三重突破，灵御智能拿下近亿元融资",
       "summary": "清华系企业灵御智能研发的TA机器人在具身智能数据采集领域实现三大突破：执行速度为竞品的30%、单任务数据成本降至0.6元、重复定位精度达0.1毫米；公司定位为具身智能基础设施提供商，通过为行业提供高质量本体和真机数据服务，获得近亿元融资。",
@@ -222,13 +222,22 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260522-002",
-      "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
-      "summary": "Spotify与环球音乐集团达成授权协议，允许Premium订阅用户利用AI创作翻唱歌曲和混音作品，功能通过付费服务推出，为音乐人开辟版税外新收入来源；协议达成后Spotify股价上涨16%，是AI生成内容与传统版权体系规模化合作的标志性案例。",
-      "publishedAt": "2026-05-21",
-      "source": "Spotify Newsroom",
-      "url": "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/",
-      "subCategory": "AI音频"
+      "id": "ai-20260522-009",
+      "title": "Anthropic Project Glasswing：AI 一个月发现超 1 万个高危漏洞，修补速度已成瓶颈",
+      "summary": "Anthropic公布Project Glasswing首月进展：基于Claude Mythos Preview协助约50家合作伙伴扫描代码库，一个月内在关键软件中发现逾1万个高危和严重级安全漏洞；研究表明AI发现漏洞速度已超过人工修补能力，形成新安全瓶颈；Anthropic同步开放代码库扫描工具并支持开源安全基金会，协助防御方主动应对漏洞风险。",
+      "publishedAt": "2026-05-22",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260522-007",
+      "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
+      "summary": "DeepSeek官方宣布DeepSeek-V4-Pro API于5月31日起永久降价，调整为原定价的1/4；原价输入缓存命中0.1元/百万Tokens、缓存未命中12元/百万Tokens、输出24元/百万Tokens，此前2.5折促销期结束后将正式固化为永久定价，进一步降低国产顶级大模型的API使用成本。",
+      "publishedAt": "2026-05-22",
+      "source": "AndroidHeadlines",
+      "url": "https://www.androidheadlines.com/2026/05/deepseek-v4-pro-api-price-cut-permanent-ai-rate-limits.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260522-001",
@@ -258,13 +267,22 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260520-009",
-      "title": "Stability AI 推出音频模型 Stable Audio 3.0，可生成最长 6 分钟专业级歌曲",
-      "summary": "Stability AI发布Stable Audio 3.0音频生成模型，提供四个规格版本，大型模型可生成长达6分钟20秒的完整乐曲，是2024年版本的两倍；小型模型已开源，大型模型通过API提供，并与华纳音乐、环球音乐达成合作许可协议。",
-      "publishedAt": "2026-05-20",
-      "source": "Stability AI",
-      "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "id": "ai-20260522-002",
+      "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
+      "summary": "Spotify与环球音乐集团达成授权协议，允许Premium订阅用户利用AI创作翻唱歌曲和混音作品，功能通过付费服务推出，为音乐人开辟版税外新收入来源；协议达成后Spotify股价上涨16%，是AI生成内容与传统版权体系规模化合作的标志性案例。",
+      "publishedAt": "2026-05-21",
+      "source": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/",
       "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260520-005",
+      "title": "OpenAI 为应对算力紧缺推出\"保证容量\"服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
+      "summary": "OpenAI推出\"保证容量\"服务，企业客户可与OpenAI签订1至3年专属算力合同，年消费规模越大折扣越高；服务覆盖OpenAI全产品线，支持生产系统、用户应用及AI智能体场景，客户可在支持的云服务商和模型家族之间灵活调配资源，旨在解决企业AI落地时的算力供给不确定性问题。",
+      "publishedAt": "2026-05-20T20:51:00+00:00",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260520-008",
@@ -285,22 +303,13 @@
       "subCategory": "AI视频"
     },
     {
-      "id": "ai-20260520-004",
-      "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
-      "summary": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西官宣正式加盟Anthropic，将加入预训练团队并领导新团队，利用Claude模型能力加速大模型基础研究；此前卡帕西曾创办AI教育公司Eureka Labs，此次重返前沿研究被业界视为顶尖AI人才争夺战的标志性节点，Anthropic预训练团队实力进一步增强。",
-      "publishedAt": "2026-05-19T08:43:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260520-005",
-      "title": "OpenAI 为应对算力紧缺推出\"保证容量\"服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
-      "summary": "OpenAI推出\"保证容量\"服务，企业客户可与OpenAI签订1至3年专属算力合同，年消费规模越大折扣越高；服务覆盖OpenAI全产品线，支持生产系统、用户应用及AI智能体场景，客户可在支持的云服务商和模型家族之间灵活调配资源，旨在解决企业AI落地时的算力供给不确定性问题。",
-      "publishedAt": "2026-05-20T20:51:00+00:00",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
-      "subCategory": "大模型"
+      "id": "ai-20260520-009",
+      "title": "Stability AI 推出音频模型 Stable Audio 3.0，可生成最长 6 分钟专业级歌曲",
+      "summary": "Stability AI发布Stable Audio 3.0音频生成模型，提供四个规格版本，大型模型可生成长达6分钟20秒的完整乐曲，是2024年版本的两倍；小型模型已开源，大型模型通过API提供，并与华纳音乐、环球音乐达成合作许可协议。",
+      "publishedAt": "2026-05-20",
+      "source": "Stability AI",
+      "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "subCategory": "AI音频"
     },
     {
       "id": "ai-20260520-006",
@@ -312,6 +321,15 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260519-003",
+      "title": "DeepSeek 回应<think>字符触发模型异常：系特殊字符引发幻觉，不涉及安全问题或隐私泄露",
+      "summary": "DeepSeek官方澄清输入\"<think>\"等特殊字符触发的模型异常属于特殊字符引发的幻觉，不存在数据泄露风险；公司计划通过针对性训练增强对特殊字符的处理能力，修复相关问题已排入研发计划。",
+      "publishedAt": "2026-05-19T18:32:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/452.htm",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260520-001",
       "title": "谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据",
       "summary": "谷歌I/O 2026发布Gemini Spark个人AI智能体，在专属虚拟环境中24小时自主运行，基于Gemini 3.5模型与Antigravity框架，通过MCP协议集成第三方工具；可代用户处理邮件整理、日程规划等多步骤任务而无需担心数据被误操作，下周面向美国AI Ultra用户开放，月费100美元起，夏季将集成至Chrome浏览器。",
@@ -319,6 +337,33 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260520-004",
+      "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
+      "summary": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西官宣正式加盟Anthropic，将加入预训练团队并领导新团队，利用Claude模型能力加速大模型基础研究；此前卡帕西曾创办AI教育公司Eureka Labs，此次重返前沿研究被业界视为顶尖AI人才争夺战的标志性节点，Anthropic预训练团队实力进一步增强。",
+      "publishedAt": "2026-05-19T08:43:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260519-002",
+      "title": "全国首个：智元 WITA（硅光动语）大模型完成备案",
+      "summary": "智元机器人旗下WITA（硅光动语）大模型完成国家网信办备案，成为全国首个通过具身AI互动大模型备案的产品；该模型专为人形机器人自然语言交互设计，将率先应用于零售导购与服务场景，公司计划2026年Q3发布多模态升级版WITA Omni 1.0，目标响应时延低于500毫秒。",
+      "publishedAt": "2026-05-19T08:01:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/059.htm",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260519-001",
+      "title": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具",
+      "summary": "Anthropic宣布完成对SDK自动生成初创公司Stainless的收购；Stainless此前为OpenAI、谷歌、Cloudflare、Meta等数百家公司自动生成并维护跨语言API开发工具包（SDK）、命令行工具及MCP服务器；收购后Anthropic掌握竞争对手关键开发者工具链节点，Stainless同步宣布下线全部托管SDK生成产品，但现有客户可保留已生成SDK的所有权。",
+      "publishedAt": "2026-05-19T07:53:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/952/057.htm",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260520-003",
@@ -348,33 +393,6 @@
       "subCategory": "多模态"
     },
     {
-      "id": "ai-20260519-003",
-      "title": "DeepSeek 回应<think>字符触发模型异常：系特殊字符引发幻觉，不涉及安全问题或隐私泄露",
-      "summary": "DeepSeek官方澄清输入\"<think>\"等特殊字符触发的模型异常属于特殊字符引发的幻觉，不存在数据泄露风险；公司计划通过针对性训练增强对特殊字符的处理能力，修复相关问题已排入研发计划。",
-      "publishedAt": "2026-05-19T18:32:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/452.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260519-002",
-      "title": "全国首个：智元 WITA（硅光动语）大模型完成备案",
-      "summary": "智元机器人旗下WITA（硅光动语）大模型完成国家网信办备案，成为全国首个通过具身AI互动大模型备案的产品；该模型专为人形机器人自然语言交互设计，将率先应用于零售导购与服务场景，公司计划2026年Q3发布多模态升级版WITA Omni 1.0，目标响应时延低于500毫秒。",
-      "publishedAt": "2026-05-19T08:01:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/059.htm",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260519-001",
-      "title": "Anthropic 收购 Stainless，谷歌和 OpenAI 失去关键 AI SDK 工具",
-      "summary": "Anthropic宣布完成对SDK自动生成初创公司Stainless的收购；Stainless此前为OpenAI、谷歌、Cloudflare、Meta等数百家公司自动生成并维护跨语言API开发工具包（SDK）、命令行工具及MCP服务器；收购后Anthropic掌握竞争对手关键开发者工具链节点，Stainless同步宣布下线全部托管SDK生成产品，但现有客户可保留已生成SDK的所有权。",
-      "publishedAt": "2026-05-19T07:53:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/057.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260518-002",
       "title": "腾讯推出 AI 应用生成平台\"吐司\"：定位\"探索型氛围编程产品\"、支持一键打造 App 原型预览",
       "summary": "腾讯推出名为\"吐司\"的AI应用生成平台，定位\"探索型氛围编程产品\"，用户仅需自然语言描述想法，AI可自动拆解功能、生成原型并打包为App；提供创造应用、社交分享及灵感广场等功能，安卓版已上线，iOS版稍后推出，公测期间限时免费。",
@@ -393,15 +411,6 @@
       "subCategory": "AI视频"
     },
     {
-      "id": "ai-20260516-003",
-      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
-      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
-      "publishedAt": "2026-05-16T14:49:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/255.htm",
-      "subCategory": "开源模型"
-    },
-    {
       "id": "ai-20260516-002",
       "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
       "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的\"超级应用\"，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
@@ -409,6 +418,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/951/258.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260516-003",
+      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
+      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
+      "publishedAt": "2026-05-16T14:49:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/951/255.htm",
+      "subCategory": "开源模型"
     },
     {
       "id": "ai-20260516-001",
@@ -435,6 +453,33 @@
       "publishedAt": "2026-05-15T16:11:35+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/951/004.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260514-002",
+      "title": "千亿美元投资 OpenAI 后，曝微软为强化自研 AI 开发正寻求收购更多初创公司",
+      "summary": "据报道，微软在已对OpenAI投入近1000亿美元后，正积极接触部分AI初创公司寻求收购，重点关注2024年成立的Inception等专注大语言模型研发的标的，旨在吸纳AI人才并获取前沿技术，以减少对OpenAI技术的依赖，推进自研大模型能力建设。",
+      "publishedAt": "2026-05-14T16:46:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-14/doc-inhxwenm3949945.shtml",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260514-001",
+      "title": "DeepSeek 专家模式已无法上传文件，官方提示资源紧张",
+      "summary": "DeepSeek专家模式停止支持文件上传，官方说明原因为资源紧张，网页端与App端同步下线该功能；快速模式保留上传权限但仅支持识别图片中的文字；DeepSeek同期灰度测试历史聊天关键词搜索新功能。",
+      "publishedAt": "2026-05-14T15:16:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/950/419.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260514-003",
+      "title": "阿里MaaS ARR已破80亿元，年底或将破300亿元，AI迎来\"兑现时刻\"",
+      "summary": "阿里巴巴2026财年Q4财报显示，阿里云外部收入同比增长40%，AI产品收入占比首次突破30%，季度AI收入89.71亿元，年化358亿元，连续11个季度实现三位数增长；CEO吴泳铭表示MaaS年化经常性收入（ARR）已突破80亿元，预计Q2超100亿元并在年底达300亿元。",
+      "publishedAt": "2026-05-14T13:58:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3908911.html",
       "subCategory": "AI应用"
     },
     {
@@ -474,33 +519,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260514-003",
-      "title": "阿里MaaS ARR已破80亿元，年底或将破300亿元，AI迎来\"兑现时刻\"",
-      "summary": "阿里巴巴2026财年Q4财报显示，阿里云外部收入同比增长40%，AI产品收入占比首次突破30%，季度AI收入89.71亿元，年化358亿元，连续11个季度实现三位数增长；CEO吴泳铭表示MaaS年化经常性收入（ARR）已突破80亿元，预计Q2超100亿元并在年底达300亿元。",
-      "publishedAt": "2026-05-14T13:58:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3908911.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260514-002",
-      "title": "千亿美元投资 OpenAI 后，曝微软为强化自研 AI 开发正寻求收购更多初创公司",
-      "summary": "据报道，微软在已对OpenAI投入近1000亿美元后，正积极接触部分AI初创公司寻求收购，重点关注2024年成立的Inception等专注大语言模型研发的标的，旨在吸纳AI人才并获取前沿技术，以减少对OpenAI技术的依赖，推进自研大模型能力建设。",
-      "publishedAt": "2026-05-14T16:46:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-05-14/doc-inhxwenm3949945.shtml",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260514-001",
-      "title": "DeepSeek 专家模式已无法上传文件，官方提示资源紧张",
-      "summary": "DeepSeek专家模式停止支持文件上传，官方说明原因为资源紧张，网页端与App端同步下线该功能；快速模式保留上传权限但仅支持识别图片中的文字；DeepSeek同期灰度测试历史聊天关键词搜索新功能。",
-      "publishedAt": "2026-05-14T15:16:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/950/419.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260513-003",
       "title": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
       "summary": "提出AnyFlow视频扩散生成框架，以流映射过渡学习取代固定步长端点一致性映射，使模型在任意采样步数下维持生成质量并降低离散化误差与生成偏差，为视频扩散模型高效蒸馏提供新方向；5月14日在HuggingFace Daily Papers以78票获当日最高关注。",
@@ -537,15 +555,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260506-003",
-      "title": "Anthropic 宣布 Claude 用量上限翻倍，同步敲定与 SpaceX 算力合作协议",
-      "summary": "Anthropic将Claude Code在Pro、Max、Team及Enterprise各计划的5小时速率限制翻倍，移除高峰时段限制；同步与SpaceX签署算力协议，可访问逾300兆瓦新容量（220,000余块英伟达GPU），与亚马逊5GW、谷歌/Broadcom 5GW及微软/英伟达300亿美元Azure协议共同构成算力生态布局。",
-      "publishedAt": "2026-05-06",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260506-002",
       "title": "字节跳动发布豆包 Doubao-Seed-2.0-lite 全模态理解模型",
       "summary": "豆包大模型家族首款全模态模型，原生统一理解视频、图像、音频与文本，支持19语种语音转写，在多项音频理解基准上超越Gemini-3.1-Pro，Agent和Coding能力同步升级，支持前端页面与3D场景开发。",
@@ -561,6 +570,15 @@
       "publishedAt": "2026-05-06T15:00:00+08:00",
       "source": "OpenAI",
       "url": "https://openai.com/index/gpt-5-5-instant/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260506-003",
+      "title": "Anthropic 宣布 Claude 用量上限翻倍，同步敲定与 SpaceX 算力合作协议",
+      "summary": "Anthropic将Claude Code在Pro、Max、Team及Enterprise各计划的5小时速率限制翻倍，移除高峰时段限制；同步与SpaceX签署算力协议，可访问逾300兆瓦新容量（220,000余块英伟达GPU），与亚马逊5GW、谷歌/Broadcom 5GW及微软/英伟达300亿美元Azure协议共同构成算力生态布局。",
+      "publishedAt": "2026-05-06",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "subCategory": "大模型"
     },
     {
