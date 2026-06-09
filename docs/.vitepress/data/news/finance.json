@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-09T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260605-001",
+      "title": "SpaceX 750 亿美元 IPO 超额认购，路演首日创史上最大 IPO 纪录",
+      "summary": "SpaceX 750亿美元IPO于路演启动首日即宣布超额认购，刷新史上最大IPO规模纪录；拟以每股135美元发行约5.56亿股，总估值约1.75万亿美元，计划6月12日在纳斯达克以SPCX代码挂牌；S-1披露Starlink连接业务为唯一盈利部门，马斯克通过双重股权结构掌控逾85%投票权。",
+      "publishedAt": "2026-06-05T10:52:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260602-005",
       "title": "创业板指涨逾2% CPO概念涨幅居前",

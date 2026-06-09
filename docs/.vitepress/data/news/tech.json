@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-09T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260609-001",
+      "title": "苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯'最后一舞'",
+      "summary": "苹果WWDC 2026主题演讲发布iOS 27、macOS 27 Golden Gate及Siri AI等重磅更新；iOS 27兼容iPhone 11及以上机型，应用启动速度最高提升30%；Siri AI以独立App形式亮相并整合Google Gemini云端大模型，提供跨应用上下文感知与视觉智能；Apple Intelligence暂不在中国大陆提供。",
+      "publishedAt": "2026-06-09T06:50:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/722.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-004",
+      "title": "苹果：Siri AI 和其他 Apple 智能新功能在中国大陆暂不提供",
+      "summary": "苹果官方确认Siri AI及Apple Intelligence系列功能因相关法规要求，在中国大陆上线时间暂未确定；欧盟地区因《数字市场法案》合规审查也将延迟提供部分功能；新功能涵盖跨应用智能体、实时摘要及视觉智能，首发市场为美国及其他主要英语区。",
+      "publishedAt": "2026-06-09T02:14:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/679.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-003",
+      "title": "苹果官宣 iPhone 11 也能升级 iOS 27，应用打开速度最高提升 30%",
+      "summary": "苹果宣布iOS 27支持iPhone 11（2019年款）及以上机型，兼容设备范围与iOS 26持平；系统通过底层优化使应用冷启动速度最高提升30%，并引入全新液态玻璃设计语言与增强型动态壁纸；计划秋季正式推送，含iPhone SE（第二代及以上）。",
+      "publishedAt": "2026-06-09T01:14:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/662.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-002",
+      "title": "苹果 macOS 27 代号定名 Golden Gate",
+      "summary": "苹果在WWDC 2026正式揭晓macOS 27代号为Golden Gate（金门大桥），延续以加州地标命名的惯例；系统带来液态玻璃设计语言全面更新与更深度的Apple Intelligence集成，强化跨设备延续性；支持全系M系列芯片Mac，计划秋季正式推出。",
+      "publishedAt": "2026-06-09T01:09:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/660.htm",
+      "subCategory": "操作系统"
+    },
     {
       "id": "tech-20260602-001",
       "title": "COMPUTEX 2026｜高通CEO安蒙定义智能体之年，以计算连续体重构AI规模化",
@@ -689,41 +725,5 @@
       "url": "https://www.ithome.com/0/953/944.htm",
       "subCategory": "芯片硬件"
     },
-    {
-      "id": "tech-20260522-008",
-      "title": "安克 Liberty 5 Pro / Max 发布：搭自主研发 Thus AI 芯片，1399 元起",
-      "summary": "安克发布 Liberty 5 Pro 和 Pro Max 两款降噪耳机，均搭载自主研发 Thus AI 芯片；Pro 版配 0.96 英寸屏幕，支持 AI 实时翻译，国补后 1070.23 元；Pro Max 版配 1.78 英寸 AMOLED 屏，具备 AI 会议助手，国补后 1376.23 元；两款均具备 6.5 小时单次续航（开启 ANC）、28 小时总续航、蓝牙 6.1 及 IP55 防水。",
-      "publishedAt": "2026-05-22T23:32:00+08:00",
-      "source": "Anker (PR Newswire)",
-      "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260522-009",
-      "title": "AMD 向中国台湾地区投资 100 亿美元，加速建设 AI 基础设施",
-      "summary": "AMD 宣布向中国台湾地区投资超 100 亿美元，与日月光半导体、矽品精密工业等合作伙伴推进先进封装技术；将开发 2.5D 桥接互联技术实现高带宽互联，下半年部署 Helios 机架级平台，搭载 Instinct MI450X GPU 和第六代 EPYC 处理器，以提升 AI 系统性能和能效。",
-      "publishedAt": "2026-05-21T01:35:00-04:00",
-      "source": "AMD",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260522-010",
-      "title": "特斯拉因缺少认证标签宣布在美召回 14575 辆 2025-2026 款 Model Y",
-      "summary": "特斯拉在美召回 14,575 辆 2025-2026 款 Model Y，原因是缺少联邦法规 49 C.F.R. Part 567 要求的认证标签，其缺失可能导致车主无意超载并增加碰撞风险；特斯拉将免费检查并安装认证标签，不涉及软件缺陷。",
-      "publishedAt": "2026-05-22",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-011",
-      "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
-      "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
-      "subCategory": "航空航天"
-    }
   ]
 }
