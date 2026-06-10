@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-10T08:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260609-001",
+      "title": "SpaceX IPO June 12 Targets $1.77 Trillion Valuation",
+      "summary": "SpaceX计划于6月12日在纳斯达克挂牌上市，目标估值1.77万亿美元，发行价135美元/股，拟融资750亿美元；路演于6月4日启动；若成功将超越沙特阿美创史上最大IPO纪录；SpaceX唯一盈利业务为Starlink连接服务，航天与AI业务仍处亏损阶段。",
+      "publishedAt": "2026-06-09",
+      "source": "HeyGoTrade",
+      "url": "https://www.heygotrade.com/en/news/spacex-ipo-177-trillion-valuation-2026-ipo-wave/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260603-001",
+      "title": "宇树科技科创板IPO提交注册",
+      "summary": "宇树科技科创板IPO在通过上交所上市审核后，于6月3日正式向中国证监会提交注册申请，是A股首个通用人形机器人IPO注册申请；公司拟募资42.02亿元，2025年营收17.08亿元，主营业务毛利率60.13%，提交注册标志距正式挂牌更进一步。",
+      "publishedAt": "2026-06-03T09:58:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3940715.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260603-002",
+      "title": "Broadcom (AVGO) Q2 2026 Earnings Transcript",
+      "summary": "博通FY2026 Q2营收222亿美元同比增长48%，AI半导体收入108亿美元同比大增143%；Q3营收指引294亿美元远超市场预期，同比增速约84%；AI客户定制ASIC需求持续超预期，博通正成为除英伟达外AI芯片赛道最主要受益方之一。",
+      "publishedAt": "2026-06-03",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/06/03/broadcom-avgo-q2-2026-earnings-transcript/",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20260602-005",
       "title": "创业板指涨逾2% CPO概念涨幅居前",

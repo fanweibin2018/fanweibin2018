@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-10T08:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260605-001",
+      "title": "Global semiconductor market to hit US$1.5 trillion in 2026 as memory surges 250%, WSTS forecasts",
+      "summary": "世界半导体贸易统计组织（WSTS）预测，2026年全球半导体市场规模将突破1.5万亿美元；存储芯片收入同比激增约250%，AI对HBM及DRAM的强劲需求是核心驱动力；逻辑芯片与模拟芯片同步受益于AI基础设施建设高景气，全球半导体行业进入历史性超级增长周期。",
+      "publishedAt": "2026-06-05T12:53:00Z",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260605VL208/semiconductor-industry-wsts-growth-forecast-2026.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260529-001",
       "title": "银河证券：AI驱动数据中心向Token超级工厂转型",

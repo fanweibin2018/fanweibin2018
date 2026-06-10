@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-03T08:30:00+08:00",
+  "updatedAt": "2026-06-10T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260610-001",
+      "title": "再下一城：特斯拉 FSD 监督版获丹麦上路许可",
+      "summary": "丹麦交通管理机构批准特斯拉FSD监督版在当地道路合法运行，成为继美国、加拿大之后第三个为该功能授予上路许可的市场；此举有助于特斯拉加快FSD在欧洲的监管准入，推进在欧盟成员国的自动驾驶合规化布局，进一步验证FSD全球扩展路径。",
+      "publishedAt": "2026-06-10T07:24:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/164.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260610-003",
+      "title": "美国造车新势力 Rivian 交付 R2 纯电 SUV，剑指大众市场与自动驾驶",
+      "summary": "Rivian正式向消费者交付R2纯电SUV，起售价约4.5万美元，定位大众市场，是Rivian首款面向主流消费者的车型；R2搭载最新电驱平台与辅助驾驶系统，并规划2027年引入更高阶自动驾驶功能；R2是Rivian突破高端小众市场、实现规模化量产的核心战略车型。",
+      "publishedAt": "2026-06-10T06:58:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/154.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260610-002",
+      "title": "消息称三星电子计划在韩国光州新建先进半导体封装工厂",
+      "summary": "据报道，三星电子正规划在韩国光州市新建先进半导体后端封装工厂，主要针对AI芯片HBM及2.5D/3D先进封装产品线扩产；三星在HBM3E量产良率上长期落后SK海力士，新厂旨在缩小差距并满足英伟达等AI算力芯片客户的交货需求，具体投资规模和时间表暂未公布。",
+      "publishedAt": "2026-06-10T06:51:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/962/153.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260609-001",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "苹果WWDC 2026发布iOS 27及全线系统更新，Siri整合Apple Intelligence成为独立AI应用，新增实时屏幕感知与跨应用代理能力；宣布扩大与谷歌Gemini合作，全系UI升级液态玻璃设计语言，是苹果AI战略的全面落地。",
+      "publishedAt": "2026-06-09T11:04:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260608-001",
+      "title": "消息称华为鸿蒙 HarmonyOS 7 系统已开启对内部保密 Beta 用户推送",
+      "summary": "据消息人士透露，华为已向内部保密测试用户推送HarmonyOS 7测试版；新系统据悉在AI系统集成、自然语言交互及多设备协同方面进行重大升级，视觉设计与交互逻辑全面重构；正式公测及发布时间尚未公布，消息来源为IT之家内部渠道。",
+      "publishedAt": "2026-06-08",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/655.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260602-002",
+      "title": "宇树回应与英伟达合作机器人：下半年新产品亮相",
+      "summary": "宇树科技官方回应外界对其与英伟达合作机器人项目的关注，确认双方合作已取得阶段性成果，搭载英伟达AI芯片的新款机器人产品将于下半年发布；英伟达在多次大会上展示基于宇树平台的具身智能研究成果，宇树是国内机器狗与人形机器人领域的头部企业。",
+      "publishedAt": "2026-06-02T23:04:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3940193.html",
+      "subCategory": "机器人"
+    },
     {
       "id": "tech-20260602-001",
       "title": "COMPUTEX 2026｜高通CEO安蒙定义智能体之年，以计算连续体重构AI规模化",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/954/007.htm",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260522-006",
-      "title": "Lightmatter 公布业界首款液冷激光网卡 Guide DR，可节省 75% 机架占用",
-      "summary": "Lightmatter 推出业界首款液冷激光网卡 Guide DR，较传统外部激光小型可插拔模块节省 75% 机架占用，预计 2026 年 Q4 出样；集成数十个激光器，支持 64 根光纤驱动 256 条 200Gbps 通道；四个模块在 1RU 高度内可实现 204.8Tbps 交换带宽，传统方案需 4RU 空间。",
-      "publishedAt": "2026-05-22",
-      "source": "The AI Journal",
-      "url": "https://aijourn.com/lightmatter-unveils-guide-dr-industry-first-liquid-cooled-laser-nic-that-quadruples-rack-density/",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260522-007",
-      "title": "AMD 苏姿丰：CPU 目前供应紧张，未来 5 年市场年复增长率超 35%",
-      "summary": "AMD 首席执行官苏姿丰表示，受 AI 基础设施加速建设驱动，CPU 市场未来 5 年年复增长率将超 35%，远超过去 3 至 4 年 3% 至 4% 的增速；当前 CPU 供应紧张超出预期，数据中心内存和电力供应同样存在瓶颈。",
-      "publishedAt": "2026-05-22T15:45:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/944.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260522-008",
-      "title": "安克 Liberty 5 Pro / Max 发布：搭自主研发 Thus AI 芯片，1399 元起",
-      "summary": "安克发布 Liberty 5 Pro 和 Pro Max 两款降噪耳机，均搭载自主研发 Thus AI 芯片；Pro 版配 0.96 英寸屏幕，支持 AI 实时翻译，国补后 1070.23 元；Pro Max 版配 1.78 英寸 AMOLED 屏，具备 AI 会议助手，国补后 1376.23 元；两款均具备 6.5 小时单次续航（开启 ANC）、28 小时总续航、蓝牙 6.1 及 IP55 防水。",
-      "publishedAt": "2026-05-22T23:32:00+08:00",
-      "source": "Anker (PR Newswire)",
-      "url": "https://www.prnewswire.com/apac/news-releases/earbuds-that-think-anker-unveils-soundcore-liberty-5-pro-and-liberty-5-pro-max-with-ankers-first-neural-net-chip-302780254.html",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260522-009",
-      "title": "AMD 向中国台湾地区投资 100 亿美元，加速建设 AI 基础设施",
-      "summary": "AMD 宣布向中国台湾地区投资超 100 亿美元，与日月光半导体、矽品精密工业等合作伙伴推进先进封装技术；将开发 2.5D 桥接互联技术实现高带宽互联，下半年部署 Helios 机架级平台，搭载 Instinct MI450X GPU 和第六代 EPYC 处理器，以提升 AI 系统性能和能效。",
-      "publishedAt": "2026-05-21T01:35:00-04:00",
-      "source": "AMD",
-      "url": "https://ir.amd.com/news-events/press-releases/detail/1286/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260522-010",
-      "title": "特斯拉因缺少认证标签宣布在美召回 14575 辆 2025-2026 款 Model Y",
-      "summary": "特斯拉在美召回 14,575 辆 2025-2026 款 Model Y，原因是缺少联邦法规 49 C.F.R. Part 567 要求的认证标签，其缺失可能导致车主无意超载并增加碰撞风险；特斯拉将免费检查并安装认证标签，不涉及软件缺陷。",
-      "publishedAt": "2026-05-22",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260522-011",
-      "title": "中科宇航力鸿三号可复用航天器计划 2028 年首飞，具备长期留轨能力",
-      "summary": "中科宇航正研制可重复使用轨道级航天器力鸿三号，计划 2028 年首飞，具备长期留轨能力，可为至少 300 公斤有效载荷提供微重力环境，面向科学试验与太空制造场景；力鸿二号可复用运载器同步处于工程研制阶段，计划今年年底首飞并实现百公里级回收。",
-      "publishedAt": "2026-05-22",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-05/22/content_520810.html",
-      "subCategory": "航空航天"
     }
   ]
 }
