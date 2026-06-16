@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-15T08:30:00+08:00",
+  "updatedAt": "2026-06-16T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260616-001",
+      "title": "招商银行推出\"运通工程师信用卡\"，新用户办卡提供\"专属 AI 权益\"单月可享 18 亿 Token M3 用量",
+      "summary": "招商银行推出\"运通工程师信用卡\"，新用户办卡专属权益包括每月18亿Token的MiniMax M3模型使用额度；是国内首张将AI大模型调用额度作为核心权益的消费金融产品，推动AI生产力工具向更广泛用户群体渗透。",
+      "publishedAt": "2026-06-16T06:59:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/614.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260615-006",
+      "title": "MiniMax M3 模型正式开源：原生多模态、百万上下文",
+      "summary": "MiniMax正式开源M3多模态大模型，总参数428B，激活参数23B，采用MIT协议开放权重；M3支持原生多模态输入与百万token超长上下文，输出速度达80 TPS，在多个国际开源大模型评测中排名第一，模型权重已上线Hugging Face及ModelScope。",
+      "publishedAt": "2026-06-15T23:12:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/598.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260615-008",
+      "title": "全球 AI\"黑马神话\"一夜反转，被指套壳阿里千问和 Nex 两款国产模型",
+      "summary": "巴西政府开源模型Rio-3.5-Open-397B被研究者证实是Qwen 3.5（来自阿里千问）与Nex N2 Pro权重混合拼接而成，并非原创模型；该模型此前因在多项评测中超越国际顶级模型而被称为\"全球AI黑马\"，此次反转引发国际AI社区对开源模型真实性核验机制的讨论。",
+      "publishedAt": "2026-06-15T22:58:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/595.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260615-007",
+      "title": "月之暗面 Kimi K2.7 Code 模型高速版上线：2 倍价格、最快 6 倍速",
+      "summary": "月之暗面推出Kimi K2.7 Code高速版，推理速度达180 Tokens/s，较标准版提升约6倍；价格与标准版相比翻倍，定位高频代码生成与实时交互场景，高速版已通过API向开发者开放。",
+      "publishedAt": "2026-06-15T22:06:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/587.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260615-005",
       "title": "腾讯 AI 生态进一步打通：ima 知识库作为信源接入元宝",
@@ -688,15 +724,6 @@
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/claude-for-small-business",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260513-001",
-      "title": "Google Android Show 展示 Gemini Intelligence 代理体系：跨应用自动任务、Chrome 获代理浏览功能",
-      "summary": "谷歌在5月13日Android Show上正式展示Gemini Intelligence体系，宣布将安卓从操作系统重构为智能系统：Gemini可跨应用读取屏幕并自动完成多步任务，Chrome Android新增Auto Browse代理浏览功能，Android Auto围绕Gemini重新设计，新功能夏季首发三星Galaxy及Pixel旗舰机型，年内扩展至手表、车载与智能眼镜端。",
-      "publishedAt": "2026-05-13",
-      "source": "Google Blog",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
-      "subCategory": "Agent"
     }
   ]
 }

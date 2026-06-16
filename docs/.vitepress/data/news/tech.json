@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-15T08:30:00+08:00",
+  "updatedAt": "2026-06-16T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260616-003",
+      "title": "马斯克再败诉：美法官驳回 xAI 指控 OpenAI 窃取商业机密的诉讼",
+      "summary": "美国联邦法官驳回马斯克旗下xAI指控OpenAI窃取商业机密的诉讼，认定起诉缺乏具体侵权证据；这是马斯克针对OpenAI系列诉讼的第二次实质性败诉，此前反竞争诉讼已被驳回，中国商业机密诉讼仍在单独审理。",
+      "publishedAt": "2026-06-16T07:58:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/631.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260616-001",
+      "title": "消息称高通洽谈收购 Tenstorrent，旨在提升人工智能芯片研发实力",
+      "summary": "高通正与AI芯片初创公司Tenstorrent洽谈收购事宜，对价约80至100亿美元；Tenstorrent由半导体设计师Jim Keller领导，专注开发用于AI推理的可编程矩阵加速器芯片，此次收购旨在强化高通在数据中心AI芯片领域的研发实力。",
+      "publishedAt": "2026-06-16T07:54:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/630.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260616-004",
+      "title": "Adobe 升级 Photoshop、Premiere 等，为用户创作整合更多 AI 能力",
+      "summary": "Adobe宣布对Photoshop、Premiere Pro及Acrobat等核心产品进行大规模AI能力更新，新增生成式背景扩展、AI语音克隆配音及PDF智能摘要等功能；所有AI生成内容均内嵌C2PA内容凭证，以防范深度伪造风险。",
+      "publishedAt": "2026-06-16T07:30:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/624.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260616-002",
+      "title": "AMD 收购 MEXT，为 AI 负载吃内存寻找降本新路径",
+      "summary": "AMD宣布收购内存优化技术公司MEXT，后者开发的技术可将不常访问的数据从DRAM动态迁移至NAND闪存，在保持性能的同时大幅降低AI推理负载的内存成本，是AMD在AI算力成本管控领域的战略布局。",
+      "publishedAt": "2026-06-16T07:18:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/621.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260616-005",
+      "title": "项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构",
+      "summary": "苹果内部负责人首次披露AI版Siri延期上线的真实原因：原有Siri架构积累了大量历史技术债务，与生成式AI深度集成存在根本性结构冲突，团队被迫推倒重来、彻底重构底层架构，导致新功能发布滞后至少一年以上。",
+      "publishedAt": "2026-06-16T07:16:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/620.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260615-006",
+      "title": "华为鸿蒙 HarmonyOS 7 Developer Beta 版开启推送，系统扩展特性同步更新",
+      "summary": "华为HarmonyOS 7 Developer Beta版正式推送，系统包体积约20GB，首批支持Mate 80 Pro等7款设备；新系统全面升级AI代理底层架构，全栈自研组件占比进一步提升，面向开发者开放的核心API数量较上版本增加约30%。",
+      "publishedAt": "2026-06-15T23:59:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/605.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260615-007",
+      "title": "理想新一代旗舰座舱公布：高通 8797 Elite 芯片、90Hz 高刷宽屏，支持苹果 CarPlay 等互联",
+      "summary": "理想汽车公布新一代旗舰车型座舱配置：搭载高通骁龙8797 Elite芯片，主屏支持90Hz高刷新率宽屏，支持苹果CarPlay、华为HiCar及百度CarLife三大手车互联协议，是理想首款原生兼容苹果CarPlay的量产车型。",
+      "publishedAt": "2026-06-15T23:09:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/597.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260615-008",
+      "title": "华为朱懂东谈\"鸿蒙套壳安卓\"：套壳拿不到最高安全可靠等级 Ⅱ 级权威认证",
+      "summary": "华为常务董事朱懂东回应\"鸿蒙套壳安卓\"争议：搭载鸿蒙的智能设备已获得工业和信息化部最高安全可靠等级II级认证，该认证不接受任何基于Android代码的系统，证明鸿蒙系完全自研；同步披露Mate 80系列多项安全性能数据佐证论点。",
+      "publishedAt": "2026-06-15T22:59:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/964/596.htm",
+      "subCategory": "操作系统"
+    },
     {
       "id": "tech-20260615-005",
       "title": "2 Tile + 4 HBM 设计：英特尔未能商业化的 Xe HP 服务器 GPU 现身网络",
@@ -651,78 +723,6 @@
       "publishedAt": "2026-05-26T07:37:57+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/955/085.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260526-004",
-      "title": "首个海外品牌：海盗船 DDR5 内存条被发现采用长鑫 DRAM 芯片",
-      "summary": "博主发现海盗船Vengeance DDR5-6000 CL36内存条使用长鑫存储DRAM颗粒，系首个采用长鑫颗粒的海外品牌，型号带\"CN\"后缀疑似仅限中国市场；DRAM供应趋紧下三大原厂优先保障AI内存产能，国产颗粒受益替代空间扩大。",
-      "publishedAt": "2026-05-26T06:50:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/076.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260525-009",
-      "title": "OPPO Reno16 / Reno16 Pro 系列正式发布：天玑 9500s + 2 亿像素三摄，3499 元起",
-      "summary": "OPPO Reno16 Pro搭载天玑9500s和7000mAh电池，支持80W有线充及50W无线充；标准版配天玑8550 SUPER和6700mAh电池；均搭载2亿像素主摄、5000万像素潜望长焦，售价3499元起，国补后2999元起，5月29日开售。",
-      "publishedAt": "2026-05-25T19:03:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/007.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260525-008",
-      "title": "华为发表半导体韬定律：预计到 2031 年，基于该定律的高端芯片晶体管密度将达到 1.4 纳米制程的同等水平",
-      "summary": "华为董事何庭波在ISCAS发表\"韬定律\"，以\"时间缩微\"替代\"几何缩微\"，通过逻辑折叠等技术降低信号延迟、提升晶体管密度；华为过去六年量产381款芯片，预计2031年密度达1.4纳米水平，秋季将推出采用逻辑折叠技术的新麒麟芯片。",
-      "publishedAt": "2026-05-25T09:24:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/677.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260525-007",
-      "title": "开启全电驱时代：全球首列\"黑科技\"地铁正式载客运营，时速 120 公里",
-      "summary": "全球首列基于全电驱动架构的地铁列车正式投入商业载客运营，最高时速 120 公里；采用\"储能+再生制动\"全电驱动方案，无需沿线接触网供电，综合能耗较传统地铁降低约 30%，融合多项轻量化与节能\"黑科技\"，是城市轨道交通电气化技术的重大突破，对低空、绿色交通基础设施建设具有示范意义。",
-      "publishedAt": "2026-05-25T08:26:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/659.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260525-006",
-      "title": "Linux 7.1-rc5 内核发布，Linus 对不必要改动、代码规模膨胀不满意",
-      "summary": "Linus Torvalds 发布 Linux 7.1-rc5 候选内核，发布声明中对部分子系统提交的不必要代码改动和代码行数无谓膨胀表示明确不满，强调内核贡献应保持精简并以质量优先；rc5 主要修复若干架构回归问题与驱动程序 bug，正式版 Linux 7.1 预计数周内发布。",
-      "publishedAt": "2026-05-25T07:30:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/650.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260525-005",
-      "title": "Epic 虚幻引擎 6 公开，游戏《火箭联盟》确认搭载",
-      "summary": "Epic Games 公开展示虚幻引擎 6 技术预览，带来神经渲染管线、路径追踪实时化和 Nanite Tessellation 等重大图形技术升级；Epic 旗下经典游戏《火箭联盟》官方确认将迁移至虚幻引擎 6，成为首批采用 UE6 的商业游戏之一；Epic 同步发布 UE6 开发者工具链更新，面向游戏与影视实时渲染场景。",
-      "publishedAt": "2026-05-25T07:22:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/649.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260525-004",
-      "title": "鸿蒙智行全新一代问界 M9 系列预订量破 6 万台，Ultimate 领世加长版满配价格逼近百万",
-      "summary": "鸿蒙智行官方数据显示，全新一代问界 M9 系列上市后预订量迅速突破 6 万台；其中顶配 Ultimate 领世加长版满配选项价格逼近 100 万元人民币，刷新国产豪华新能源旗舰定价上限；新款搭载 HUAWEI ADS 4.0 高阶智驾系统及鸿蒙 HarmonyOS 5 座舱，是鸿蒙智行旗舰车型迭代的最新成果。",
-      "publishedAt": "2026-05-25T07:11:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/648.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260525-003",
-      "title": "Z Fold 8 → Z Fold 8 Ultra，消息称三星部分 Galaxy Z Fold 折叠屏产品将改名",
-      "summary": "据海外媒体报道，三星计划调整 Galaxy Z Fold 折叠屏产品线命名策略，Galaxy Z Fold 8 将更名为 Galaxy Z Fold 8 Ultra，以呼应三星直板旗舰 Ultra 命名逻辑，强化旗舰品牌识别度；其余折叠屏型号的命名调整细节仍在确认中，相关新品预计今年下半年正式发布。",
-      "publishedAt": "2026-05-25T07:02:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/647.htm",
       "subCategory": "消费电子"
     }
   ]
