@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-18T08:30:00+08:00",
+  "updatedAt": "2026-06-19T08:30:00+08:00",
   "items": [
     {
       "id": "finance-20260618-001",
@@ -31,6 +31,15 @@
       "source": "新浪网",
       "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906yex4.html",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260617-002",
+      "title": "DeepSeek 以 4000 亿元估值完成首轮外部融资：510 亿元到账，投资方含梁文锋、腾讯、宁德时代、京东、网易等",
+      "summary": "DeepSeek于2026年6月16日完成首轮外部融资，以约4000亿元估值筹集510亿元；投资方包括创始人梁文锋、腾讯、宁德时代、京东、网易及国家AI投资基金，大多数投资者需锁定五年且不具有投票权，标志着这家顶级国产大模型公司在保持开源路线的同时首次引入外部资本。",
+      "publishedAt": "2026-06-17T22:58:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/965/686.htm",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260616-001",
@@ -715,16 +724,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260514-005",
-      "title": "思科 Q3 FY2026 财报：营收 158.4 亿美元超预期，AI 订单目标升至 90 亿，裁员 4000 人聚焦 AI",
-      "summary": "思科Q3 FY2026营收158.4亿美元同比增12%，调整后EPS 1.06美元，全年营收指引上调至628-630亿美元；财年以来累计AI基础设施订单53亿美元，年度订单目标从50亿上调至90亿美元；同步宣布裁员约4000人（占比不足5%），将资源向AI基础设施、光学技术与网络安全集中，股价盘后涨近20%。",
-      "publishedAt": "2026-05-14",
-      "source": "东方财富",
-      "url": "https://finance.eastmoney.com/a/202605143737556129.html",
-      "subCategory": "公司财报"
-    },
     }
   ],
   "disclaimer": "⚠️ 投资类内容仅做信息汇总,非投资建议。"
