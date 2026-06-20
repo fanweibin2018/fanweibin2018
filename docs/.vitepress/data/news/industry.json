@@ -3,8 +3,53 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-06-18T08:30:00+08:00",
+  "updatedAt": "2026-06-20T23:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260620-001",
+      "title": "SK海力士大规模招聘引发行业巨震，中小规模芯片企业\"深感不安\"",
+      "summary": "SK海力士宣布大规模招聘计划，将从韩国中小规模芯片企业和其他行业大量吸纳工程师，引发国内中小半导体企业对人才流失的广泛担忧；AI带动高带宽内存需求持续激增，SK海力士需加速扩充人员支撑HBM产能爬坡。",
+      "publishedAt": "2026-06-20T23:17:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/575.htm",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260619-001",
+      "title": "与OpenAI合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在为其寻找新东家",
+      "summary": "亚马逊旗下内容部门宣布放弃制作OpenAI CEO奥尔特曼传记电影《Artificial》，并表示正在为该项目寻找新买家；此举与亚马逊和OpenAI之间关系的微妙变化相关，亚马逊是Anthropic的主要战略投资方，与OpenAI在AI基础设施层存在竞争。",
+      "publishedAt": "2026-06-19T21:26:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/426.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260619-002",
+      "title": "扎克伯格承诺Meta今年不会再裁员：未来可能更艰难",
+      "summary": "Meta CEO扎克伯格在内部会议上承诺公司2026年内不会再次启动裁员，但同时坦言AI转型过程可能带来更复杂的挑战；Meta今年已完成约8000人的大规模裁员，将部分岗位向AI工程方向转移。",
+      "publishedAt": "2026-06-19T21:12:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/424.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260619-003",
+      "title": "Manus收购案重大转机，传腾讯出手",
+      "summary": "此前传出创始团队筹资10亿美元MBO回购的Manus收购案出现重大变数，消息称腾讯正在参与洽谈，有意以战略投资者身份介入或主导交易；若腾讯成功入局，将使Manus纳入腾讯AI生态版图，改变其此前计划赴港独立上市的路径。",
+      "publishedAt": "2026-06-19T14:54:00+08:00",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1566254.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260619-004",
+      "title": "人形机器人年产能从千台到万台：五大企业产能扩张路径与供应链成熟度分析",
+      "summary": "报道梳理宇树科技、智元机器人、傅利叶、达闼、优必选五家人形机器人头部企业的产能扩张路径，目前行业年产能普遍从千台向万台量级跨越；供应链方面，执行器、灵巧手和视觉感知模组仍是制约规模化量产的主要瓶颈。",
+      "publishedAt": "2026-06-19T13:02:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/330.htm",
+      "subCategory": "制造业"
+    },
     {
       "id": "industry-20260615-001",
       "title": "Omdia 下调 2026 年显示面板出货数量预测至衰退 6%",

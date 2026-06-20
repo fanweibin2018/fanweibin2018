@@ -3,11 +3,92 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-18T08:30:00+08:00",
+  "updatedAt": "2026-06-20T23:30:00+08:00",
   "items": [
     {
+      "id": "tech-20260620-001",
+      "title": "高通CEO安蒙：智能眼镜市场有望比肩手机",
+      "summary": "高通CEO安蒙在行业活动上表示，智能眼镜有望成为继手机之后下一个量级的消费电子平台，市场规模长期可与智能手机媲美；高通正积极布局XR芯片生态，骁龙Reality Elite为首款面向消费级AR眼镜优化的旗舰XR平台。",
+      "publishedAt": "2026-06-20T20:11:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/548.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260620-002",
+      "title": "郭明錤：台积电玻璃基板是AI芯片必需品 英伟达抢着要",
+      "summary": "天风证券分析师郭明錤预测台积电玻璃基板封装技术将成为下一代AI芯片的必要组件，英伟达等算力芯片大厂正竞相锁定产能；玻璃基板具备更优异的平整度和传输性能，有望推动AI芯片封装进一步升级。",
+      "publishedAt": "2026-06-20T19:04:00+08:00",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1566348.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260620-003",
+      "title": "英特尔携手联电攻坚3nm工艺 向台积电发起挑战",
+      "summary": "英特尔宣布与联华电子（UMC）展开3nm工艺联合研发合作，双方将整合各自在逻辑设计与制程开发的能力，目标在先进制程领域形成更有竞争力的选择，直接向台积电的3nm霸主地位发起挑战。",
+      "publishedAt": "2026-06-20T19:02:00+08:00",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1566346.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260620-004",
+      "title": "英伟达开源NVK驱动为Linux带来实验性DLSS支持",
+      "summary": "英伟达在其开源Linux GPU驱动NVK中加入实验性DLSS支持，Linux用户可在兼容GPU上使用深度学习超分辨率技术提升游戏画质与性能；NVK基于Mesa框架开发，此次更新是英伟达持续改善Linux生态驱动体验的重要进展。",
+      "publishedAt": "2026-06-20T13:38:00+08:00",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1566330.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260620-005",
+      "title": "高管确认三星Galaxy S27首发Exynos 2700",
+      "summary": "三星高管正式确认2027年旗舰机型Galaxy S27系列将首发自研Exynos 2700处理器，结束此前关于S27将全系采用高通骁龙的传言；Exynos 2700采用台积电先进制程制造，三星同步加大自研芯片的AI推理能力投入。",
+      "publishedAt": "2026-06-20T13:16:00+08:00",
+      "source": "cnBeta",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1566308.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260620-006",
+      "title": "小米平板9标准版曝光：高通骁龙8s Gen4芯片，9720mAh电池",
+      "summary": "爆料显示小米平板9标准版将搭载高通骁龙8s Gen4处理器，配备9720mAh超大容量电池，续航能力大幅提升；消息称该机将于近期发布，延续小米平板系列高性价比产品策略。",
+      "publishedAt": "2026-06-20T12:06:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/493.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260620-007",
+      "title": "安卓最强2nm芯片：高通骁龙8 Elite Gen 6 Pro曝测试类三星HPB散热方案",
+      "summary": "爆料显示高通下一代旗舰芯片骁龙8 Elite Gen 6 Pro正在测试与三星HPB相类似的高性能散热方案，该设计有助于在2nm制程带来更高算力的同时控制热功耗；该芯片预计搭载于2026年底至2027年初发布的安卓旗舰机型。",
+      "publishedAt": "2026-06-20T11:18:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/490.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260620-008",
+      "title": "提升流畅度：谷歌安卓17给App内存占用套上\"紧箍咒\"",
+      "summary": "谷歌在安卓17中引入新的应用内存占用管控机制，对后台及前台应用的内存配额实施更严格限制，旨在从系统层面减少因应用过度占用内存导致的帧率下降与卡顿问题，整体流畅度有望提升。",
+      "publishedAt": "2026-06-20T08:37:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/464.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260620-009",
+      "title": "微软官宣今秋上线Win11 26H2更新：启用包方式推送，硬件要求不变",
+      "summary": "微软正式公告Windows 11 26H2功能更新将于2026年秋季推送，采用包式安装取代传统完整系统替换方式，显著缩短安装时间；此次更新不提高最低硬件要求，TPM 2.0与8代英特尔CPU门槛维持不变，专注于AI功能与界面体验的渐进式完善。",
+      "publishedAt": "2026-06-20T06:56:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/966/448.htm",
+      "subCategory": "操作系统"
+    },
+    {
       "id": "tech-20260617-001",
-      "title": "高通首"至尊版"XR芯片来了！本地跑30亿参数大模型，XREAL首发",
+      "title": "高通首\"至尊版\"XR芯片来了！本地跑30亿参数大模型，XREAL首发",
       "summary": "高通在AWE 2026大会上发布骁龙Reality Elite旗舰XR芯片平台。该芯片GPU性能提升60%、CPU提升30%、NPU提升160%，支持每秒90帧和4.4K单眼分辨率。核心亮点包括48TOPS AI算力、本地运行30亿参数大模型、续航提升20%等。XREAL Project Aura将首批搭载。",
       "publishedAt": "2026-06-17T13:31:05+08:00",
       "source": "智东西",
@@ -643,87 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/955/095.htm",
       "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260526-002",
-      "title": "不换设计直接降温：SK 海力士发布控温散热存储技术\"iHBM\"，降低热阻超 30%",
-      "summary": "SK海力士推出iHBM控温散热技术，在高带宽内存封装内集成ICE冷却元件，于D2D PHY发热集中区域构建专用散热通道，热阻较传统方案降低超30%，采用成熟MR-MUF工艺无需大幅设计改动，计划用于HBM5等下代产品。",
-      "publishedAt": "2026-05-26T08:17:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/093.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260526-003",
-      "title": "爱玛 × 华为达成合作，两轮车有望支持智能行车辅助系统、星闪等技术",
-      "summary": "爱玛科技与华为签署深化合作协议，聚焦两轮出行智能化和鸿蒙生态融合，合作涵盖智能仪表盘、行车辅助系统、星闪技术及端侧AI等领域，爱玛两轮车有望获得智能化功能全面升级。",
-      "publishedAt": "2026-05-26T07:37:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/085.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260526-004",
-      "title": "首个海外品牌：海盗船 DDR5 内存条被发现采用长鑫 DRAM 芯片",
-      "summary": "博主发现海盗船Vengeance DDR5-6000 CL36内存条使用长鑫存储DRAM颗粒，系首个采用长鑫颗粒的海外品牌，型号带\"CN\"后缀疑似仅限中国市场；DRAM供应趋紧下三大原厂优先保障AI内存产能，国产颗粒受益替代空间扩大。",
-      "publishedAt": "2026-05-26T06:50:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/076.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260525-009",
-      "title": "OPPO Reno16 / Reno16 Pro 系列正式发布：天玑 9500s + 2 亿像素三摄，3499 元起",
-      "summary": "OPPO Reno16 Pro搭载天玑9500s和7000mAh电池，支持80W有线充及50W无线充；标准版配天玑8550 SUPER和6700mAh电池；均搭载2亿像素主摄、5000万像素潜望长焦，售价3499元起，国补后2999元起，5月29日开售。",
-      "publishedAt": "2026-05-25T19:03:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/007.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260525-008",
-      "title": "华为发表半导体韬定律：预计到 2031 年，基于该定律的高端芯片晶体管密度将达到 1.4 纳米制程的同等水平",
-      "summary": "华为董事何庭波在ISCAS发表\"韬定律\"，以\"时间缩微\"替代\"几何缩微\"，通过逻辑折叠等技术降低信号延迟、提升晶体管密度；华为过去六年量产381款芯片，预计2031年密度达1.4纳米水平，秋季将推出采用逻辑折叠技术的新麒麟芯片。",
-      "publishedAt": "2026-05-25T09:24:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/677.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260525-007",
-      "title": "开启全电驱时代：全球首列\"黑科技\"地铁正式载客运营，时速 120 公里",
-      "summary": "全球首列基于全电驱动架构的地铁列车正式投入商业载客运营，最高时速 120 公里；采用\"储能+再生制动\"全电驱动方案，无需沿线接触网供电，综合能耗较传统地铁降低约 30%，融合多项轻量化与节能\"黑科技\"，是城市轨道交通电气化技术的重大突破，对低空、绿色交通基础设施建设具有示范意义。",
-      "publishedAt": "2026-05-25T08:26:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/659.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260525-006",
-      "title": "Linux 7.1-rc5 内核发布，Linus 对不必要改动、代码规模膨胀不满意",
-      "summary": "Linus Torvalds 发布 Linux 7.1-rc5 候选内核，发布声明中对部分子系统提交的不必要代码改动和代码行数无谓膨胀表示明确不满，强调内核贡献应保持精简并以质量优先；rc5 主要修复若干架构回归问题与驱动程序 bug，正式版 Linux 7.1 预计数周内发布。",
-      "publishedAt": "2026-05-25T07:30:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/650.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260525-005",
-      "title": "Epic 虚幻引擎 6 公开，游戏《火箭联盟》确认搭载",
-      "summary": "Epic Games 公开展示虚幻引擎 6 技术预览，带来神经渲染管线、路径追踪实时化和 Nanite Tessellation 等重大图形技术升级；Epic 旗下经典游戏《火箭联盟》官方确认将迁移至虚幻引擎 6，成为首批采用 UE6 的商业游戏之一；Epic 同步发布 UE6 开发者工具链更新，面向游戏与影视实时渲染场景。",
-      "publishedAt": "2026-05-25T07:22:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/649.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260525-004",
-      "title": "鸿蒙智行全新一代问界 M9 系列预订量破 6 万台，Ultimate 领世加长版满配价格逼近百万",
-      "summary": "鸿蒙智行官方数据显示，全新一代问界 M9 系列上市后预订量迅速突破 6 万台；其中顶配 Ultimate 领世加长版满配选项价格逼近 100 万元人民币，刷新国产豪华新能源旗舰定价上限；新款搭载 HUAWEI ADS 4.0 高阶智驾系统及鸿蒙 HarmonyOS 5 座舱，是鸿蒙智行旗舰车型迭代的最新成果。",
-      "publishedAt": "2026-05-25T07:11:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/648.htm",
-      "subCategory": "智能汽车"
     }
   ]
 }
