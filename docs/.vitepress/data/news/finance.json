@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-22T12:30:00+08:00",
+  "updatedAt": "2026-06-22T16:40:00+08:00",
   "items": [
+    {
+      "id": "finance-20260622-004",
+      "title": "财政部：1—5月证券交易印花税1262亿元，同比增长88.8%",
+      "summary": "财政部最新数据显示，今年1至5月证券交易印花税达1262亿元，同比增长88.8%，印花税合计2426亿元同比增长35.8%，反映A股市场交易活跃度较去年同期显著提升。",
+      "publishedAt": "2026-06-22T16:32:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864087175173385",
+      "subCategory": "股票市场"
+    },
+    {
+      "id": "finance-20260622-005",
+      "title": "财政部：1—5月全国一般公共预算收入100465亿元，同比增长4%",
+      "summary": "财政部公布数据：1至5月全国一般公共预算收入100465亿元，同比增长4%；其中税收收入82617亿元，同比增长4.4%；非税收入17848亿元，同比增长2.2%，整体财政收入保持平稳增长态势。",
+      "publishedAt": "2026-06-22T16:31:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864086640956421",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260622-006",
+      "title": "恒指收跌0.65%，智谱涨超15%",
+      "summary": "6月22日港股收盘：恒生指数跌0.65%，恒生科技指数跌1.19%；智谱AI涨超15%，MINIMAX涨超23%，大模型、半导体板块领涨。南向资金净卖出58.2亿港元，汽车、钢铁板块跌幅居前。",
+      "publishedAt": "2026-06-22T16:11:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864066234471683",
+      "subCategory": "港股"
+    },
     {
       "id": "finance-20260622-001",
       "title": "AI 热潮重塑韩国股市格局：SK 海力士市值一度超越三星电子成韩国最具价值企业",
@@ -510,15 +537,6 @@
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260525-006",
-      "title": "天机智能完成 10 亿元 B 轮及 B+ 轮融资：高瓴、美团联合领投，腾讯等跟投",
-      "summary": "具身智能企业天机智能宣布完成10亿元B轮及B+轮融资，投后估值近百亿元；由高瓴创投与美团战投联合领投，腾讯等机构跟投；融资将用于技术研发、规模化量产和销售网络建设；公司2025年已交付力控人形双臂机器人逾2000台，2026年一季度在手订单突破万台。",
-      "publishedAt": "2026-05-25",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/954/877.htm",
-      "subCategory": "一级市场"
-    },
-    {
       "id": "finance-20260525-003",
       "title": "霍尔木兹大消息！美伊协议草案获多国支持，国际油价闪崩，美股期指集体拉升",
       "summary": "美国国务卿鲁比奥表示美伊协议草案已获7至8个中东国家支持，特朗普称协议\"尚未完全谈妥\"，白宫称距签署尚需数天；伊朗总统表示不寻求核武器；市场大幅反应：纽约原油期货跌超5%至91.53美元，布伦特原油跌4.9%，国际金价涨超1.5%，美股三大期指集体上扬。",
@@ -544,6 +562,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3924575.html",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260525-006",
+      "title": "天机智能完成 10 亿元 B 轮及 B+ 轮融资：高瓴、美团联合领投，腾讯等跟投",
+      "summary": "具身智能企业天机智能宣布完成10亿元B轮及B+轮融资，投后估值近百亿元；由高瓴创投与美团战投联合领投，腾讯等机构跟投；融资将用于技术研发、规模化量产和销售网络建设；公司2025年已交付力控人形双臂机器人逾2000台，2026年一季度在手订单突破万台。",
+      "publishedAt": "2026-05-25",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/954/877.htm",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260524-003",
@@ -672,39 +699,12 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260521-001",
-      "title": "英伟达 2027 财年第一财季归母净利润 583.21 亿美元，同比增长 211%",
-      "summary": "英伟达FY2027第一财季营业总收入816.15亿美元（同比+85%），数据中心收入752亿美元（同比+92%），归母净利润583.21亿美元（同比+211%），摊薄EPS 2.39美元；Q2指引约910亿美元（±2%）；同步宣布新增800亿美元回购授权并将季度股息从0.01美元提升至0.25美元，向股东返还约200亿美元。",
-      "publishedAt": "2026-05-20",
-      "source": "NVIDIA",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260520-004",
-      "title": "BOSS 直聘 2026 财年第一财季归母净利润 11.57 亿元，同比增长 123.1%",
-      "summary": "BOSS直聘发布2026财年一季度业绩，营业收入20.69亿元同比增长7.6%，归母净利润11.57亿元同比增长123.1%，经营现金流11.90亿元同比增18.6%；招聘需求复苏与AI工具提效驱动盈利能力大幅提升。",
-      "publishedAt": "2026-05-20",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298353/0/en/KANZHUN-LIMITED-Announces-First-Quarter-2026-Financial-Results.html",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260520-003",
       "title": "长鑫科技科创板 IPO 将于 5 月 27 日上会",
       "summary": "长鑫科技将于5月27日接受科创板上市审核，拟募资295亿元；公司预计2026年上半年营收1100-1200亿元、净利润500-570亿元，拥有三座12英寸晶圆厂，为中国第一、全球第四大DRAM内存厂商。",
       "publishedAt": "2026-05-20T19:12:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/953/029.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260520-002",
-      "title": "投资超 600 亿美元，孙正义豪赌 OpenAI 引发内部质疑\"迷信奥尔特曼如追星\"",
-      "summary": "软银对OpenAI投资承诺超600亿美元，引发内部担忧，批评孙正义对奥尔特曼的信任过于依赖被喻为\"追星\"；软银已出售英伟达股份集中投入、缺乏董事会实质影响力，竞争对手Anthropic持续蚕食OpenAI市场份额。",
-      "publishedAt": "2026-05-20T03:22:00+00:00",
-      "source": "Bloomberg",
-      "url": "https://news.bloomberglaw.com/securities-law/softbank-founders-starstruck-bet-on-openai-raises-concern",
       "subCategory": "一级市场"
     },
     {
@@ -717,13 +717,13 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260518-002",
-      "title": "英伟达 FY2027 Q1 财报 5 月 20 日见真章，共识预期营收 780 亿美元",
-      "summary": "英伟达将于5月20日美股盘后发布FY2027一季度财报，共识预期营收780亿美元（数据中心约730亿），EPS约1.77美元；投资者关注毛利率方向（75%以上确认定价权）、Blackwell GB200/GB300 Ultra产能爬坡及中国H200出口政策走向；期权市场预计财报后波幅8-10%。",
-      "publishedAt": "2026-05-18",
-      "source": "HeyGoTrade",
-      "url": "https://www.heygotrade.com/en/blog/nvidia-q1-fy27-earnings-preview-may-20-2026/",
-      "subCategory": "公司财报"
+      "id": "finance-20260520-002",
+      "title": "投资超 600 亿美元，孙正义豪赌 OpenAI 引发内部质疑\"迷信奥尔特曼如追星\"",
+      "summary": "软银对OpenAI投资承诺超600亿美元，引发内部担忧，批评孙正义对奥尔特曼的信任过于依赖被喻为\"追星\"；软银已出售英伟达股份集中投入、缺乏董事会实质影响力，竞争对手Anthropic持续蚕食OpenAI市场份额。",
+      "publishedAt": "2026-05-20T03:22:00+00:00",
+      "source": "Bloomberg",
+      "url": "https://news.bloomberglaw.com/securities-law/softbank-founders-starstruck-bet-on-openai-raises-concern",
+      "subCategory": "一级市场"
     }
   ],
   "disclaimer": "⚠️ 投资类内容仅做信息汇总,非投资建议。"

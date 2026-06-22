@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-22T12:30:00+08:00",
+  "updatedAt": "2026-06-22T16:40:00+08:00",
   "items": [
+    {
+      "id": "tech-20260622-006",
+      "title": "中国空间站启动二次扩容升级：多人同步开展舱外工作将成常态",
+      "summary": "中国空间站即将启动二次扩容升级，将从T字构型升级为十字构型，新增综合舱段后可实现多艘飞行器同时驻留、增加出舱通道，使多人同步开展舱外工作成为常态，并扩充实验设备和储物空间。",
+      "publishedAt": "2026-06-22T16:36:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/054.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260622-005",
+      "title": "英伟达最新发文，详解Rubin全面液冷技术",
+      "summary": "英伟达官方发文详解旗下Rubin AI计算平台的全面液冷方案，Rubin是全球首个实现100%液冷的AI计算平台，液冷技术可帮助数据中心大幅降低能耗，英伟达称其为数据中心历史上最重要的能效突破之一。",
+      "publishedAt": "2026-06-22T16:35:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864090084070403",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260622-009",
+      "title": "古尔曼曝苹果2026至2027产品线：折叠屏续作、配摄像头AirPods及智能眼镜齐发",
+      "summary": "分析师古尔曼披露苹果2026-2027产品规划：2026年秋季推出iPhone 18系列、折叠屏iPhone及Apple Watch Series 12；2027年将推出配摄像头AirPods、首款智能眼镜及第二代折叠屏手机等新品。",
+      "publishedAt": "2026-06-22T16:24:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864078789497864",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260622-008",
+      "title": "消息称苹果 iPhone 18 Pro / Pro Max、iPad Mini 所需 OLED 面板已量产",
+      "summary": "三星显示与乐金显示已启动iPhone 18 Pro/Pro Max及新款iPad Mini所需OLED面板的量产，三星还将同步量产折叠屏iPhone Ultra面板并启动MacBook Pro用OLED面板生产，乐金显示负责Apple Watch Series 12面板供应。",
+      "publishedAt": "2026-06-22T16:13:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/025.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260622-007",
+      "title": "\"千帆星座\"建设与运营主体垣信卫星启动新一轮融资",
+      "summary": "千帆星座建设与运营主体垣信卫星正式启动新一轮融资，新增投资人不超3家、持股比例不超20%，意向投资人总额不低于50亿元，募集资金用于卫星星座工程建设、技术研发及市场开拓。",
+      "publishedAt": "2026-06-22T16:13:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864068382053636",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260622-011",
+      "title": "微软再推AI智能助手Copilot强制安装策略",
+      "summary": "微软开始向符合条件的Windows电脑自动安装Microsoft 365 Copilot，管理员须主动选择退出才能阻止安装；即便用户不主动使用，该AI助手组件也会重新出现在办公套件中。",
+      "publishedAt": "2026-06-22T16:09:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864063849927939",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260622-010",
+      "title": "平头哥上海半导体技术公司增资至10亿，增幅约233%",
+      "summary": "阿里旗下芯片公司平头哥（上海）半导体技术有限公司注册资本从3亿元大幅增至10亿元，增幅约233%，由平头哥电子技术公司全资持股，显示阿里在自研芯片领域持续加大资本投入。",
+      "publishedAt": "2026-06-22T16:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3864055743337735",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260622-001",
       "title": "广汽与华为乾崑联合打造：启境 GT7 车型 6 月 26 日上市，预售 21.99 万起",
@@ -366,21 +429,21 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260609-001",
-      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
-      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
-      "publishedAt": "2026-06-09",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/961/722.htm",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260609-002",
       "title": "苹果确认：Siri AI等Apple Intelligence新功能在中国大陆暂不提供",
       "summary": "苹果在WWDC26后确认，新版Siri AI跨应用操作及多项Apple Intelligence新功能在中国大陆暂不上线，原因为需满足当地法规要求；苹果表示正持续与相关部门沟通，用户可将设备语言切换至繁体中文以体验部分已上线功能。",
       "publishedAt": "2026-06-09T02:14:17+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/961/679.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-001",
+      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
+      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
+      "publishedAt": "2026-06-09",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/722.htm",
       "subCategory": "消费电子"
     },
     {
@@ -661,69 +724,6 @@
       "source": "网易",
       "url": "https://www.163.com/dy/article/KU19B4IH0550WHYR.html",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260528-002",
-      "title": "免费看：小红书官宣成为 2026 年美加墨世界杯持权转播商",
-      "summary": "中央广播电视总台宣布小红书成为2026年美加墨世界杯持权转播商，获授权在公共互联网领域进行实时转播、延时转播、点播等方式转播赛事。用户可通过小红书App、网页版和手机投屏免费观看世界杯。小红书足球兴趣人群已超1亿，过去一年相关讨论量增长超100%。",
-      "publishedAt": "2026-05-28T09:15:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/956/270.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-010",
-      "title": "微软Win11今年AI规划曝光：图片表格转Excel、任务栏Ask Copilot",
-      "summary": "内部文件显示微软Windows 11 2026年AI功能路线图规划了图片/表格内容一键转Excel、任务栏新增Ask Copilot快速入口及通知面板AI摘要等功能，预计随今年秋季大版本更新分批落地。",
-      "publishedAt": "2026-05-27T08:26:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/658.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-009",
-      "title": "欧洲迄今最复杂CPU Rhea1成功点亮，目标年内在超算服役",
-      "summary": "欧洲芯片初创SiPearl自研ARM高性能计算CPU Rhea1完成首次通电点亮，为欧洲迄今设计最复杂CPU；目标2026年底前部署至欧洲超算集群，推进欧洲在AI和科学计算领域的芯片自主化战略。",
-      "publishedAt": "2026-05-27T08:24:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/655.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-008",
-      "title": "微软Win11推送26x00.8524预览版更新KB5089573：加快应用启动速度，优化开始菜单、搜索等核心界面体验",
-      "summary": "微软向Dev频道发布Windows 11 Insider Preview Build 26120.8524，重点改善应用冷热启动速度，优化开始菜单排序、搜索结果质量与任务栏响应延迟，提升核心界面整体流畅度。",
-      "publishedAt": "2026-05-27T08:14:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/654.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260527-007",
-      "title": "消息称苹果升级iPhone防盗，解锁状态被抢会立刻锁机",
-      "summary": "苹果据报正为iPhone研发增强防盗机制，手机解锁状态被抢夺时将即时触发自动锁屏，使盗贼无法访问用户数据；该功能结合运动传感器与锁定算法，有望随iOS 27在年底前推出。",
-      "publishedAt": "2026-05-27T08:08:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/652.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260527-006",
-      "title": "消息称英特尔首批掌机处理器Arc G3系列即将解禁，有望28日发布",
-      "summary": "英特尔首批面向掌机平台的Arc G3系列显卡即将解除保密协议，消息称预计5月28日正式发布；Arc G3基于Battlemage架构，针对手持游戏机低功耗场景优化，或率先搭载于多款第三方掌机。",
-      "publishedAt": "2026-05-27T07:57:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/650.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-004",
-      "title": "马斯克SpaceX拿下美军22.9亿美元大单，打造太空数据网络骨干网",
-      "summary": "SpaceX获美国空军22.9亿美元合同，将部署低轨卫星网络构建专用军事数据传输骨干，与Starlink民用系统相互隔离；任务旨在为全球美军部队提供安全、抗干扰的高速数据通信，任务期约五年。",
-      "publishedAt": "2026-05-27T07:01:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/637.htm",
-      "subCategory": "航空航天"
     }
   ]
 }
