@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-22T12:30:00+08:00",
+  "updatedAt": "2026-06-22T23:55:00+08:00",
   "items": [
+    {
+      "id": "finance-20260622-007",
+      "title": "美股芯片股集体走高，美国财政部突然出手允许伊朗原油贸易",
+      "summary": "美股科技股集体上涨，费城半导体指数涨超1.7%，美光科技大涨超6%；美国财政部发布许可证允许伊朗原油和石化产品贸易至8月21日，黄金、白银、加密货币均大幅上升；美光与Anthropic达成战略协议扩大AI基础设施规模；霍尔木兹海峡原油运输量升至战争以来最高水平。",
+      "publishedAt": "2026-06-22T22:59:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3973125.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260622-006",
+      "title": "中船特气停牌核查，年内累计涨幅近 389%",
+      "summary": "中船特气因股票异常波动将停牌核查，该股自5月11日至6月22日累计涨幅388.77%，市盈率远超行业均值；公司提醒投资者勿信市场传闻，强调六氟化钨等单一产品风险；一季度净利润1.01亿元，公司指出经营规模小、抵御风险能力有限。",
+      "publishedAt": "2026-06-22T20:40:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3972961.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260622-005",
+      "title": "美联储前主席格林斯潘去世，享年百岁",
+      "summary": "美国经济学家、美联储前主席格林斯潘已离世，享年百岁，消息于6月22日由美方公布；格林斯潘曾长期执掌美联储（1987—2006年），执政期间带领美国经济经历\"大缓和\"时期的持续增长，对美国及全球经济政策产生深远影响。",
+      "publishedAt": "2026-06-22T19:17:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3972871.html",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260622-004",
+      "title": "A股大金融爆发，沪指涨 1.78% 收 4163 点，成交额 3.76 万亿",
+      "summary": "A股午后风格转变，金融板块强势上涨；申万非银金融指数盘中涨超6%，新华保险、中信建投午后涨停，东方财富涨超9%；沪指收盘涨1.78%报4163.1点，深证成指涨2.13%，创业板指涨2.52%；沪深北三市合计成交额约3.76万亿，超2900股上涨、逾百股涨停。",
+      "publishedAt": "2026-06-22T17:18:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3972350.html",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260622-001",
       "title": "AI 热潮重塑韩国股市格局：SK 海力士市值一度超越三星电子成韩国最具价值企业",
@@ -687,42 +723,6 @@
       "publishedAt": "2026-05-20",
       "source": "GlobeNewswire",
       "url": "https://www.globenewswire.com/news-release/2026/05/20/3298353/0/en/KANZHUN-LIMITED-Announces-First-Quarter-2026-Financial-Results.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260520-003",
-      "title": "长鑫科技科创板 IPO 将于 5 月 27 日上会",
-      "summary": "长鑫科技将于5月27日接受科创板上市审核，拟募资295亿元；公司预计2026年上半年营收1100-1200亿元、净利润500-570亿元，拥有三座12英寸晶圆厂，为中国第一、全球第四大DRAM内存厂商。",
-      "publishedAt": "2026-05-20T19:12:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/953/029.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260520-002",
-      "title": "投资超 600 亿美元，孙正义豪赌 OpenAI 引发内部质疑\"迷信奥尔特曼如追星\"",
-      "summary": "软银对OpenAI投资承诺超600亿美元，引发内部担忧，批评孙正义对奥尔特曼的信任过于依赖被喻为\"追星\"；软银已出售英伟达股份集中投入、缺乏董事会实质影响力，竞争对手Anthropic持续蚕食OpenAI市场份额。",
-      "publishedAt": "2026-05-20T03:22:00+00:00",
-      "source": "Bloomberg",
-      "url": "https://news.bloomberglaw.com/securities-law/softbank-founders-starstruck-bet-on-openai-raises-concern",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260520-001",
-      "title": "分手费 100 亿美元：消息称 SpaceX 将在 IPO 后收购 AI 编程公司 Cursor",
-      "summary": "消息称SpaceX计划于6月12日IPO约30天后收购AI编程工具Cursor，交易估值600亿美元，设置100亿美元违约金；SpaceX目标融资750亿美元、估值超2万亿美元，收购完成后SpaceX与xAI合并体将同时掌控SDK生成工具（Stainless）及AI编程助手（Cursor）两大开发者链路，Cursor、SpaceX和xAI三方均未作公开回应。",
-      "publishedAt": "2026-05-20T07:15:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/554.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260518-002",
-      "title": "英伟达 FY2027 Q1 财报 5 月 20 日见真章，共识预期营收 780 亿美元",
-      "summary": "英伟达将于5月20日美股盘后发布FY2027一季度财报，共识预期营收780亿美元（数据中心约730亿），EPS约1.77美元；投资者关注毛利率方向（75%以上确认定价权）、Blackwell GB200/GB300 Ultra产能爬坡及中国H200出口政策走向；期权市场预计财报后波幅8-10%。",
-      "publishedAt": "2026-05-18",
-      "source": "HeyGoTrade",
-      "url": "https://www.heygotrade.com/en/blog/nvidia-q1-fy27-earnings-preview-may-20-2026/",
       "subCategory": "公司财报"
     }
   ],
