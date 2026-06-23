@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-23T18:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260623-004",
+      "title": "曝字节新一代豆包 AI 手机发布时间或延迟，主要原因与备案认证有关",
+      "summary": "字节跳动与中兴通讯联合推进的新一代豆包AI手机相比既定发布时间可能延迟，需分别完成AI大模型备案认证与手机终端访问许可两道审批，预计最快2026年7至8月才能面世。",
+      "publishedAt": "2026-06-23T18:29:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/631.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260623-003",
       "title": "腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件",
@@ -715,15 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/955/655.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-008",
-      "title": "微软Win11推送26x00.8524预览版更新KB5089573：加快应用启动速度，优化开始菜单、搜索等核心界面体验",
-      "summary": "微软向Dev频道发布Windows 11 Insider Preview Build 26120.8524，重点改善应用冷热启动速度，优化开始菜单排序、搜索结果质量与任务栏响应延迟，提升核心界面整体流畅度。",
-      "publishedAt": "2026-05-27T08:14:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/654.htm",
-      "subCategory": "操作系统"
     }
   ]
 }

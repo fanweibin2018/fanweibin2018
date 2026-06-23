@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-23T18:45:00+08:00",
   "items": [
+    {
+      "id": "finance-20260623-003",
+      "title": "A股、港股主要股指大幅回调，有色板块跳水，医药板块逆市拉升",
+      "summary": "6月23日A股三大指数全线下跌，沪指跌1.37%，深成指跌3.17%，创业板指跌3.84%，沪深两市成交额3.44万亿；有色金属板块跳水，超20只股票触及跌停；医药板块逆势拉升，创新药、CRO等多只个股涨停；港股恒生指数跌1.82%，恒生科技跌3.30%，AI硬科技股与存储半导体股集体重挫。",
+      "publishedAt": "2026-06-23T17:17:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/3974944.html",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260623-002",
       "title": "暴跌，熔断！韩国股市崩了，监管发出警告！两大存储巨头重挫",
@@ -714,15 +723,6 @@
       "publishedAt": "2026-05-20T19:12:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/953/029.htm",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260520-002",
-      "title": "投资超 600 亿美元，孙正义豪赌 OpenAI 引发内部质疑\"迷信奥尔特曼如追星\"",
-      "summary": "软银对OpenAI投资承诺超600亿美元，引发内部担忧，批评孙正义对奥尔特曼的信任过于依赖被喻为\"追星\"；软银已出售英伟达股份集中投入、缺乏董事会实质影响力，竞争对手Anthropic持续蚕食OpenAI市场份额。",
-      "publishedAt": "2026-05-20T03:22:00+00:00",
-      "source": "Bloomberg",
-      "url": "https://news.bloomberglaw.com/securities-law/softbank-founders-starstruck-bet-on-openai-raises-concern",
       "subCategory": "一级市场"
     }
   ],
