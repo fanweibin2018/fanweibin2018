@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-22T12:30:00+08:00",
+  "updatedAt": "2026-06-23T08:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260623-002",
+      "title": "万亿智谱阴影下，中国互联网巨头们的\"身份危机\"",
+      "summary": "智谱市值突破万亿港元，资本市场预期大模型将系统性蚕食传统互联网巨头的利润池。腾讯、阿里、字节等巨头面临身份危机，因其商业模式建立在旧范式基础上，难以完全转向大模型时代的新逻辑。",
+      "publishedAt": "2026-06-23T08:16:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3864993081234692",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260623-001",
+      "title": "谷歌DeepMind向独立制片公司A24注资7500万美元，共同研发影视AI工具",
+      "summary": "谷歌DeepMind宣布向独立电影制片公司A24投资7500万美元，双方将联合开发影视制作的人工智能工具。这是业内首创的合作模式，旨在将顶尖创作者的反馈与专业指导融入AI工具开发中。",
+      "publishedAt": "2026-06-23T08:04:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/967/260.htm",
+      "subCategory": "多模态"
+    },
     {
       "id": "ai-20260622-001",
       "title": "OpenAI 史上最大规模企业部署之一：三星向员工开放 ChatGPT 和 Codex",
@@ -17,7 +35,7 @@
     {
       "id": "ai-20260622-002",
       "title": "豆包 App 灰测打车功能，由曹操出行提供服务",
-      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框"口述出行需求"，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
+      "summary": "豆包应用正在北京、杭州两城进行打车功能灰测，与曹操出行合作提供服务。用户可在豆包对话框\"口述出行需求\"，系统自动识别地点和人数后自动匹配运力。曹操出行同步宣布启动全面AI转型，计划到2030年部署10万辆Robotaxi与10万辆Robovan。",
       "publishedAt": "2026-06-22T11:17:40+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/966/840.htm",
@@ -456,24 +474,6 @@
       "subCategory": "AI编程"
     },
     {
-      "id": "ai-20260522-009",
-      "title": "Anthropic Project Glasswing：AI 一个月发现超 1 万个高危漏洞，修补速度已成瓶颈",
-      "summary": "Anthropic公布Project Glasswing首月进展：基于Claude Mythos Preview协助约50家合作伙伴扫描代码库，一个月内在关键软件中发现逾1万个高危和严重级安全漏洞；研究表明AI发现漏洞速度已超过人工修补能力，形成新安全瓶颈；Anthropic同步开放代码库扫描工具并支持开源安全基金会，协助防御方主动应对漏洞风险。",
-      "publishedAt": "2026-05-22",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260522-007",
-      "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
-      "summary": "DeepSeek官方宣布DeepSeek-V4-Pro API于5月31日起永久降价，调整为原定价的1/4；原价输入缓存命中0.1元/百万Tokens、缓存未命中12元/百万Tokens、输出24元/百万Tokens，此前2.5折促销期结束后将正式固化为永久定价，进一步降低国产顶级大模型的API使用成本。",
-      "publishedAt": "2026-05-22",
-      "source": "AndroidHeadlines",
-      "url": "https://www.androidheadlines.com/2026/05/deepseek-v4-pro-api-price-cut-permanent-ai-rate-limits.html",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260522-006",
       "title": "效率、成本、精度三重突破，灵御智能拿下近亿元融资",
       "summary": "清华系企业灵御智能研发的TA机器人在具身智能数据采集领域实现三大突破：执行速度为竞品的30%、单任务数据成本降至0.6元、重复定位精度达0.1毫米；公司定位为具身智能基础设施提供商，通过为行业提供高质量本体和真机数据服务，获得近亿元融资。",
@@ -519,13 +519,22 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260522-002",
-      "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
-      "summary": "Spotify与环球音乐集团达成授权协议，允许Premium订阅用户利用AI创作翻唱歌曲和混音作品，功能通过付费服务推出，为音乐人开辟版税外新收入来源；协议达成后Spotify股价上涨16%，是AI生成内容与传统版权体系规模化合作的标志性案例。",
-      "publishedAt": "2026-05-21",
-      "source": "Spotify Newsroom",
-      "url": "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/",
-      "subCategory": "AI音频"
+      "id": "ai-20260522-009",
+      "title": "Anthropic Project Glasswing：AI 一个月发现超 1 万个高危漏洞，修补速度已成瓶颈",
+      "summary": "Anthropic公布Project Glasswing首月进展：基于Claude Mythos Preview协助约50家合作伙伴扫描代码库，一个月内在关键软件中发现逾1万个高危和严重级安全漏洞；研究表明AI发现漏洞速度已超过人工修补能力，形成新安全瓶颈；Anthropic同步开放代码库扫描工具并支持开源安全基金会，协助防御方主动应对漏洞风险。",
+      "publishedAt": "2026-05-22",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260522-007",
+      "title": "DeepSeek-V4-Pro API 宣布永久降价，调整为原定价的 1/4",
+      "summary": "DeepSeek官方宣布DeepSeek-V4-Pro API于5月31日起永久降价，调整为原定价的1/4；原价输入缓存命中0.1元/百万Tokens、缓存未命中12元/百万Tokens、输出24元/百万Tokens，此前2.5折促销期结束后将正式固化为永久定价，进一步降低国产顶级大模型的API使用成本。",
+      "publishedAt": "2026-05-22",
+      "source": "AndroidHeadlines",
+      "url": "https://www.androidheadlines.com/2026/05/deepseek-v4-pro-api-price-cut-permanent-ai-rate-limits.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260522-001",
@@ -555,12 +564,21 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260520-009",
-      "title": "Stability AI 推出音频模型 Stable Audio 3.0，可生成最长 6 分钟专业级歌曲",
-      "summary": "Stability AI发布Stable Audio 3.0音频生成模型，提供四个规格版本，大型模型可生成长达6分钟20秒的完整乐曲，是2024年版本的两倍；小型模型已开源，大型模型通过API提供，并与华纳音乐、环球音乐达成合作许可协议。",
-      "publishedAt": "2026-05-20",
-      "source": "Stability AI",
-      "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "id": "ai-20260520-005",
+      "title": "OpenAI 为应对算力紧缺推出\"保证容量\"服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
+      "summary": "OpenAI推出\"保证容量\"服务，企业客户可与OpenAI签订1至3年专属算力合同，年消费规模越大折扣越高；服务覆盖OpenAI全产品线，支持生产系统、用户应用及AI智能体场景，客户可在支持的云服务商和模型家族之间灵活调配资源，旨在解决企业AI落地时的算力供给不确定性问题。",
+      "publishedAt": "2026-05-20T20:51:00+00:00",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260522-002",
+      "title": "允许订阅用户创作 AI 翻唱、Remix 音乐，Spotify 与环球音乐达成合作",
+      "summary": "Spotify与环球音乐集团达成授权协议，允许Premium订阅用户利用AI创作翻唱歌曲和混音作品，功能通过付费服务推出，为音乐人开辟版税外新收入来源；协议达成后Spotify股价上涨16%，是AI生成内容与传统版权体系规模化合作的标志性案例。",
+      "publishedAt": "2026-05-21",
+      "source": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/",
       "subCategory": "AI音频"
     },
     {
@@ -582,22 +600,22 @@
       "subCategory": "AI视频"
     },
     {
-      "id": "ai-20260520-004",
-      "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
-      "summary": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西官宣正式加盟Anthropic，将加入预训练团队并领导新团队，利用Claude模型能力加速大模型基础研究；此前卡帕西曾创办AI教育公司Eureka Labs，此次重返前沿研究被业界视为顶尖AI人才争夺战的标志性节点，Anthropic预训练团队实力进一步增强。",
-      "publishedAt": "2026-05-19T08:43:00-07:00",
+      "id": "ai-20260520-001",
+      "title": "谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据",
+      "summary": "谷歌I/O 2026发布Gemini Spark个人AI智能体，在专属虚拟环境中24小时自主运行，基于Gemini 3.5模型与Antigravity框架，通过MCP协议集成第三方工具；可代用户处理邮件整理、日程规划等多步骤任务而无需担心数据被误操作，下周面向美国AI Ultra用户开放，月费100美元起，夏季将集成至Chrome浏览器。",
+      "publishedAt": "2026-05-19T10:45:00-07:00",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "subCategory": "大模型"
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "subCategory": "Agent"
     },
     {
-      "id": "ai-20260520-005",
-      "title": "OpenAI 为应对算力紧缺推出\"保证容量\"服务：客户可锁定 1 至 3 年长期算力，年消费越高折扣越大",
-      "summary": "OpenAI推出\"保证容量\"服务，企业客户可与OpenAI签订1至3年专属算力合同，年消费规模越大折扣越高；服务覆盖OpenAI全产品线，支持生产系统、用户应用及AI智能体场景，客户可在支持的云服务商和模型家族之间灵活调配资源，旨在解决企业AI落地时的算力供给不确定性问题。",
-      "publishedAt": "2026-05-20T20:51:00+00:00",
-      "source": "The Register",
-      "url": "https://www.theregister.com/ai-ml/2026/05/20/openai-wants-upfront-cash-for-guaranteed-ai-capacity/5243694",
-      "subCategory": "大模型"
+      "id": "ai-20260520-009",
+      "title": "Stability AI 推出音频模型 Stable Audio 3.0，可生成最长 6 分钟专业级歌曲",
+      "summary": "Stability AI发布Stable Audio 3.0音频生成模型，提供四个规格版本，大型模型可生成长达6分钟20秒的完整乐曲，是2024年版本的两倍；小型模型已开源，大型模型通过API提供，并与华纳音乐、环球音乐达成合作许可协议。",
+      "publishedAt": "2026-05-20",
+      "source": "Stability AI",
+      "url": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "subCategory": "AI音频"
     },
     {
       "id": "ai-20260520-006",
@@ -609,40 +627,13 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260520-001",
-      "title": "谷歌 Gemini Spark 个人智能体发布：一句话让 AI 干几份活，不用担心乱搞数据",
-      "summary": "谷歌I/O 2026发布Gemini Spark个人AI智能体，在专属虚拟环境中24小时自主运行，基于Gemini 3.5模型与Antigravity框架，通过MCP协议集成第三方工具；可代用户处理邮件整理、日程规划等多步骤任务而无需担心数据被误操作，下周面向美国AI Ultra用户开放，月费100美元起，夏季将集成至Chrome浏览器。",
-      "publishedAt": "2026-05-19T10:45:00-07:00",
+      "id": "ai-20260520-004",
+      "title": "OpenAI 联合创始人卡帕西官宣加盟 Anthropic，重返大模型研发前线",
+      "summary": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西官宣正式加盟Anthropic，将加入预训练团队并领导新团队，利用Claude模型能力加速大模型基础研究；此前卡帕西曾创办AI教育公司Eureka Labs，此次重返前沿研究被业界视为顶尖AI人才争夺战的标志性节点，Anthropic预训练团队实力进一步增强。",
+      "publishedAt": "2026-05-19T08:43:00-07:00",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260520-003",
-      "title": "谷歌发布 Gemini 3.5 Flash 模型：AI 输出速度 4 倍于 GPT-5.5",
-      "summary": "谷歌I/O 2026发布Gemini 3.5 Flash，在多项基准超越Gemini 3.1 Pro，输出速度达289 tokens/秒、是GPT-5.5和Claude Opus 4.7的4倍；内部测试中Antigravity工具调用93个子智能体并生成26亿tokens，在12小时内从零构建出一个可运行的操作系统核心。",
-      "publishedAt": "2026-05-19",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260520-007",
-      "title": "谷歌 Gemini 集成 C2PA 内容凭证：增强判断图片是否经过 AI 编辑",
-      "summary": "谷歌在I/O 2026宣布Gemini集成C2PA内容凭证以对抗深度伪造，SynthID已为十亿张图片和视频添加水印，在谷歌搜索和Chrome浏览器中整合该技术，用户可通过圈选或右键点击图片判断是否经过AI编辑。",
-      "publishedAt": "2026-05-19",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260520-002",
-      "title": "谷歌 Gemini Omni 全能模型发布：可从任意输入生成任意输出，一句话让 AI 修改视频",
-      "summary": "谷歌在I/O 2026发布Gemini Omni全能模型，由DeepMind掌门哈萨比斯主导发布，可从任意输入生成任意输出，支持文本、图像、视频、音频多模态统一交互，用户可通过自然语言一句话修改视频中角色与背景；首款Gemini Omni Flash已上线Gemini App、Google Flow与YouTube Shorts，API服务随后开放。",
-      "publishedAt": "2026-05-19",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/models/gemini-omni/",
-      "subCategory": "多模态"
     },
     {
       "id": "ai-20260519-003",
@@ -672,6 +663,33 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260520-003",
+      "title": "谷歌发布 Gemini 3.5 Flash 模型：AI 输出速度 4 倍于 GPT-5.5",
+      "summary": "谷歌I/O 2026发布Gemini 3.5 Flash，在多项基准超越Gemini 3.1 Pro，输出速度达289 tokens/秒、是GPT-5.5和Claude Opus 4.7的4倍；内部测试中Antigravity工具调用93个子智能体并生成26亿tokens，在12小时内从零构建出一个可运行的操作系统核心。",
+      "publishedAt": "2026-05-19",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260520-007",
+      "title": "谷歌 Gemini 集成 C2PA 内容凭证：增强判断图片是否经过 AI 编辑",
+      "summary": "谷歌在I/O 2026宣布Gemini集成C2PA内容凭证以对抗深度伪造，SynthID已为十亿张图片和视频添加水印，在谷歌搜索和Chrome浏览器中整合该技术，用户可通过圈选或右键点击图片判断是否经过AI编辑。",
+      "publishedAt": "2026-05-19",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260520-002",
+      "title": "谷歌 Gemini Omni 全能模型发布：可从任意输入生成任意输出，一句话让 AI 修改视频",
+      "summary": "谷歌在I/O 2026发布Gemini Omni全能模型，由DeepMind掌门哈萨比斯主导发布，可从任意输入生成任意输出，支持文本、图像、视频、音频多模态统一交互，用户可通过自然语言一句话修改视频中角色与背景；首款Gemini Omni Flash已上线Gemini App、Google Flow与YouTube Shorts，API服务随后开放。",
+      "publishedAt": "2026-05-19",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/models/gemini-omni/",
+      "subCategory": "多模态"
+    },
+    {
       "id": "ai-20260518-002",
       "title": "腾讯推出 AI 应用生成平台\"吐司\"：定位\"探索型氛围编程产品\"、支持一键打造 App 原型预览",
       "summary": "腾讯推出名为\"吐司\"的AI应用生成平台，定位\"探索型氛围编程产品\"，用户仅需自然语言描述想法，AI可自动拆解功能、生成原型并打包为App；提供创造应用、社交分享及灵感广场等功能，安卓版已上线，iOS版稍后推出，公测期间限时免费。",
@@ -690,15 +708,6 @@
       "subCategory": "AI视频"
     },
     {
-      "id": "ai-20260516-003",
-      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
-      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
-      "publishedAt": "2026-05-16T14:49:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/255.htm",
-      "subCategory": "开源模型"
-    },
-    {
       "id": "ai-20260516-002",
       "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
       "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的\"超级应用\"，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
@@ -708,22 +717,13 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260516-001",
-      "title": "OpenAI 开测 ChatGPT 个人理财：AI 洞察消费、分析旅行支出、规划目标等",
-      "summary": "OpenAI推出ChatGPT个人理财功能预览版，面向美国ChatGPT Pro用户（月费200美元），通过Plaid接入逾1.2万家金融机构，支持连接银行、投资、信用卡账户，生成消费仪表盘并提供目标规划、旅行支出分析等功能；账户数据30天后自动删除，源自OpenAI今年4月收购的初创公司Hiro团队。",
-      "publishedAt": "2026-05-16T08:15:00+08:00",
+      "id": "ai-20260516-003",
+      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
+      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
+      "publishedAt": "2026-05-16T14:49:25+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/162.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260515-002",
-      "title": "自 SpaceX 和 xAI 合并以来，马斯克的 SpaceXAI 核心人才正持续流失",
-      "summary": "xAI与SpaceX合并后组建的SpaceXAI自2月以来已有50余名研究人员和工程师离职，其中至少11人加入Meta、7人加入Thinking Machines Lab；预训练团队缩减至少数几人，Grok语音等核心团队受冲击，外界开始质疑SpaceXAI是否仍致力于开发行业领先大模型。",
-      "publishedAt": "2026-05-15T16:18:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/005.htm",
-      "subCategory": "大模型"
+      "url": "https://www.ithome.com/0/951/255.htm",
+      "subCategory": "开源模型"
     }
   ]
 }
