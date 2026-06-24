@@ -3,8 +3,32 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-24T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260624-003",
+      "title": "小米REDMI K90至尊版官宣搭载骁龙8至尊版，6月30日发布",
+      "url": "https://www.ithome.com/0/968/004.htm",
+      "publishedAt": "2026-06-24T16:24:34+08:00",
+      "category": "消费电子",
+      "description": "小米官方确认Redmi K90至尊版将搭载高通骁龙8至尊版处理器，发布日期定于6月30日，主打旗舰性能与性价比。"
+    },
+    {
+      "id": "tech-20260624-002",
+      "title": "马斯克官宣Starmind太空AI算力项目，规划100万颗计算卫星入轨",
+      "url": "https://www.ithome.com/0/967/900.htm",
+      "publishedAt": "2026-06-24T14:48:51+08:00",
+      "category": "云计算",
+      "description": "埃隆·马斯克宣布Starmind计划，拟在轨道部署100万颗搭载AI算力的小型卫星，构建覆盖全球的太空分布式计算网络。"
+    },
+    {
+      "id": "tech-20260624-001",
+      "title": "消息称高通正洽谈为字节跳动提供芯片设计服务",
+      "url": "https://www.ithome.com/0/967/873.htm",
+      "publishedAt": "2026-06-24T14:15:28+08:00",
+      "category": "芯片硬件",
+      "description": "据悉高通正与字节跳动洽谈芯片设计服务合作，将借助自身半导体设计能力协助字节跳动开发AI推理专用芯片。"
+    },
     {
       "id": "tech-20260623-003",
       "title": "腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件",
@@ -393,21 +417,21 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260609-001",
-      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
-      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
-      "publishedAt": "2026-06-09",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/961/722.htm",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260609-002",
       "title": "苹果确认：Siri AI等Apple Intelligence新功能在中国大陆暂不提供",
       "summary": "苹果在WWDC26后确认，新版Siri AI跨应用操作及多项Apple Intelligence新功能在中国大陆暂不上线，原因为需满足当地法规要求；苹果表示正持续与相关部门沟通，用户可将设备语言切换至繁体中文以体验部分已上线功能。",
       "publishedAt": "2026-06-09T02:14:17+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/961/679.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-001",
+      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
+      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
+      "publishedAt": "2026-06-09",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/722.htm",
       "subCategory": "消费电子"
     },
     {
@@ -697,33 +721,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/270.htm",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-010",
-      "title": "微软Win11今年AI规划曝光：图片表格转Excel、任务栏Ask Copilot",
-      "summary": "内部文件显示微软Windows 11 2026年AI功能路线图规划了图片/表格内容一键转Excel、任务栏新增Ask Copilot快速入口及通知面板AI摘要等功能，预计随今年秋季大版本更新分批落地。",
-      "publishedAt": "2026-05-27T08:26:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/658.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-009",
-      "title": "欧洲迄今最复杂CPU Rhea1成功点亮，目标年内在超算服役",
-      "summary": "欧洲芯片初创SiPearl自研ARM高性能计算CPU Rhea1完成首次通电点亮，为欧洲迄今设计最复杂CPU；目标2026年底前部署至欧洲超算集群，推进欧洲在AI和科学计算领域的芯片自主化战略。",
-      "publishedAt": "2026-05-27T08:24:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/655.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-008",
-      "title": "微软Win11推送26x00.8524预览版更新KB5089573：加快应用启动速度，优化开始菜单、搜索等核心界面体验",
-      "summary": "微软向Dev频道发布Windows 11 Insider Preview Build 26120.8524，重点改善应用冷热启动速度，优化开始菜单排序、搜索结果质量与任务栏响应延迟，提升核心界面整体流畅度。",
-      "publishedAt": "2026-05-27T08:14:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/654.htm",
-      "subCategory": "操作系统"
     }
   ]
 }
