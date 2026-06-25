@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T17:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260625-002",
+      "title": "首款折叠屏iPhone即将量产！4股获融资客大幅买入",
+      "summary": "苹果首款折叠屏iPhone已完成主要规格确认进入量产准备，预计7月下旬启动量产，9月随iPhone 18系列发布，带动BOE、蓝思科技等A股折叠屏概念股获大量融资买入。",
+      "publishedAt": "2026-06-25T07:38:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieqnce5801610.shtml",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260625-001",
+      "title": "宇树R1人形机器人大降价：2.99万元起！现货发售",
+      "summary": "宇树科技宣布Unitree R1人形机器人售价从3.99万元降至2.99万元，降幅25%，核心零部件90%国产化自研是降价核心原因，即日起现货发售，消费级人形机器人门槛显著降低。",
+      "publishedAt": "2026-06-25T02:59:58+08:00",
+      "source": "DoNews",
+      "url": "https://www.donews.com/news/detail/4/6608050.html",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260624-001",
+      "title": "尊界S800典藏大观首批展车到店！新车明日发布",
+      "summary": "鸿蒙智行尊界S800 Grand Design典藏大观首批展车进驻全国9大城市门店，6月25日品牌盛典正式发布，预售价160万-200万元，提供纯电和增程两种动力。",
+      "publishedAt": "2026-06-24T14:15:00+08:00",
+      "source": "中手机",
+      "url": "https://smartcar.cnmo.com/news/811912.html",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260623-003",
       "title": "腾讯 QQ 邮箱 Agently Mail 开启内测，让 AI 用自己的身份收发邮件",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/270.htm",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-010",
-      "title": "微软Win11今年AI规划曝光：图片表格转Excel、任务栏Ask Copilot",
-      "summary": "内部文件显示微软Windows 11 2026年AI功能路线图规划了图片/表格内容一键转Excel、任务栏新增Ask Copilot快速入口及通知面板AI摘要等功能，预计随今年秋季大版本更新分批落地。",
-      "publishedAt": "2026-05-27T08:26:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/658.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260527-009",
-      "title": "欧洲迄今最复杂CPU Rhea1成功点亮，目标年内在超算服役",
-      "summary": "欧洲芯片初创SiPearl自研ARM高性能计算CPU Rhea1完成首次通电点亮，为欧洲迄今设计最复杂CPU；目标2026年底前部署至欧洲超算集群，推进欧洲在AI和科学计算领域的芯片自主化战略。",
-      "publishedAt": "2026-05-27T08:24:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/655.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260527-008",
-      "title": "微软Win11推送26x00.8524预览版更新KB5089573：加快应用启动速度，优化开始菜单、搜索等核心界面体验",
-      "summary": "微软向Dev频道发布Windows 11 Insider Preview Build 26120.8524，重点改善应用冷热启动速度，优化开始菜单排序、搜索结果质量与任务栏响应延迟，提升核心界面整体流畅度。",
-      "publishedAt": "2026-05-27T08:14:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/955/654.htm",
-      "subCategory": "操作系统"
     }
   ]
 }

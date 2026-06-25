@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T17:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260624-004",
+      "title": "HappyHorse 1.1刚掀桌子，Seedance 2.5就来了",
+      "summary": "阿里HappyHorse 1.1和字节Seedance 2.5在48小时内接连发布，前者五维全面升级并降价25%，后者单次生成延长至30秒支持50个多模态参考素材，中国AI视频模型竞争激烈。",
+      "publishedAt": "2026-06-24T17:46:00+08:00",
+      "source": "AMZ123跨境卖家导航",
+      "url": "https://www.amz123.com/t/CFbsEtNR",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260624-003",
+      "title": "火山引擎发布豆包音频生成模型1.0",
+      "summary": "火山引擎发布豆包音频生成模型Doubao-Seed-Audio1.0，支持文本和音频参考双输入，可编排多角色对白、情绪语气和背景音乐，单次支持2分钟创作，已开启API邀测。",
+      "publishedAt": "2026-06-24T17:45:00+08:00",
+      "source": "AMZ123跨境卖家导航",
+      "url": "https://www.amz123.com/t/hwAVf0He",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260624-001",
+      "title": "豆包率先收费",
+      "summary": "字节跳动豆包正式推出阶梯式付费方案，专业版月费68元/200元/500元，年费最高5088元，同时保留基础免费服务，AI应用“免费+付费”双轨模式全面落地。",
+      "publishedAt": "2026-06-24T14:51:48+08:00",
+      "source": "经纬视点",
+      "url": "https://www.jwview.com/jingwei/html/m/06-24/676397.shtml",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260624-002",
+      "title": "Bringing more control over your connectors",
+      "summary": "Mistral AI升级企业连接器功能，新增工作区权限管理、含连接器权限API密钥和多账户绑定，推出Connectors Debugger调试工具，支持跨60+平台安全接入生产数据。",
+      "publishedAt": "2026-06-24",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/more-control-over-connectors/",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260623-002",
       "title": "超 Claude Mythos 5 成绩：OpenAI 最强“抓虫 AI”GPT-5.5-Cyber 刷新 CyberGym 纪录",
@@ -687,42 +723,6 @@
       "publishedAt": "2026-05-19T07:53:39+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/952/057.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260518-002",
-      "title": "腾讯推出 AI 应用生成平台\"吐司\"：定位\"探索型氛围编程产品\"、支持一键打造 App 原型预览",
-      "summary": "腾讯推出名为\"吐司\"的AI应用生成平台，定位\"探索型氛围编程产品\"，用户仅需自然语言描述想法，AI可自动拆解功能、生成原型并打包为App；提供创造应用、社交分享及灵感广场等功能，安卓版已上线，iOS版稍后推出，公测期间限时免费。",
-      "publishedAt": "2026-05-18T19:55:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/952/009.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260518-001",
-      "title": "Netflix 成立 AI 工作室 INKubator，发力生成式动画短片",
-      "summary": "Netflix 成立内部专属 AI 动画工作室 INKubator，专注于使用生成式 AI 创作影院级动画内容，采用生成式 AI 驱动工作流、艺术家工具和可扩展多集制作环境，正在招募制片人、软件工程师和 CG 艺术家；该举措标志 Netflix 将生成式 AI 融入内容制作核心流程。",
-      "publishedAt": "2026-05-18T06:50:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/584.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260516-003",
-      "title": "蚂蚁集团百灵开源万亿参数思考模型 Ring-2.6-1T",
-      "summary": "蚂蚁集团百灵大模型开源Ring-2.6-1T，定位面向复杂任务场景的万亿参数旗舰推理模型，提供High（低消耗、适合Agent多步工作流）和XHigh（深度推理、适合数学与复杂逻辑分析）两种推理强度，已上线Hugging Face和ModelScope平台供开发者下载与适配。",
-      "publishedAt": "2026-05-16T14:49:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/255.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260516-002",
-      "title": "OpenAI 大规模重组，总裁 Brockman 夺权挂帅",
-      "summary": "OpenAI将ChatGPT、Codex和API三大产品线整合为统一产品组织，联合创始人兼总裁Greg Brockman正式接管全部产品战略；ChatGPT负责人Nick Turley转任企业客户，公司正开发融合ChatGPT、Codex编程智能及Atlas浏览器的\"超级应用\"，Sora视频生成项目已终止，Kevin Weil等核心高管相继离职。",
-      "publishedAt": "2026-05-16T14:55:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/951/258.htm",
       "subCategory": "大模型"
     }
   ]

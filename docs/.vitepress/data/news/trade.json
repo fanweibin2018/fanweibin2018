@@ -3,8 +3,35 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-06-23T17:00:00+08:00",
+  "updatedAt": "2026-06-25T17:00:00+08:00",
   "items": [
+    {
+      "id": "trade-20260625-001",
+      "title": "高油价侵蚀美消费者购买力，亚马逊Prime Day开局疲软，家庭消费下降16%",
+      "summary": "亚马逊Prime Day 2026首日表现低于预期，美国家庭平均消费约89美元同比下降约16%，高油价压制消费力，卖家缩减折扣范围至15-20%，全程预计总销售额仍可达263亿美元。",
+      "publishedAt": "2026-06-25T15:19:45+08:00",
+      "source": "网易财经",
+      "url": "https://www.163.com/dy/article/L08J9P8H05198NMR.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260625-002",
+      "title": "亚马逊开始在ChatGPT投放广告",
+      "summary": "亚马逊开始在OpenAI的ChatGPT平台投放广告，标志着该公司广告策略向AI对话平台延伸，ChatGPT已成为重要零售广告新渠道。",
+      "publishedAt": "2026-06-25",
+      "source": "AMZ123跨境卖家导航",
+      "url": "https://www.amz123.com/zb/20260625",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260624-001",
+      "title": "印尼规范电商平台收费机制，费用上涨需提前通知",
+      "summary": "印尼政府出台新规，要求电商平台费率上涨须提前3个月书面通知，平台只能收取注册费、服务费和可选增值服务费，保护中小微企业经营稳定性。",
+      "publishedAt": "2026-06-24T16:39:00+08:00",
+      "source": "AMZ123跨境卖家导航",
+      "url": "https://www.amz123.com/t/PMN9VrZe",
+      "subCategory": "平台政策"
+    },
     {
       "id": "trade-20260622-001",
       "title": "第四届链博会今日开幕，首次设立人工智能专区",
