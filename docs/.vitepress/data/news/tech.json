@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-06-25T19:35:00+08:00",
+  "updatedAt": "2026-06-26T08:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260626-002",
+      "title": "IBM推出全球首款小于1纳米的芯片技术",
+      "summary": "IBM推出采用NanoStack 3D晶体管架构的0.7纳米芯片工艺，在指甲盖大小芯片上集成近千亿晶体管，晶体管密度是2纳米芯片的近两倍，性能提升50%或能效提升70%，预计2031年进入量产。",
+      "publishedAt": "2026-06-26T07:40:00+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-06-26/4437913.html",
+      "subCategory": "芯片"
+    },
+    {
+      "id": "tech-20260626-001",
+      "title": "美光业绩大超预期大涨15%，带动多只芯片股走强",
+      "summary": "美光科技公布超预期Q3财报，受AI行业存储芯片需求激增带动，股价大涨15%，盘中市值一度超越元平台与特斯拉。闪迪同步涨近22%，西部数据涨近5%，希捷涨3.23%。",
+      "publishedAt": "2026-06-26T04:32:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/world/2026-06-26/doc-inieskua0668699.shtml",
+      "subCategory": "芯片"
+    },
+    {
+      "id": "tech-20260626-003",
+      "title": "苹果上调Mac及iPad价格 暂未调整iPhone售价",
+      "summary": "苹果宣布上调Mac、iPad、Vision Pro等多款产品价格，因AI数据中心扩张导致全球存储芯片空前短缺，CEO库克称涨价不可避免，iPhone暂未涨价。苹果股价当日下跌6.15%，创2025年4月以来最大跌幅。",
+      "publishedAt": "2026-06-25T23:43:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-25/doc-inieryei7595540.shtml",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260625-006",
       "title": "超级电容行业进入量价齐升周期，AI服务器刚需持续拉动",
@@ -447,21 +474,21 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260609-001",
-      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
-      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
-      "publishedAt": "2026-06-09",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/961/722.htm",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260609-002",
       "title": "苹果确认：Siri AI等Apple Intelligence新功能在中国大陆暂不提供",
       "summary": "苹果在WWDC26后确认，新版Siri AI跨应用操作及多项Apple Intelligence新功能在中国大陆暂不上线，原因为需满足当地法规要求；苹果表示正持续与相关部门沟通，用户可将设备语言切换至繁体中文以体验部分已上线功能。",
       "publishedAt": "2026-06-09T02:14:17+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/961/679.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260609-001",
+      "title": "苹果WWDC26主题演讲要点：iOS 27、macOS Tahoe发布，Siri AI全面升级",
+      "summary": "苹果WWDC26发布iOS 27、macOS Tahoe等系统更新；Siri获重大升级，新增跨应用多步骤操作与屏幕内容理解能力；Apple Intelligence扩展写作工具及图像生成功能；上述新功能秋季推出，中国大陆地区暂不提供AI相关新功能。",
+      "publishedAt": "2026-06-09",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/961/722.htm",
       "subCategory": "消费电子"
     },
     {
@@ -696,33 +723,6 @@
       "publishedAt": "2026-05-29T08:30:47+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/956/845.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260529-002",
-      "title": "特斯拉 Robotaxi 依据得州新规自我认证为 L4 级，车队规模仍远逊于 Waymo",
-      "summary": "德州新法规于2026年5月28日生效，特斯拉据此将Robotaxi自我认证为L4级自动驾驶。截至5月28日，特斯拉在德州仅有42辆授权自动驾驶车辆，远少于Waymo的577辆和Avride的317辆。特斯拉正在欧文市建设车队中心，推进Cybercab的商业运营。",
-      "publishedAt": "2026-05-29T08:10:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/956/842.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260529-003",
-      "title": "“全球最小的智能戒指”：Oura Ring 5 发布，尺寸较前代小 40%",
-      "summary": "Oura公司推出新款智能戒指Ring 5，相比Ring 4尺寸缩小40%，宽度仅6.09毫米。产品采用重构的传感系统和电池方案，在更小体积下保留现有追踪功能。新增Health Radar、AI健康建议、医疗记录导入和GLP-1追踪工具，支持血压和呼吸监测。售价399美元起，需订阅服务。",
-      "publishedAt": "2026-05-29T08:05:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/956/840.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260528-001",
-      "title": "中国首款：比亚迪自研 4nm 智驾芯片璇玑 A3 发布，支持 L3、L4 自动驾驶",
-      "summary": "比亚迪正式推出自主研发的“璇玑A3”智驾芯片，采用4nm工艺，已启动规模量产。该芯片支持L3和L4级自动驾驶，三颗芯片总算力超过2100TOPS，通过深度算法优化使算力利用率提升一倍。比亚迪拥有从设计到制造的完整芯片产业链，已推出2000多款芯片产品，现有7000余人的研发团队。",
-      "publishedAt": "2026-05-28T20:21:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/956/780.htm",
       "subCategory": "芯片硬件"
     }
   ]
