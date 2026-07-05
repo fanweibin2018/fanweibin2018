@@ -3,8 +3,143 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-05T17:00:00+08:00",
+  "updatedAt": "2026-07-05T23:59:00+08:00",
   "items": [
+    {
+      "id": "tech-20260705-013",
+      "title": "成立不到3年，\"Token工厂\"硅基流动递表港交所",
+      "summary": "AI基础设施公司硅基流动于6月30日向港交所递交上市申请，成立不满3年。2025年营收同比大幅增长但公司仍处亏损阶段，截至今年4月注册用户超1000万，企业客户超1.3万家。",
+      "publishedAt": "2026-07-05T23:51:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/866.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260705-014",
+      "title": "壁仞科技上市半年后开启配售：拟募资70亿港元，加快下一代GPGPU商业化",
+      "summary": "壁仞科技公告将发行1.53亿股新H股，每股46.2港元，拟募资约70.69亿港元，资金用于新一代GPGPU产品客户送样、量产及研发投入，并进行战略投资并购。",
+      "publishedAt": "2026-07-05T23:28:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/865.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260705-015",
+      "title": "Zero Day Clock网站示警：黑客最快2小时内即可利用新公开漏洞发起攻击",
+      "summary": "Sysdig安全负责人发起的Zero Day Clock项目基于超3500起真实攻击事件统计发现，2026年漏洞从披露到首次被利用的平均时间已缩短至不到2小时，远快于2025年的21.5天。",
+      "publishedAt": "2026-07-05T22:52:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/862.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260705-016",
+      "title": "Linux内核epoll子系统曝本地提权漏洞\"Bad Epoll\"，CVSS评分7.8波及安卓",
+      "summary": "Linux内核epoll子系统被曝存在因竞态条件引发的释放后使用漏洞\"Bad Epoll\"，CVSS评分7.8，可致普通用户提权至root，影响6.4及以上内核版本，波及部分谷歌安卓设备。",
+      "publishedAt": "2026-07-05T22:44:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/861.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260705-017",
+      "title": "零跑全新B01/B10座舱细节公布：前排双零重力座椅、全景天幕加电动遮阳帘",
+      "summary": "零跑公布B01轿车与B10 SUV座舱配置，B01配50英寸AR-HUD、17.3英寸中控屏；B10搭载124度零重力前排座椅及电动天幕遮阳帘，两款车型即将上市。",
+      "publishedAt": "2026-07-05T22:42:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/860.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260705-018",
+      "title": "郭明錤：苹果折叠屏iPhone或重演iPhone X剧本，同场发布但延后开卖",
+      "summary": "分析师郭明錤预计苹果折叠屏iPhone将在2026年下半年发布但延后至第四季度开卖，产量受限，预计全年出货700-800万台，价格约2300-2500美元，年底前供应仍将紧张。",
+      "publishedAt": "2026-07-05T22:37:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/859.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260705-019",
+      "title": "Discord登陆Meta Quest头显平台，登录送1个月Nitro会员",
+      "summary": "Discord正式上线Meta Quest头显，提供2D界面下的文字与语音聊天、直播观看及VR画面直播功能，新用户登录即送一个月Nitro会员，目前应用在Horizon商店评分仅3星。",
+      "publishedAt": "2026-07-05T22:31:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/857.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260705-020",
+      "title": "我国成功发射千帆星座组网卫星，星座规模增至238颗",
+      "summary": "长征八号甲运载火箭于海南发射千帆星座卫星，一次性送入20颗卫星，创单次发射数量新高，千帆星座卫星总数增至238颗，未来规划总规模将超过1.5万颗。",
+      "publishedAt": "2026-07-05T22:25:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/856.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260705-021",
+      "title": "Yeelight智能护眼无叶风扇灯发售，支持正反转双模式，售价569元",
+      "summary": "Yeelight在小米众筹上线智能护眼无叶风扇灯，厚度15.5厘米，采用正面直下与侧边发光结构，风力可达4米远，支持正反转双模式，接入米家App远程控制，8月25日起发货。",
+      "publishedAt": "2026-07-05T22:22:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/855.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260705-022",
+      "title": "飞利浦27M4N5500PT显示器首销，2K 275Hz/FHD 360Hz/HD 540Hz三模，售价1199元",
+      "summary": "飞利浦推出27英寸电竞显示器27M4N5500PT，采用Fast IPS面板，支持2K 275Hz、1080P 360Hz、720P 540Hz三种刷新率模式，响应时间1ms，覆盖100% sRGB色域，京东首销价1199元。",
+      "publishedAt": "2026-07-05T22:10:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/852.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260705-023",
+      "title": "长征十号乙首飞锁定7月10日至13日，验证海上网系回收技术",
+      "summary": "我国新一代可重复使用两级火箭长征十号乙的首飞窗口确定为7月10日至13日，该火箭不设起落腿，采用回收船网系捕获技术回收一子级，用于低成本高频次发射及验证载人登月相关技术。",
+      "publishedAt": "2026-07-05T21:52:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/847.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260705-024",
+      "title": "吉利银河TT纯电运动轿车官图发布，或搭载千里浩瀚H7辅助驾驶方案",
+      "summary": "吉利银河TT纯电运动轿车官图公布，将于7月6日正式亮相，车身尺寸4999×1919×1479毫米，提供578马力四驱和333马力后驱两个版本，电池容量52.5至75.2千瓦时，续航540至725公里。",
+      "publishedAt": "2026-07-05T21:51:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/846.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260705-025",
+      "title": "芯片大牛吉姆·凯勒创业公司更名Fab2，打造\"晶圆厂制造厂\"",
+      "summary": "由芯片架构师吉姆·凯勒与Sam Zeloof创立的Atomic Semi更名为Fab2并迁至得克萨斯州，目标是批量制造小型晶圆厂及配套设备，专注软件定义晶圆厂，可实现数小时级原型迭代，现运营三处场地。",
+      "publishedAt": "2026-07-05T21:36:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/845.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260705-027",
+      "title": "These popular smartphones are in their last year of software support",
+      "summary": "Engadget报道称多款热门机型即将停止系统更新，三星、谷歌、摩托罗拉和苹果的软件支持年限从4年到7年不等，停止更新后设备将无法获得安全补丁，建议消费者购买前核实机型支持期限。",
+      "publishedAt": "2026-07-05T09:30:00-04:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2206707/these-popular-smartphones-are-in-their-last-year-of-software-support/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260705-026",
+      "title": "中际旭创回应康宁\"玻璃桥\"技术冲击：并非光模块替代方案，公司技术布局可适配",
+      "summary": "光模块厂商中际旭创回应投资者关切，称康宁\"玻璃桥\"是应用于CPO内部光耦合组件的新方案，并非对现有光模块产品的替代，公司多元化技术布局足以应对该技术未来可能的主流化趋势。",
+      "publishedAt": "2026-07-05T21:16:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/972/842.htm",
+      "subCategory": "网络基础设施"
+    },
     {
       "id": "tech-20260705-012",
       "title": "索尼 PlayStation 放弃实体光盘，游戏零售与二手市场迎来巨变",
@@ -589,141 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/971/897.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260703-018",
-      "title": "思科确认Unified CM漏洞遭攻击者利用",
-      "summary": "思科正式确认攻击者正利用Unified CM系统中的CVE-2026-20230漏洞发起未经身份验证的请求伪造攻击，建议用户尽快升级或禁用WebDialer服务，安全公司称全球逸200台设备暴露在公网。",
-      "publishedAt": "2026-07-02T07:35:25-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260703-011",
-      "title": "NASA Swift Boost任务因火箭故障推迟发射",
-      "summary": "NASA一枚搭载Katalyst公司LINK飞行器的飞马座XL火箭在7月2日发射尝试中因运载器故障未能部署，团队正分析数据以确定下一次发射时间，该任务旨在为斯威夸特天文台延寿。",
-      "publishedAt": "2026-07-02T07:03:00-04:00",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blogs/swift/2026/07/02/launch-of-swift-boost-mission-delayed-teams-reviewing-data/",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260703-017",
-      "title": "CISA警告微软SharePoint RCE漏洞已遭活跃利用",
-      "summary": "美国CISA警告，微软SharePoint反序列化漏洞CVE-2026-45659正被黑客用于远程代码执行攻击，已列入已知被利用漏洞目录并要求联邦机构限期修复，目前逸万台服务器仍暴露在公网。",
-      "publishedAt": "2026-07-02T06:52:43-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "title": "微星星影 15 Max 笔记本新增“酷睚 7 240H + RTX5060”版本，9999 元起",
-      "summary": "微星星影15 Max笔记本新增酷睚7 240H+RTX5060配置，16GB内存512GB硬盘犗9999元起，1TB版10599元，屏幕为1080P 144Hz，支持100W PD快充。",
-      "publishedAt": "2026-07-02T16:35:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/662.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260702-014"
-    },
-    {
-      "title": "礼鼎半导体科技（深圳）股份有限公司递表港交所",
-      "summary": "半导体企业礼鼎半导体科技（深圳）股份有限公司正式向香港交易所提交上市申请，中信证券担任本次IPO的独家保荐人，相关申报材料已在港交所披露易网站公开。",
-      "publishedAt": "2026-07-02T16:34:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3878245051002887",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260702-020"
-    },
-    {
-      "title": "全新猛士 M817 官宣行业首发全新一代鸿蒙座舱越野版",
-      "summary": "猛士M817官宣推出全新一代鸿蒙座舱越野版，新增越野百科问答、露营助手提醒等功能，官方称为行业首发，该车搭载华为乾坤ADS 5辅助驾驶，售价29.99万至39.99万元。",
-      "publishedAt": "2026-07-02T16:32:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/654.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-016"
-    },
-    {
-      "title": "腾景科技：拟出资3500万元设立全资子公司，整合AR消费类光学业务布局",
-      "summary": "光学元件厂商腾景科技公告拟出资3500万元设立全资子公司腾景视觉科技（昆山），整合旗下AR消费类光学业务，加速AR光波导及光学模组产品商业化进程。",
-      "publishedAt": "2026-07-02T16:32:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3878242584899848",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260702-021"
-    },
-    {
-      "title": "特斯拉：目前全球已有超过 900 万辆特斯拉行驶在路上",
-      "summary": "特斯拉宣布全球在路行驶车辆已超900万辆，超级充电桩数量超8万个，Powerwall家庭储能装机超100万台，工商业储能项目超2200个，总容量超70吉瓦时。",
-      "publishedAt": "2026-07-02T16:01:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/626.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-017"
-    },
-    {
-      "title": "联想 AI 平板拯救者 Y700 无极亮相：摄像头配 RGB 灯环，支持 5G 通话",
-      "summary": "联想拯救者Y700无极平板亮相，预计8月发售，配备5000万像素后置摄像头及RGB灯环，支持插匷5G通话，主打小尺寸平板搭配5G网络能力。",
-      "publishedAt": "2026-07-02T15:50:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/618.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260702-015"
-    },
-    {
-      "title": "比亚迪 6 月销量明细：元系列超 7 万辆，铛 7 突破 2 万辆",
-      "summary": "比亚迪公布6月销量数据，当月累计销售39.7292万辆，元系列超7万辆，铛7车型突破2万辆，王朝网与海洋网合计销量超33万辆，海外市场贡献约17.5万辆。",
-      "publishedAt": "2026-07-02T15:47:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/617.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260702-018"
-    },
-    {
-      "title": "美光CEO再次暗讽苹果：低价采购是造成内存短缺的关键",
-      "summary": "美光首席执行官再度暗指部分大客户此前压低采购价格是导致当前内存供应短缺的原因，称2023年内存价格曾跌至此前约三分之一水平，致使公司难以投资扩产。",
-      "publishedAt": "2026-07-02T15:16:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3878168457310211",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260702-022"
-    },
-    {
-      "title": "“高云半导体”完成数亿元Pre-IPO轮融资",
-      "summary": "国产FPGA厂商高云半导体宣布完成数亿元Pre-IPO轮融资，广开控股基金、广州工控资本、越秀产业基金等国资机构及恒旭资本等多家产业投资方参与，公司正推进上市计划。",
-      "publishedAt": "2026-07-02T15:13:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3878165063725065",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260702-023"
-    },
-    {
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "summary": "医疗设备商美敦力通知受ShinyHunters数据泄露事件影响的客户，事件发生于4月13日至19日，约900万条记录含姓名、出生日期及社保号泄露，公司提供24个月免费信用监控。",
-      "publishedAt": "2026-07-02T00:25:00-04:00",
-      "source": "Bleeping Computer",
-      "url": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260702-019"
-    },
-    {
-      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "summary": "SpaceX于美国太平洋时间7月1日晚从范登堡太空军基地发射猎鹰9号火箭，将24颗星链卫星（Starlink 17-46任务）送入近地轨道，一级助推器完成第7次飞行并成功回收。",
-      "publishedAt": "2026-07-02T02:57:00Z",
-      "source": "Spaceflight Now",
-      "url": "https://spaceflightnow.com/2026/07/01/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-9/",
-      "subCategory": "航空航天",
-      "id": "tech-20260702-024"
-    },
-    {
-      "title": "Secret scanning public monitoring for enterprises",
-      "summary": "GitHub宣布面向企业推出Secret Scanning公开监控功能公开预览，可实时扫描github.com公开范围内的泄露密钥，并通过成员身份及验证域名将泄露归属到具体企业，无需额外配置即可启用。",
-      "publishedAt": "2026-07-01T17:37:55-07:00",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-01-secret-scanning-public-monitoring-for-enterprises/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260701-021"
     }
   ]
 }

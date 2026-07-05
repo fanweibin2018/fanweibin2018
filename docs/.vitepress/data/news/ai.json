@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-05T17:00:00+08:00",
+  "updatedAt": "2026-07-05T23:59:00+08:00",
   "items": [
     {
       "id": "ai-20260705-001",
@@ -40,6 +40,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "subCategory": "AI编程"
+    },
+    {
+      "title": "当一千五百条漏洞一夜曝光：AI既是矛也是盾",
+      "summary": "报道援引Epoch AI数据称，6月21家主要软硬件厂商公开披露约1500个高危漏洞，为Claude Mythos模型发布前月度纪录的3.5倍，其中逸72%漏洞被自动转化为可执行攻击代码，OpenAI同期推出Daybreak用于防御性漏洞扫描。",
+      "publishedAt": "2026-07-04",
+      "source": "ALENG",
+      "url": "https://www.aleng.net/archives/20260704061445.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260704-002"
     },
     {
       "id": "ai-20260704-010",
@@ -103,15 +112,6 @@
       "url": "https://www.ithome.com/0/972/525.htm",
       "subCategory": "Agent",
       "id": "ai-20260704-003"
-    },
-    {
-      "title": "当一千五百条漏洞一夜曝光：AI既是矛也是盾",
-      "summary": "报道援引Epoch AI数据称，6月21家主要软硬件厂商公开披露约1500个高危漏洞，为Claude Mythos模型发布前月度纪录的3.5倍，其中逸72%漏洞被自动转化为可执行攻击代码，OpenAI同期推出Daybreak用于防御性漏洞扫描。",
-      "publishedAt": "2026-07-04",
-      "source": "ALENG",
-      "url": "https://www.aleng.net/archives/20260704061445.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260704-002"
     },
     {
       "id": "ai-20260703-018",
@@ -258,6 +258,33 @@
       "subCategory": "AI评测"
     },
     {
+      "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
+      "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
+      "publishedAt": "2026-07-02",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "subCategory": "大模型",
+      "id": "ai-20260702-006"
+    },
+    {
+      "title": "Copilot agent session streaming is now in public preview",
+      "summary": "GitHub为使用企业托管用户的Copilot客户提供智能体会话数据流式接口及REST API，可实时或按需获取过去48小时内的提示词、回复与工具调用记录，供接入SIEM工具进行安全监控。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/",
+      "subCategory": "AI编程",
+      "id": "ai-20260702-009"
+    },
+    {
+      "title": "Cost centers now support AI credit pools",
+      "summary": "GitHub新增成本中心AI额度池功能，可根据分配的Copilot许可证自动计算并设置各成本中心每月可消耗的AI额度上限，防止单个成本中心透支共享额度，目前通过REST API管理，界面管理即将推出。",
+      "publishedAt": "2026-07-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
+      "subCategory": "AI编程",
+      "id": "ai-20260702-010"
+    },
+    {
       "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
       "summary": "开源强化学习基础设施项目AReaL发布2.0版本，使已部署的Agent能记录真实任务交互数据并接入训练流程持续优化。项目由蚂蚁集团、清华大学、香港科技大学发起，现属PyTorch基金会开源生态。",
       "publishedAt": "2026-07-02T19:28:36+08:00",
@@ -375,33 +402,6 @@
       "id": "ai-20260701-015"
     },
     {
-      "title": "More details on Fable 5's cyber safeguards and our jailbreak framework",
-      "summary": "Anthropic公布Claude Fable 5网络安全防护细节，将使用场景分为禁止、高风险双用、低风险双用与良性四级，并联合亚马逊、微软、谷歌等提出CJS-0至CJS-4越狱严重程度评分框架，用于统一评估风险。",
-      "publishedAt": "2026-07-02",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "subCategory": "大模型",
-      "id": "ai-20260702-006"
-    },
-    {
-      "title": "Copilot agent session streaming is now in public preview",
-      "summary": "GitHub为使用企业托管用户的Copilot客户提供智能体会话数据流式接口及REST API，可实时或按需获取过去48小时内的提示词、回复与工具调用记录，供接入SIEM工具进行安全监控。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/",
-      "subCategory": "AI编程",
-      "id": "ai-20260702-009"
-    },
-    {
-      "title": "Cost centers now support AI credit pools",
-      "summary": "GitHub新增成本中心AI额度池功能，可根据分配的Copilot许可证自动计算并设置各成本中心每月可消耗的AI额度上限，防止单个成本中心透支共享额度，目前通过REST API管理，界面管理即将推出。",
-      "publishedAt": "2026-07-02",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "subCategory": "AI编程",
-      "id": "ai-20260702-010"
-    },
-    {
       "id": "ai-20260701-014",
       "title": "OpenAI 推出 GeneBench-Pro 基准测试，用于评估 AI 模型生物学计算能力",
       "summary": "OpenAI于7月1日发布生物计算基准测试GeneBench-Pro，含129道题目，覆盖统计遗传学、群体遗传学等10大领域21个子方向，以合成数据构建避免模型套用捷径，已在Hugging Face开源10道示例题，后续将开放50题供第三方独立评测。",
@@ -409,42 +409,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-01/doc-inifinuq6128768.shtml",
       "subCategory": "AI评测"
-    },
-    {
-      "title": "英伟达开源机器人技能库ASPIRE",
-      "summary": "英伟达发布机器人技能库系统ASPIRE，机器人可通过编写代码、观察执行、修复程序并沉淀经验持续学习，训练范式从梯度下降转向技能优化。团队称在双臂物体交接任务中成功率从20%提升到92%。",
-      "publishedAt": "2026-07-01T17:33:05+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/441396.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260701-016"
-    },
-    {
-      "id": "ai-20260701-002",
-      "title": "Anthropic回应Claude Code暗藏代码检测中国用户：将在明日更新中删除",
-      "summary": "开发者发现Claude Code v2.1.196版本内置代码，通过时区检测及147个中国科技与AI实验室域名列表识别中国用户，并借助细微提示词格式变化编码结果。Anthropic确认这是2026年3月的实验性反滥用措施，将在7月2日更新中彻底移除。",
-      "publishedAt": "2026-07-01T15:41:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/118.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260701-003",
-      "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
-      "summary": "优必选推出U1人形陀伴机器人系列，售价11.98万至99万元，已获13361份预订单；文章探讨了该产品在价格门槛、社会观感及情感陀伴伦理层面引发的争议，反映国内陀伴型机器人商业化面临的现实约束。",
-      "publishedAt": "2026-07-01T11:12:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3875712264974336",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "美国放行Fable 5，Anthropic两款顶级模型将恢复访问",
-      "summary": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制，两款模型此前因安全漏洞担忧被限制近三周，Anthropic称将于次日起恢复全球访问。",
-      "publishedAt": "2026-07-01T09:10:36+08:00",
-      "source": "网易科技",
-      "url": "https://www.163.com/tech/article/L0O813E300097U7T.html",
-      "subCategory": "大模型",
-      "id": "ai-20260701-001"
     },
     {
       "id": "ai-20260701-004",
@@ -537,40 +501,40 @@
       "subCategory": "AI编程"
     },
     {
-      "title": "马斯克发Cursor手机版，撞档OpenClaw，AI编程App入口战打响了",
-      "summary": "Cursor上线iOS公测版，支持语音或斜杠命令启动Agent任务、锁屏实时进度提示及移动端审阅合并代码；同日OpenClaw也发布iOS与Android应用，AI编程工具移动化竞争加剧。",
-      "publishedAt": "2026-06-30T19:16:00+08:00",
+      "title": "英伟达开源机器人技能库ASPIRE",
+      "summary": "英伟达发布机器人技能库系统ASPIRE，机器人可通过编写代码、观察执行、修复程序并沉淀经验持续学习，训练范式从梯度下降转向技能优化。团队称在双臂物体交接任务中成功率从20%提升到92%。",
+      "publishedAt": "2026-07-01T17:33:05+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441396.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260701-016"
+    },
+    {
+      "id": "ai-20260701-002",
+      "title": "Anthropic回应Claude Code暗藏代码检测中国用户：将在明日更新中删除",
+      "summary": "开发者发现Claude Code v2.1.196版本内置代码，通过时区检测及147个中国科技与AI实验室域名列表识别中国用户，并借助细微提示词格式变化编码结果。Anthropic确认这是2026年3月的实验性反滥用措施，将在7月2日更新中彻底移除。",
+      "publishedAt": "2026-07-01T15:41:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/118.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260701-003",
+      "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
+      "summary": "优必选推出U1人形陀伴机器人系列，售价11.98万至99万元，已获13361份预订单；文章探讨了该产品在价格门槛、社会观感及情感陀伴伦理层面引发的争议，反映国内陀伴型机器人商业化面临的现实约束。",
+      "publishedAt": "2026-07-01T11:12:00+08:00",
       "source": "36氪",
-      "url": "https://36kr.com/p/3875504164417793",
-      "subCategory": "AI编程",
-      "id": "ai-20260630-003"
+      "url": "https://www.36kr.com/p/3875712264974336",
+      "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260630-002",
-      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占龎头",
-      "summary": "普林斯顿大学发布CEO-Bench基准测试，让AI模型以100万美元初始资金模拟经营初创公司500天，涵盖定价、预算、竞争分析等7大类34种工具的调用；测试中多数模型未能保住本金甚至破产，Grok 4.20、DeepSeek V4 Pro、Gemini 3 Flash等在三次测试中全部破产，Claude Fable 5是唯一在多轮测试中保持盈利的模型，最佳一轮现金达4714.8164万美元。",
-      "publishedAt": "2026-06-30T14:06:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/502.htm",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260630-001",
-      "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
-      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量趻身全球前三。",
-      "publishedAt": "2026-06-30T10:55:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/320.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260630-006",
-      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
-      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
-      "publishedAt": "2026-06-30T07:35:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/970/251.htm",
-      "subCategory": "多模态"
+      "title": "美国放行Fable 5，Anthropic两款顶级模型将恢复访问",
+      "summary": "美国商务部解除对Claude Fable 5和Mythos 5的出口管制，两款模型此前因安全漏洞担忧被限制近三周，Anthropic称将于次日起恢复全球访问。",
+      "publishedAt": "2026-07-01T09:10:36+08:00",
+      "source": "网易科技",
+      "url": "https://www.163.com/tech/article/L0O813E300097U7T.html",
+      "subCategory": "大模型",
+      "id": "ai-20260701-001"
     },
     {
       "id": "ai-20260630-004",
@@ -609,13 +573,40 @@
       "subCategory": "AI评测"
     },
     {
-      "id": "ai-20260629-001",
-      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
-      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
-      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "title": "马斯克发Cursor手机版，撞档OpenClaw，AI编程App入口战打响了",
+      "summary": "Cursor上线iOS公测版，支持语音或斜杠命令启动Agent任务、锁屏实时进度提示及移动端审阅合并代码；同日OpenClaw也发布iOS与Android应用，AI编程工具移动化竞争加剧。",
+      "publishedAt": "2026-06-30T19:16:00+08:00",
       "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "url": "https://36kr.com/p/3875504164417793",
+      "subCategory": "AI编程",
+      "id": "ai-20260630-003"
+    },
+    {
+      "id": "ai-20260630-002",
+      "title": "AI 老板 500 天模拟经营：多数模型亏惨，Claude Fable 5 独占龎头",
+      "summary": "普林斯顿大学发布CEO-Bench基准测试，让AI模型以100万美元初始资金模拟经营初创公司500天，涵盖定价、预算、竞争分析等7大类34种工具的调用；测试中多数模型未能保住本金甚至破产，Grok 4.20、DeepSeek V4 Pro、Gemini 3 Flash等在三次测试中全部破产，Claude Fable 5是唯一在多轮测试中保持盈利的模型，最佳一轮现金达4714.8164万美元。",
+      "publishedAt": "2026-06-30T14:06:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/502.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260630-001",
+      "title": "业界首个：美团 LongCat-2.0 发布，国产芯片上跑出的万亿参数模型",
+      "summary": "美团发布LongCat-2.0大模型，为业界首个依靠国产算力完成训练与推理全流程的万亿参数模型，总参数规模1.6万亿、平均激活参数约480亿，支持100万Token上下文；模型在5万卡国产算力集群上完成全流程训练推理，稳定运行阶段日均吞吐量超1万亿Token，测试版本此前已在OpenRouter平台调用量趻身全球前三。",
+      "publishedAt": "2026-06-30T10:55:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/320.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260630-006",
+      "title": "谷歌Gemini个性化AI生图功能面向全美免费用户开放",
+      "summary": "谷歌将Nano Banana驱动的个性化图像生成功能扩展至美国全体符合条件的免费版Gemini用户（此前仅限Plus/Pro/Ultra付费用户），该功能可结合已连接的Gmail、相册、YouTube及搜索数据自动生成个性化图像。",
+      "publishedAt": "2026-06-30T07:35:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/970/251.htm",
+      "subCategory": "多模态"
     },
     {
       "id": "ai-20260629-002",
@@ -643,6 +634,15 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2606.30045",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260629-001",
+      "title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+      "summary": "马斯克在X平台宣布Grok 4.5已进入SpaceX和特斯拉内部私测阶段，其测试结果显示性能或超越Claude Opus系列；xAI计划在内部测试趋于稳定后优先向SuperGrok Heavy订阅用户推送，Grok 4.5定位于当前Grok 4与更高阶版本之间的过渡升级。",
+      "publishedAt": "2026-06-29T07:49:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3873481579746561",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260628-001",
@@ -681,6 +681,15 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260626-003",
+      "title": "Anthropic Economic Index report: Cadences",
+      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
+      "publishedAt": "2026-06-26",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260626-002",
       "title": "机构：Jalapeño开启OpenAI自研芯片时代，AI算力迈向全栈协同",
       "summary": "OpenAI联合博通推出首款自研AI推理芯片Jalapeño，历时9个月完成从设计到流片，专为LLM推理负载优化，预计2026年底开始初始部署；此举标志OpenAI向模型加芯片垂直整合的全栈AI基础设施方向演进，AI算力生态加速向闭环演化。",
@@ -697,15 +706,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/968/961.htm",
       "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260626-003",
-      "title": "Anthropic Economic Index report: Cadences",
-      "summary": "Anthropic发布最新经济指数报告，分析Claude使用模式中的日周节律：个人任务周末峰值显著，食谱请求在18时达到高峰；新版调查覆盖9700名Claude用户，显示使用Claude最多的用户对未来劳动力市场最为乐观。",
-      "publishedAt": "2026-06-26",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "subCategory": "AI应用"
     },
     {
       "id": "ai-20260625-002",

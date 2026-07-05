@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-05T17:00:00+08:00",
+  "updatedAt": "2026-07-05T23:59:00+08:00",
   "items": [
     {
       "id": "industry-20260705-001",
@@ -58,6 +58,15 @@
       "source": "IT之家",
       "url": "https://finance.sina.com.cn/tech/digi/2026-07-03/doc-inifnxph0530122.shtml",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260703-205",
+      "title": "港交所三周迎35家企业密集上市，534家仍在排队",
+      "summary": "6月22日至7月3日三周内，港交所共有35家企业上市，其中19只新股上市首日14只上涨、5只破发；目前仍有534家企业排队候审，普华永道预计港交所全年IPO集资额约达3800亿港元。",
+      "publishedAt": "2026-07-03T08:37:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3879186834190599",
+      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260703-104",
@@ -141,6 +150,24 @@
       "subCategory": "新能源汽车"
     },
     {
+      "title": "Gartner Says $234 Billion in Enterprise Application Software Spend Is at Risk from Agentic AI",
+      "summary": "Gartner预测，到2030年将有多达2340亿美元的企业应用软件支出面临\"智能体套利\"风险，约占企业应用SaaS支出的20%；AI智能体绕过传统用户界面直接调用系统功能，促使软件厂商从按用户收费转向按结果收费。",
+      "publishedAt": "2026-07-02",
+      "source": "CIO.com",
+      "url": "https://www.cio.com/article/4192242/agentic-ai-puts-234b-in-enterprise-saas-spending-at-risk-gartner-says.html",
+      "subCategory": "SaaS",
+      "id": "industry-20260702-203"
+    },
+    {
+      "id": "industry-20260702-205",
+      "title": "Halfway into the year, biotech is booming",
+      "summary": "STAT报道称，2026年上半年美国生物科技板块表现强劲，行业风向标XBI指数近一个月上涨19%，年内涨幅达30%，报158点，创五年新高，接近2021年2月175点的历史峰值。",
+      "publishedAt": "2026-07-02",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/",
+      "subCategory": "医疗健康"
+    },
+    {
       "title": "Counterpoint：2026年折叠面板出货增46% 苹果份额29%",
       "summary": "Counterpoint Research数据显示，2026年全球折叠屏手机面板出货量预计同比增长46%，苹果凭借首款折叠机型趻身采购方前列，份额达29%，三星显示以约57%份额继续领跑供应端，行业形成三星、苹果、华为三方竞争格局。",
       "publishedAt": "2026-07-02T19:53:00+08:00",
@@ -213,24 +240,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "title": "Gartner Says $234 Billion in Enterprise Application Software Spend Is at Risk from Agentic AI",
-      "summary": "Gartner预测，到2030年将有多达2340亿美元的企业应用软件支出面临\"智能体套利\"风险，约占企业应用SaaS支出的20%；AI智能体绕过传统用户界面直接调用系统功能，促使软件厂商从按用户收费转向按结果收费。",
-      "publishedAt": "2026-07-02",
-      "source": "CIO.com",
-      "url": "https://www.cio.com/article/4192242/agentic-ai-puts-234b-in-enterprise-saas-spending-at-risk-gartner-says.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260702-203"
-    },
-    {
-      "id": "industry-20260702-205",
-      "title": "Halfway into the year, biotech is booming",
-      "summary": "STAT报道称，2026年上半年美国生物科技板块表现强劲，行业风向标XBI指数近一个月上涨19%，年内涨幅达30%，报158点，创五年新高，接近2021年2月175点的历史峰值。",
-      "publishedAt": "2026-07-02",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/",
-      "subCategory": "医疗健康"
-    },
-    {
       "title": "2026年6月汽车销量/交付榜出炉：比亚迪销售超40万辆位居榜首",
       "summary": "6月比亚迪销量40.3万辆、同比塆5.46%居首；零跑9.34万辆、同比塆9敩5%创品牌纪录；小鹏4.01万辆、同比增15.9%；理想3.09万辆、同比降14.84%；蓝来三品牌合计4.06万辆、同比增62.9%。",
       "publishedAt": "2026-07-01T23:48:00+08:00",
@@ -238,6 +247,15 @@
       "url": "https://m.ithome.com/html/971389.htm",
       "subCategory": "新能源汽车",
       "id": "industry-20260701-097"
+    },
+    {
+      "id": "industry-20260701-103",
+      "title": "Heritage Valley Health System正式并入Allegheny Health Network",
+      "summary": "美国医疗集团Allegheny Health Network完成对Heritage Valley Health System的合并，新增两家医院及数十家门诊机构，约3000名员工转入AHN，双方未来十年将投入约2.85亿美元升级临床服务与信息系统。",
+      "publishedAt": "2026-07-01T10:00:00-04:00",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/heritage-valley-health-system-enters-new-era-as-part-of-allegheny-health-network-302815526.html",
+      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260701-093",
@@ -256,6 +274,60 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifihnu2967519.shtml",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260701-102",
+      "title": "美光与通用汽车签署战略客户协议保障车规存储芯片供应",
+      "summary": "美光科技与通用汽车达成战略客户协议，约定为通用下一代车型长期供应LPDRAM、NOR及UFS NAND存储芯片，双方并将联合开发新一代车规存储技术，以增强汽车芯片供应链的可预测性。",
+      "publishedAt": "2026-07-01T08:30:00-04:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/01/3320600/14450/en/micron-and-general-motors-sign-strategic-agreement-to-secure-supply-and-accelerate-innovation.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260701-003",
+      "title": "比亚迪2026年6月汽车销量403472辆，同比增长5.46%",
+      "summary": "比亚迪公告6月新能源汽车销量403472辆，同比增长5.46%；其中乘用车销量397292辆，出口新能源汽车17.5万辆，插电混动车型销售19.58万辆。1-6月累计销量180.8万辆，同比下降15.72%。",
+      "publishedAt": "2026-07-01",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/971/303.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "title": "FDA approves Orca Bio's T cell therapy for blood cancer patients",
+      "summary": "美国FDA批准Orca Bio开发的个体化T细胞疗法Tregzi用于血液肿瘤患者的干细胞移植，旨在降低移植后慢性移植物抗宿主病等长期并发症风险，为传统配型移植提供新的替代方案。",
+      "publishedAt": "2026-07-01",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/",
+      "subCategory": "医疗健康",
+      "id": "industry-20260701-007"
+    },
+    {
+      "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
+      "summary": "美国FDA将CRISPR基因疗法Casgevy的适应症从12岁以上人群扩展至2岁以上镶状细胞病及输血依赖型地中海贫血患儿，成为首款获批用于低龄儿童的基因疗法，经优先审评凭证程序仅53天完成审批。",
+      "publishedAt": "2026-07-01",
+      "source": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
+      "subCategory": "医疗健康",
+      "id": "industry-20260701-008"
+    },
+    {
+      "id": "industry-20260701-099",
+      "title": "The biotech scorecard for the third quarter: 15 stock-moving events to watch",
+      "summary": "STAT梳理並2026年第三季度15项值得关注的生物科技股价催化事件，包括Amylyx公司avexitide治疗餐后低血糖的三期临床数据，以及渤健tau靶向药物diranersen将于7月14日阿尔茨海默病大会公布详细数据。",
+      "publishedAt": "2026-07-01",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260701-104",
+      "title": "FDA医疗器械审批数量增加但审批周期明显拉长",
+      "summary": "美国FDA今年上半年批准23项高风险医疗器械上市前审批，同比增加10项，但平均审批时长升至约599天，较去年同期约402天明显延长；510(k)审批时间也小幅上升至约156天。",
+      "publishedAt": "2026-07-01",
+      "source": "MedTech Dive",
+      "url": "https://www.medtechdive.com/news/fda-authorizes-more-devices-so-far-in-2026-but-its-taking-longer/824233/",
+      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260703-103",
@@ -402,42 +474,6 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260701-003",
-      "title": "比亚迪2026年6月汽车销量403472辆，同比增长5.46%",
-      "summary": "比亚迪公告6月新能源汽车销量403472辆，同比增长5.46%；其中乘用车销量397292辆，出口新能源汽车17.5万辆，插电混动车型销售19.58万辆。1-6月累计销量180.8万辆，同比下降15.72%。",
-      "publishedAt": "2026-07-01",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/971/303.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "title": "FDA approves Orca Bio's T cell therapy for blood cancer patients",
-      "summary": "美国FDA批准Orca Bio开发的个体化T细胞疗法Tregzi用于血液肿瘤患者的干细胞移植，旨在降低移植后慢性移植物抗宿主病等长期并发症风险，为传统配型移植提供新的替代方案。",
-      "publishedAt": "2026-07-01",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/",
-      "subCategory": "医疗健康",
-      "id": "industry-20260701-007"
-    },
-    {
-      "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
-      "summary": "美国FDA将CRISPR基因疗法Casgevy的适应症从12岁以上人群扩展至2岁以上镶状细胞病及输血依赖型地中海贫血患儿，成为首款获批用于低龄儿童的基因疗法，经优先审评凭证程序仅53天完成审批。",
-      "publishedAt": "2026-07-01",
-      "source": "FDA",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
-      "subCategory": "医疗健康",
-      "id": "industry-20260701-008"
-    },
-    {
-      "id": "industry-20260701-099",
-      "title": "The biotech scorecard for the third quarter: 15 stock-moving events to watch",
-      "summary": "STAT梳理並2026年第三季度15项值得关注的生物科技股价催化事件，包括Amylyx公司avexitide治疗餐后低血糖的三期临床数据，以及渤健tau靶向药物diranersen将于7月14日阿尔茨海默病大会公布详细数据。",
-      "publishedAt": "2026-07-01",
-      "source": "STAT News",
-      "url": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/",
-      "subCategory": "医疗健康"
-    },
-    {
       "title": "港股买卖单位改顸7月落地！港交所拟每手价值下限降至1000港元、增设5万港元上限、计划优化碎股交易机制",
       "summary": "港交所刊发优化每手买卖单位框架的咨询总结，将每手价值指引下限由2000港元降至1000港元，新增5万港元上限，并标准化每手股数为八种规格。措施分两阶段实施，第一阶段7月2日起生效，第二阶攴2026年11月16日起生效，另计划优化碎股交易机制。",
       "publishedAt": "2026-06-30T22:52:00+08:00",
@@ -463,6 +499,24 @@
       "url": "https://www.stcn.com/article/detail/3993280.html",
       "subCategory": "教育科技",
       "id": "industry-20260630-008"
+    },
+    {
+      "title": "QuestMobile：2026年5月深夜活跃用扷4.4亿，同比增长16.9%",
+      "summary": "QuestMobile数据显示，2026年5月每日0点至2点的深夜活跃用户规模达4.4亿，同比增长16.9%；18点至次日6点的泛夜间活跃用户规模从去年同期8.96亿增至9.37亿，同比增长4.6%，凌晨2点至4点在线用户数量也高于往年同期。",
+      "publishedAt": "2026-06-30",
+      "source": "新浪科技（QuestMobile）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifexfq1519968.shtml",
+      "subCategory": "行业研报",
+      "id": "industry-20260630-001"
+    },
+    {
+      "id": "industry-20260630-010",
+      "title": "Omdia: AR display growth drives near-eye display market to $675 million in 2026",
+      "summary": "Omdia预测，在AR眼镜带动下，2026年全球近眼显示市场规模将达6.75亿美元，同比增长12%，出货量增长16%至1453万台；AR显示出货量预计同比大增154%，VR显示市场则持续下滑。",
+      "publishedAt": "2026-06-30",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/june/ar-display-growth-drives-near-eye-display-market-to-675-million-dollars-in-2026",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260630-005",
@@ -507,24 +561,6 @@
       "publishedAt": "2026-06-30T07:36:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3987731.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "QuestMobile：2026年5月深夜活跃用扷4.4亿，同比增长16.9%",
-      "summary": "QuestMobile数据显示，2026年5月每日0点至2点的深夜活跃用户规模达4.4亿，同比增长16.9%；18点至次日6点的泛夜间活跃用户规模从去年同期8.96亿增至9.37亿，同比增长4.6%，凌晨2点至4点在线用户数量也高于往年同期。",
-      "publishedAt": "2026-06-30",
-      "source": "新浪科技（QuestMobile）",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-06-30/doc-inifexfq1519968.shtml",
-      "subCategory": "行业研报",
-      "id": "industry-20260630-001"
-    },
-    {
-      "id": "industry-20260630-010",
-      "title": "Omdia: AR display growth drives near-eye display market to $675 million in 2026",
-      "summary": "Omdia预测，在AR眼镜带动下，2026年全球近眼显示市场规模将达6.75亿美元，同比增长12%，出货量增长16%至1453万台；AR显示出货量预计同比大增154%，VR显示市场则持续下滑。",
-      "publishedAt": "2026-06-30",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/june/ar-display-growth-drives-near-eye-display-market-to-675-million-dollars-in-2026",
       "subCategory": "半导体产业"
     },
     {
@@ -688,42 +724,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/3980459.html",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260625-002",
-      "title": "追加 130 亿美元，亚马逊宣布 2030 年前将在印度投资 480 亿美元",
-      "summary": "亚马逊宣布将追加130亿美元投资，2030年前在印度的总投资额将达480亿美元，聚焦云计算、物流基础设施与电商平台扩张，进一步深化在这一全球重要新兴市场的战略布局。",
-      "publishedAt": "2026-06-25T16:19:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/544.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260625-001",
-      "title": "胡润《2026 全球独角兽榜》发布：1603 家创历史新高，Anthropic、OpenAI、字节跳动前三",
-      "summary": "胡润研究院发布《2026全球独角兽榜》，全球独角兽企业数量达1603家，创历史新高；Anthropic、OpenAI和字节跳动位居前三，中国独角兽企业数量持续稳居全球第二。",
-      "publishedAt": "2026-06-25T14:48:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/425.htm",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260625-003",
-      "title": "消息称 AI 芯片企业 SambaNova 拟以 100 亿美元估值筹集 8~10 亿美元",
-      "summary": "消息称AI芯片企业SambaNova正计划以100亿美元估值筹集8至10亿美元新一轮融资，用于加速推动专用AI推理加速芯片的规模化商业部署。",
-      "publishedAt": "2026-06-25T14:36:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/968/414.htm",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260625-007",
-      "title": "6月前三周全国乘用车市场新能源零售渗透率63.8%",
-      "summary": "乘联分会数据显示，6月1日至21日全国乘用车零售91.3万辆，同比下降23%；其中新能源零售58.3万辆，渗透率63.8%，批发口径新能源渗透率达67.3%，世界杯及油价上涨等因素抑制了促销效果。",
-      "publishedAt": "2026-06-25T06:52:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/3978093.html",
-      "subCategory": "新能源汽车"
     }
   ]
 }

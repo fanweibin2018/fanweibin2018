@@ -3,8 +3,53 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-07-05T17:00:00+08:00",
+  "updatedAt": "2026-07-05T23:59:00+08:00",
   "items": [
+    {
+      "id": "finance-20260705-008",
+      "title": "巴菲特指标升至136%，创历史新高",
+      "summary": "衡量美股总市值与GDP之比的巴菲特指标升至136%，较长期均值高出约七成，创历史新高；文章指出标普500指数目前预期市盈率为21.5倍，美国企业税后利润占GDP比重已升至约12%。",
+      "publishedAt": "2026-07-05T11:11:00-04:00",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/what-the-buffett-market-valuation-indicator-at-rec/",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260705-007",
+      "title": "热浪推高美国新英格兰地区电力批发价格",
+      "summary": "持续高温推动新英格兰电网批发电价周四涨至每兆瓦时90至200美元区间，预计周五进一步升至240至900美元以上；ISO New England表示批发价格约占居民电费年度支出的三分之一，用户夏季用电量通常增加约两成。",
+      "publishedAt": "2026-07-05",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/07/05/metro/electricity-prices-heat-wave/",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260705-009",
+      "title": "欧佩克+同意8月起日均增产18.8万桶原油",
+      "summary": "沙特、俄罗斯、伊拉克等七个欧佩克+产油国同意8月起每日增产18.8万桶原油，作为2023年减产协议的渐进式退出；联盟保留视市场情况调整、暂停或逆转增产的灵活性，下次会议定于8月2日举行。",
+      "publishedAt": "2026-07-05",
+      "source": "The Epoch Times",
+      "url": "https://www.theepochtimes.com/business/opec-to-boost-oil-output-in-august-6057659",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260705-004",
+      "title": "好利科技易主、益盛药业停产：多家A股公司发布7月5日晚间公告",
+      "summary": "7月5日晚间，好利科技控股股东拟以约5.97亿元转让18%股权，厦门市财政局将成为实际控制人；益盛药业因补金片存在缺陷暂停两条生产线的生产销售；卓然股份因未能按期披露年报被实施退市风险警示；东方盛虹、招商轮船等公司预告上半年净利润大幅增长。",
+      "publishedAt": "2026-07-05T18:30:10+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103260763.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260705-005",
+      "title": "美联储主席沃什称通胀风险下降后比特币反弹至6万美元上方，市场关注7月CPI与议息会议",
+      "summary": "美联储主席沃什7月1日在欧洲央行论坛表示通胀风险已经下降，比特币随后反弹至6万美元上方；市场目前关注7月14日公布的6月CPI数据，以及7月28至29日召开的联邦公开市场委员会会议。",
+      "publishedAt": "2026-07-05T06:00:00-04:00",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/05/the-federal-reserve-just-delivered-fantastic-news/",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20260705-003",
       "title": "独家｜Taycan、Macan EV停止接收新订单，纯电卡宴年底到店，保时捷电车面临\"空窗期\"",
@@ -22,6 +67,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/wm/2026-07-05/doc-iniftrze8999322.shtml",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260705-006",
+      "title": "6月中国大宗商品价格指数环比下跌1.7%，同比上涨17.6%",
+      "summary": "中国物流与采购联合会数据显示，6月中国大宗商品价格指数报130.3点，环比下跌1.7%，同比上涨17.6%；焦煤、焦炭等价格环比涨幅居前，化工、有色价格指数则因中东局势缓和及美元走强而回落。",
+      "publishedAt": "2026-07-05T10:38:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-05/10652979.shtml",
+      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260705-001",
@@ -48,6 +102,15 @@
       "publishedAt": "2026-07-04T23:00:30+08:00",
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103260594.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260704-018",
+      "title": "世界杯带动预测市场交易量创历史新高，Kalshi与Polymarket交易额大增",
+      "summary": "受世界杯赛事带动，预测市场平台Kalshi今年6月名义交易量约310亿美元，环比增长约七成；Polymarket全球交易量约108亿美元创月度新高；新平台Rothera首月交易量约20亿美元，占美国市场份额约7%。",
+      "publishedAt": "2026-07-04",
+      "source": "Tekedia",
+      "url": "https://www.tekedia.com/2026-fifa-world-cup-fuels-record-betting-boom-as-prediction-markets-hit-unprecedented-trading-volumes/",
       "subCategory": "风险事件"
     },
     {
@@ -186,6 +249,15 @@
       "id": "finance-20260704-001"
     },
     {
+      "id": "finance-20260703-016",
+      "title": "Brent Crude Oil - Price - Chart - Historical Data - News",
+      "summary": "布伦特原有7月3日报每桗71.64美元，较前一交易日下跌0.23%，市场反映霍尔木兹海峡通行秩序持续恢复及区域原油供应正常化。",
+      "publishedAt": "2026-07-03",
+      "source": "TradingEconomics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "subCategory": "大宗商品"
+    },
+    {
       "id": "finance-20260703-101",
       "title": "联动科技：1000万美元收购Northstar补齐存储测试短板 加码全球化布局",
       "summary": "联动科技全资子公司拟以1000万美元收购菲律宾存储芯片测试设备商Northstar Technologies 100%股权，交易采用锁箱定价机制，旨在完善半导体测试产业布局并拓展海外业务。",
@@ -258,15 +330,6 @@
       "id": "finance-20260702-022"
     },
     {
-      "id": "finance-20260703-016",
-      "title": "Brent Crude Oil - Price - Chart - Historical Data - News",
-      "summary": "布伦特原有7月3日报每桗71.64美元，较前一交易日下跌0.23%，市场反映霍尔木兹海峡通行秩序持续恢复及区域原油供应正常化。",
-      "publishedAt": "2026-07-03",
-      "source": "TradingEconomics",
-      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
-      "subCategory": "大宗商品"
-    },
-    {
       "title": "Gold prices today, Thursday, July 2, 2026: Prices break above $4,100 following a disappointing June jobs report",
       "summary": "受美国6月非农就业数据远低于预期影响，现货黄金7月2日盘中突破每盎司4100美元，早盘一度报4140.90美元；据CME数据，市场预期美联储7月加息概率降至30%以下。",
       "publishedAt": "2026-07-02T08:50:00-05:00",
@@ -328,6 +391,51 @@
       "url": "https://www.cls.cn/detail/2415730",
       "subCategory": "公司财报",
       "id": "finance-20260702-017"
+    },
+    {
+      "title": "Oil Extends Decline on Rising Supply",
+      "summary": "国际原油价格2026年7月2日跌破每桗68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-002"
+    },
+    {
+      "title": "Silver Strengthens on Warsh Remarks",
+      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
+      "publishedAt": "2026-07-02",
+      "source": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/silver",
+      "subCategory": "大宗商品",
+      "id": "finance-20260702-003"
+    },
+    {
+      "title": "Meta Cloud Boom: Stock Surges 9% as Zuck Preps AI Compute Empire",
+      "summary": "据报道，Meta计划组建云基础设施业务，向外部客户出售闲置AI计算能力和自研模型，以对标亚马逊AWS等云服务商；消息带动Meta股价当日上涨约9%。",
+      "publishedAt": "2026-07-02",
+      "source": "FX Leaders",
+      "url": "https://www.fxleaders.com/news/2026/07/02/meta-cloud-boom-stock-surges-9-as-zuck-preps-ai-compute-empire/",
+      "subCategory": "美股",
+      "id": "finance-20260702-023"
+    },
+    {
+      "title": "ECB's Lagarde defends rate hike decision amid easing inflation",
+      "summary": "欧洲央行行长拉加德接受法国《回声报》采访时表示，尽管其后美伊达成停火协议，6月加息决定仍属正确；欧元区核心通胀已从2.2%升至2.5%，服务业通胀达3.5%。",
+      "publishedAt": "2026-07-02",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/ecbs-lagarde-defends-rate-hike-decision-amid-easing-inflation-93CH-4718744",
+      "subCategory": "政策利率",
+      "id": "finance-20260702-026"
+    },
+    {
+      "id": "finance-20260703-004",
+      "title": "THE EMPLOYMENT SITUATION — JUNE 2026",
+      "summary": "美国劳工部数据显示6月非农就业新增5.7万人，远低于预期，失业率降至4.2%但主因劳动参与率降至61.5%，4至5月数据合计下修7.4万人。",
+      "publishedAt": "2026-07-02",
+      "source": "U.S. Bureau of Labor Statistics",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "subCategory": "宏观经济"
     },
     {
       "title": "UBS cuts Brent crude price forecasts on improved Hormuz oil flows",
@@ -600,51 +708,6 @@
       "id": "finance-20260701-022"
     },
     {
-      "title": "Oil Extends Decline on Rising Supply",
-      "summary": "国际原油价格2026年7月2日跌破每桗68美元，为去年2月以来最低水平。霍尔木兹海峡油轮通行量持续增加，美国与伊朗间接谈判取得进展，市场对供应过剩风险的担忧上升。",
-      "publishedAt": "2026-07-02",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/crude-oil",
-      "subCategory": "大宗商品",
-      "id": "finance-20260702-002"
-    },
-    {
-      "title": "Silver Strengthens on Warsh Remarks",
-      "summary": "白银价格2026年7月2日升至每盎司59美元上方，此前一度触及七个月低点。美联储主席沃什称通胀预期有所缓和，加之原油价格走低缓解通胀担忧，共同支撑银价反弹。",
-      "publishedAt": "2026-07-02",
-      "source": "Trading Economics",
-      "url": "https://tradingeconomics.com/commodity/silver",
-      "subCategory": "大宗商品",
-      "id": "finance-20260702-003"
-    },
-    {
-      "title": "Meta Cloud Boom: Stock Surges 9% as Zuck Preps AI Compute Empire",
-      "summary": "据报道，Meta计划组建云基础设施业务，向外部客户出售闲置AI计算能力和自研模型，以对标亚马逊AWS等云服务商；消息带动Meta股价当日上涨约9%。",
-      "publishedAt": "2026-07-02",
-      "source": "FX Leaders",
-      "url": "https://www.fxleaders.com/news/2026/07/02/meta-cloud-boom-stock-surges-9-as-zuck-preps-ai-compute-empire/",
-      "subCategory": "美股",
-      "id": "finance-20260702-023"
-    },
-    {
-      "title": "ECB's Lagarde defends rate hike decision amid easing inflation",
-      "summary": "欧洲央行行长拉加德接受法国《回声报》采访时表示，尽管其后美伊达成停火协议，6月加息决定仍属正确；欧元区核心通胀已从2.2%升至2.5%，服务业通胀达3.5%。",
-      "publishedAt": "2026-07-02",
-      "source": "Investing.com",
-      "url": "https://ca.investing.com/news/stock-market-news/ecbs-lagarde-defends-rate-hike-decision-amid-easing-inflation-93CH-4718744",
-      "subCategory": "政策利率",
-      "id": "finance-20260702-026"
-    },
-    {
-      "id": "finance-20260703-004",
-      "title": "THE EMPLOYMENT SITUATION — JUNE 2026",
-      "summary": "美国劳工部数据显示6月非农就业新增5.7万人，远低于预期，失业率降至4.2%但主因劳动参与率降至61.5%，4至5月数据合计下修7.4万人。",
-      "publishedAt": "2026-07-02",
-      "source": "U.S. Bureau of Labor Statistics",
-      "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "subCategory": "宏观经济"
-    },
-    {
       "id": "finance-20260703-009",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "summary": "隐私优先AI平台Venice AI完成6500万美元A轮融资，估值达10亿美元趻身独角兽，由加密风投Dragonfly领投，Coinbase Ventures等参投。",
@@ -661,69 +724,6 @@
       "source": "ISM/PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-53-3-june-2026-ism-manufacturing-pmi-report-302814991.html",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260701-013",
-      "title": "美股半年收官全线走高，标普、纳指创2020年以来最佳单季表现",
-      "summary": "美股6月30日收盘全线上涨，道指涨0.3%报52319.20点创收盘新高，标普500涨0.8%报7499.36点，纳指涨1.5%报26213.72点。二季度标普及纳指创2020年以来最佳单季表现。",
-      "publishedAt": "2026-07-01T21:34:00+08:00",
-      "source": "Yahoo Finance (Zacks Equity Research)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-1-133400519.html",
-      "subCategory": "美股"
-    },
-    {
-      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports",
-      "summary": "据彭博社报道，Meta Platforms正筹划设立云计算业务，出售人工智能基础设施的闲置算力，该计划仍在制定中。消息传出后Meta股价上涨超过10%，云服务商CoreWeave和Nebius股价分别下跌10.8%和12.4%，Meta今年预计投入1450亿美元用于AI基础设施建设。",
-      "publishedAt": "2026-07-01T07:52:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-sell-excess-ai-computing-125201412.html",
-      "subCategory": "公司动态",
-      "id": "finance-20260701-021"
-    },
-    {
-      "id": "finance-20260701-011",
-      "title": "布伦特原油跌至72.68美元，创近一个月最大跌幅",
-      "summary": "截至7月1日美东时间上又8时40分，布伦特原油报每桗72.68美元，较前一交易日的75.02美元下跌2.34美元，跌幅3.11%；较一个月前的95.04美元下跌23.52%，较去年同期上涨6.35%。",
-      "publishedAt": "2026-07-01T20:42:00+08:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-07-01-2026/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "title": "ADP private payrolls data misses expectations as June hiring slows",
-      "summary": "ADP全国就业报告显示，美国6月私营部门新增就业9.8万人，低于5月的12.2万人和市场预期的11万人。教育医疗保健业新增4.8万个岗位，休闲酒店业连续第六个月增长乏力，同期在职员工薪资同比增长4.4%，跳槽者薪资增长6.6%。",
-      "publishedAt": "2026-07-01T07:28:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/adp-june-2026-private-payrolls-122828638.html",
-      "subCategory": "宏观经济",
-      "id": "finance-20260701-023"
-    },
-    {
-      "title": "AOL, Vimeo owner Bending Spoons surges nearly 40% in US market debut",
-      "summary": "意大利科技公司Bending Spoons在美股首次公开发行，发行价每股29美元，募资16.8亿美元。上市首日开盘31美元，收盘40.50美元，较发行价上涨近40%，公司市值达257亿美元，旗下拥有Vimeo、AOL等品牌。",
-      "publishedAt": "2026-07-01T05:12:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vimeo-owner-bending-spoons-heads-101229041.html",
-      "subCategory": "新股发行",
-      "id": "finance-20260701-020"
-    },
-    {
-      "title": "华辰声探完成500万元天使轮融资",
-      "summary": "杭州华辰声探科技完成500万元人民币天使轮融资，由深圳世纪银龙投资独家投资。公司专注声发射无损探伤及结构健康监测技术，资金将用于核心技术迭代、产品性能升级及市场渠道拓展。",
-      "publishedAt": "2026-07-01T18:02:05+08:00",
-      "source": "投中网",
-      "url": "https://www.chinaventure.com.cn/news/80-20260701-392104.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260701-018"
-    },
-    {
-      "id": "finance-20260701-010",
-      "title": "沪指三连阳收复4100点，养殖、保险等板块领涨",
-      "summary": "7月1日A股收盘，上证指数涨0.44%报收四千百点上方，深成指跌0.53%，创业板指跌1.89%。全市场超4300只个股上涨，153只个股涨停，沪深两市成交额3.66万亿元，较前一日增加3862亿元。保险、养殖板块领涨，通信设备板块下跌。",
-      "publishedAt": "2026-07-01T17:20:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2414302",
-      "subCategory": "A股"
     }
   ]
 }
