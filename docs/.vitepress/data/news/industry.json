@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-07-10T08:45:00+08:00",
+  "updatedAt": "2026-07-10T16:22:00+08:00",
   "items": [
     {
       "id": "industry-20260710-001",
@@ -22,15 +22,6 @@
       "source": "砍柴网",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-09/doc-inihesma7740394.shtml",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260709-102",
-      "title": "Counterpoint：2026年Q1全球WiFi CPE出货量同比降6%",
-      "summary": "Counterpoint数据显示，2026年第一季度全球零售端WiFi CPE设备出货量同比下降6%，较2021年峰值累计下滑约34%，市场进入库存调整阶段；TP-Link以20%份额居首但同比降5.4%，小米份额升至12%位列第二，是主要厂商中少数份额上升者。",
-      "publishedAt": "2026-07-09",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1839089.html",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260709-104",
@@ -87,6 +78,24 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260709-102",
+      "title": "Counterpoint：2026年Q1全球WiFi CPE出货量同比降6%",
+      "summary": "Counterpoint数据显示，2026年第一季度全球零售端WiFi CPE设备出货量同比下降6%，较2021年峰值累计下滑约34%，市场进入库存调整阶段；TP-Link以20%份额居首但同比降5.4%，小米份额升至12%位列第二，是主要厂商中少数份额上升者。",
+      "publishedAt": "2026-07-09",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1839089.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "title": "IDC：2026年PC出货降12% 手机降14% DRAM紧缺至2027底",
+      "summary": "IDC报告预计2026年全球PC与智能手机出货量分别下降12%与14%，DRAM供应紧张将持续至2027年第四季度，存储需求重心已从消费终端转向服务器、HBM及企业级SSD等AI基础设施。",
+      "publishedAt": "2026-07-09",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1839064.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260709-001"
+    },
+    {
       "id": "industry-20260710-003",
       "title": "精测电子筹划收购上海精测部分股权 预计构成重大资产重组",
       "summary": "精测电子拟通过发行股份、可转债及支付现金方式，收购控股子公司上海精测部分股权并募集配套资金，预计构成重大资产重组，公司股票及可转债自7月9日起停牌，此前已持股58.83%。",
@@ -103,6 +112,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4007253.html",
       "subCategory": "新能源汽车"
+    },
+    {
+      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
+      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
+      "publishedAt": "2026-07-08T06:48:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4003267.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260708-900"
     },
     {
       "id": "industry-20260708-003",
@@ -213,15 +231,6 @@
       "subCategory": "行业研报"
     },
     {
-      "title": "创新药半年出海收入近千亿美元，三大变化重塑产业链价值",
-      "summary": "2026年上半年中国创新药BD出海交易总额约997亿美元，约为2024年全年两倍；首付款总额约50亿美元，接近2025年全年七成。多管线打包交易增多，Co-Co联合开发商业化模式渐成主流，替代传统License-out模式。",
-      "publishedAt": "2026-07-08T06:48:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4003267.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260708-900"
-    },
-    {
       "id": "industry-20260707-804",
       "title": "微软：2026年新财年裁员约4800人 占全球员工2.1%",
       "summary": "微软宣布2026新财年将裁员约4800人，占全球员工总数2.1%，主要涉及企业销售与Xbox部门，其中Xbox约1600个岗位受影响，公司称调整与人工智能业务变革相关。",
@@ -256,24 +265,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-07/doc-inifyzkr1543854.shtml",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260707-801",
-      "title": "Counterpoint: China's 618 smartphone sales fall 13% year-on-year",
-      "summary": "Counterpoint监测显示，2026年618大促期间中国智能手机销量同比下降13%，除华为外主要品牌均两位数下滑，荣耀降33%、小米降24%，存储成本上涨及促销力度减弱是主因。",
-      "publishedAt": "2026-07-07",
-      "source": "TechNode",
-      "url": "https://technode.com/2026/07/07/counterpoint-chinas-618-smartphone-sales-fall-13-year-on-year/",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260707-805",
-      "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029",
-      "summary": "Gartner预测，到2029年将有60%的企业采用规模化的小型软件工程团队，2026年这一比例仅为15%，AI承担更多常规技术工作，推动企业转向精简高效的工程组织模式。",
-      "publishedAt": "2026-07-07",
-      "source": "Archyde (转载自Gartner新闻室)",
-      "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
-      "subCategory": "企业服务"
     },
     {
       "id": "industry-20260707-802",
@@ -312,6 +303,24 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260707-801",
+      "title": "Counterpoint: China's 618 smartphone sales fall 13% year-on-year",
+      "summary": "Counterpoint监测显示，2026年618大促期间中国智能手机销量同比下降13%，除华为外主要品牌均两位数下滑，荣耀降33%、小米降24%，存储成本上涨及促销力度减弱是主因。",
+      "publishedAt": "2026-07-07",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/07/07/counterpoint-chinas-618-smartphone-sales-fall-13-year-on-year/",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260707-805",
+      "title": "Gartner Predicts 60% of Organizations Will Adopt Smaller Software Engineering Teams by 2029",
+      "summary": "Gartner预测，到2029年将有60%的企业采用规模化的小型软件工程团队，2026年这一比例仅为15%，AI承担更多常规技术工作，推动企业转向精简高效的工程组织模式。",
+      "publishedAt": "2026-07-07",
+      "source": "Archyde (转载自Gartner新闻室)",
+      "url": "https://www.archyde.com/gartner-predicts-60-of-organizations-will-adopt-smaller-software-engineering-teams-by-2029/",
+      "subCategory": "企业服务"
+    },
+    {
       "id": "industry-20260707-702",
       "title": "瑞银：苹果AI换机意愿24% 半年降5%",
       "summary": "瑞银调查显示，全球仅24%消费者因苹果Apple Intelligence功能而换机，较半年前的29%下降5个百分点，中国市场换机意愿降至15%，AI功能对购机决策影响仍有限。",
@@ -346,33 +355,6 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-06/doc-inifwfpu1903975.shtml",
       "subCategory": "半导体产业",
       "id": "industry-20260706-900"
-    },
-    {
-      "id": "industry-20260706-601",
-      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
-      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颛覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逿SaaS厂商转向按结果收费。",
-      "publishedAt": "2026-07-06",
-      "source": "Gartner（CIODive报道）",
-      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
-      "subCategory": "SaaS"
-    },
-    {
-      "id": "industry-20260706-602",
-      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
-      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
-      "publishedAt": "2026-07-06",
-      "source": "BCG",
-      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
-      "subCategory": "企业服务"
-    },
-    {
-      "title": "TrendForce集邦咨询：AI高端MLCC需求推升日韩大厂订单出货比，2H26缺货风险提升",
-      "summary": "TrendForce集邦咨询指出，AI服务器与云端自研芯片带动高容值MLCC需求上升，村田、三星电机、太阳诱电等大厂BB值升至1.25以上，中国大陆渠道6月起主流X5R型MLCC报价上调15%-25%，四季度或现正式缺货。",
-      "publishedAt": "2026-07-06",
-      "source": "TrendForce集邦咨询",
-      "url": "https://www.trendforce.cn/presscenter/news/20260706-13137.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260706-901"
     },
     {
       "id": "industry-20260706-305",
@@ -436,6 +418,33 @@
       "source": "199IT（新浪科技）",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifuxuq8678504.shtml",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260706-601",
+      "title": "Agentic AI to disrupt $234B in SaaS spending: Gartner",
+      "summary": "Gartner预测，到2030年，全球超2340亿美元企业应用软件支出将因Agentic AI面临颛覆，约占企业SaaS支出两成。AI智能体可跨系统直接完成任务、绕开传统界面，打破用户增长与收入增长的传统关联，倒逿SaaS厂商转向按结果收费。",
+      "publishedAt": "2026-07-06",
+      "source": "Gartner（CIODive报道）",
+      "url": "https://www.ciodive.com/news/agentic-ai-disrupt-234-billion-saas-spending/824530/",
+      "subCategory": "SaaS"
+    },
+    {
+      "id": "industry-20260706-602",
+      "title": "Sustainability Reporting in Europe: From Compliance to Strategy",
+      "summary": "BCG发文指出，欧盟ESRS Set 2新规将强制披露数据点减少六到七成，但大型企业年度可持续报告成本仍超百万欧元；多数企业仍将披露视为合规任务而非战略工具，BCG建议企业在2026财年前强化AI与治理能力，实现智能合规。",
+      "publishedAt": "2026-07-06",
+      "source": "BCG",
+      "url": "https://www.bcg.com/publications/2026/smart-compliance-esrs-sustainability-reporting",
+      "subCategory": "企业服务"
+    },
+    {
+      "title": "TrendForce集邦咨询：AI高端MLCC需求推升日韩大厂订单出货比，2H26缺货风险提升",
+      "summary": "TrendForce集邦咨询指出，AI服务器与云端自研芯片带动高容值MLCC需求上升，村田、三星电机、太阳诱电等大厂BB值升至1.25以上，中国大陆渠道6月起主流X5R型MLCC报价上调15%-25%，四季度或现正式缺货。",
+      "publishedAt": "2026-07-06",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260706-13137.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260706-901"
     },
     {
       "id": "industry-20260707-704",
@@ -715,15 +724,6 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-07-02/doc-inifmfcy4142472.shtml",
       "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260710-004",
-      "title": "报告：中国具身智能市场规模年均复合增长率22%至23%",
-      "summary": "《2026中国具身智能产业发展报告》显示，中国具身智能市场规模将从2018年约2133亿元增至2026年预计的1.09万亿元，年均复合增长率22%至23%，制造成本较国外低30%至50%。",
-      "publishedAt": "2026-07-02T13:21:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-02/10651284.shtml",
-      "subCategory": "制造业"
     }
   ]
 }

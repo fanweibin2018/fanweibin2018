@@ -3,8 +3,107 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-10T08:45:00+08:00",
+  "updatedAt": "2026-07-10T16:22:00+08:00",
   "items": [
+    {
+      "title": "盘毂动力宣布全球率先实现轴向磁通电机稳定规模化量产",
+      "summary": "在江苏南通举行的第十八届国际汽车动力总成技术年会上，盘毂动力宣布实现轴向磁通电机全球领先的稳定规模化量产，有效功率密度达25.73kW/kg，扭矩密度41.2N·m/kg，效率超92.5%，产品已应用于增程、混动、纯电技术路线，覆盖A0至C级车型。",
+      "publishedAt": "2026-07-10T16:10:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/109.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260710-031"
+    },
+    {
+      "title": "苹果iPhone Ultra折叠手机曝4883mAh电池，供应商已完成入网备案",
+      "summary": "数码博主透露苹果电池供应商备案两款电池型号，容量合计4883mAh（1921mAh+2962mAh），据称对应折叠版iPhone Ultra。此前供应链消息称该机将于7月底量产、9月发布，机身设计及结构件已定案。",
+      "publishedAt": "2026-07-10T15:50:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/089.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260710-021"
+    },
+    {
+      "title": "国内首条二维半导体中试线全线贯通，目标2029年实现不依赖EUV的等效5nm方案",
+      "summary": "原集微科技启用全球首条8英寸二维半导体中试线，今年1月点亮后半年内完成设备调试与工艺优化，发布500纳米PDK 0.1版本，工艺库良率超99.99%，称二维材料无需依赖FinFET或环栅结构即可实现晶体管微缩。",
+      "publishedAt": "2026-07-10T15:29:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/079.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260710-022"
+    },
+    {
+      "title": "扎克伯格回应Meta\"算力过剩\"质疑：内部需求旺盛，但对外出租更赚钱",
+      "summary": "扎克伯格接受采访时否认Meta算力过剩，称公司算力满负荷运转，但当前算力市场价格高企，对外出租部分AI基础设施更划算。Meta正筹备名为\"Meta Compute\"的算力出租业务，2026年资本开支指引为1250亿至1450亿美元。",
+      "publishedAt": "2026-07-10T15:26:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/078.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260710-023"
+    },
+    {
+      "title": "消息称腾讯考虑入股AI初创公司Manus，或成第一大股东",
+      "summary": "据英国《金融时报》报道，腾讯正就投资Manus与真格基金、红杉资本及Manus管理层磋商，涉资约20亿美元，或成为其第一大股东。今年4月国内曾就外资收购Manus股权作出禁止性决定，5月Manus创始团队一度考虑筹资回购股份。",
+      "publishedAt": "2026-07-10T14:53:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/053.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260710-024"
+    },
+    {
+      "title": "消息称华为MateBook Fold折叠PC新品将于下半年推出，搭载麒麟X9系芯片",
+      "summary": "数码博主透露华为下半年将推出新款MateBook Fold折叠电脑，提供曜金、皓月白、幻夜黑配色及24GB+512GB等多种存储组合，采用OLED折叠大屏与麒麟X9系芯片。现款于2025年5月发布，为全球首款搭载鸿蒙系统的折叠电脑。",
+      "publishedAt": "2026-07-10T14:50:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/048.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260710-025"
+    },
+    {
+      "title": "消息称Kimi联合美国运通、农业银行推出全球首张AI原生信用卡",
+      "summary": "月之暗面Kimi的AI原生信用卡合作方据称已敲定美国运通与中国农业银行，项目自2026年4月启动。卡片计划支持日常消费积分8折兑换Kimi会员权益，并探索智能体支付、Token额度与信用额度挂钩等玩法，面向白领、跨境从业者等群体。",
+      "publishedAt": "2026-07-10T14:36:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/035.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260710-028"
+    },
+    {
+      "title": "长征十号乙\"网系回收\"对比马斯克星舰\"筷子夹火箭\"，两种回收方案各有侧重",
+      "summary": "文章对比中国长征十号乙采用海上平台缓冲网捕获一级火箭的\"网系回收\"，与SpaceX星舰发射塔机械臂空中捕获的\"筷子\"方案。星舰方案追求超重型火箭的极限周转效率，对传感器与控制系统要求极高；中国方案容错空间更大，部署灵活，适配探月等中型运载任务。",
+      "publishedAt": "2026-07-10T14:27:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/031.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260710-029"
+    },
+    {
+      "title": "苹果App Store Connect年龄分级问卷新增社交媒体问题，9月起开发者须填写",
+      "summary": "苹果更新App Store Connect年龄分级问卷，新增社交媒体功能相关问题，以配合iOS 27家长控制功能。具备社交媒体功能但对13岁以下用户禁用该功能的App不计入家长时间限制；2026年9月起开发者提交新App、更新或公证申请时必须回答该问卷。",
+      "publishedAt": "2026-07-10T14:15:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/029.htm",
+      "subCategory": "开发者工具",
+      "id": "tech-20260710-027"
+    },
+    {
+      "title": "谷歌安卓版Chrome 150曝两个P0级Bug：下载文件消失、视频控件失灵",
+      "summary": "安卓版Chrome 150自7月4日发布以来，用户反馈下载进度达100%后文件从下载列表和目录中消失，每日相关投诉从10-15例升至20-25例；另有部分采用特定CSS containment技术的网站视频播放、暂停等控件失灵，问题还波及Edge、Brave及安卓WebView。",
+      "publishedAt": "2026-07-10T14:13:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/023.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260710-026"
+    },
+    {
+      "title": "马斯克称年内将首批建设物资送往月球和火星，启动太空殖民地建设",
+      "summary": "埃隆·马斯克称计划在2026年底前发射火箭，将首批建设物资送往月球与火星，机器人将先行搭建基础设施。马斯克称SpaceX已把重点转向月球，月球城市预计10年内初步建成，火星物资运输预计7年内启动。本周SpaceX还申请发射由10万颗卫星组成的星座。",
+      "publishedAt": "2026-07-10T14:08:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/975/015.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260710-030"
+    },
     {
       "id": "tech-20260710-003",
       "title": "现已恢复：苹果一度让部分老iPhone/iPad无法还原、刷机，涵盖iOS 6-iOS 10",
@@ -591,15 +690,6 @@
       "subCategory": "XR-AR-VR"
     },
     {
-      "id": "tech-20260707-736",
-      "title": "Accenture confirms breach after hacker offers stolen data for sale",
-      "summary": "一名代号\"888\"的黑客声称窃取埃森哲约35GB数据，包括源代码、RSA/SSH密钥及Azure访问令牌，并在网络犯罪论坛出售。埃森哲确认发生一起\"孤立\"事件，称未影响业务运营及服务交付。",
-      "publishedAt": "2026-07-07T18:06:00+00:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260707-726",
       "title": "微信鸿蒙版获8.0.19.37邀测更新，支持键盘快捷键发消息",
       "summary": "微信鸿蒙版App推送8.0.19.37邀测升级，新增连接实体键盘时通过快捷键发送消息、聊天界面双击文字消息放大显示等功能，并修复多项已知问题。",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/973/810.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260707-722",
-      "title": "三星预热新形态折叠机，预计为Galaxy Z Fold8阔折叠版",
-      "summary": "三星预热一款新形态设备，外界预计为Galaxy Z Fold8阔折叠版，搭载第五代骁龙8至尊版定制芯片，内屏约7.6英寸、外屏约5.5英寸，展开厚度约4.5毫米，延续此前曝光的比例。",
-      "publishedAt": "2026-07-07T23:40:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/809.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-723",
-      "title": "华为智能手表HarmonyOS 7新特性首曝：腕上控家",
-      "summary": "华为智能手表在HarmonyOS 7版本中新增全屋智能控制功能，用户可在手表上查看并控制家中智能灯具、空调伴侣、音箱等设备，并支持一键执行预设场景。",
-      "publishedAt": "2026-07-07T23:29:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/808.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-724",
-      "title": "苹果停止签署iOS 26.5/26.5.1系统",
-      "summary": "苹果已停止为iOS/iPadOS 26.5及26.5.1签名，已升级至26.5.2的iPhone用户无法再降级至上述版本。26.5.2于6月29日发布，主要修复安全问题。",
-      "publishedAt": "2026-07-07T23:24:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/807.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260707-728",
-      "title": "华为乾崑智驾里程数断网仍滚动引热议，官方回应",
-      "summary": "有用户发现华为乾崑智驾累计辅助驾驶里程数在断网情况下仍持续增长，引发热议。华为回应称相关页面数据展示做了平滑处理，底层里程数据均来自车辆真实数据。",
-      "publishedAt": "2026-07-07T23:01:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/803.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-729",
-      "title": "谷歌Pixel 11系列价格曝光，取消128GB版本",
-      "summary": "曝光信息显示谷歌Pixel 11系列将取消128GB存储版本，全系起售容量提升至256GB，标准版起售价999欧元，机型预计8月11日发布。",
-      "publishedAt": "2026-07-07T22:53:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/802.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260707-730",
-      "title": "小米增程车上市节奏曝光，7月底技术发布会",
-      "summary": "消息称小米增程车将于7月底举行技术发布会，8月中下旬正式上市，并备有万台现车实现上市即交付，该车内部代号“昆仑N3”，配备可开启车顶用于房车场景。",
-      "publishedAt": "2026-07-07T22:41:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/800.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-725",
-      "title": "日本KDDI披露数据泄露，涉及超1200万邮箱地址",
-      "summary": "日本电信运营商KDDI披露数据泄露事件，攻击者利用第三方软件漏洞侵入其为多家ISP提供的邮件平台，5月至6月间导致超1200万电子邮件地址及近762万密码泄露。",
-      "publishedAt": "2026-07-07T22:39:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/799.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260707-735",
-      "title": "华为智选车产品总监彭磊：享界 G9 全系搭载华为全新自研电机，综合续航里程 CLTC 达 1300 多公里",
-      "summary": "华为智选车产品总监彭磊透露，享界G9全系将搭载华为自研电机及800V高压增程技术，综合CLTC续航超1300公里，标配四驱，搭载鸿蒙车机与三联屏，预计三季度上市。",
-      "publishedAt": "2026-07-07T21:59:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/789.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260707-731",
-      "title": "英伟达发布610.74驱动，支持《毁灭战士》《刺客信条》新内容",
-      "summary": "英伟达发布GeForce Game Ready 610.74驱动，为《毁灭战士：黑暗时代》新DLC及《刺客信条：黑旗-记忆重制版》提供优化，支持DLSS多帧生成与光线重建等功能。",
-      "publishedAt": "2026-07-07T21:52:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/788.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260707-732",
-      "title": "KDE Plasma 6.6.6桌面环境发布，为6.6系列最后维护更新",
-      "summary": "KDE发布Plasma 6.6.6桌面环境，作为6.6系列最后一个维护更新，此次更新仅包含窗口管理器、应用发现、工作区及网络等模块的漏洞修复，不含新功能。",
-      "publishedAt": "2026-07-07T21:50:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/787.htm",
-      "subCategory": "开源生态"
     }
   ]
 }

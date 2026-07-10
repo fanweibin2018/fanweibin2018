@@ -3,8 +3,98 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阵里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-10T08:45:00+08:00",
+  "updatedAt": "2026-07-10T16:22:00+08:00",
   "items": [
+    {
+      "title": "好市多6月净销售额增长10.6%，电商可比销售额增长21%",
+      "summary": "好市多公布6月财报，月度净销售额293.9亿美元，同比增长10.6%，电商可比销售额同比增长20.9%；截至7月5日的44周累计净销售额2504.3亿美元，同比增长10.1%，付费会员数达8290万。",
+      "publishedAt": "2026-07-10T14:08:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/qW3ZAPHU",
+      "subCategory": "平台动态",
+      "id": "trade-20260710-015"
+    },
+    {
+      "title": "亚马逊7月起全面推广Passkey登录，新增\"辅助用户\"团队协作功能",
+      "summary": "亚马逊将于2026年7月起在卖家账户中全面推行Passkey（通行密钥）登录，逐步替代密码加短信验证方式；同时上线\"辅助用户\"功能，允许主账号邀请团队成员独立注册各自的Passkey登录同一账户。",
+      "publishedAt": "2026-07-10T13:58:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/gpKRBmOV",
+      "subCategory": "平台政策",
+      "id": "trade-20260710-016"
+    },
+    {
+      "title": "美国海关7月14日启用Error Code 333，未使用IOR满一年将被标记\"非活跃\"",
+      "summary": "美国海关CSMS #69113360通知，7月14日起ACE系统将12个月无清关记录的进口商(IOR)自动标记\"非活跃\"，相关申报将触发Error Code 333导致清关失败，需通过报关行提交TP报文或CBP表格5106申请恢复。",
+      "publishedAt": "2026-07-10T13:58:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/keqwbyi3",
+      "subCategory": "关税法规",
+      "id": "trade-20260710-017"
+    },
+    {
+      "title": "安克eufy吸奶器登顶亚马逊美国站月销榜，母婴品类年增长736%",
+      "summary": "安克eufy可穿戴吸奶器S1 Pro售价349美元，约为Momcozy等竞品两倍，但月销量超万件，长期位居亚马逊美国站吸奶器类目销量前两名；该品类2025年同比增长736%，全球母婴市场规模预计2026年达6287.7亿美元。",
+      "publishedAt": "2026-07-10T13:57:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/htfktQDF",
+      "subCategory": "选品趋势",
+      "id": "trade-20260710-018"
+    },
+    {
+      "title": "马士基MECL航线恢复经苏伊士运河通行，印度至美东航程缩短7-14天",
+      "summary": "马士基宣布连接印度、中东与美国东海岸的MECL独立航线自7月9日起恢复经红海苏伊士运河通行，西行航程缩短约7天、东行缩短约14天；8月起东行航线将新增沙特吉达港挂靠。此前\"双子星\"联盟AE15航线也已恢复苏伊士运河通行。",
+      "publishedAt": "2026-07-10T13:47:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/asmfbOLC",
+      "subCategory": "物流仓储",
+      "id": "trade-20260710-019"
+    },
+    {
+      "title": "俄罗斯\"清凉经济\"升温，Ozon吊扇销量同比增长9倍",
+      "summary": "受5月俄罗斯高温天气影响，Ozon平台天花板吊扇销量同比增长9倍，落地扇销量增长近4倍，因当地老旧住宅普遍不具备安装空调条件。报告建议卖家把握7-8月旺季，提前备好FBO海外仓库存并准备EAC认证及俄语文档。",
+      "publishedAt": "2026-07-10T13:47:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/oOJKxKtH",
+      "subCategory": "选品趋势",
+      "id": "trade-20260710-020"
+    },
+    {
+      "title": "俄罗斯SPOT系统7月1日起全面强制实施，灰色清关风险加剧",
+      "summary": "俄罗斯\"国家货物确认系统\"(SPOT)自7月1日起对陆运入境的欧亚联盟成员国货物全面强制实施，仅俄本地注册企业可申报，需提前2-7天预申报并缴保证金，虚假申报最高处货值50%罚款，证件不全货品将被平台下架。",
+      "publishedAt": "2026-07-10T13:47:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/aWLK9WXE",
+      "subCategory": "关税法规",
+      "id": "trade-20260710-021"
+    },
+    {
+      "title": "Temu与SHEIN大幅削减欧洲Google Shopping广告投入",
+      "summary": "监测数据显示，受欧盟7月1日起对150欧元以下包裹取消关税豁免、改征每件3欧元费用影响，Temu与SHEIN自3月以来削减欧洲Google Shopping广告支出，Temu参与竞价账户占比降至约一半，SHEIN购物广告份额至6月几近消失。",
+      "publishedAt": "2026-07-10T13:37:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/HDwKskfk",
+      "subCategory": "平台动态",
+      "id": "trade-20260710-022"
+    },
+    {
+      "title": "Gmarket四年来首次实现上半年GMV正增长，主站增长14%",
+      "summary": "韩国电商平台Gmarket公布，2026年上半年GMV实现四年来首次正增长，主站同比增长14%，日均交易量增长约7%，购买转化率提升14%。截至7月1日入驻商家累计66万家，同比增长5%，跨境出口GMV较2025年下半年增长逾一倍。",
+      "publishedAt": "2026-07-10T11:36:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/YBcTOhNk",
+      "subCategory": "新兴市场",
+      "id": "trade-20260710-023"
+    },
+    {
+      "title": "英国消费者协会调查发现八大平台150款婴童产品存在安全风险",
+      "summary": "英国Which?调查发现，速卖通、亚马逊、eBay、Etsy、TikTok Shop等八大平台在售150款婴童产品存在窒息、卡喉等安全隐患，Etsy违规最多达41款、亚马逊36款，该机构呼吁政府明确平台对第三方卖家产品安全的法律责任。",
+      "publishedAt": "2026-07-10T11:36:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/S8Y3t4Rm",
+      "subCategory": "平台政策",
+      "id": "trade-20260710-024"
+    },
     {
       "id": "trade-20260710-001",
       "title": "Depop澳洲站7月22日起取消卖家销售佣金",
@@ -492,6 +582,51 @@
       "subCategory": "新兴市场"
     },
     {
+      "id": "trade-20260707-706",
+      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
+      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
+      "publishedAt": "2026-07-07T11:49:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/v3ytak4C",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-707",
+      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
+      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
+      "publishedAt": "2026-07-07T10:45:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/avudrzpr",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-818",
+      "title": "老龄化趋势推动需求增长！亚马逊美站防水药袋活页夹受到关注",
+      "summary": "亚马逊美国站防水药盒活页夹产品受到关注，主要面向55至75岁人群，pill organizer关键词月搜索量超122万，现有售价17.99至23.99美元，建议从防水材质及看护版本差异化竞争。",
+      "publishedAt": "2026-07-07T10:24:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/eVPbczmF",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260707-817",
+      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
+      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
+      "publishedAt": "2026-07-07T09:50:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/g4UxMZlo",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260707-820",
+      "title": "Wildberries今日起上调卖家佣金，自发货模式最高增刊20个百分点",
+      "summary": "俄罗斯电商平台Wildberries自2026年7月7日起实施差异化佣金调整，平台仓配FBO卖家佣金上调5个百分点，自主备货发货FBS卖家佣金最高上调20个百分点，原因为燃油价格上涨推高物流成本。",
+      "publishedAt": "2026-07-07T09:30:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/dDsDt0Gv",
+      "subCategory": "平台政策"
+    },
+    {
       "id": "trade-20260707-705",
       "title": "俄罗斯宠物营养添加剂需求同比增长14.5%",
       "summary": "俄罗斯宠物营养品市场2026年上半年增长明显，猫狗功能性营养补充剂需求同比增长14.5%，莫斯科、圣彼得堡等高收入地区表现突出，进口关节护理与肠胃产品主要来自德国、美国及中国。",
@@ -588,141 +723,6 @@
       "publishedAt": "2026-07-07",
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/0zuiHLz9",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260707-810",
-      "title": "亚马逊严打明信片催评及诱导改评 违规直接撤销销售权限",
-      "summary": "亚马逊加大对刷评行为的打击力度，向发送明信片催评、诱导买家删除或修改差评的卖家发出警告并直接撤销销售权限，鼓励卖家仅通过官方索评按钮合规索评。",
-      "publishedAt": "2026-07-07",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/NXcdeLDw",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260707-811",
-      "title": "Wildberries 2026年7—8月热销指南：夏装及开学季产品需求增长",
-      "summary": "Wildberries发布2026年7至8月选品指南，7月促销期连衣裙、纯棉T恤等夏装需求走高，8月开学季教材、图集等文具品类销量预计大幅增长，建议卖家提前备货。",
-      "publishedAt": "2026-07-07",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/zkXIlQCE",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260707-816",
-      "title": "Amazon Buy Box Featured Offer Eligibility Change",
-      "summary": "亚马逊宣布自2026年7月20日起取消欧盟及英国站Featured Offer（黄金购物车）的卖家资格门槛审核环节，卖家无需额外操作即可自动纳入评选，选中标准仍基于价格、配送速度与客户体验等因素，Buy Box整体评选机制未发生变化。",
-      "publishedAt": "2026-07-07",
-      "source": "ChannelX",
-      "url": "https://channelx.world/2026/07/amazon-buy-box-featured-offer-eligibility-change/",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260707-706",
-      "title": "TikTok Shop Tokopedia 否认大规模裁员传闻",
-      "summary": "TikTok Shop Tokopedia否认裁减约90%研发、信任安全及财务部门员工的传闻，公司总裁称此举为组织架构调整与内部人员重新配置，并强调将持续投资印尼电商业务。",
-      "publishedAt": "2026-07-07T11:49:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/v3ytak4C",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-707",
-      "title": "TikTok Shop东南亚7.7大促开启 多市场推出优惠活动",
-      "summary": "TikTok Shop在东南亚多国启动7.7大促，推出直降、阶梯折扣及组合券等优惠机制，马来西亚同步开展世界杯狂欢促销，菲律宾开启超级特卖，泰国自7月5日起调整佣金费率。",
-      "publishedAt": "2026-07-07T10:45:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/avudrzpr",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-818",
-      "title": "老龄化趋势推动需求增长！亚马逊美站防水药袋活页夹受到关注",
-      "summary": "亚马逊美国站防水药盒活页夹产品受到关注，主要面向55至75岁人群，pill organizer关键词月搜索量超122万，现有售价17.99至23.99美元，建议从防水材质及看护版本差异化竞争。",
-      "publishedAt": "2026-07-07T10:24:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/eVPbczmF",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260707-817",
-      "title": "亚马逊Prime Day后美站销量下滑七成，多重因素延长大促后低谷期",
-      "summary": "亚马逊Prime Day期间美国线上消费规模达264亿美元，同比增长9.3%，但大促结束后不少中小卖家反馈订单量下滑最高达七成，独立日假期出行、世界杯赛事分流及广告点击成本上涨约六成被认为是主要原因。",
-      "publishedAt": "2026-07-07T09:50:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/g4UxMZlo",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260707-820",
-      "title": "Wildberries今日起上调卖家佣金，自发货模式最高增刊20个百分点",
-      "summary": "俄罗斯电商平台Wildberries自2026年7月7日起实施差异化佣金调整，平台仓配FBO卖家佣金上调5个百分点，自主备货发货FBS卖家佣金最高上调20个百分点，原因为燃油价格上涨推高物流成本。",
-      "publishedAt": "2026-07-07T09:30:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/dDsDt0Gv",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260706-606",
-      "title": "Shopee越南达人推广双模式上线规则更新",
-      "summary": "Shopee越南站更新达人推广规则，商品同时参与定向推广与拓展推广时系统优先执行定向活动佣金费率，新规提供快捷版与标准版两种设置模式，活动一旦生效只能上调预算或佣金，不可下调。",
-      "publishedAt": "2026-07-06T17:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/jpVZbXWc",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260706-608",
-      "title": "Shopee新加坡站加强预包装食品净含量合规审查",
-      "summary": "Shopee提醒新加坡卖家，预包装食品净含量标注须符匯1975年度量衡法案，包装、吸水垫、冰衣等不得计入净重，违规个人最高罚来2000新元，2026年审查范围将从冻结海鲜扩大到全部预包装食品。",
-      "publishedAt": "2026-07-06T17:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/dR0ZhUEs",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260706-607",
-      "title": "水冷衣服卖爆！日本高温催甲5大爆款品类",
-      "summary": "日本乐天市场数据显示，2026年高温催生防暑降温品类GMV五年增长约6.4倍，水冷衣、不锈钢保冷杯、免手持风扇、防晒机能服饰及宠物降温用品成为五大热销方向，其中不锈钢保冷杯销量增长达14.6倍。",
-      "publishedAt": "2026-07-06T16:25:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187325",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260706-601",
-      "title": "亚马逊德国携手Myflexbox开放2300个自提柜网络",
-      "summary": "亚马逊德国站与自提柜运营商Myflexbox合作，开放超2300个24小时自助自提点，覆盖德国和奥地利800多个城镇，并支持UPS、DPD、GLS、FedEx等快递公司接入，提升末端配送便利度。",
-      "publishedAt": "2026-07-06T14:20:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/YNXVtfo5",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260706-307",
-      "title": "Shopee菲律宾南部商家订单量三年增长51%，视频带货销售额增长209%",
-      "summary": "Shopee最新报告显示，2023至2025年间菲律宾维萨亚斯及棠兰老岛地区中小商家平均订单量增长51%，2024至2025年间通过视频功能带动的销售额增长209%，直播与短视频成为当地商家拓展全国市场的核心渠道。",
-      "publishedAt": "2026-07-06",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/zb/20260706",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260706-603",
-      "title": "MSC重启印度—美东IndusExpress航线，停航一月后8月恢复运营",
-      "summary": "地中海航运公司MSC宣布，此前停航一个月的印度至美国东海岸IndusExpress航线将于8月第三周恢复固定每周班期，地缘局势及关税因素推高美国进口需求，相关运价和订舱量随之上涨。",
-      "publishedAt": "2026-07-06T11:01:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/m0ea2lI3",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260706-605",
-      "title": "拉瓜伊拉港因地震暂停运营，多家船公司调整至卡贝略港中转",
-      "summary": "委内瑞拉拉瓜伊拉港因地震导致集装箱码头受损被迫全面停运，马士基、地中海航运、达飞轮船相继暂停订舱或改道卡贝略港中转，三家船公司均未公布复航时间，建议货主关注公告调整订舱港口。",
-      "publishedAt": "2026-07-06T11:01:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/bVmfqgDm",
       "subCategory": "物流仓储"
     }
   ]
