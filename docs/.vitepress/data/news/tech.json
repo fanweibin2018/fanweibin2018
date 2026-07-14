@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-13T17:00:00+08:00",
+  "updatedAt": "2026-07-14T09:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260714-001",
+      "title": "苹果发布 tvOS / HomePod 27 首个公测版，暂未整合 Siri AI",
+      "summary": "苹果发布tvOS 27与HomePod 27首个公测版，其中tvOS 27不再支持Apple TV HD及初代Apple TV 4K等旧设备。本次公测版尚未整合Siri AI功能，该功能预计将于今秋随新款Apple TV 4K及iPhone 18 Pro系列一同推出，新系统同时带来播客应用改版、下载管理优化、AirPlay连接提速及Apple Music无损音质等更新。",
+      "publishedAt": "2026-07-14T08:27:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/273.htm",
+      "subCategory": "操作系统"
+    },
     {
       "title": "投资者削减对亚洲芯片股押注，多家机构对涨势可持续性发出警告",
       "summary": "国际投资者正减少对台积电、SK海力士、三星电子等亚洲芯片制造商的持仓，富达国际、贝莱德等机构对相关股票涨势可持续性表示担忧，指数集中度上升及杠杆持仓加剧了板块波动。",
@@ -715,141 +724,6 @@
       "url": "https://www.ithome.com/0/975/385.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260711-001"
-    },
-    {
-      "id": "tech-20260711-218",
-      "title": "Spotify Release Radar's new personalization options improve your music recommendations",
-      "summary": "Spotify为Release Radar功能新增个性化设置选项，用户可通过“发现新歌手”“编辑精选”“轻松聊听”等标签调整推荐内容，该更新已在移动端与桌面端上线，并配合改进的推荐算法与全新视觉设计，帮助用户减少接收到不感兴趣曲目的概率。",
-      "publishedAt": "2026-07-11T08:16:00-04:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2212917/spotify-release-radar-personalization-options-refined-session-controls/",
-      "subCategory": "互联网产品"
-    },
-    {
-      "title": "无法完全关闭：39 页起诉书指出微软 Win11 内置 GDID 追踪器",
-      "summary": "一份 39 页联邦起诉书披露，Windows 11 内置的全局设备标识符（GDID）无法被完全关闭，该标识符在用户使用微软账户登录后写入注册表，切换本地账户、关闭诊断数据等操作均无法彻底消除该追踪机制。",
-      "publishedAt": "2026-07-11T08:05:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/381.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260711-003"
-    },
-    {
-      "title": "SK 海力士 CEO 郭鲁正：内存行业明年将迎来史上最严峻局势，供不应求局面或持续至下一个十年",
-      "summary": "SK 海力士 CEO 郭鲁正表示，全球 DRAM 供需紧张局面预计将持续至 2030 年后，明年可能是内存行业历史上最困难的一年，公司仍在评估美国建厂选址，优先考虑土地、电力、水资源及劳动力成本等因素。",
-      "publishedAt": "2026-07-11T07:49:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/380.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260711-002"
-    },
-    {
-      "id": "tech-20260711-301",
-      "title": "研究人员曝光\"Ghostcommit\"攻击，将提示注入藏入图片欺骗AI代码审查工具窃取密钥",
-      "summary": "密苏里大学堡尔斯城分校研究人员展示了Ghostcommit攻击：将恶意指令隐藏在PR图片文件中绕过代码审查，AI编码助手随后读取配置并窃取环境变量中的密钥；测试显示Cursor、Antigravity受影响，Claude Code拒绝执行该攻击。",
-      "publishedAt": "2026-07-11T05:03:00-04:00",
-      "source": "Bleeping Computer",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260711-302",
-      "title": "蔚来ES8大五座版正式上市，售价38.28万元起",
-      "summary": "蔚来于7月9日在成都发布ES8大五座版，行政豪华版售价38.28万元起（BaaS方栈27.48万元起），搭载102kWh电池、900V高压架构，CLTC续航655公里，7.05平方米车内空间可容纳\"5人21箱\"，7月10日起开启交付。",
-      "publishedAt": "2026-07-11T05:00:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-11/doc-inihkpth6850068.shtml",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260710-102",
-      "title": "募资265亿美元超阿里创外企赴美IPO纪录：SK海力士ADR预示开盘价180美元，首日涨超20%",
-      "summary": "SK海力士美国存托凭证在纳斯达克上市，募资约265亿美元，超过阿里巴巴此前外企赴美IPO纪录，定价149美元/股，预市价格显示开盘价约180美元，涨幅约21%，认购倍数超7倍，机构投资者超500家。",
-      "publishedAt": "2026-07-10T23:16:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/362.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260710-115",
-      "title": "小米汽车确认澎程不是子品牌：计划发布两款车，投入566台测试车、路测超428万公里",
-      "summary": "小米汽车表示澎程是小米汽车旗下大空间智能变化SUV系列，非独立子品牌，计划推出五座与七座两款增程车型，已投入566台测试车，路测里程超428万公里，纯电续航最高380公里（WLTC）。",
-      "publishedAt": "2026-07-10T23:09:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/361.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260710-116",
-      "title": "比亚迪腾势腾它N8官图公布：大五座纯电SUV，搭载第二代刀片电池及闪充技术",
-      "summary": "比亚迪腾势发布腾势它N8官图，车长5150mm，轴距3075mm，搭载第二代刀片电池及闪充技术，官方称分钟可充满、9分钟完全充电，零下30度仅需多肗3分钟，提供单电机、高性能单电机及三电机三种动力版本。",
-      "publishedAt": "2026-07-10T22:54:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/359.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260710-111",
-      "title": "微信Win/Mac PC测试犈4.1.12发布：通话中可接听新来电，支持Markdown排版",
-      "summary": "微信PC测试犈4.1.12新增通话中接听新来电功能，桌面端聊天窗口图片视频合并展示体验优化，笔记功能新增Markdown排版支持，包含标题、加粗、引用、列表等格式，该功能仍处实验阶段。",
-      "publishedAt": "2026-07-10T22:53:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/358.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260710-117",
-      "title": "全新零跑B01/B10车型7月16日上市：50英寸AR-HUD、双零重力座椅、激光雷达",
-      "summary": "零跑汽车宣布B01轿车与B10 SUV将于7月16日正式上市，此前已于7月8日开启盲订。B01配备50英寸AR-HUD及17.3英寸中控屏，B10配备双零重力座椅，支持通风加热按摩，两款车型均搭载激光雷达及800V电气架构。",
-      "publishedAt": "2026-07-10T22:38:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/356.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260710-112",
-      "title": "告别卓易通：飞牛 fnOS 鸿蒙原生App开启首轮测试招募",
-      "summary": "飞牛私有云宣布其鸿蒙原生应用完成开发并开启首轮测试招募，面向使用HarmonyOS 5及以上系统的飞牛NAS用户，此前安卓兼容层运行方式存在文件传输不便、下载限速及发热等问题，招募周期为一周。",
-      "publishedAt": "2026-07-10T22:21:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/355.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260710-110",
-      "title": "富士发布中画幅电动变焦电影镜头GF19-35mmT3.5 PZ OIS WR",
-      "summary": "富士为GFX中画幅电影摄影机系统发布新款电动变焦镜头GF19-35mmT3.5 PZ OIS WR，等效焦距约15-28mm，采用15组23片结构，含4片ED镜片与3片非球面镜片，配妇13叶光圈，预聡2026年7月下旬上市。",
-      "publishedAt": "2026-07-10T21:22:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/346.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-104",
-      "title": "联想推出首款搭载Wildcat Lake处理器的ThinkPad机型，最高32GB DDR5内存",
-      "summary": "联想ThinkPad E14 Gen 8与E16 Gen 4新增英特尔Wildcat Lake处理器版本，含Core 5、Core 7选项，最遠18TOPS算力NPU，单通道最高32GB DDR5-5600内存，最醘1TB PCIe 4.0 SSD，支持雷用4与Wi-Fi 7。",
-      "publishedAt": "2026-07-10T21:13:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/345.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-107",
-      "title": "消息称一加迭代新机硅电池来到25%±，容量达10000mAh±",
-      "summary": "博主爆料称一加在研新机硅负极电池技术占比达25%左右，两款机型电池容量分别约9000mAh（120W）和10000mAh（100W），均配备骁龙8系列处理器与185Hz超高刷新率屏幕，上市时间未公布。",
-      "publishedAt": "2026-07-10T20:59:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/343.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260710-113",
-      "title": "加速进化发布Booster T2具身开发旗舰平台：搭载英伟达Thor芯片，2070TFLOPS算力",
-      "summary": "加速进化推出人形机器人开发平台Booster T2专业版，搭载英伟达Thor芯片，算力达2070TFLOPS，14核CPU最高2.6GHz，128GB LPDDR5X内存，机身高1.4米，最多75个自由度，最大关节扭矩140Nm，单臂最大静态负载10kg。",
-      "publishedAt": "2026-07-10T20:49:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/975/340.htm",
-      "subCategory": "机器人"
     }
   ]
 }

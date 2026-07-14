@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-13T17:00:00+08:00",
+  "updatedAt": "2026-07-14T09:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260714-001",
+      "title": "微软 CEO 纳德拉警告企业：你花钱用的 AI，最终可能会成为你的竞争对手",
+      "summary": "微软CEO纳德拉提示企业注意使用第三方AI模型的双重成本：企业既需支付token费用，又可能在与模型交互中泄露业务知识，使服务商借此了解客户业务并推出竞争性服务。纳德拉认为，若模型厂商可用公开互联网数据训练模型，企业也应被允许对模型进行蒸馏分析，并批评服务条款中保留厂商单方面学习客户数据权利的做法。",
+      "publishedAt": "2026-07-14T08:23:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/976/271.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260714-002",
+      "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+      "summary": "面向AI Agent设计的搜索产品AnySearch登顶Product Hunt周榜，在Frames、FreshQA、WebwalkerQA等300题测试中综合准确率达76.4%，优于Parallel、Brave Search等竞品。产品通过智能意图识别将查询路由至20余个垂直数据源，并对内容做去冗余与结构化markdown转换，以降低上下文长度与token消耗。",
+      "publishedAt": "2026-07-13T23:15:01+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/449327.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260714-003",
+      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+      "summary": "浪潮信息推出CPU原生液冷服务器机柜，单柜可同步支撑超4万个Agent运行，为此前方案的40倍；同时发布多模型融合方案，让多个大模型并行处理任务并由共识模型评估结果，在DRACO测试中取得53.9%的表现，超过候选池中任一单一模型。配套的元脑SD200超节点将token生成时延降至4.77毫秒，为国内首个跌破5毫秒的方案。",
+      "publishedAt": "2026-07-13T19:59:57+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/449311.html",
+      "subCategory": "推理框架"
+    },
     {
       "title": "Claude Code砏的坑，蚂蚁安全在尝试填上",
       "summary": "蚂蚁安全实验室开源两大安全框架SingGuard-NSFA与SingGuard，分别用于智能体行为防护与多模态感知安全，覆盖185个风险场景，旨在应对Claude Code、OpenClaw等系统带来的新型安全风险。",
@@ -697,114 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/445229.html",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260707-801",
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-      "summary": "蚂蚁灵波开源空间原生视觉基座模型LingBot-Vision及深度感知模型LingBot-Depth 2.0，通过边界强制预训练提升物体边缘与小目标识别精度，0.3B学生模型深度基准表现追平7B规模的DINOv3，可用于机械臂、移动及人形机器人的空间理解任务。",
-      "publishedAt": "2026-07-07T12:48:40+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/445230.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260707-803",
-      "title": "国家发改委：预计今年 AI 手机、AI 电脑销量将首超非 AI 产品",
-      "summary": "国家发改委在上海发布会上表示，我国重点行业人工智能渗透率已超80%，去年AI手机、AI电脑出货量超1亿台，预计今年AI产品销量将首次超过非AI产品，AI原生办公应用月访问量超2000万次。",
-      "publishedAt": "2026-07-07T12:21:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/474.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260707-808",
-      "title": "Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory",
-      "summary": "南京大学团队提出Light-Omni多模态视频理解智能体框架，通过双重上下文状态实现单次前向推理，替代传统多步推理方式；相比M3-Agent准确率提升约2.4%，速度提升12.1倍，显存占用降低2.6倍。",
-      "publishedAt": "2026-07-07T02:00:06+00:00",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2607.05511",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260707-601",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "summary": "7月7日，Hugging Face发布开源机器人学习库LeRobot v0.6.0，新增可预判未来动作的世界模型策略与GR00T N1.7、EO-1等多款VLA模型，提供奖励模型API、六项仿真评测基准及人机协同数据采集工具lerobot-rollout，安装体积缩减约40%。",
-      "publishedAt": "2026-07-07",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260707-901",
-      "title": "Kimi K2.7 Code模型开放给GitHub Copilot企业版用户",
-      "summary": "GitHub将开源模型Kimi K2.7 Code的可用范围扩展至Copilot Business和Enterprise计划，此前仅限个人订阅版本，管理员需在设置中手动启用该模型策略后团队成员方可使用。",
-      "publishedAt": "2026-07-07",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise/",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260706-402",
-      "title": "美团LongCat-2.0正式开源",
-      "summary": "美团宣布正式开源LongCat-2.0全部模型权重、推理引擎及核心技术文档,该模型总参数1.6万亿、平均激活约480亿,为业界首个完成国产算力全流程训练推理的万亿参数模型,多家国产芯片厂商已完成推理适配。",
-      "publishedAt": "2026-07-06T23:42:14+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-06/doc-inifwwmr1771008.shtml",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260706-407",
-      "title": "智平方在联合国展示类脑具身模型NeuroVLA",
-      "summary": "大湾区企业智平方在联合国开源周展示类脑大模型NeuroVLA,模拟大脑皮层、小脑与脊髓三层机制以降低数据依赖,称机器人运动抖动降低超75%、脊髓层功耗低至0.4瓦,并计划全球开源。",
-      "publishedAt": "2026-07-06T18:40:27+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/444733.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260706-404",
-      "title": "极简方案刷新扩散模型推理纪录,阿里清华论文入选ICML杰出论文",
-      "summary": "阿里巴巴与清华大学合作论文获ICML 2026杰出论文奖,研究发现扩散语言模型任意生成顺序会导致熵退化问题,并提出简化训练方法JustGRPO,在GSM8K基准上取得89.1%准确率。",
-      "publishedAt": "2026-07-06T18:33:45+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/444721.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260706-405",
-      "title": "蕾来世界模型OTA,70万用户没人被留在旧版本",
-      "summary": "蕾来向超70万辆在售车型同步推送世界模型OTA更新,覆盖四个平台、两种芯片架构车辆,未针对老旧硬件推出阱割版,依托自研AI编译器与算力校验体系实现全系车型同步升级。",
-      "publishedAt": "2026-07-06T17:41:04+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/443868.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260706-406",
-      "title": "电动方程式锦标赛上海站接入Gemini实时解说",
-      "summary": "谷歌Gemini成为电动方程式锦标赛官方AI合作伙伴,在上海站比赛中提供实时数据解说、车手问答助手及模拟器训练反馈等功能,是生成式AI在体育赛事场景的最新应用。",
-      "publishedAt": "2026-07-06T17:35:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/443867.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260706-401",
-      "title": "腾讯混元Hy3正式发布",
-      "summary": "腾讯正式发布混合专家架构模型混元Hy3,总参数295B、激活21B,在编程与办公自动化等任务上性能提升明显,已接入WorkBuddy、元宝等业务,并计划扩展至约50个产品线。",
-      "publishedAt": "2026-07-06T16:26:48+08:00",
-      "source": "53AI",
-      "url": "https://www.53ai.com/news/LargeLanguageModel/2026070678934.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260706-403",
-      "title": "单模型支持30种语言+16种方言,阿里千问升级Fun-ASR-Realtime语音识别模型",
-      "summary": "阿里通义千问升级实时语音识别模型Fun-ASR-Realtime,单模型支持16种方言与30种语言,首字延迟为百毫秒级,方言识别准确率在多项测试中领先同类产品,并针对泰语等东南亚语言进行专项优化。",
-      "publishedAt": "2026-07-06T14:39:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/973/062.htm",
-      "subCategory": "AI音频"
     }
   ]
 }
