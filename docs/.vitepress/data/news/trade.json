@@ -3,8 +3,35 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-26T00:45:00+08:00",
+  "updatedAt": "2026-07-26T08:45:00+08:00",
   "items": [
+    {
+      "id": "trade-20260726-101",
+      "title": "乌克兰一周内十次无人机袭击俄罗斯Wildberries仓库，造成至少9人死亡",
+      "summary": "据NPR报道，乌军一周内对俄最大电商平台Wildberries的仓库发动十次无人机袭击，造成至少9名工人死亡、数十人受伤，一小型服装卖家损失约15万美元货物。乌方称仓库涉及运输无人机导航部件等军用物资，Wildberries及克里姆林宫方面予以否认。",
+      "publishedAt": "2026-07-25T19:43:00+08:00",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260726-102",
+      "title": "英国美妆品牌创始人：TikTok Live单场带货超18万美元",
+      "summary": "据雅虎新闻报道，英国睫毛精华品牌Glow For It创始人戴西·凯利称，品牌年营收约600万英镑，四成以上销售额来自TikTok Shop英国站，单场直播销售额可超10万英镑（约18万美元）。报道援引数据称美国消费者日均在TikTok Shop消费约3200万美元。",
+      "publishedAt": "2026-07-25T19:00:00+08:00",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/27-olds-beauty-business-started-110000526.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260726-103",
+      "title": "上半年广州海关关区体育用品出口约28.5亿元，同比增长15.8%",
+      "summary": "据中国新闻网报道，今年上半年广州海关关区企业出口体育用品及设备约28.5亿元人民币，同比增长约15.8%；其中清远出口1.9亿元、增长约15%，番禺区出口约1.4亿元、增长约36%。海关称2026年世界杯带动相关订单，一企业接获近百万件球衣订单，另一企业出口增速约183.9%。",
+      "publishedAt": "2026-07-25T12:36:00+08:00",
+      "source": "中国新闻网（腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260725A06GRK00",
+      "subCategory": "海关数据"
+    },
     {
       "id": "trade-20260725-009",
       "title": "一张税务稽查通知书，正让无数跨境卖家夜不能寐",
@@ -231,6 +258,15 @@
       "subCategory": "关税法规"
     },
     {
+      "title": "Amazon Business Reaches $60 Billion",
+      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
+      "publishedAt": "2026-07-23",
+      "source": "Marketplace Pulse",
+      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
+      "subCategory": "平台动态",
+      "id": "trade-20260723-312"
+    },
+    {
       "title": "预警！美西多个集装箱码头突发停摆",
       "summary": "美国奥克兰港TraPac、OICT、Matson等多个集装箱码头7月21日因码头工人声援其他工会罢工突发停摆，仲裁裁定该行动违反劳动合同后次日恢复作业，但货柜积压等影响仍持续。",
       "publishedAt": "2026-07-23T18:14:16+08:00",
@@ -346,15 +382,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/208016539538",
       "subCategory": "平台动态"
-    },
-    {
-      "title": "Amazon Business Reaches $60 Billion",
-      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
-      "publishedAt": "2026-07-23",
-      "source": "Marketplace Pulse",
-      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
-      "subCategory": "平台动态",
-      "id": "trade-20260723-312"
     },
     {
       "id": "trade-20260724-106",
@@ -697,33 +724,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/207973845791",
       "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260722-010",
-      "title": "一次假货跟卖亏掉10008美金！Prime Day损失账单警醒所有亚马逊品牌卖家",
-      "summary": "一亚马逊卖家因跟卖假货被迫退出Prime Day促销，损失促销销售额约8568美元及额外广告费1440美元，文章建议加入透明计划防范跟卖。",
-      "publishedAt": "2026-07-21T19:11:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187671",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260722-011",
-      "title": "入驻亚马逊三年做到销售额破亿？标杆孵化计划把成功路径标准化",
-      "summary": "雨果网报道亚马逊标杆孵化计划旨在将卖家三年做到销售破亿的成功路径标准化，由官方客户经理提供运营指导图谱与一对一诊断服务。",
-      "publishedAt": "2026-07-21T18:56:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187670",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260722-012",
-      "title": "月销过千、供不应求：一件10美元的\"小球衣\"，藏着怎样的大生意？",
-      "summary": "报道称全球宠物服饰市场预计2026年衘72.9亿美元，宠物球衣类产品价格多在5至15美元，经由亚马逊、TikTok、Temu等渠道热销。",
-      "publishedAt": "2026-07-21T18:19:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187669",
-      "subCategory": "选品趋势"
     }
   ]
 }

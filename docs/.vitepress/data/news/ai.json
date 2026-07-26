@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-07-26T00:45:00+08:00",
+  "updatedAt": "2026-07-26T08:45:00+08:00",
   "items": [
     {
       "title": "中国“甘德一号”携AI大模型上天，太空交通规则或将由中国“导航”",
@@ -150,6 +150,15 @@
       "subCategory": "多模态"
     },
     {
+      "id": "ai-20260725-001",
+      "title": "Anthropic推出Claude Opus 5模型",
+      "summary": "Anthropic发布Claude Opus 5，定位为以Opus 4.8同等价格（每百万输入token 5美元、输出25美元）实现接近Claude Fable 5前沿智能水平的模型，在Frontier-Bench、OSWorld 2.0等基准上表现提升，行为审计对齐得分为该系列最高。",
+      "publishedAt": "2026-07-24",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260725-011",
       "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
       "summary": "国内团队（拖拽智能、北京大学与鹏城实验室）发布世界模型UniWorld-View，可基于单张图像或视频生成新视角，支持推拉摇移及360度环绕；团队提出遮挡感知点云渲染与双流条件注入技术处理大基线视角合成，代码权重已开源并适配国产昇腾算力。",
@@ -195,15 +204,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260725-001",
-      "title": "Anthropic推出Claude Opus 5模型",
-      "summary": "Anthropic发布Claude Opus 5，定位为以Opus 4.8同等价格（每百万输入token 5美元、输出25美元）实现接近Claude Fable 5前沿智能水平的模型，在Frontier-Bench、OSWorld 2.0等基准上表现提升，行为审计对齐得分为该系列最高。",
-      "publishedAt": "2026-07-24",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260724-011",
       "title": "微软发布自研图像生成模型MAI-Image-2.5-Pro",
       "summary": "微软发布自研图像生成模型MAI-Image-2.5-Pro，支持文本渲染与自然语言编辑，定价为每百万token 5至106美元不等。微软表示该模型基于自有训练数据打造，未蒸馏第三方产品，目前已应用于Bing图像创作工具、PowerPoint图像编辑及OneDrive等场景。",
@@ -213,85 +213,13 @@
       "subCategory": "多模态"
     },
     {
-      "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
-      "summary": "国内首套智能体全生命周期互联标准体系在北京中关村发布，GB/Z185-2026系列七项指南标准正式出台，为金融、医疗、制造等领域超2000个智能体颁发数字身份编码，旨在降低跨平台协作开发成本。",
-      "publishedAt": "2026-07-23T23:56:55+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1461449.html",
-      "subCategory": "Agent",
-      "id": "ai-20260723-309"
-    },
-    {
-      "title": "谷歌Gemini新模型智能表现平平：旗舶3.5 Pro未现身，开发者反馈分化",
-      "summary": "谷歌发布Gemini 3.6 Flash等三款轻量模型，旗舶3.5 Pro缺席。第三方评测显示，3.6 Flash在Arena前端代码测试中排名第12，Artificial Analysis智能指数与上代持平，开发者对其推理能力评价分化。",
-      "publishedAt": "2026-07-23T23:51:40+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
-      "subCategory": "AI评测",
-      "id": "ai-20260723-310"
-    },
-    {
-      "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
-      "summary": "面壁智能宣布其MiniCPM端侧大模型将搭载于三星Galaxy Z Fold8及Z Fold8 Ultra机型，为Galaxy AI提供本地文本理解与多模态感知能力，系国产端侧大模型首次进入国际旗舰手机产品线。",
-      "publishedAt": "2026-07-23T18:20:36+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1460675.html",
-      "subCategory": "开源模型",
-      "id": "ai-20260723-305"
-    },
-    {
-      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型",
-      "summary": "据报道，Anthropic计划升级Claude语音模式，新增模型选择器，用户可在Opus、Sonnet与Haiku间自由切换并调整思考深度，此前语音模式仅统一调用Haiku 4.5模型。",
-      "publishedAt": "2026-07-23T17:02:00+08:00",
-      "source": "chinaz.com",
-      "url": "https://www.chinaz.com/ainews/29843.shtml",
-      "subCategory": "AI应用",
-      "id": "ai-20260723-303"
-    },
-    {
-      "id": "ai-20260724-007",
-      "title": "科大讯飞成立新公司爷方智能，提出机器人\"本体认知\"缺失问题",
-      "summary": "科大讯飞成立注册资本3亿元的新公司爷方智能，由讯飞科学家潘嘉带队研发机器人大脑。公司发布技术报告称，现有VLA模型缺乏对未来结果的预测能力，世界动作模型也缺少\"本体认知\"，即对机器人自身身体状态与运动能力的理解，并提出将逆运动学作为显式任务训练的解决方案。",
-      "publishedAt": "2026-07-23T16:23:49+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457698.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
-      "summary": "腾讯云发布云端智能体CodeBuddy NPC，可自主完成方案规划、代码开发、提交PR及自动化测试等全流程研发任务，通过提示词优化与缓存机制将首轮Token消耗从2万降至约2000，降幅超90%。",
-      "publishedAt": "2026-07-23T15:32:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniiusky8235151.shtml",
-      "subCategory": "AI编程",
-      "id": "ai-20260723-304"
-    },
-    {
-      "title": "高德ABot具身体系全栈升级",
-      "summary": "高德宣布ABot具身智能体系完成全栈升级，推出五款核心模型ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS、ABot-C0，覆盖感知、决策、执行与记忆环节。测试显示，机器人在开放环境中的任务完成率提升40%，自适应学习速度提升3倍。",
-      "publishedAt": "2026-07-23T15:26:40+08:00",
-      "source": "ITBear科技资讯",
-      "url": "https://www.itbear.com.cn/html/2026-07/1460287.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260723-301"
-    },
-    {
-      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
-      "summary": "阿里云真武M890超节点完成对2.4万亿参数通义千问Qwen3.8的适配并上线百炼平台提供推理服务，成为国内首个成功运行超2万亿参数大模型的超节点，智能体推理场景性能提升达1.5倍。",
-      "publishedAt": "2026-07-23T14:58:23+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457694.html",
-      "subCategory": "推理框架",
-      "id": "ai-20260723-213"
-    },
-    {
-      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "summary": "优艾智合发垃10亿参数具身智能模型FabriVLA，凭门控自注意力与深浅视觉特征融合，在Meta-World MT50多任务操作基准上以90.0%平均成功率超越π0等更大模型，登顶榜单。",
-      "publishedAt": "2026-07-23T14:36:08+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/07/457537.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260723-214"
+      "id": "ai-20260724-102",
+      "title": "Runway 推出生成式媒体路由器 Media Router",
+      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
+      "publishedAt": "2026-07-23T10:07:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "subCategory": "AI应用"
     },
     {
       "title": "POCKET: a 35-billion-parameter model that runs on your iPhone",
@@ -519,6 +447,105 @@
       "subCategory": "AI视频"
     },
     {
+      "title": "国内首套智能体全生命周期互联标准发布 2000余智能体获数字身份证",
+      "summary": "国内首套智能体全生命周期互联标准体系在北京中关村发布，GB/Z185-2026系列七项指南标准正式出台，为金融、医疗、制造等领域超2000个智能体颁发数字身份编码，旨在降低跨平台协作开发成本。",
+      "publishedAt": "2026-07-23T23:56:55+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1461449.html",
+      "subCategory": "Agent",
+      "id": "ai-20260723-309"
+    },
+    {
+      "title": "谷歌Gemini新模型智能表现平平：旗舶3.5 Pro未现身，开发者反馈分化",
+      "summary": "谷歌发布Gemini 3.6 Flash等三款轻量模型，旗舶3.5 Pro缺席。第三方评测显示，3.6 Flash在Arena前端代码测试中排名第12，Artificial Analysis智能指数与上代持平，开发者对其推理能力评价分化。",
+      "publishedAt": "2026-07-23T23:51:40+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1461441.html",
+      "subCategory": "AI评测",
+      "id": "ai-20260723-310"
+    },
+    {
+      "id": "ai-20260724-004",
+      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
+      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
+      "publishedAt": "2026-07-23T04:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "subCategory": "大模型"
+    },
+    {
+      "title": "国产端侧大模型第一次登上全球旗舰：面壁MiniCPM装进三星Galaxy Z Fold8系列",
+      "summary": "面壁智能宣布其MiniCPM端侧大模型将搭载于三星Galaxy Z Fold8及Z Fold8 Ultra机型，为Galaxy AI提供本地文本理解与多模态感知能力，系国产端侧大模型首次进入国际旗舰手机产品线。",
+      "publishedAt": "2026-07-23T18:20:36+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1460675.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260723-305"
+    },
+    {
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型",
+      "summary": "据报道，Anthropic计划升级Claude语音模式，新增模型选择器，用户可在Opus、Sonnet与Haiku间自由切换并调整思考深度，此前语音模式仅统一调用Haiku 4.5模型。",
+      "publishedAt": "2026-07-23T17:02:00+08:00",
+      "source": "chinaz.com",
+      "url": "https://www.chinaz.com/ainews/29843.shtml",
+      "subCategory": "AI应用",
+      "id": "ai-20260723-303"
+    },
+    {
+      "id": "ai-20260724-007",
+      "title": "科大讯飞成立新公司爷方智能，提出机器人\"本体认知\"缺失问题",
+      "summary": "科大讯飞成立注册资本3亿元的新公司爷方智能，由讯飞科学家潘嘉带队研发机器人大脑。公司发布技术报告称，现有VLA模型缺乏对未来结果的预测能力，世界动作模型也缺少\"本体认知\"，即对机器人自身身体状态与运动能力的理解，并提出将逆运动学作为显式任务训练的解决方案。",
+      "publishedAt": "2026-07-23T16:23:49+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457698.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260724-006",
+      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
+      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
+      "publishedAt": "2026-07-23T07:56:32Z",
+      "source": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
+      "subCategory": "论文进展"
+    },
+    {
+      "title": "腾讯云CodeBuddy NPC智能体发布：Token降幅超90%",
+      "summary": "腾讯云发布云端智能体CodeBuddy NPC，可自主完成方案规划、代码开发、提交PR及自动化测试等全流程研发任务，通过提示词优化与缓存机制将首轮Token消耗从2万降至约2000，降幅超90%。",
+      "publishedAt": "2026-07-23T15:32:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-07-23/doc-iniiusky8235151.shtml",
+      "subCategory": "AI编程",
+      "id": "ai-20260723-304"
+    },
+    {
+      "title": "高德ABot具身体系全栈升级",
+      "summary": "高德宣布ABot具身智能体系完成全栈升级，推出五款核心模型ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS、ABot-C0，覆盖感知、决策、执行与记忆环节。测试显示，机器人在开放环境中的任务完成率提升40%，自适应学习速度提升3倍。",
+      "publishedAt": "2026-07-23T15:26:40+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-07/1460287.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-301"
+    },
+    {
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "summary": "阿里云真武M890超节点完成对2.4万亿参数通义千问Qwen3.8的适配并上线百炼平台提供推理服务，成为国内首个成功运行超2万亿参数大模型的超节点，智能体推理场景性能提升达1.5倍。",
+      "publishedAt": "2026-07-23T14:58:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457694.html",
+      "subCategory": "推理框架",
+      "id": "ai-20260723-213"
+    },
+    {
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "summary": "优艾智合发垃10亿参数具身智能模型FabriVLA，凭门控自注意力与深浅视觉特征融合，在Meta-World MT50多任务操作基准上以90.0%平均成功率超越π0等更大模型，登顶榜单。",
+      "publishedAt": "2026-07-23T14:36:08+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/457537.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260723-214"
+    },
+    {
       "title": "WAIC最狠展台打爆工业「深水区」！它石智航首发具身原生大脑AWE 3.5",
       "summary": "它石智航在WAIC2026现场首发具身原生大脑AWE 3.5，基于超百万小时人形数据完成预训练到后训练全链路，可无需切换模型完成装配、插接、分拣等多种汽车线束工业任务。",
       "publishedAt": "2026-07-23T11:28:24+08:00",
@@ -537,15 +564,6 @@
       "id": "ai-20260723-216"
     },
     {
-      "id": "ai-20260724-102",
-      "title": "Runway 推出生成式媒体路由器 Media Router",
-      "summary": "Runway Dev平台上线Media Router，可根据质量、速度或成本自动为图像、视频、音频生成请求选择最优模型，Adobe、Cloudflare、Expedia等已接入该API。",
-      "publishedAt": "2026-07-23T10:07:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "subCategory": "AI应用"
-    },
-    {
       "title": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
       "summary": "科大讯飞推出星火Token Factory中间件平台，提供智能路由、推理加速、安全治理与成本归因四大能力，推理效率较开源框架提升约5倍，时延降低30%-40%，助力企业规模化部署大模型。",
       "publishedAt": "2026-07-23T09:55:14+08:00",
@@ -553,78 +571,6 @@
       "url": "https://www.qbitai.com/2026/07/457359.html",
       "subCategory": "AI应用",
       "id": "ai-20260723-217"
-    },
-    {
-      "id": "ai-20260724-006",
-      "title": "Grok 4.5在8分钟内推翻存在30年的图论猜想",
-      "summary": "xAI的Grok 4.5在一次内部Slack讨论中，用时8分钟为存在约30年的图论猜想（Graffiti Conjecture 284）构造出反例，通过展示分数流成本与不可分流成本之间的差距推翻该猜想。埃隆·马斯克在社交媒体公布该结果，OpenAI的GPT-5也几乎同时独立解出同一猜想。",
-      "publishedAt": "2026-07-23T07:56:32Z",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/470b3b6b-7dea-4bde-9b29-0d6a6bf12daf",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260724-004",
-      "title": "专家质疑月之暗面\"蒸馏\"Anthropic模型开发Kimi K3的说法",
-      "summary": "白宫官员此前指控月之暗面通过蒸馏Anthropic的Fable模型开发Kimi K3，但Snorkel AI与艾伦人工智能研究所的专家提出质疑，指出Fable模型自7月1日才可用，时间线难以支撑该说法，认为达到K3水平更可能需要强化学习等成本更高的训练方式。",
-      "publishedAt": "2026-07-23T04:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-114",
-      "title": "Substack接入Pangram检测工具，上线AI文本识别功能",
-      "summary": "内容平台Substack接入AI检测工具Pangram，在网页端与iOS端上线文本识别功能，可对文章、笔记等内容标注人工撰写、AI生成与AI辅助的比例，仅检测7月21日后发布且段落超过100词的内容，创作者可自行关闭该功能。",
-      "publishedAt": "2026-07-22T16:31:18+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29801",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260722-113",
-      "title": "三星拟投资10亿欧元加码Mistral AI D轮融资",
-      "summary": "据英国《金融时报》报道，三星正考虑向法国AI公司Mistral AI追加投资约10亿欧元，参与其D轮融资，该轮融资对其估值约200亿欧元，瑞典EQT旗下Scaleup Europe基金也参与其中，交易被视为对欧洲AI独立性的重新定价。",
-      "publishedAt": "2026-07-22T15:36:51+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29799",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260722-112",
-      "title": "宇树王兴兴：人形机器人\"ChatGPT时刻\"最快两三年到来",
-      "summary": "宇树科技创始人兵CEO王兴兴在2026世界互联网大会数字丝路发展论坛表示，具身智能的\"ChatGPT时刻\"最快两三年内到来，届时机器人无需预先编排动作或人类远程操控即可在陷生环境中工作，宇树同期展示G1机器人多场景任务能力。",
-      "publishedAt": "2026-07-22T15:03:43+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29797",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260722-111",
-      "title": "地平线与大众深化合作，白盒授权AI基座大模型支撑L3/L4量产",
-      "summary": "地平线与大众汽车集团通过合资公司酷睡程（CARIZON）深化合作，采用白盒授权模式，让大众基于地平线AI基座大模型、C7H芯片及GAIA世界模型数据平台自主开发统一AI驾驶方案，服务大众L3、L4级自动驾驶量产。",
-      "publishedAt": "2026-07-22T14:51:43+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29796",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260722-110",
-      "title": "哈佛研究称女性生成式AI使用率比男性低22%",
-      "summary": "哈佛商学院对25个国家、超14.3万名参与者的荷集分析显示，女性使用生成式AI的可能性比男性低22%，科技岗位中男性占比71%、女性29%，企业AI培训获取率男怇35%、女怇27%，研究呼吁将AI培训纳入常规工作体系。",
-      "publishedAt": "2026-07-22T14:50:19+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29795",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260722-109",
-      "title": "腾讯 AI 创意智能体 Miora 全量上线，支持多智能体协同设计",
-      "summary": "腾讯旗下AI创意智能体Miora全量上线，支持多智能体协同完成设计任务，内置涵盖平面图片、动态视频、3D建模、UI界面等八项官方技能，面向设计新手、独立开发者、品牌设计师和营销视频从业者，新用户可获赠1000积分。",
-      "publishedAt": "2026-07-22T14:23:26+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/zh/news/29794",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260722-021",
@@ -724,6 +670,60 @@
       "source": "AIBase",
       "url": "https://www.aibase.com/zh/news/29804",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-114",
+      "title": "Substack接入Pangram检测工具，上线AI文本识别功能",
+      "summary": "内容平台Substack接入AI检测工具Pangram，在网页端与iOS端上线文本识别功能，可对文章、笔记等内容标注人工撰写、AI生成与AI辅助的比例，仅检测7月21日后发布且段落超过100词的内容，创作者可自行关闭该功能。",
+      "publishedAt": "2026-07-22T16:31:18+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29801",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260722-113",
+      "title": "三星拟投资10亿欧元加码Mistral AI D轮融资",
+      "summary": "据英国《金融时报》报道，三星正考虑向法国AI公司Mistral AI追加投资约10亿欧元，参与其D轮融资，该轮融资对其估值约200亿欧元，瑞典EQT旗下Scaleup Europe基金也参与其中，交易被视为对欧洲AI独立性的重新定价。",
+      "publishedAt": "2026-07-22T15:36:51+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29799",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260722-112",
+      "title": "宇树王兴兴：人形机器人\"ChatGPT时刻\"最快两三年到来",
+      "summary": "宇树科技创始人兵CEO王兴兴在2026世界互联网大会数字丝路发展论坛表示，具身智能的\"ChatGPT时刻\"最快两三年内到来，届时机器人无需预先编排动作或人类远程操控即可在陷生环境中工作，宇树同期展示G1机器人多场景任务能力。",
+      "publishedAt": "2026-07-22T15:03:43+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29797",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260722-111",
+      "title": "地平线与大众深化合作，白盒授权AI基座大模型支撑L3/L4量产",
+      "summary": "地平线与大众汽车集团通过合资公司酷睡程（CARIZON）深化合作，采用白盒授权模式，让大众基于地平线AI基座大模型、C7H芯片及GAIA世界模型数据平台自主开发统一AI驾驶方案，服务大众L3、L4级自动驾驶量产。",
+      "publishedAt": "2026-07-22T14:51:43+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29796",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260722-110",
+      "title": "哈佛研究称女性生成式AI使用率比男性低22%",
+      "summary": "哈佛商学院对25个国家、超14.3万名参与者的荷集分析显示，女性使用生成式AI的可能性比男性低22%，科技岗位中男性占比71%、女性29%，企业AI培训获取率男怇35%、女怇27%，研究呼吁将AI培训纳入常规工作体系。",
+      "publishedAt": "2026-07-22T14:50:19+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29795",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260722-109",
+      "title": "腾讯 AI 创意智能体 Miora 全量上线，支持多智能体协同设计",
+      "summary": "腾讯旗下AI创意智能体Miora全量上线，支持多智能体协同完成设计任务，内置涵盖平面图片、动态视频、3D建模、UI界面等八项官方技能，面向设计新手、独立开发者、品牌设计师和营销视频从业者，新用户可获赠1000积分。",
+      "publishedAt": "2026-07-22T14:23:26+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/zh/news/29794",
+      "subCategory": "Agent"
     }
   ]
 }

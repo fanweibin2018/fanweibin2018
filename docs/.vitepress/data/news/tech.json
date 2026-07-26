@@ -3,8 +3,134 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-07-26T00:45:00+08:00",
+  "updatedAt": "2026-07-26T08:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260726-114",
+      "title": "微软 Win11 预览版优化大文件删除流程，告别“正在计算”弹窗",
+      "summary": "微软在7月20日发布的Win11 Insider Experimental预览版Build 26300.8935中优化了大文件删除流程，加快删除因磁盘碎片化产生的分散文件片段的速度，同时提升文件资源管理器主页响应速度和地址栏可靠性。",
+      "publishedAt": "2026-07-26T08:36:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/624.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260726-113",
+      "title": "SignalRGB 打造 RAM Machine：外部由 36 个内存模组构成",
+      "summary": "PC RGB控制软件开发商SignalRGB推出概念主机RAM Machine，机身外部由36根非功能性内存模组和16条灯条构成，灯效可通过SignalRGB软件控制，四面板机箱可拆卸，内置酷睿Ultra 5处理器及RTX 5060显卡，将以抽奖形式赠送。",
+      "publishedAt": "2026-07-26T08:27:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/623.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260726-112",
+      "title": "SK 集团会长崔泰源：Anthropic 已就自研芯片项目寻求海力士供应",
+      "summary": "SK集团会长崔泰源在旧金山一场AI大会上透露，Anthropic已就其自研芯片项目向SK海力士寻求存储芯片供应，并称AI企业自研芯片的野心较为罕见；此前有消息称Anthropic正与三星电子洽谈采用2nm工艺的定制芯片项目。",
+      "publishedAt": "2026-07-26T08:15:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/622.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260726-111",
+      "title": "特斯拉在智利、哥伦比亚招聘 AI 安全员，为 Robotaxi 出海铺路",
+      "summary": "特斯拉在哥伦比亚波哥大、麦德林及智利圣地亚哥发布AI安全员招聘信息，岗位涉及自动驾驶测试、采集摄像头及音频数据、监控网约车运营，被视为其Robotaxi业务首次向拉美地区扩张的信号，目前仍处早期数据采集阶段。",
+      "publishedAt": "2026-07-26T08:10:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/621.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260726-110",
+      "title": "日媒发布宇树 G1 拆机视频后认输，称人形机器人短期内赶不上中国",
+      "summary": "日本媒体Nikkei xTECH于7月23日发布宇树G1人形机器人拆解视频，工程师对其内部结构和技术水平表示认可，视频结论称日本短期内难以在人形机器人领域缩小与中国的差距；GMO AIR六月起已成为宇树日本官方代理商。",
+      "publishedAt": "2026-07-26T08:07:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/619.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260726-109",
+      "title": "特斯拉 FSD v15 早期版本已上路，Robotaxi 车队率先搭载",
+      "summary": "特斯拉二季度财报电话会披露，Robotaxi车队中的Model Y已提前搭载FSD v15早期测试版本，在两个州六座城市完成超38万英里无人监督行驶，新版本参数量将达现版本10倍，计划年内或2027年初面向HW4车型推送。",
+      "publishedAt": "2026-07-26T07:57:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/618.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260726-108",
+      "title": "微信鸿蒙 App 获 8.0.19.44 正式版升级，消息称输入文字联想表情包等功能即将上线",
+      "summary": "微信鸿蒙版更新至8.0.19.44正式版，官方更新说明仅提及修复已知问题，但爆料称新增来电铃声自定义功能，输入文字联想表情包、按时间搜索朋友圈等功能也将陆续上线，部分功能已在灰度测试中。",
+      "publishedAt": "2026-07-26T07:53:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/617.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260726-107",
+      "title": "维修数据库信息暗示，特斯拉 Model Y 或将新增后置摄像头清洗装置",
+      "summary": "特斯拉官方维修数据库显示，改款Model Y新增名为“HALO”的部件类别，包含外部摄像头清洗用雨刷和洗涤泵，该技术此前仅用于Robotaxi车队，暗示可能扩展至消费版车型或加拿大Robotaxi业务。",
+      "publishedAt": "2026-07-26T07:47:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/615.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260726-106",
+      "title": "Debian 项目发起议案，讨论是否允许 AI 大模型参与开发",
+      "summary": "Debian项目于7月24日发起议案，就是否允许AI大模型参与开发展开讨论，提出禁止AI生成代码、允许使用但需开发者负责并披露AI参与、以及尽量避免但不完全禁止三种方案供社区表决。",
+      "publishedAt": "2026-07-26T07:29:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/612.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260726-105",
+      "title": "微软将为 Windows KMS 批量激活引入 TPM 硬件安全机制，封堵盗版激活路径",
+      "summary": "微软宣布将为Windows KMS批量激活服务引入基于TPM的硬件认证机制，验证KMS服务器身份并检测篡改，下一代Windows Server将强制要求，8月起向企业客户发送升级通知，旨在封堵长期存在的KMS激活盗版方式。",
+      "publishedAt": "2026-07-26T07:23:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/611.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260726-104",
+      "title": "马斯克：SpaceX 将在下一次飞行中尝试用发射塔捕获星舰",
+      "summary": "SpaceX星舰完成第13次全尺寸试飞，从得克萨斯发射后飞行约半个地球，在印度洋精准溅落且结构基本完整，期间部署20颗升级版星链V3卫星并完成发动机重启测试；马斯克表示如无新问题，下次飞行将尝试用发射塔捕获星舰。",
+      "publishedAt": "2026-07-26T07:17:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/610.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260726-103",
+      "title": "高通芯片涨价冲击 VR 市场，Valve Steam Frame 头显售价或超 1000 美元",
+      "summary": "高通宣布自9月1日起上调芯片价格，采用骁龙8 Gen 3的Valve Steam Frame头显原预期低于999美元，受芯片成本上涨及AI数据中心需求推高供应链压力影响，售价可能突破1000美元。",
+      "publishedAt": "2026-07-26T06:58:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/608.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260726-102",
+      "title": "小米游戏加速升级为游戏空间，支持一键收纳 / 专属设置 / 自定义痛机装扮",
+      "summary": "小米将游戏加速功能升级为“游戏空间”应用，新增自动整理常玩游戏、按品类调整性能与散热策略、自定义壁纸与开机动画等功能，已集成至最新HyperOS系统并陆续推送。",
+      "publishedAt": "2026-07-26T06:54:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/607.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260726-101",
+      "title": "App Store 假冒比特币钱包应用致用户损失 180 万美元，苹果遭起诉",
+      "summary": "三名用户在美国加州联邦法院起诉苹果，称App Store上一款仿冒Sparrow Wallet的虚假比特币钱包应用致其合计损失约180万美元，指控苹果未充分审核应用商店内容。",
+      "publishedAt": "2026-07-26T06:49:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/605.htm",
+      "subCategory": "安全漏洞"
+    },
     {
       "title": "飞利浦推出26.5英寸QHD 144Hz QD-OLED显示器",
       "summary": "飞利浦Evnia 27M2N6500NS/11 QD-OLED显示器登陆日本市场，26.5英寸2560×1440分辨率，144Hz刷新率、0.03ms响应时间，支持99% DCI-P3色域与HDR10，售价约62800日元（约合人民币2599元）。",
@@ -492,15 +618,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260724-153",
-      "title": "微软、英伟达、Meta 等 25 家公司签署公开信，呼吁美国政府支持 AI 开源模型发展",
-      "summary": "微软、英伟达、Meta等25家美国科技公司联合签署公开信，呼吁政府支持开放权重AI模型发展，认为开源模型有助于普及AI应用、促进竞争并增强安全性，呼吁扩大初创企业与研究者的算力获取渠道。",
-      "publishedAt": "2026-07-24T22:09:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/384.htm",
-      "subCategory": "开源生态"
-    },
-    {
       "id": "tech-20260724-157",
       "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
       "summary": "安全研究人员公开了CVE-2026-54121漏洞利用代码，该漏洞影响Active Directory证书服务，允许低权限域用户伪造域控制器证书用于身份冒充。微软已于7月14日发布补丁，CVSS评分8.8，目前尚未发现在野利用。",
@@ -508,6 +625,15 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260724-153",
+      "title": "微软、英伟达、Meta 等 25 家公司签署公开信，呼吁美国政府支持 AI 开源模型发展",
+      "summary": "微软、英伟达、Meta等25家美国科技公司联合签署公开信，呼吁政府支持开放权重AI模型发展，认为开源模型有助于普及AI应用、促进竞争并增强安全性，呼吁扩大初创企业与研究者的算力获取渠道。",
+      "publishedAt": "2026-07-24T22:09:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/981/384.htm",
+      "subCategory": "开源生态"
     },
     {
       "id": "tech-20260724-155",
@@ -598,132 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/981/167.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-111",
-      "title": "宇树科技CEO王兴兴登上《时代》杂志封面",
-      "summary": "宇树科技创始人兼CEO王兴兴登上《时代》杂志封面，封面配以近2.7米高的GD01载人机甲，标题为\"机器人时代已来\"，GD01为全球首款量产载人外骨骼机甲，重约半吨，具备双足与四足行走能力。",
-      "publishedAt": "2026-07-24T15:13:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/153.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260724-107",
-      "title": "戴尔XPS 13笔记本2026款国内首销",
-      "summary": "戴尔XPS 13笔记本2026款国内首销，搭载酷睿5 320处理器，16GB+512GB版本官方售价8999元，补贴后7649.15元，配13.4英寸2.5K 30-120Hz触控屏，支持Wi-Fi 7、蓝牙6.0，电池容量52Wh。",
-      "publishedAt": "2026-07-24T15:10:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/152.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-109",
-      "title": "盈通推出RTX5060-8G D7大地之神GC显卡",
-      "summary": "盈通推出RTX5060-8G D7大地之神GC显卡，白色外观，基于GB205核心，8GB显存，配双96mm静音风扇及双6mm镀镍热管，全尺寸金属背板，需单8Pin外接供电，尺寸244×124×45mm。",
-      "publishedAt": "2026-07-24T14:53:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/141.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260724-113",
-      "title": "绿联FineTrack Slim Duo 2卡片追踪器发布：续航最长7年",
-      "summary": "绿联发布FineTrack Slim Duo 2卡片追踪器，厚度仅1.7mm，支持苹果\"查找\"和谷歌Find Hub双生态，续航最长7年，蜂鸣器最高110分贝，具备IP68防尘防水及主动式RFID防护，美欧售价29.99美元/欧元。",
-      "publishedAt": "2026-07-24T14:46:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/135.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-112",
-      "title": "消息称小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段",
-      "summary": "消息称小鹏人形机器人已在广州工厂启动小批量试生产，量产产线进入最后联调阶段，公司计划2026年实现量产，2027年起逐步进入小鹏门店及商业场景执行导购、讲解等任务。",
-      "publishedAt": "2026-07-24T14:38:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/130.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260724-114",
-      "title": "联想拯救者推出RGB电竞鼠标Y7MG",
-      "summary": "联想拯救者推出RGB电竞鼠标Y7MG，搭载PAW3950传感器，铝镁合金外壳约59g，500mAh电池，支持USB-C有线及2.4GHz 8k回报率无线双模，凯华100M光轴，售价499元，与R7 RT75磁轴键盘同步发布。",
-      "publishedAt": "2026-07-24T14:37:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/129.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260724-115",
-      "title": "一加调整深度测试Bootloader解锁申请条件",
-      "summary": "一加针对ColorOS 16+深度测试Bootloader解锁收紧条件：账号需注册满60天且无违规、需连续登录设备7天、完成实名及人脸识别验证，每人每年最多解锁4台设备，新政策9月起面向存量支持机型推行。",
-      "publishedAt": "2026-07-24T14:36:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/981/128.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260724-002",
-      "title": "特斯拉在美回购15辆加拿大规格进口Model 3/Y",
-      "summary": "特斯拉在美回购15辆由加拿大进口、中国上海及德国柏林工厂生产的Model 3/Y，因车辆按加拿大规格制造未完全满足美国联邦机动车安全标准，主要涉及驾驶员膝部气囊缺失及碰撞测试未完成，特斯拉将免费回购涉事车辆，暂未收到相关事故或索赔报告。",
-      "publishedAt": "2026-07-24T08:31:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/907.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260724-011",
-      "title": "力箭一号一箭五星发射天仪48等卫星",
-      "summary": "我国在东风商业航天创新试验区使用力箭一号遥十五运载火箭，以一箭五星方式将天仪48、感德一号01、西光二号03、极天星A-04及应龙分光一号卫星送入预定轨道，发射取得圆满成功，这是力箭一号运载火箭第十五次飞行任务。",
-      "publishedAt": "2026-07-24T08:02:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/901.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "title": "英伟达 Jetson 芯片将登陆月球，驱动月面机器人自主运行",
-      "summary": "美国初创公司 Lunar Outpost 宣布将在其月球车上搭载英伟达 Jetson 芯片管理激光雷达系统，或成为首个登陆月球表面的 GPU，用于支持 NASA 商业月球有效载荷服务计划；英伟达还与 Firefly Aerospace 合作，将 Jetson 平台部署于月球轨道卫星用于图像处理。",
-      "publishedAt": "2026-07-23T23:15:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/866.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260723-301"
-    },
-    {
-      "title": "先马推出 S300-360 一体式水冷散热器，黑白双色均售 499 元",
-      "summary": "先马发布 S300-360 一体式水冷散热器，冷头配备支持自定义画面的 6 英寸磁吸屏，兼容 Intel LGA1700/1851 及 AMD AM4/AM5 平台，水泵转速 1800-2600 转，提供 6 年质保，黑白双色售价均为 499 元。",
-      "publishedAt": "2026-07-23T22:58:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/862.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260723-307"
-    },
-    {
-      "title": "2026 款微星泰坦 16 笔记本新增酷睿 Ultra 7 255HX + RTX 5070Ti 配置版本，售价 18599 元",
-      "summary": "微星为 2026 款泰坦 16 游戏笔记本新增一款配置，搭载酷睿 Ultra 7 255HX 处理器、16GB 内存、1TB 固态硬盘及 RTX 5070Ti 显卡，配备 2560x1600 分辨率 240Hz 屏幕，支持雷电 4 接口及 140W 快充，售价 18599 元。",
-      "publishedAt": "2026-07-23T22:39:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/980/860.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260723-306"
-    },
-    {
-      "title": "领克家族首款旅行车 07GT 上市，售价 15.78 万元起",
-      "summary": "领克品牌首款旅行车 07GT 正式上市，搭载 1.5T 插电混动系统，四驱版综合功率达 390kW，零百加速约 4 秒，综合续航最高 1422 公里；四驱版配备同级独有 MRC 磁流变悬架，并搭载激光雷达与千里浩瀚 H5 智能驾驶辅助系统。",
-      "publishedAt": "2026-07-23T20:18:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-07-23/doc-iniivayy4581082.shtml",
-      "subCategory": "智能汽车",
-      "id": "tech-20260723-302"
-    },
-    {
-      "title": "新型 RefluXFS 漏洞可令攻击者在 Linux 系统获取 root 权限",
-      "summary": "安全研究人员发现一个存在九年之久的 Linux 内核 XFS 文件系统竞态条件漏洞（CVE-2026-64600），本地攻击者可借此覆盖 root 拥有的受保护文件并获取持久 root 权限，影响 RHEL、Oracle Linux、Amazon Linux、Fedora 等发行版，该漏洞已于 7 月 16 日修复，Qualys 估计影响系统超过 1640 万台。",
-      "publishedAt": "2026-07-23T19:40:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "subCategory": "安全漏洞",
-      "id": "tech-20260723-308"
     }
   ]
 }
