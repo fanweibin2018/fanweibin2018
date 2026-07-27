@@ -3,34 +3,25 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-07-27T09:05:00+08:00",
+  "updatedAt": "2026-07-27T16:50:00+08:00",
   "items": [
     {
-      "title": "TikTok Tests Prime-Style Shopping Membership Service",
-      "summary": "TikTok正测试名为TikTok Shop Plus的会员订阅服务，月费6至15美元，为会员提供包邮、折扣和优惠券，被视为对标亚马逊Prime、争夺电商转化环节的举措。",
-      "publishedAt": "2026-07-26",
-      "source": "PYMNTS",
-      "url": "https://www.pymnts.com/commerce/ecommerce/2026/tiktok-tests-prime-style-shopping-membership-service/",
-      "subCategory": "平台动态",
-      "id": "trade-20260727-201"
+      "title": "爆品找到了，工厂在哪里？TikTok Shop旺季备货新玩法来了",
+      "summary": "雨果跨境将于7月28日在深圳举办TikTok Shop行业峰会，现场设“爆款供应链对接专区”，邀请保健品、植物精油、智能照明三类供应商现场对接，帮助卖家从选品延伸至工厂端合作。",
+      "publishedAt": "2026-07-27T15:40:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187807",
+      "subCategory": "选品趋势",
+      "id": "trade-20260727-417"
     },
     {
-      "title": "横跨太平洋！嘉兴南湖机场—洛杉矶国际货运航线正式开通",
-      "summary": "7月26日，浙江嘉兴南湖机场首条北美货运航线正式开通，一架波音747全货机搭载逾100吨跨境电商及电子产品货物飞往洛杉矶，为该机场第三条国际货运航线。",
-      "publishedAt": "2026-07-26T14:07:00+08:00",
-      "source": "潮新闻（腾讯新闻）",
-      "url": "https://news.qq.com/rain/a/20260726A06DUL00",
+      "title": "直邮时代的黄昏：一场跨境电商供应链的“去中心化”大迁徙",
+      "summary": "文章分析美国取消800美元免税额度、欧盟自7月1日起对包裹征收3欧元关税等政策，正推动跨境电商供应链从轻资产直邮模式转向海外仓本地化布局，全球跨境物流市场年复合增速达12.83%。",
+      "publishedAt": "2026-07-27T11:45:00+08:00",
+      "source": "雨果网",
+      "url": "https://www.cifnews.com/article/187799",
       "subCategory": "物流仓储",
-      "id": "trade-20260727-202"
-    },
-    {
-      "title": "美客多加码全托管流量赋能：推出50%专属大额券补贴及多项引流利好政策",
-      "summary": "美客多（Mercado Libre）推出全托管卖家扶持政策，为入驻商品提供50%专属大额优惠券补贴，并叠加App推送、达人营销及搜索流量倾斜等多项引流支持。",
-      "publishedAt": "2026-07-26T18:32:00+08:00",
-      "source": "亿邦动力",
-      "url": "https://m.ebrun.com/690333.html",
-      "subCategory": "平台政策",
-      "id": "trade-20260727-203"
+      "id": "trade-20260727-418"
     },
     {
       "title": "HUboo完成2.7亿美元A轮融资",
@@ -42,13 +33,157 @@
       "id": "trade-20260727-204"
     },
     {
-      "title": "零关税红利持续释放 闽货深耕非洲激活外贸新动能",
-      "summary": "福建对非洲53国零关税政策持续释放红利，莆田制鞋企业等对非出口物流时效提升近三成，福建对非汽车出口上半年同比增长41.8%，达20.8亿元。",
-      "publishedAt": "2026-07-26T13:41:00+08:00",
-      "source": "东南网",
-      "url": "https://fjnews.fjsen.com/2026-07/26/content_32225121.htm",
+      "title": "Q2日本美妆工具销量仅增1.2% 客单价却涨23.5%",
+      "summary": "日本乐天、亚马逊、雅虎购物等平台数据显示，第二季度美妆工具销售额同比增长25%，但销量仅增1.2%，客单价大涨23.5%至1853日元，按摩仪等高价品类增长显著。",
+      "publishedAt": "2026-07-27T06:27:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/H6K66yaI",
+      "subCategory": "选品趋势",
+      "id": "trade-20260727-412"
+    },
+    {
+      "title": "南非拟废除SAPO 1公斤以下小包垄断",
+      "summary": "南非通信部长确认将终止南非邮政对1公斤以下小包裹的独家配送权，该垄断自2000年设立，公众咨询中多数意见反对续期，市场未来将转向多快递商竞争格局。",
+      "publishedAt": "2026-07-27T06:26:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/BMg4P80D",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-411"
+    },
+    {
+      "title": "清退假货卖家后转型垂直：日本趣天美妆GMV五年翻4倍，线上份额破30%",
+      "summary": "日本电商平台Qoo10自2022年清退违规中国卖家后转型美妆垂直赛道，目前美妆品类占平台GMV约80%，五年增长逾4倍，线上份额超30%，近期重新开放中国卖家注册。",
+      "publishedAt": "2026-07-27T06:16:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ceXrEXbb",
+      "subCategory": "选品趋势",
+      "id": "trade-20260727-410"
+    },
+    {
+      "title": "Tango航线调整：萨尔瓦多直挂改挂培森",
+      "summary": "马士基与赫伯罗特运营的Tango航线调整挂靠顺序，巴西培森港升级为直挂枢纽港，萨尔瓦多港则降级为支线服务，末班直挂船“马士基法兰克福”轮将于8月27日抵达。",
+      "publishedAt": "2026-07-27T06:06:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/BXUsoy8d",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-404"
+    },
+    {
+      "title": "TikTok美区美妆销售额达32亿美元，男性护理品类同比增长224%",
+      "summary": "Charm.io报告显示，2025年4月至2026年3月TikTok Shop美区美妆品类销售额达32亿美元，其中护肤增长119%、男性护理增长224%，短视频贡献68%成交，玻尿酸等成分产品表现突出。",
+      "publishedAt": "2026-07-27T03:14:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/H4tINdzL",
+      "subCategory": "选品趋势",
+      "id": "trade-20260727-416"
+    },
+    {
+      "title": "亚马逊日本上线官方延保服务“Amazon製品保証”",
+      "summary": "亚马逊日本自7月15日起推出官方延保服务，覆盖家电及数码产品，提供5年自然故障保或3年含意外损坏保两种方案，支持一次性或分期付款，故障后可申请上门或寄修。",
+      "publishedAt": "2026-07-27T02:43:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/kdBw05GO",
+      "subCategory": "平台动态",
+      "id": "trade-20260727-408"
+    },
+    {
+      "title": "Wildberries仓库事故波及数万卖家，俄电商业界呼吁建立应急支持机制",
+      "summary": "俄罗斯电子商务代表协会已向经济发展部提交建议，呼吁建立统一应急支持机制。业内测算此次仓库事故涉及货值约2.5万亿至2.9万亿卢布，Wildberries已宣布对8.8万名卖家进行赔付。",
+      "publishedAt": "2026-07-27T02:33:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/oHkSFRbr",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-414"
+    },
+    {
+      "title": "Wildberries圣彼得堡双仓遭袭暂停运营",
+      "summary": "Wildberries证实其位于圣彼得堡舒沙雷及列宁格勒州乌特金扎沃德的两座物流中心遭袭后暂停运营，克里米亚辛菲罗波尔仓库同晚也受波及，公司称人员已安全撤离，正协调库存转移至其他仓库。",
+      "publishedAt": "2026-07-27T02:33:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/dg9BQwUu",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-415"
+    },
+    {
+      "title": "印度放宽电商投资规则，亚马逊出口业务迎来新机遇",
+      "summary": "印度政府调整外资电商投资政策，允许零售商直接从印度卖家采购商品用于出口海外，此举被视为亚马逊长期争取的政策松绑，旨在帮助印度中小制造企业拓展国际市场。",
+      "publishedAt": "2026-07-27T02:23:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/hlDsHDZR",
+      "subCategory": "平台政策",
+      "id": "trade-20260727-402"
+    },
+    {
+      "title": "Etsy率先接入英国皇家邮政新服务，欧盟订单支持预缴关税",
+      "summary": "Etsy成为首个接入英国皇家邮政PDDP预缴关税服务的电商平台，卖家购买邮寄标签时即完成完税，服务覆盖17个欧盟目的地国，每件包裹处理费为1英镑（爱尔兰0.5英镑）。",
+      "publishedAt": "2026-07-27T02:23:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/qhseXNFp",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-406"
+    },
+    {
+      "title": "Amazon ShipTrack扩展至墨西哥、印度站点，Amazon SEND完成领星ERP对接",
+      "summary": "亚马逊ShipTrack物流追踪服务继澳洲站后新增接入墨西哥、印度站点，可自动同步发货、离港、清关等物流节点信息；Amazon SEND同步完成与领星ERP对接，支持批量一键下单。",
+      "publishedAt": "2026-07-27T02:23:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ILQAv9Kb",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-407"
+    },
+    {
+      "title": "Meta于7月24日推出独立卖家App Seller",
+      "summary": "Meta于7月24日推出面向Facebook Marketplace卖家的独立应用Seller，可同步迁移原有商品、消息及销售记录，并提供AI生成商品描述等功能，目前面向美国18岁以上用户开放。",
+      "publishedAt": "2026-07-27T02:13:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/IPG4YGOL",
+      "subCategory": "平台动态",
+      "id": "trade-20260727-409"
+    },
+    {
+      "title": "2025年巴西电商规模达38亿美元，个护美妆占比63%成为拉美增长亮点",
+      "summary": "报告显示2025年巴西电商规模达38亿美元，占拉美整体市场43%，同比增长49%，个护美妆品类占比63%居首，社媒电商与即时零售正成为拉美地区新的增长驱动力。",
+      "publishedAt": "2026-07-27T02:02:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/RnuOHKmB",
       "subCategory": "新兴市场",
-      "id": "trade-20260727-205"
+      "id": "trade-20260727-413"
+    },
+    {
+      "title": "印度对美谈判取得缓冲，45%输美商品获关税豁免",
+      "summary": "印度商务部称与美国谈判达成阶段性成果，约45%输美商品（含药品、智能手机、钢铝及汽车零部件）获豁免新关税，其余商品维持10%最低税率，双方仍在推进更广泛的双边贸易协定谈判。",
+      "publishedAt": "2026-07-27T01:52:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/1nAYK4HJ",
+      "subCategory": "关税法规",
+      "id": "trade-20260727-401"
+    },
+    {
+      "title": "义乌上半年圣诞用品出口21.4亿元，同比增长20.4%",
+      "summary": "义乌海关数据显示，今年上半年当地圣诞用品出口额达21.4亿元，同比增长20.4%，伊拉克、厄瓜多尔等地采购商因海运周期延长提前进入集中下单阶段。",
+      "publishedAt": "2026-07-27T01:52:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ex96oGv7",
+      "subCategory": "海关数据",
+      "id": "trade-20260727-405"
+    },
+    {
+      "title": "马士基调整中东航线安排，经霍尔木兹每箱新增1000美元附加费",
+      "summary": "马士基发布第40期中东运营更新，收紧战时航运模式，暂停多条经沙迦、萨拉拉的陆运中转线路，并在原有紧急附加费基础上，对经霍尔木兹海峡货物每箱新增1000美元附加费。",
+      "publishedAt": "2026-07-27T01:42:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/ZYkiLgtn",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-403"
+    },
+    {
+      "title": "美客多加码全托管流量赋能：推出50%专属大额券补贴及多项引流利好政策",
+      "summary": "美客多（Mercado Libre）推出全托管卖家扶持政策，为入驻商品提供50%专属大额优惠券补贴，并叠加App推送、达人营销及搜索流量倾斜等多项引流支持。",
+      "publishedAt": "2026-07-26T18:32:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/690333.html",
+      "subCategory": "平台政策",
+      "id": "trade-20260727-203"
     },
     {
       "title": "KB国民银行将接入摩根大通Kinexys区块链企业跨境支付服务",
@@ -58,6 +193,33 @@
       "url": "https://www.mpaypass.com.cn/news/202607/26160807.html",
       "subCategory": "跨境支付",
       "id": "trade-20260727-206"
+    },
+    {
+      "title": "横跨太平洋！嘉兴南湖机场—洛杉矶国际货运航线正式开通",
+      "summary": "7月26日，浙江嘉兴南湖机场首条北美货运航线正式开通，一架波音747全货机搭载逾100吨跨境电商及电子产品货物飞往洛杉矶，为该机场第三条国际货运航线。",
+      "publishedAt": "2026-07-26T14:07:00+08:00",
+      "source": "潮新闻（腾讯新闻）",
+      "url": "https://news.qq.com/rain/a/20260726A06DUL00",
+      "subCategory": "物流仓储",
+      "id": "trade-20260727-202"
+    },
+    {
+      "title": "零关税红利持续释放 闽货深耕非洲激活外贸新动能",
+      "summary": "福建对非洲53国零关税政策持续释放红利，莆田制鞋企业等对非出口物流时效提升近三成，福建对非汽车出口上半年同比增长41.8%，达20.8亿元。",
+      "publishedAt": "2026-07-26T13:41:00+08:00",
+      "source": "东南网",
+      "url": "https://fjnews.fjsen.com/2026-07/26/content_32225121.htm",
+      "subCategory": "新兴市场",
+      "id": "trade-20260727-205"
+    },
+    {
+      "title": "TikTok Tests Prime-Style Shopping Membership Service",
+      "summary": "TikTok正测试名为TikTok Shop Plus的会员订阅服务，月费6至15美元，为会员提供包邮、折扣和优惠券，被视为对标亚马逊Prime、争夺电商转化环节的举措。",
+      "publishedAt": "2026-07-26",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/commerce/ecommerce/2026/tiktok-tests-prime-style-shopping-membership-service/",
+      "subCategory": "平台动态",
+      "id": "trade-20260727-201"
     },
     {
       "id": "trade-20260725-009",
@@ -447,15 +609,6 @@
       "id": "trade-20260723-212"
     },
     {
-      "title": "Amazon Business Reaches $60 Billion",
-      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
-      "publishedAt": "2026-07-23",
-      "source": "Marketplace Pulse",
-      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
-      "subCategory": "平台动态",
-      "id": "trade-20260723-312"
-    },
-    {
       "id": "trade-20260724-001",
       "title": "中国银行厦门分行完成全国首笔中马双边数字人民币跨境汇出结算",
       "summary": "中国银行厦门分行与马来西亚纳闽分行协同完成全国首笔中马双边数字人民币跨境汇出结算，涉及4.3万元人民币榜莲进口货款支付，标志中马数字人民币双向交易能力全面打通；工商银行同期参与的多边央行数字货币桥（mBridge）交易额已超1130亿元人民币。",
@@ -537,6 +690,15 @@
       "id": "trade-20260723-210"
     },
     {
+      "title": "Amazon Business Reaches $60 Billion",
+      "summary": "据Marketplace Pulse披露，亚马逊企业采购业务年化销售额已达600亿美元，较2023年披露的350亿美元增长，其中第三方卖家贡献超半数、约300亿美元。",
+      "publishedAt": "2026-07-23",
+      "source": "Marketplace Pulse",
+      "url": "https://www.marketplacepulse.com/articles/amazon-business-reaches-60-billion",
+      "subCategory": "平台动态",
+      "id": "trade-20260723-312"
+    },
+    {
       "title": "美国12.5%新关税或将落地，卖家需重新定价",
       "summary": "现行10%普遍关税7月24日到期，美国拟依据301条款推出覆盖60多个国家、约99%贸易量的新关税框架，中国税率最高达12.5%，卖家被建议调整定价与产品结构应对成本上涨。",
       "publishedAt": "2026-07-22T18:00:00+08:00",
@@ -562,168 +724,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/207986103165",
       "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260722-109",
-      "title": "Shopee马来本土店推\"平台支持费\"，每单扣0.50林吉特",
-      "summary": "Shopee马来西亚本土店卖家将被收取每笔已完成订唁0.50林吉特（含8%销售税）的\"平台支持费\"，用于支持AI辅助工具、商品优化功能及物流服务，入驻不满60天的新卖家、必需品类目卖家及低销量卖家可获豁免。",
-      "publishedAt": "2026-07-22T17:26:06+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207986052246",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260722-106",
-      "title": "靠小众赛道年其10亿？这个宠物品牌凭什么拿捐全球钲屎官？",
-      "summary": "深圳宠物科技品牌PETLIBRO凭自动喂食器、饮水机等产品年营收超10亿元，累计销量超300万台，在亚马逊多个宠物用品类目位居前列，其增长得益于产品迭代、情感化营销及分层达人矩阵合作。",
-      "publishedAt": "2026-07-22T16:31:46+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/article/207984684935",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260722-107",
-      "title": "7天狂卖5800单，小众迷你充气泵销量狂顓",
-      "summary": "深圳品牌ETENWOLF推出的迷你充气泵单品7天内售出5800件，累计销量7.18万件，实现约145万美元GMV，产品仅重145克，集充电、照明、充气、抽真空功能于一体，超九成销量来自达人内容带货。",
-      "publishedAt": "2026-07-22T16:14:08+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/article/207984241307",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260722-105",
-      "title": "【万字新规干货】亚马逊标题75字符完整拆解",
-      "summary": "亚马逊将于7月27日起把除媒体品类外的商品标题字符上限从200字压缩至75字，同时新增或强化要点字段供补充信息，超长标题短期内不会被下架，但系统将逐步以AI建议替换，卖家需优先调整高销量、高广告投入的ASIN。",
-      "publishedAt": "2026-07-22T16:06:18+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/article/207984044288",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260722-104",
-      "title": "一瓶香水售99美元，年镐10亿：会讲故事的独立站是真赚钱",
-      "summary": "美国香水品牌Phlur创立三年年销售额约1.5亿美元，其50毫升香水定价99美元，主打情感故事营销而非成分卖点，独立站直接流量占比15.52%，贡献超五成营收，毛利率超过70%。",
-      "publishedAt": "2026-07-22T15:01:47+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/article/207982420517",
-      "subCategory": "独立站"
-    },
-    {
-      "id": "trade-20260722-103",
-      "title": "伊朗称袖击美国亚马逊公司在巴林的数据基础设施",
-      "summary": "伊朗伊斯兰革命卫队称已用巡航导弹摧毁美国亚马逊在巴林的核心数据基础设施，称其为美军信息交换重要节点。此前3月亚马逊在阿联酋和巴林的数据设施曾遭无人机袖击受损，亚马逊尚未就此事公开回应。",
-      "publishedAt": "2026-07-22T14:37:34+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207981811040",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "Grumpy Cat商标权利方已起诉冻结313家跨境店铺",
-      "summary": "品牌方Grumpy Cat Limited今年5月至6月连续发起两起商标侵权诉讼，已导致313家跨境店铺遭冻结，文章同时列举五起近期知识产权纠纷提醒卖家排查侵权风险。",
-      "publishedAt": "2026-07-22T14:29:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187676",
-      "subCategory": "平台政策",
-      "id": "trade-20260723-215"
-    },
-    {
-      "id": "trade-20260722-102",
-      "title": "TikTok Shop全托管美区年中促生意同比增长1.5倍，这些商家为何\"赢麻了\"？",
-      "summary": "TikTok Shop美区年中大促期间，整体大盘同比增长近2倍，其中全托管业务同比增长1.5倍，平台指出内容力与选品质量成为影响商家增长的关键因素，AIGC工具助力商家提升本地化内容产出效率。",
-      "publishedAt": "2026-07-22T11:44:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187675",
-      "subCategory": "平台动态"
-    },
-    {
-      "title": "今年上半年我国1.4亿人通过跨境电商全球购物",
-      "summary": "国务院新闻办新闻发布会上，海关总署介绍今年上半年我国跨境电商出口海外仓货值增长3.3倍，约1.4亿人次消费者通过跨境电商实现全球购物。",
-      "publishedAt": "2026-07-22T11:35:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-22/10664119.shtml",
-      "subCategory": "海关数据",
-      "id": "trade-20260723-201"
-    },
-    {
-      "title": "亚马逊AWD欧洲站定档开放入仓，印尼税务严查拆店避税",
-      "summary": "亚马逊AWD欧洲站8月17日起正式开放入仓，费率低至每立方米每月11.09欧元；印尼税务部门同时警告卖家利用多店铺拆分收入避税的行为，将汇总各平台交易数据统一核查。",
-      "publishedAt": "2026-07-22T10:07:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187674",
-      "subCategory": "物流仓储",
-      "id": "trade-20260723-214"
-    },
-    {
-      "id": "trade-20260722-101",
-      "title": "TikTok Shop旺季选品怎么做？有人找到爆品，有人还在找货！",
-      "summary": "TikTok Shop推出以货找市活动，联动多个产业带对接卖家与厂商，重点推荐保健品、香蘕及智能照明类目，强调产品需具备内容传播力与稳定供应链，深圳站将于7月28日举办旺季选品对接会。",
-      "publishedAt": "2026-07-22T09:55:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/187673",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260722-014",
-      "title": "越南税局明确平台数据≠电子发票 中小卖家仍需逐笔开票合规",
-      "summary": "越南税务部门表示，电商平台交易数据仅用于订单管理和对账，不能替代法定电子发票，中小卖家仍须逐笔开票以满足纳税合规要求。",
-      "publishedAt": "2026-07-22T09:47:12+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207974503941",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260722-015",
-      "title": "菲律宾毒理组织指Shopee、Lazada、TikTok Shop超300家店铺违规售含汞美白品",
-      "summary": "菲律宾毒物监测组织BAN Toxics发现Shopee、Lazada、TikTok Shop及Facebook Marketplace上逾300家店铺违规销售含汞美白产品，部分商家虚假宣称获FDA批准。",
-      "publishedAt": "2026-07-22T09:45:46+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207974467733",
-      "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260722-016",
-      "title": "超1500家美企联合申请关税豁免，福特、雀巢、eBay称离不开中国供应链",
-      "summary": "美国贸易代表办公室听证会上，逾1500家美企和行业协会提交申请要求扩大关税豁免，福特、特斯拉、雀巢和eBay等公司表示难以脱离中国供应链。",
-      "publishedAt": "2026-07-22T09:33:59+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207974171248",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260722-019",
-      "title": "TikTok Shop周榜分析：美妆护肤主导欧美市场，本土精华产品领跑泰国",
-      "summary": "TikTok Shop最新周榜显示，美区以Medicube PDRN系列护肤品和美妆产品为主，英区品类更分散，泰国市场则由本土人参柠檬精华产品大幅领先。",
-      "publishedAt": "2026-07-22T09:27:56+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207974018959",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260722-017",
-      "title": "两大低价海外仓被封，德国2900名执法人员全境突袭",
-      "summary": "德国海关、移民及税务部门出动约2900名执法人员在16个州开展突查，发现非法用工与偷税漏税问题，两家以低价竞争的海外仓被查封，货物扣押1至3个月。",
-      "publishedAt": "2026-07-22T09:24:26+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/207973930813",
-      "subCategory": "物流仓储"
-    },
-    {
-      "title": "4天内6座仓库遭袖！Wildberries俄区多地物流中心受影响",
-      "summary": "俄罗斯电商平台Wildberries四天内6座仓库遭遇袖击或异常事件，7月18日仓库遇袖致8死62伤，平台已对受影响仓库免除仓储费并提供转仓或取消服务。",
-      "publishedAt": "2026-07-22T09:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/Ce3ryDa1",
-      "subCategory": "物流仓储",
-      "id": "trade-20260723-205"
-    },
-    {
-      "id": "trade-20260724-007",
-      "title": "TikTok美区早教玩具KOKODI恐龙读卡器30天GMV突破百万元",
-      "summary": "无屏幕有声早教产品KOKODI恐龙读卡器在TikTok美区上朶30天内GMV约15.84万美元，售出4339件，单价约40美元，内容带货贡献超92%销售额；报告预计全球早教玩具市场2026年将达753亿美元。",
-      "publishedAt": "2026-07-22T09:24:00+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/OHDQy0VG",
-      "subCategory": "选品趋势"
     }
   ]
 }
