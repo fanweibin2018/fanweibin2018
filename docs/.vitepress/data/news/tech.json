@@ -3,82 +3,10 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-03T17:00:00+08:00",
+  "updatedAt": "2026-08-03T17:15:00+08:00",
   "items": [
     {
-      "id": "tech-20260803-006",
-      "title": "理想汽车历史上首次拆车直播，新一代L6定档8月4日\"开拆\"",
-      "summary": "理想汽车产品线负责人宣布将于8月4日15点进行首次整车拆解直播，拆解对象为7月20日上市、统一零售价24.98万元的新一代L6，该车型标配四驱、新底盘、51kWh电池及1.5T增程发动机，配备29英寸6K全景屏与骁龙8797座舱芯片。",
-      "publishedAt": "2026-08-03T16:37:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/106.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260803-020",
-      "title": "Akasa推出2U无风扇机箱Kepler R，配套120W冗余电源",
-      "summary": "Akasa发布2U无风扇机箱Kepler R，采用双1U模块可插拔冗余电源结构，输出功率120W，通过80 PLUS白银认证。机箱尺寸481×307.5×87mm，通过铝制散热片、双铜热管被动散热，支持最高35W TDP处理器，兼容英特尔12-14代及酷睿Ultra二代平台，配四个半高扩展槽。",
-      "publishedAt": "2026-08-03T16:36:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/105.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260803-019",
-      "title": "因依赖硬件级安全认证，欧盟数字身份钱包App遭批评",
-      "summary": "欧盟数字身份钱包（EUDI Wallet）应用开发团队确认该应用需要硬件级安全认证才能运行，且无法简单移除该要求。这一决定引发安卓ROM社区批评，用户担心应用可能无法在GrapheneOS等系统上运行，因其无法通过Google Play的认证机制。该钱包计划于2026年底或2027年初发布。",
-      "publishedAt": "2026-08-03T16:28:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/099.htm",
-      "subCategory": "互联网产品"
-    },
-    {
       "id": "tech-20260803-007",
-      "title": "消息称零跑A05纯电小车将于8月10日上市，搭载高通8295芯片",
-      "summary": "零跑A05纯电小车将于8月10日正式上市，7月27日已开启99元定金预订。新车长4200mm、轴距2605mm，提供39.8kWh（续航405km）与53kWh（续航510km）两种电池选择，搭载高通8295芯片，配8.88英寸仪表与14.6英寸中控屏，可选激光雷达。",
-      "publishedAt": "2026-08-03T16:25:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/097.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260803-008",
-      "title": "消息称三星晶圆代工业务下半年产能利用率目标达100%",
-      "summary": "有消息称三星晶圆代工业务计划下半年将产能利用率从目前的70%-80%提升至100%，业内认为凭借现有订单和合约进展该目标基本可以实现。该业务2024年利用率一度跌破50%并持续亏损，目前2纳米工艺良率约60%，需稳定在70%左右。",
-      "publishedAt": "2026-08-03T16:15:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/084.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260803-009",
-      "title": "红魔磁吸散热器6 Pro+发售：33W峰值功率、至高负载降温77℃，首销价189元",
-      "summary": "红魔磁吸散热器6 Pro+已开售，首销价189元。产品峰值功率33W，稳定输出功率30W，满载最高可降温77℃，最低降至-21℃，整机重量102克，采用双层复合导热硅脂、TEC制冷芯片与冷锻铝鳍片，配14N磁吸模组，支持安卓与苹果设备。",
-      "publishedAt": "2026-08-03T16:14:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/082.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260803-017",
-      "title": "华为智选车产品经理彭磊谈享界G9尾门厨房设计：自带花洒，可接入随车大桶纯净水",
-      "summary": "华为智选车产品经理彭磊介绍享界G9尾门厨房设计，车辆自带花洒，可接入随车携带的大桶纯净水，方便旅行途中使用无需依赖周边水源或酒店。该车定位越野化豪华SUV，搭载800V高压增程动力系统，CLTC综合续航超1300公里，配备896线激光雷达。",
-      "publishedAt": "2026-08-03T15:53:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/075.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260803-014",
-      "title": "联发科CEO蔡力行：正采取必要价格调整措施，适当反映供应链成本上升",
-      "summary": "联发科CEO蔡力行在2026年第二季度财报电话会上表示，供应链成本全面上涨已成为行业普遍现象，公司正采取必要价格调整措施。第二季度公司移动业务营收环比下滑14%、同比下滑20%，预计2026年全球智能手机出货量将下滑15%。",
-      "publishedAt": "2026-08-03T15:43:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/059.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260803-012",
       "title": "机构：供应短缺，预计第三季度PC DRAM固定交易价格将环比上涨15%至20%",
       "summary": "市场研究机构TrendForce预计，受供应短缺影响，第三季度PC DRAM固定交易价格将环比上涨15%至20%。云服务商对服务器内存的需求持续增加，内存厂商计划明年缩减PC DRAM供应，以满足不断增长的服务器内存需求。",
       "publishedAt": "2026-08-03T15:38:00+08:00",
@@ -87,57 +15,12 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260803-010",
-      "title": "一加16手机定价曝光，8GB+256GB版4999元",
-      "summary": "据博主\"OnePlusClub\"爆料，一加16手机预计推出8GB+256GB（4999元）、12GB+256GB（5499元）、12GB+512GB（5999元）及16GB+1TB限量版（7499元）四个版本，且不会推出24GB内存版本。IT之家称该消息为爆料，尚未经官方证实。",
-      "publishedAt": "2026-08-03T15:22:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/026.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260803-011",
+      "id": "tech-20260803-006",
       "title": "长鑫存储增资至约313.9亿",
       "summary": "长鑫存储技术有限公司发生工商登记变更，注册资本由约238.9亿元增至约313.9亿元，增幅约31%。该公司成立于2017年11月，法定代表人为吴利英，经营范围包括集成电路设计与制造，由长鑫科技集团全资持股。",
       "publishedAt": "2026-08-03T15:11:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3923461182107009",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260803-018",
-      "title": "韩国国家AI计算中心动工，目标2028年建成",
-      "summary": "韩国国家AI计算中心在海南郡Solar City数据中心园区开工建设，由三星SDS、NAVER Cloud、三星物产、三星电子、Kakao、KT集团及地方政府共同投资，总投资额约2.5万亿韩元。三星SDS持股30%为最大股东，项目预计2028年建成，并将设立国产NPU验证研究区域。",
-      "publishedAt": "2026-08-03T14:44:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/985/004.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260803-015",
-      "title": "中国Robotaxi首入北欧：文远知行布局丹麦首个商业化自动驾驶共享出行项目",
-      "summary": "文远知行与丹麦共享电动出行平台GreenMobility达成合作，将在丹麦推出当地首个商业化自动驾驶共享出行项目，计划2027年上半年在获得监管批准后启动商业化服务，部署其最新一代L4级自动驾驶车辆。这是文远知行进入的第六个欧洲国家，此前已布局马德里与苏黎世。",
-      "publishedAt": "2026-08-03T14:12:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/994.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260803-016",
-      "title": "小鹏G9L普罗旺斯紫、托斯卡纳绿官图公布，全球大五座科技旗舰",
-      "summary": "小鹏公布新款G9L五座SUV两款新配色官图。新车沿用GX旗舰航空级冗余安全设计，配备首发AI主动贴合座椅技术，升级第二代VLA系统，支持800V超快充实现9分钟补能450公里，车长5120mm、轴距3100mm，双电机综合功率430kW，最高时速200公里。",
-      "publishedAt": "2026-08-03T14:09:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/993.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260803-013",
-      "title": "AMD Zen 6处理器核心调度机制优化，改善游戏1% Low帧表现",
-      "summary": "有报道称AMD Zen 6架构将引入智能核心资源分配机制，通过\"CPPC性能优先级\"实现操作系统与固件协同，并设置\"FloorPerf\"参数在功耗或温度受限时为游戏关键核心保留最低性能，同时支持逐核心EPP偏好调节与内存带宽管理，旨在提升帧率稳定性。",
-      "publishedAt": "2026-08-03T13:51:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/987.htm",
       "subCategory": "芯片硬件"
     },
     {
@@ -724,6 +607,123 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/984/405.htm",
       "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260801-a016",
+      "title": "联想首款 Googlebook 二合一笔记本曝光，预计 IFA 展会亮相",
+      "summary": "据Android Headlines报道，联想首款Googlebook二合一笔记本曝光，Ctrl键旁标有Googlebook字样并以Google键替代Windows键，预计将于IFA展会亮相。",
+      "publishedAt": "2026-08-01T06:43:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/404.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260801-a010",
+      "title": "中科宇航携手星际数链 共启力箭二号高轨卫星发射服务新征程",
+      "summary": "中科宇航与星际数链签署高轨卫星发射意向协议，将采用力箭二号运载火箭与力巡一号上面级技术，为其提供从发射准备到卫星精准入轨的一体化服务。",
+      "publishedAt": "2026-08-01T05:39:22+08:00",
+      "source": "ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-08/1475582.html",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260801-a007",
+      "title": "微软更新多个通道 Win11 预览版：优化自适应休眠、新增紧凑任务栏、可调任务栏位置",
+      "summary": "微软面向Beta和Experimental通道推送Win11预览版更新，优化电量高于80%减少休眠、低于10%提前休眠的自适应机制，新增紧凑任务栏尺寸及可调整任务栏位置功能。",
+      "publishedAt": "2026-08-01T01:02:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/402.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260801-a002",
+      "title": "2026 年 7 月全球桌面浏览器排行：谷歌 Chrome 70.58%、微软 Edge 11.15%、火狐 Firefox 6.51%",
+      "summary": "Statcounter数据显示2026年7月全球桌面浏览器中Chrome份额降至70.58%，Edge升至11.15%，中国市场Chrome份额降至48.16%，Edge升至28.81%。",
+      "publishedAt": "2026-08-01T00:02:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/401.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260801-a006",
+      "title": "2026 年 7 月桌面 Windows 份额：Win11 全球占比 68.93%、中国占比 50%",
+      "summary": "Statcounter数据显示2026年7月Win11全球桌面份额环比下滑至68.93%，Win10份额29.83%；中国市场Win11份额降至50%，Win10回升至43.58%。",
+      "publishedAt": "2026-08-01T00:02:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/399.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260731-m001",
+      "title": "开源鸿蒙 OpenHarmony 6.1 LTS 发布：新增展锐 P7885 开发板",
+      "summary": "开放原子开源基金会发布OpenHarmony 6.1 LTS版本，新增统一SDK支持，为开发者提供远场通信、语音、分享等能力，针对展锐P7885芯片开发板新增5G蜂窝通信、卫星导航、星闪驱动等硬件支持，社区代码量已超1.4亿行，贡献者超1.3万名。",
+      "publishedAt": "2026-07-31T22:54:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/395.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260731-m002",
+      "title": "高德：联合哈啰、海思和开源鸿蒙，推出共享两轮行业首个 AI 原生导航方案",
+      "summary": "高德开放平台与哈啰骑行、上海海思、开源鸿蒙合作推出共享两轮车专用导航方案，哈啰领航者电助力车配备5英寸屏幕内置高德RTOS导航，支持离线地图、路线规划，搭载海思模组实现高精定位，基于OpenHarmony系统支持OTA升级和\"碰一碰\"开锁。",
+      "publishedAt": "2026-07-31T22:05:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/389.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260801-a001",
+      "title": "网易《逆水寒》黄金畅玩服遭网络攻击致数据丢失，官方致歉并全服回档",
+      "summary": "网易《逆水寒》黄金畅玩服于7月30日遭异常流量攻击导致部分数据丢失，团队三小时抢修未能恢复，官方将全服回档至当日9:30并向玩家提供代币和道具补偿。",
+      "publishedAt": "2026-07-31T21:33:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/383.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260801-a003",
+      "title": "鸿蒙智行智界 RX 更多官图公布：四激光雷达矩阵、华为巨鲸电池，8 月开启小订",
+      "summary": "智界RX轴距3000mm，车身尺寸5020×2007×1585mm，搭载华为乾崑智驾架构与巨鲸电池平台，双电机四驱版本综合功率超430kW，8月开启小订。",
+      "publishedAt": "2026-07-31T21:10:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/378.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260731-m003",
+      "title": "东风风行星海 V6 将于 8 月 8 日预售，搭载华为乾崑大六座",
+      "summary": "东风风行宣布星海V6将于8月8日在成都启动预售，该车采用2+2+2六座布局，轴距2900mm，搭载华为乾崑智驾技术，双方已于6月签订合作协议，计划下半年正式上市。",
+      "publishedAt": "2026-07-31T20:39:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/984/373.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260801-r014",
+      "title": "安进公司披露云端数据泄露，患者健康信息及专有数据被窃取",
+      "summary": "美国制药公司安进（Amgen）披露其第三方云服务环境遭未经授权访问，患者受保护健康信息及公司专有数据被窃取，公司已聘请第三方专家展开调查，将按规定通知受影响患者。",
+      "publishedAt": "2026-07-31T18:16:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260801-r012",
+      "title": "Arch Linux临时禁用AUR软件包过户功能以阻止恶意软件蔓延",
+      "summary": "Arch Linux社区仓库AUR近期遭遇大规模恶意软件包接管攻击，波及超过200个软件包，官方已暂停软件包过户功能，攻击者通过分阶段恶意程序窃取浏览器凭证与加密钱包信息。",
+      "publishedAt": "2026-07-31T17:38:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260801-r013",
+      "title": "广告服务商Adform跟踪脚本遭篡改，用于窃取用户加密货币",
+      "summary": "欧洲广告平台Adform的跟踪脚本trackpoint-async.js遭黑客植入恶意代码，通过监控用户剪贴板替换比特币、以太坊等加密货币钱包地址实施盗窃，攻击持续约一周后被发现并清除。",
+      "publishedAt": "2026-07-31T17:09:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firms-adforms-script-compromised-to-steal-cryptocurrency/",
+      "subCategory": "安全漏洞"
     }
   ]
 }
