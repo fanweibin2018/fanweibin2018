@@ -3,8 +3,71 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-03T09:15:00+08:00",
+  "updatedAt": "2026-08-03T17:00:00+08:00",
   "items": [
+    {
+      "id": "finance-20260803-014",
+      "title": "受Coldcard钱包安全事件持续发酵影响 比特币跌破63000美元",
+      "summary": "受硬件钱包Coldcard安全事件持续发酵影响，比特币跌破63000美元，较周日高点63600美元下跌约1%，周跌幅约4%；以太坊跌超1%至1858美元。Coldcard生成地址周末遭遇第三轮资产清空，累计损失扩大至1367枚比特币，约合8900万美元。",
+      "publishedAt": "2026-08-03T14:53:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzkkm6258165.shtml",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260803-007",
+      "title": "A股半日缩量4203亿元 A股8月首个交易日",
+      "summary": "8月首个交易日，沪深两市半日成交额1.37万亿元，较上一交易日缩量4203亿元。上证指数半日跌0.59%，深成指跌0.45%，创业板指跌0.44%，全市场超3700只个股上涨。AI应用、核电概念活跃，存储芯片概念股回调。",
+      "publishedAt": "2026-08-03T11:37:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-03/doc-inikzeam4670950.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260803-009",
+      "title": "iPhone最高或涨1350元，苹果折叠新机起步价将超13500元",
+      "summary": "彭博社记者古尔曼8月2日发文称，iPhone预计将涨价100至200美元，原因包括内存芯片与处理器短缺、iPhone 18 Pro系列相机成本上升，以及可折叠新机采用更昂贵设计。首款可折叠iPhone起售价预计不低于2000美元。此前苹果已上调Mac、iPad价格。",
+      "publishedAt": "2026-08-03T11:30:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzeat6114880.shtml",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260803-004",
+      "title": "港股速报 | 8月行情开门红！恒指突破26000点再创反弹新高，阿里巴巴涨超6%",
+      "summary": "8月3日早盘，恒生指数开盘报25987.31点，涨0.40%，其后一度升至26092.32点，为5月15日以来首次突破26000点；恒生科技指数开盘上涨0.68%。阿里巴巴涨超6%，腾讯涨超3%，百度涨超2%，科网股整体走强。",
+      "publishedAt": "2026-08-03T10:03:41+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-03/4529958.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260803-005",
+      "title": "A股四大指数集体低开！半导体、算力硬件走弱，长鑫科技低开2.71%；阿里巴巴涨3.42%｜开盘播报",
+      "summary": "8月3日A股开盘，上证指数低开0.51%，深证成指跌0.6%，创业板指跌0.71%，科创50指数跌0.78%。半导体与算力硬件板块走弱，长鑫科技低开2.71%；核电概念因新核准8台机组走强。港股表现较好，阿里巴巴涨3.42%，腾讯涨1.43%。",
+      "publishedAt": "2026-08-03T09:37:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608033829333426.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260803-010",
+      "title": "央行今日开展630亿元7天期逆回购操作和3000亿元隔夜逆回购操作",
+      "summary": "中国人民银行8月3日开展630亿元7天期逆回购操作，全额满足一级交易商需求，同时开展3000亿元隔夜逆回购操作，均采用固定利率、数量招标方式，旨在维护月初银行体系流动性合理充裕。",
+      "publishedAt": "2026-08-03T09:32:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-08-03/doc-inikyxur6288118.shtml",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260803-012",
+      "title": "光大期货0803黄金点评：下半年定价逻辑渐转，黄金谨慎乐观看待",
+      "summary": "光大期货分析指出，美国二季度GDP增速1.5%，PCE通胀仍处5.1%高位，呈现类滞胀格局；美联储7月连续第五次维持利率不变，三位地区联储主席罕见投票支持加息。黄金守住4000美元/盎司关口，与油价、美元传统负相关性明显减弱，机构对下半年金价持谨慎乐观态度。",
+      "publishedAt": "2026-08-03T08:57:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-08-03/doc-inikyxux2895675.shtml",
+      "subCategory": "大宗商品"
+    },
     {
       "id": "finance-20260803-003",
       "title": "韩国KOSPI指数跌幅扩大至5%",
@@ -13,6 +76,15 @@
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3923064912490114",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260803-006",
+      "title": "财经早报：美股科技巨头遭\"财报杀\" 公募前七月业绩大洗牌丨2026年8月3日",
+      "summary": "苹果、Meta财报均显示营收增长，但股价均大幅下跌；微软、亚马逊业绩不俗并获资金追捧。市场评论称，随着AI叙事进入2026下半年，投资者对AI相关支出的\"无条件信仰\"阶段结束，开始逐项审视投资效率与回报确定性。",
+      "publishedAt": "2026-08-03T07:39:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-03/doc-inikytnz2995558.shtml",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260803-002",
@@ -31,6 +103,15 @@
       "source": "券商中国（东方财富网）",
       "url": "https://finance.eastmoney.com/a/202608033829201840.html",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260803-013",
+      "title": "溢价超90%！欣天科技实控人拟变更！股票复牌",
+      "summary": "深圳元启无限科技合伙企业以每股16.5812元协议受让欣天科技22.4999%股份，较停牌前收盘价溢价90.81%，交易总价约7.2亿元。交易完成后公司控股股东将变更为深圳元启，实际控制人变更为刘杨，股票自8月3日起复牌。",
+      "publishedAt": "2026-08-03T00:18:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608023829152020.html",
+      "subCategory": "A股"
     },
     {
       "title": "4家企业现新进展：信诺维注册生效 韬盛科技、荣信汇科终止IPO",
@@ -150,6 +231,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260803-008",
+      "title": "明天，港股迎重要调整",
+      "summary": "香港联合交易所公告，将于2026年8月3日实施下调港股最低上落价位的第二阶段安排，涉及股价在0.5至10港元区间的证券，最低上落价位降幅达50%，覆盖约1345只证券。首阶段调整已于2025年8月4日实施。",
+      "publishedAt": "2026-08-02T07:42:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608023829087521.html",
+      "subCategory": "港股"
+    },
+    {
       "id": "finance-20260802-012",
       "title": "美计划本周末发动猛烈轰炸 伊朗：全面反击方案已就绪",
       "summary": "美国国务院8月1日向中东地区美国公民发布安全警告，建议做好撤离准备；据报美以正筹划针对伊朗能源设施的最猛烈轰炸行动，特朗普尚未作出最终授权。伊朗方面称已制定全面反击方案，随时可对以色列及美方中东能源设施发起打击。",
@@ -193,6 +283,15 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608013829070664.html",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260803-011",
+      "title": "智元启动赴港上市程序",
+      "summary": "智元创新（上海）科技股份有限公司8月2日正式启动赴港上市程序。这家成立仅三年的具身智能企业采用\"1+5+N\"业务架构，已推出远征、灵犀等人形机器人产品，累计出货超1.5万台，旗下生态已投资孵化20余家企业。今年至少10家具身智能企业计划推进IPO。",
+      "publishedAt": "2026-08-02",
+      "source": "上观新闻",
+      "url": "https://www.shobserver.cn/journal/getMobileArticle.htm?id=525717",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260802-006",
@@ -624,105 +723,6 @@
       "publishedAt": "2026-07-30T07:05:00-05:00",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-q3-2026-earnings-profit-120521329.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a009",
-      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
-      "summary": "三星电子第二季度营业利润达89.5万亿韩元创历史新高，同比大增超18倍，主因AI服务器存储芯片需求旺盛，移动业务因元件成本上升出现经营亏损。",
-      "publishedAt": "2026-07-30",
-      "source": "Samsung Newsroom",
-      "url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260801-a014",
-      "title": "Starbucks reports strong quarterly sales across customer income levels and times of day",
-      "summary": "星巴克第三财季营收93.2亿美元同比微降1%，净利润10.5亿美元大幅高于上年同期的5.58亿美元，主要受中国零售业务股权出售交易收益驱动。",
-      "publishedAt": "2026-07-29T22:12:00+00:00",
-      "source": "美联社(AP)via WSB Radio",
-      "url": "https://www.wsbradio.com/news/business/starbucks-reports/4TDRT4HXII6WLGOCI53XTNCDYM/?outputType=amp",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "中际旭创港交所上市前暗盘破发，A股回购计划促涨超4%",
-      "summary": "中际旭创港股上市前暗盘交易一度跌破980港元发行价，收报971港元跌0.92%；同期公司公告A股回购计划，金额不低于40亿元、不超过80亿元，用于股权激励或员工持股，当日A股股价涨超4%。",
-      "publishedAt": "2026-07-29T20:33:55+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-07-29/4525739.html",
-      "subCategory": "港股",
-      "id": "finance-20260730-002"
-    },
-    {
-      "title": "兆易创新董事长提议回购A股股份，资金总额不超过20亿元",
-      "summary": "兆易创新公告，董事长朱一明提议通过集中竞价方式回购A股股份并注销，回购资金总额不低于10亿元、不超过20亿元；朱一明另拟自2026年12月至2027年7月增持公司股份不低于10亿元。",
-      "publishedAt": "2026-07-29T20:33:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202607293825315290.html",
-      "subCategory": "A股",
-      "id": "finance-20260730-003"
-    },
-    {
-      "title": "华锦股份副总经理闫增辉被立案调查并留置",
-      "summary": "华锦股份公告，公司副总经理闫增辉因涉嫌严重违纪违法，被监察机关立案调查并实施留置措施。公司表示已对其分管工作作出妥善安排，董事及其他高管正常履职，生产经营未受影响。",
-      "publishedAt": "2026-07-29T19:31:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-29/doc-iniknrrf5745407.shtml",
-      "subCategory": "风险事件",
-      "id": "finance-20260730-004"
-    },
-    {
-      "id": "finance-20260730-008",
-      "title": "月之暗面Kimi完成F轮超35亿美元融资",
-      "summary": "月之暗面（Kimi）完成F轮融资超35亿美元，投后估值达350亿美元，因认购超目标金额3倍提前关闭；原定8月启动的G轮已提前开始，投前估值升至500亿美元。",
-      "publishedAt": "2026-07-29T17:11:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-29/doc-iniknmif1619151.shtml",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260730-005",
-      "title": "美股AI板块大分化，价值股走强",
-      "summary": "美股三大指数涨跌互现，道指涨1.03%报52747.32点，标普500涨0.21%报7428.78点，纳指跌0.22%报24876.91点，资金明显从科技股转向消费、金融等价值板块。",
-      "publishedAt": "2026-07-29T16:18:00+08:00",
-      "source": "新浪财经",
-      "url": "https://k.sina.com.cn/article_7879776970_1d5abdaca06801ctdy.html?from=finance",
-      "subCategory": "美股"
-    },
-    {
-      "title": "寒武纪发布2026年限制性股票激励计划",
-      "summary": "芯片设计公司寒武纪推出2026年限制性股票激励计划，拟授予限制性股票500万股，约占公司总股本0.80%，授予价格为每股750元，较7月28日收盘价折价约33.51%。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260729-711"
-    },
-    {
-      "title": "龙芯科技将纳入MSCI中国全股票指数",
-      "summary": "龙芯科技上市后将于8月10日正式纳入MSCI中国全股票指数，成为该指数所涵盖成份股中市值第二大的公司。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260729-712"
-    },
-    {
-      "title": "上半年全国税收收入超10万亿元 个税成第三大税种",
-      "summary": "中国上半年税收收入突破10万亿元，个人所得税已成为第三大税种；今年以来超过1亿名纳税人享受个税退税合计逾1500亿元，相关红利更多惠及中低收入群体。",
-      "publishedAt": "2026-07-29T07:22:00+08:00",
-      "source": "新浪财经（上证报摘要）",
-      "url": "https://finance.sina.com.cn/stock/y/2026-07-29/doc-inikmivx2772124.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260729-713"
-    },
-    {
-      "id": "finance-20260801-a012",
-      "title": "Arm Holdings plc Reports Results for the First Quarter of the Fiscal Year Ending 2027",
-      "summary": "Arm公布截至6月30日的2027财年第一季度业绩，总营收12.89亿美元同比增长22%，版税与授权收入均创同期新高，AI数据中心需求持续拉动增长。",
-      "publishedAt": "2026-07-29",
-      "source": "Businesswire",
-      "url": "https://www.businesswire.com/news/home/20260729964548/en/Arm-Holdings-plc-Reports-Results-for-the-First-Quarter-of-the-Fiscal-Year-Ending-2027",
       "subCategory": "公司财报"
     }
   ]
