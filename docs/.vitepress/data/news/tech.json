@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-03T09:15:00+08:00",
+  "updatedAt": "2026-08-03T17:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260803-007",
+      "title": "机构：供应短缺，预计第三季度PC DRAM固定交易价格将环比上涨15%至20%",
+      "summary": "市场研究机构TrendForce预计，受供应短缺影响，第三季度PC DRAM固定交易价格将环比上涨15%至20%。云服务商对服务器内存的需求持续增加，内存厂商计划明年缩减PC DRAM供应，以满足不断增长的服务器内存需求。",
+      "publishedAt": "2026-08-03T15:38:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3923488572386949",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260803-006",
+      "title": "长鑫存储增资至约313.9亿",
+      "summary": "长鑫存储技术有限公司发生工商登记变更，注册资本由约238.9亿元增至约313.9亿元，增幅约31%。该公司成立于2017年11月，法定代表人为吴利英，经营范围包括集成电路设计与制造，由长鑫科技集团全资持股。",
+      "publishedAt": "2026-08-03T15:11:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3923461182107009",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260803-001",
       "title": "全球第三大12英寸硅晶圆制造商将易主：SK批准向斗山出售SK siltron多数股份",
@@ -706,24 +724,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/online-ad-firms-adforms-script-compromised-to-steal-cryptocurrency/",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260731-m004",
-      "title": "新型 AI 蠕虫披露：白色小字篡改微软 Word 文档，可自我复制传播",
-      "summary": "挪威数据科学家披露针对Copilot for Word的攻击方式，AI蠕虫通过隐藏提示词自我复制，利用白色文字在白色背景上隐形，篡改用户在Word中创建或编辑的文档并继续复制到新文档，微软已部署补丁但仍可被绕过，暂无有效解决方案。",
-      "publishedAt": "2026-07-31T14:50:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/134.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "title": "灵巧手走向复杂制造现场，拾玥科技开启新一轮场景验证",
-      "summary": "机器人灵巧操作方案商拾玥科技与中国中车旗下子公司签署技术框架协议，双方将围绕高端装备制造场景开展灵巧操作技术适配与验证，公司已构建Lumi-Mind模型、Lumi-Tac触觉传感器与Lumi-Dex灵巧手等技术栈。",
-      "publishedAt": "2026-07-31T14:29:12+08:00",
-      "source": "中华网",
-      "url": "https://hea.china.com/articles/20260731/202607311930549.html",
-      "subCategory": "机器人",
-      "id": "tech-20260731-n008"
     }
   ]
 }
