@@ -3,8 +3,98 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-15T16:40:00+08:00",
+  "updatedAt": "2026-08-16T00:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260815-110",
+      "title": "宇树科技上市在即，Hyperliquid预市场定价较发行价溢价超4倍",
+      "summary": "宇树科技在上海科创板IPO发行价对应约90亿美元估值，Hyperliquid平台加密衍生品预市场将其定价至约380亿美元，溢价超4倍，两大市场合计未平仓头寸约910万美元，分析机构提示若开盘价达45美元将触发约三分之一多头仓位强平。",
+      "publishedAt": "2026-08-16",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260815-109",
+      "title": "瑞银二季度比特币ETF看涨期权敞口激增逾24倍",
+      "summary": "根据13F文件，瑞银二季度末持有贝莱德比特币ETF IBIT看涨期权敞口达195万股，较一季度8万股激增逾24倍，直接持股增加约12%至40.79万股，看跌期权敞口则减少约53%至14.33万股。",
+      "publishedAt": "2026-08-15T23:56:05+08:00",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260815-108",
+      "title": "俄罗斯莫斯科等地区实施常年禁挖比特币政令",
+      "summary": "俄罗斯能源部发布政令，自即日起在莫斯科市、莫斯科州及库尔斯克州部分地区实施常年禁止加密货币挖矿及参与矿池，禁令有效期至2032年12月31日。俄罗斯今年一季度算力占比特币全网16.4%，全球第二。",
+      "publishedAt": "2026-08-15T23:21:15+08:00",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260815-107",
+      "title": "保罗·都铎·琼斯旗下基金二季度增持贝莱德比特币ETF IBIT",
+      "summary": "据最新13F文件，保罗·都铎·琼斯旗下Tudor Investment二季度末持有贝莱德比特币ETF IBIT股份68.85万股，价值约2290万美元，环比增加18.9%，仍较2024年末峰值低91.4%，同期看涨期权头寸削减85.2%。",
+      "publishedAt": "2026-08-15T23:12:29+08:00",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260815-106",
+      "title": "Reddit将于8月18日纳入标普500指数，取代被收购的AvalonBay",
+      "summary": "标普道琼斯指数公司宣布，Reddit将于8月18日开盘前正式纳入标普500指数，取代被Equity Residential收购的AvalonBay。Reddit股价周五上涨约13%，报179美元左右，仍较52周高点低约37%。",
+      "publishedAt": "2026-08-15T22:54:00+08:00",
+      "source": "Yahoo Finance (The Motley Fool)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-joins-p-500-tuesday-145400275.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260815-105",
+      "title": "统计显示2026上半年加密行业融资112亿美元，合规赛道成主流",
+      "summary": "迪拜法律研究机构NeosLegal统计显示，2026年上半年加密行业共完成377笔已披露融资，总额达112亿美元，其中支付与稳定币赛道融资37亿美元、预测市场20亿美元、交易平台17亿美元，贝莱德、高盛、万事达等传统机构成为主要投资方。",
+      "publishedAt": "2026-08-15T22:00:00+08:00",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260815-104",
+      "title": "伯克希尔·哈撒韦二季度回购自身股票42亿美元，阿贝尔重启回购",
+      "summary": "伯克希尔·哈撒韦新任CEO格雷格·阿贝尔在截至6月30日的第二季度授权回购公司股票42亿美元，较一季度2.35亿美元大幅增加，为巴菲特2025年未批准回购后的重启。公司目前仍持有约3650亿美元可动用资金。",
+      "publishedAt": "2026-08-15T21:43:00+08:00",
+      "source": "Yahoo Finance (The Motley Fool)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-plowed-4-134300138.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260815-103",
+      "title": "伊朗与阿曼就霍尔木兹海峡船只通行路线接近达成协议",
+      "summary": "据彭博社报道，伊朗与阿曼已就霍尔木兹海峡内船只通行路线达成航运地图共识，协议不涉及美国。冲突爆发以来该海域已发生约65起船只遇袭事件，17名船员死亡，受局势影响本周布伦特原油价格累计上涨近6%。",
+      "publishedAt": "2026-08-15T21:00:00+08:00",
+      "source": "Yahoo Finance (Bloomberg)",
+      "url": "https://finance.yahoo.com/energy/articles/iran-oman-hone-hormuz-strait-130056577.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260815-102",
+      "title": "美国金融环境宽松度创1996年以来新高，市场走势与沃什偏紧表态背离",
+      "summary": "美国金融环境宽松度指标显示，截至8月13日已达1996年以来最宽松水平，标普500指数自7月29日以来累计上涨近7%，VIX指数跌至年内低点，与美联储主席沃什此前偏紧表态出现背离，当前联邦基金利率维持3.5%至3.75%区间。",
+      "publishedAt": "2026-08-15T19:44:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/markets-just-flipped-the-script-on-kevin-warshs-fed-chart-of-the-day-114428977.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260815-101",
+      "title": "贝索斯拟依预设交易计划出售最多40亿美元亚马逊股票",
+      "summary": "亚马逊创始人贝索斯根据此前设立的10b5-1预设交易计划出售股票，上周卖出120万股，累计拟出售规模最高达1500万股、约合40亿美元，交易价格接近历史高位，出售后其仍持有约8.8亿股亚马逊股票。",
+      "publishedAt": "2026-08-15T18:00:00+08:00",
+      "source": "Yahoo Finance (The Motley Fool)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-selling-4-billion-100000483.html",
+      "subCategory": "美股"
+    },
     {
       "id": "finance-20260815-606",
       "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
@@ -60,15 +150,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260815-503",
-      "title": "美股三大指数8月14日收跌，但仍收获连续第三周上涨",
-      "summary": "美国三大股指8月14日周五收盘齐跌，标普500指数跌0.17%报7785.76点，道指跌0.2%报53732.41点，纳指跌0.28%报26729.16点，受7月零售销售环比降0.6%及消费者信心走弱拖累，三大指数仍收获连续第三周上涨。",
-      "publishedAt": "2026-08-14T15:03:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260815-601",
       "title": "全球一周最大融资：Databricks再获50亿美元融资，估值达1900亿美元",
       "summary": "美国数据平台公司Databricks完成新一轮50亿美元融资，由Coatue领投，黑石、MGX等机构参投，公司估值达到1900亿美元，第二季度营收同比增长超过80%。",
@@ -94,15 +175,6 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2454847",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260815-004",
-      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
-      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
-      "publishedAt": "2026-08-14T07:41:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
-      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260815-003",
@@ -150,6 +222,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260815-503",
+      "title": "美股三大指数8月14日收跌，但仍收获连续第三周上涨",
+      "summary": "美国三大股指8月14日周五收盘齐跌，标普500指数跌0.17%报7785.76点，道指跌0.2%报53732.41点，纳指跌0.28%报26729.16点，受7月零售销售环比降0.6%及消费者信心走弱拖累，三大指数仍收获连续第三周上涨。",
+      "publishedAt": "2026-08-14T15:03:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260814-014",
       "title": "科创50指数半日跌0.57%，高位股集体下挫，医药板块反复活跃",
       "summary": "8月14日A股午盘三大指数走势分化，沪指跌0.21%，深成指涨0.08%，创业板指涨0.65%，科创50指数跌0.57%，两市成交额1.39万亿元，逾3400只个股下跌，高位股集体回调，医药板块反复活跃。",
@@ -159,6 +240,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260815-004",
+      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
+      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
+      "publishedAt": "2026-08-14T07:41:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
+      "subCategory": "宏观经济"
+    },
+    {
       "id": "finance-20260814-003",
       "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
       "summary": "美股8月13日收盘，标普500指数涨0.65%报7798.99点创历史新高，纳指涨0.81%报26803.02点，道指涨0.13%报53839.98点，受美国7月PPI数据低于预期及原油价格下跌提振。",
@@ -166,6 +256,24 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfmmw4338336.shtml",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260814-012",
+      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暨退市风险提示公告",
+      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
+      "publishedAt": "2026-08-13",
+      "source": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260814-013",
+      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
+      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一周6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
+      "publishedAt": "2026-08-13",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
+      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260814-004",
@@ -357,49 +465,13 @@
       "id": "finance-20260813-011"
     },
     {
-      "title": "温和CPI提振美股，标普纳指齐涨",
-      "summary": "受美国7月CPI数据温和及AI云服务企业财报带动，标普500指数上涨0.3%，纳斯达克综合指数涨约0.5%，道指基本持平，投资者对美联储9月维持利率观望情绪上升。",
-      "publishedAt": "2026-08-12T16:33:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
-      "subCategory": "美股",
-      "id": "finance-20260813-003"
-    },
-    {
-      "title": "思科2026财年四季度营收173亿美元超预期",
-      "summary": "思科公布2026财年第四季度财报，营收173亿美元，同比增长18%；非美国通用会计准则每股收益1.22美元，网络产品订单同比增35%，全年业绩创纪录。",
-      "publishedAt": "2026-08-12T16:05:00-04:00",
-      "source": "Cisco Investor Relations",
-      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx",
+      "title": "Nebius二季度营收同比激增454%",
+      "summary": "AI云服务商Nebius公布第二季度财报，营收5.823亿美元，同比激增454%；调整后EBITDA达2.362亿美元并由负转正，公司重申全年营收指引。",
+      "publishedAt": "2026-08-12",
+      "source": "BusinessWire",
+      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results",
       "subCategory": "公司财报",
-      "id": "finance-20260813-009"
-    },
-    {
-      "title": "AI编程公司Cognition据报洽谈400亿美元估值融资",
-      "summary": "AI编程初创公司Cognition据报正洽谈新一轮融资，估值或达400亿美元；此前公司5月以260亿美元估值完成10亿美元融资，年化营收当时已超4.92亿美元。",
-      "publishedAt": "2026-08-12T11:19:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "subCategory": "一级市场",
-      "id": "finance-20260813-014"
-    },
-    {
-      "id": "finance-20260814-012",
-      "title": "上海卓然工程技术股份有限公司关于公司立案调查进展暨退市风险提示公告",
-      "summary": "上海卓然（*ST卓然，688121）公告称，证监会已对公司及实际控制人张劲鸿立案调查，涉嫌信息披露违法违规，初步调查发现公司部分年度财务信息可能存在虚假记载，可能触及科创板重大违法强制退市情形。",
-      "publishedAt": "2026-08-13",
-      "source": "上海证券报",
-      "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260814-013",
-      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
-      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一周6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
-      "publishedAt": "2026-08-13",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
-      "subCategory": "宏观经济"
+      "id": "finance-20260813-010"
     },
     {
       "title": "正荣地产公告66.14亿元境内债重组方案",
@@ -418,15 +490,6 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamif3493231.shtml",
       "subCategory": "政策利率",
       "id": "finance-20260813-013"
-    },
-    {
-      "title": "美国7月CPI同比升3.4%，通胀较6月温和放缓",
-      "summary": "美国劳工统计局公布，7月CPI季调环比上涨0.1%，同比升3.4%，较6月3.5%略降；核心CPI环比升0.2%、同比2.5%，均符合市场预期，住房成本仍是主要拉动项。",
-      "publishedAt": "2026-08-12T08:30:00-04:00",
-      "source": "美国劳工统计局(BLS)",
-      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-      "subCategory": "宏观经济",
-      "id": "finance-20260813-002"
     },
     {
       "title": "紫金矿业公告中期每股派现0.42元",
@@ -474,6 +537,15 @@
       "id": "finance-20260812-024"
     },
     {
+      "title": "温和CPI提振美股，标普纳指齐涨",
+      "summary": "受美国7月CPI数据温和及AI云服务企业财报带动，标普500指数上涨0.3%，纳斯达克综合指数涨约0.5%，道指基本持平，投资者对美联储9月维持利率观望情绪上升。",
+      "publishedAt": "2026-08-12T16:33:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
+      "subCategory": "美股",
+      "id": "finance-20260813-003"
+    },
+    {
       "title": "周期见顶忧虑下，为刺激股价，三星SK海力士寻分红新招",
       "summary": "面对存储芯片周期见顶担忧，三星电子和SK海力士股价自6月高点分别下跌约34%和50%。两家公司正推出更大力度的现金分红及回购计划，SK海力士公布三季度每股375韩元的分红方案。",
       "publishedAt": "2026-08-12T16:15:19+08:00",
@@ -490,6 +562,15 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-12/doc-inimzytr3995197.shtml",
       "subCategory": "港股",
       "id": "finance-20260813-006"
+    },
+    {
+      "title": "思科2026财年四季度营收173亿美元超预期",
+      "summary": "思科公布2026财年第四季度财报，营收173亿美元，同比增长18%；非美国通用会计准则每股收益1.22美元，网络产品订单同比增35%，全年业绩创纪录。",
+      "publishedAt": "2026-08-12T16:05:00-04:00",
+      "source": "Cisco Investor Relations",
+      "url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx",
+      "subCategory": "公司财报",
+      "id": "finance-20260813-009"
     },
     {
       "title": "A股三大指数收涨，房地产半导体领涨",
@@ -537,6 +618,15 @@
       "id": "finance-20260812-027"
     },
     {
+      "title": "AI编程公司Cognition据报洽谈400亿美元估值融资",
+      "summary": "AI编程初创公司Cognition据报正洽谈新一轮融资，估值或达400亿美元；此前公司5月以260亿美元估值完成10亿美元融资，年化营收当时已超4.92亿美元。",
+      "publishedAt": "2026-08-12T11:19:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "subCategory": "一级市场",
+      "id": "finance-20260813-014"
+    },
+    {
       "title": "财联祙8月12日电，碳酸锂期货主力合约涨超3%，报149820元/吨。",
       "summary": "财联社快讯，2026年8月12日上午，在广州期货交易所挂牌交易的碳酸锂期货主力合约盘中涨幅扩大至3%以上，最新成交价报每吨149820元。",
       "publishedAt": "2026-08-12T09:56:30+08:00",
@@ -553,6 +643,15 @@
       "url": "https://wallstreetcn.com/livenews/3148304",
       "subCategory": "一级市场",
       "id": "finance-20260812-015"
+    },
+    {
+      "title": "美国7月CPI同比升3.4%，通胀较6月温和放缓",
+      "summary": "美国劳工统计局公布，7月CPI季调环比上涨0.1%，同比升3.4%，较6月3.5%略降；核心CPI环比升0.2%、同比2.5%，均符合市场预期，住房成本仍是主要拉动项。",
+      "publishedAt": "2026-08-12T08:30:00-04:00",
+      "source": "美国劳工统计局(BLS)",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "subCategory": "宏观经济",
+      "id": "finance-20260813-002"
     },
     {
       "title": "日本2年期国债收益率升至1995年5月以来最高",
@@ -625,105 +724,6 @@
       "url": "https://wallstreetcn.com/livenews/3148229",
       "subCategory": "美股",
       "id": "finance-20260812-002"
-    },
-    {
-      "title": "美国预计伊朗冲突致石油供应受阻将持续至2027年底",
-      "summary": "美国能源信息署《短期能源展望》预计，美伊冲突导致的日均约60万桶石油供应受阻将持续到2027年底，霍尔木兹海峽运输持续受阻。今年二季度经该海峽运输石油降至日均490万桶，较2025年四季度(冲突前)的日均2160万桶大幅减少。",
-      "publishedAt": "2026-08-12T01:52:13+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3148203",
-      "subCategory": "风险事件",
-      "id": "finance-20260812-020"
-    },
-    {
-      "title": "英伟达信用风险指标回落，黄仁勋回应5000亿美元融资计划",
-      "summary": "英伟达2056年到期票息债券较美债利差收窄2个基点，5年期信用违约掉期一度收窄5个基点。CEO黄仁勋表示公司将逐项目审慎评估AI基建融资支持，强调该支持有限且以残值为基础，旨在补充而非取代独立风险评估。",
-      "publishedAt": "2026-08-12T01:08:57+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3148187",
-      "subCategory": "美股",
-      "id": "finance-20260812-003"
-    },
-    {
-      "title": "趋势基金做空全球债券头寸创纪录，CPI报告成焦点",
-      "summary": "瑞银集团数据显示，商品交易顾问(CTA)7月将低配债券头寸较两周前扩大两倍，敏口为瑞银1990年起统计以来最大。策略师称，通胀数据公布前10年期美债收益率每变动1个基点，CTA盈亏规模约3亿美元。",
-      "publishedAt": "2026-08-12T00:46:27+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3148177",
-      "subCategory": "宏观经济",
-      "id": "finance-20260812-011"
-    },
-    {
-      "title": "苝加哥联储主席古尔斯比：劳动力市场稳定但状况不佳",
-      "summary": "美国苝加哥联储主席古尔斯比(2027年FOMC票委)表示，多项指标显示美国劳动力市场稳定但情况并不良好，消费者信心健康与否将影响经济走势，当前经济面临的最大问题是通胀。",
-      "publishedAt": "2026-08-12T00:11:46+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3148169",
-      "subCategory": "政策利率",
-      "id": "finance-20260812-013"
-    },
-    {
-      "title": "EIA上调2026年布伦特原油价格预期至87美元/桶",
-      "summary": "美国能源信息署(EIA)发布最新短期能源展望，将2026年布伦特原油价格预期从每栆82美元上调至87美元，2027年预期从65美元上调至69美元；同时小幅上调2027年美国原油产量预期至1420万桶/日，下一份报告将于9月9日发布。",
-      "publishedAt": "2026-08-12T00:00:45+08:00",
-      "source": "华尔街见闻",
-      "url": "https://wallstreetcn.com/livenews/3148165",
-      "subCategory": "大宗商品",
-      "id": "finance-20260812-021"
-    },
-    {
-      "title": "Nebius二季度营收同比激增454%",
-      "summary": "AI云服务商Nebius公布第二季度财报，营收5.823亿美元，同比激增454%；调整后EBITDA达2.362亿美元并由负转正，公司重申全年营收指引。",
-      "publishedAt": "2026-08-12",
-      "source": "BusinessWire",
-      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results",
-      "subCategory": "公司财报",
-      "id": "finance-20260813-010"
-    },
-    {
-      "id": "finance-20260811-103",
-      "title": "Trump administration decided not to participate in Intel secondary but gave blessing: report",
-      "summary": "据Semafor报道，英特尔CEO陈立武与美国商务部长卢特尼克沟通后，特朗普政府决定不参与英特尔200亿美元二次股票发行的认购，但对该融资计划表示认可，未阻拦其推进。",
-      "publishedAt": "2026-08-11T23:47:00+08:00",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4630850-trump-administration-decided-not-to-participate-in-intel-secondary-but-gave-blessing-report",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-105",
-      "title": "头部量化扮堆入围！宇树科技七成筹码倾斜网下，这些机构获配",
-      "summary": "宇树科技网上中签率仅0.01809759%，网下投资者经回拨后获配约70%股份(2265万股)，网上投资者获配约30%(971万股)；敦和资产、国金证券、睡远基金等多家机构获配，缴款截止8月12日，发行价150.80元/股。",
-      "publishedAt": "2026-08-11T23:22:28+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103314218.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260811-102",
-      "title": "CME Group to launch GPU compute futures contracts in October",
-      "summary": "芸商所(CME)与Silicon Data宣布，将于10月5日推出两只算力期货合约，分别跟踪英伟达H100和B200芯片的GPU月度租赁成本指数，产品将在NYMEX挂牌，供AI企业对冲算力价格波动风险。",
-      "publishedAt": "2026-08-11T23:06:00+08:00",
-      "source": "Investing.com",
-      "url": "https://ca.investing.com/news/stock-market-news/cme-group-to-launch-gpu-compute-futures-contracts-in-october-93CH-4792580",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260811-101",
-      "title": "美股存储芯片深夜拉升，SK海力士涨超3%，中概股下挖，蔚来跌超6%，京东跌近5%，国际油价持续走低",
-      "summary": "北京时间8月11日晚，美股三大指数小幅高开，费城半导体指数抂1.53%，SK海力士涨超3%并将扩大大连NAND工厂产能约50%；中概股下挖，腾讯yin乐跌超11%，蔚来跌超6%，京东跌近5%；国际油价、白银走低，黄金在4390美元附近震荡。",
-      "publishedAt": "2026-08-11T22:24:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-08-11/doc-inimyhkc7352273.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260811-104",
-      "title": "5000亿美元！英伟达和华尔街的\"算力资产化实验\"",
-      "summary": "英伟达宣布与阿波罗、贝莱德、黑石、博盠、高盛、KKR等六家机构合作，设立独立融资平台，拟撑动超5000亿美元第三方资本用于AI基础设施建设；黄仁勋称平台将英伟达对单笔投资的剩余价值支持上限设为25%，以回应\"循环融资\"质疑。",
-      "publishedAt": "2026-08-11T22:09:15+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103314189.html",
-      "subCategory": "美股"
     }
   ]
 }

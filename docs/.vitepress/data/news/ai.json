@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-15T16:40:00+08:00",
+  "updatedAt": "2026-08-16T00:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260815-701",
+      "title": "Suno Studio 2.0 发布，新增 MIDI 支持与效果插件",
+      "summary": "Suno发布音乐制作平台Studio 2.0，新增MIDI支持及失真、延迟、混响、压缩、EQ等内置效果器，推出AI效果插件生成功能与内置聊天机器人辅助编曲，并支持音轨自动化调整。",
+      "publishedAt": "2026-08-15T23:28:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/190.htm",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260815-702",
+      "title": "阿里通义千问全球下载量破30亿，超越Meta与谷歌",
+      "summary": "据彭博社援引Hugging Face《开源模型现状》报告，阿里通义千问系列开源模型近半年全球下载量超30亿，其中Hugging Face平台达20.45亿次，超谷歌4.18亿与Meta 2.27亿，衍生模型逾15.1万个。",
+      "publishedAt": "2026-08-15T23:10:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/187.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260815-703",
+      "title": "美国部分学生用AI智能体代做整门网络课程引发担忧",
+      "summary": "据《纽约时报》报道，部分美国学生让AI智能体登录Canvas、Blackboard等平台代做测验、观看视频、撰写论文并参与讨论。芝加哥大学法学院已禁止低年级课堂用电脑，普林斯顿大学取消延续百年的荣誉准则。",
+      "publishedAt": "2026-08-15T17:05:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/115.htm",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260815-611",
       "title": "全球程序员都在浪费token白送钱，Anthropic分享Claude Code六大省钱技巧",
@@ -186,15 +213,6 @@
       "subCategory": "开源模型"
     },
     {
-      "id": "ai-20260814-001",
-      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
-      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
-      "publishedAt": "2026-08-13T15:22:00-04:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "subCategory": "推理框架"
-    },
-    {
       "id": "ai-20260814-002",
       "title": "DeepSeek开源发布Agent框架DeepSeek Harness",
       "summary": "DeepSeek开源发布Agent工具框架DeepSeek Harness，基于插件架构Cordis提供上百个内置插件，支持标准、PTC、极简、创意四种预设模式，并提供轨迹回放与Token消耗监控功能。",
@@ -204,6 +222,15 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260814-011",
+      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
+      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为原3.6 Flash价格的一半。",
+      "publishedAt": "2026-08-13",
+      "source": "Google DeepMind",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260814-003",
       "title": "神秘生图模型mona-lisa-1现身LM Arena盲测，疑似OpenAI新品",
       "summary": "代号mona-lisa-1的图像生成模型8月9日现身LM Arena盲测，测试者通过OpenAI官方内容溯源工具检测到相关来源信号，但OpenAI尚未就该模型发布官方说明或产品文档。",
@@ -211,15 +238,6 @@
       "source": "IT之家",
       "url": "https://m.ithome.com/html/989476.htm",
       "subCategory": "多模态"
-    },
-    {
-      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
-      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
-      "publishedAt": "2026-08-13T09:32:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
-      "subCategory": "大模型",
-      "id": "ai-20260813-201"
     },
     {
       "id": "ai-20260814-004",
@@ -274,6 +292,15 @@
       "url": "https://www.ithome.com/0/989/261.htm",
       "subCategory": "AI应用",
       "id": "ai-20260813-107"
+    },
+    {
+      "id": "ai-20260814-001",
+      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
+      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
+      "publishedAt": "2026-08-13T15:22:00-04:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "subCategory": "推理框架"
     },
     {
       "title": "辛顿、李飞飞、吴恩达呼吁保持AI一定程度的开放",
@@ -339,6 +366,15 @@
       "id": "ai-20260813-102"
     },
     {
+      "title": "Anthropic said in talks to buy startup Decart for $6 billion",
+      "summary": "据彭博社报道，Anthropic正洽谈以约60亿美元收购AI创业公司Decart，若达成将是其已知规模最大的一笔收购。Decart专注于世界模拟模型与芯片效率优化技术，其Lucy AI模型可生成实时高清视频叠加效果，5月融资3亿美元时估值40亿美元，英伟达、红杉资本等参投。",
+      "publishedAt": "2026-08-13T09:32:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/13/anthropic-said-in-talks-to-buy-startup-decart-for-6-billion/",
+      "subCategory": "大模型",
+      "id": "ai-20260813-201"
+    },
+    {
       "title": "小米卢伟冰：澎湃OS 4不开发布会，今日11点开启Beta招募",
       "summary": "小米宣布澎湃OS 4不举办发布会，直接开启社区Beta招募，HyperCore内核加入负载精算与内存预加载技术，并升级依托小米MiMo模型的“超级小爱2.0”实现任务编排与内容生成。",
       "publishedAt": "2026-08-13T09:07:00+08:00",
@@ -402,13 +438,58 @@
       "id": "ai-20260813-002"
     },
     {
-      "id": "ai-20260814-011",
-      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
-      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为原3.6 Flash价格的一半。",
-      "publishedAt": "2026-08-13",
-      "source": "Google DeepMind",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "subCategory": "大模型"
+      "title": "Day 0 Support for Qwen3.8-2.4T-A95B on vLLM",
+      "summary": "vLLM宣布对阿里新开源的Qwen3.8-2.4T-A95B提供首日支持，该模型是基于Qwen 3.5架构、拥有512个专家的2.4万亿参数稀疏MoE模型。此次发布支持FP8、BF16、NVFP4、MXFP4等多种精度，并与NVIDIA、AMD共同优化推理内核。",
+      "publishedAt": "2026-08-12",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-08-12-qwen3.8",
+      "subCategory": "推理框架",
+      "id": "ai-20260813-012"
+    },
+    {
+      "title": "Why managed agents are the next big thing in agent building",
+      "summary": "LangChain创始人Harrison Chase撰文介绍新推出的Managed Deep Agents平台，回顾智能体开发从早期框架到复杂智能体框架的演进，认为托管式智能体服务通过将基础设施与框架捐绑，能解决运行时可靠性、沙箱隔离及身份认证等生产问题。",
+      "publishedAt": "2026-08-12",
+      "source": "LangChain Blog",
+      "url": "https://langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
+      "subCategory": "Agent",
+      "id": "ai-20260813-013"
+    },
+    {
+      "title": "LangSmith BYOC on AWS is generally available",
+      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
+      "publishedAt": "2026-08-12",
+      "source": "LangChain Blog",
+      "url": "https://langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
+      "subCategory": "Agent",
+      "id": "ai-20260813-014"
+    },
+    {
+      "title": "Announcing a Landmark Global Partnership with BMG",
+      "summary": "AI音乐生成公司Suno宣布与音乐公司BMG达成全球战略合作，双方将共同开发Suno首个与音乐行业合作打造的音乐模型，旨在为艺人和词曲作者创造新的音乐体验与经济机会，并通过现有项目支持独立音乐人。",
+      "publishedAt": "2026-08-12",
+      "source": "Suno Blog",
+      "url": "https://suno.com/blog/suno-partnership-bmg",
+      "subCategory": "AI音频",
+      "id": "ai-20260813-015"
+    },
+    {
+      "title": "Putting sign language AI into users' hands",
+      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便胲人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
+      "publishedAt": "2026-08-12",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "subCategory": "多模态",
+      "id": "ai-20260813-016"
+    },
+    {
+      "title": "Liquid AI发布边缘视觉语言模型LFM2.5-VL-3B",
+      "summary": "Liquid AI发布31亿参数视觉语言模型LFM2.5-VL-3B，结合SigLIP2视觉编码器，面向边缘设备部署，支持屏幕理解、目标定位与函数调用，在M5 Max上解码速度达228 token/秒。",
+      "publishedAt": "2026-08-12",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "subCategory": "多模态",
+      "id": "ai-20260812-101"
     },
     {
       "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
@@ -573,78 +654,6 @@
       "id": "ai-20260812-003"
     },
     {
-      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "summary": "GitHub Copilot for JetBrains上线记忆功能与Ollama本地模型接入支持，可跨会话保留上下文信息，并支持自动安装Copilot CLI，同时修复多项MCP与终端相关问题。",
-      "publishedAt": "2026-08-11T13:15:55-07:00",
-      "source": "GitHub",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains/",
-      "subCategory": "AI编程",
-      "id": "ai-20260812-008"
-    },
-    {
-      "title": "MAI-Code-1.1-Flash available in GitHub Copilot",
-      "summary": "微软MAI-Code-1.1-Flash编程模型正式登陆GitHub Copilot，新增原生图像识别能力，标价较上一代MAI-Code-1-Flash降低73%，多个IDE平台可手动或自动选用。",
-      "publishedAt": "2026-08-11T11:13:56-07:00",
-      "source": "GitHub",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot/",
-      "subCategory": "AI编程",
-      "id": "ai-20260812-007"
-    },
-    {
-      "title": "Day 0 Support for Qwen3.8-2.4T-A95B on vLLM",
-      "summary": "vLLM宣布对阿里新开源的Qwen3.8-2.4T-A95B提供首日支持，该模型是基于Qwen 3.5架构、拥有512个专家的2.4万亿参数稀疏MoE模型。此次发布支持FP8、BF16、NVFP4、MXFP4等多种精度，并与NVIDIA、AMD共同优化推理内核。",
-      "publishedAt": "2026-08-12",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-08-12-qwen3.8",
-      "subCategory": "推理框架",
-      "id": "ai-20260813-012"
-    },
-    {
-      "title": "Why managed agents are the next big thing in agent building",
-      "summary": "LangChain创始人Harrison Chase撰文介绍新推出的Managed Deep Agents平台，回顾智能体开发从早期框架到复杂智能体框架的演进，认为托管式智能体服务通过将基础设施与框架捐绑，能解决运行时可靠性、沙箱隔离及身份认证等生产问题。",
-      "publishedAt": "2026-08-12",
-      "source": "LangChain Blog",
-      "url": "https://langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building",
-      "subCategory": "Agent",
-      "id": "ai-20260813-013"
-    },
-    {
-      "title": "LangSmith BYOC on AWS is generally available",
-      "summary": "LangChain宣布LangSmith Bring Your Own Cloud（BYOC）方案在AWS上正式对企业客户开放。该托管部署模式允许企业将敏感LangSmith数据保留在自有AWS账户与VPC内，由LangChain负责升级与扩容，满足受监管行业对数据驻留的需求。",
-      "publishedAt": "2026-08-12",
-      "source": "LangChain Blog",
-      "url": "https://langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws",
-      "subCategory": "Agent",
-      "id": "ai-20260813-014"
-    },
-    {
-      "title": "Announcing a Landmark Global Partnership with BMG",
-      "summary": "AI音乐生成公司Suno宣布与音乐公司BMG达成全球战略合作，双方将共同开发Suno首个与音乐行业合作打造的音乐模型，旨在为艺人和词曲作者创造新的音乐体验与经济机会，并通过现有项目支持独立音乐人。",
-      "publishedAt": "2026-08-12",
-      "source": "Suno Blog",
-      "url": "https://suno.com/blog/suno-partnership-bmg",
-      "subCategory": "AI音频",
-      "id": "ai-20260813-015"
-    },
-    {
-      "title": "Putting sign language AI into users' hands",
-      "summary": "Google DeepMind推出手语转文本翻译模型SL2T，可将美国手语转换为英语文本，现已应用于Pixel 11上的Gboard与Live Transcribe功能，方便胲人及听障用户以手语代替打字输入，模型基于超过10万小时、覆盖50余种手语的数据训练。",
-      "publishedAt": "2026-08-12",
-      "source": "Google DeepMind Blog",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "subCategory": "多模态",
-      "id": "ai-20260813-016"
-    },
-    {
-      "title": "Liquid AI发布边缘视觉语言模型LFM2.5-VL-3B",
-      "summary": "Liquid AI发布31亿参数视觉语言模型LFM2.5-VL-3B，结合SigLIP2视觉编码器，面向边缘设备部署，支持屏幕理解、目标定位与函数调用，在M5 Max上解码速度达228 token/秒。",
-      "publishedAt": "2026-08-12",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "subCategory": "多模态",
-      "id": "ai-20260812-101"
-    },
-    {
       "id": "ai-20260811-208",
       "title": "消息称英伟达开发万亿参数开源AI模型Nemotron 4",
       "summary": "据The Information报道，英伟达正开发新系列模型Nemotron 4，最大版本参数不少于1万亿，目标对标全球顶级开源模型，预计今年秋季推出；公司同时发布Nemotron 3.5 Lightning模型。",
@@ -715,15 +724,6 @@
       "source": "36氪",
       "url": "https://36kr.com/p/3934964911438982",
       "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260811-205",
-      "title": "李飞飞：AI进校园的最大风险是削弱孩子学习能力",
-      "summary": "斯坦福教授李飞飞表示，AI进校园的主要风险并非作徊，而可能削弱学生学习能力；她援引研究称AI虽能提速学习却可能降低思考深度，主张将AI定位为保留学生好奇心与自主性的学习伙伴而非替代品。",
-      "publishedAt": "2026-08-11T21:25:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/501.htm",
-      "subCategory": "AI应用"
     }
   ]
 }

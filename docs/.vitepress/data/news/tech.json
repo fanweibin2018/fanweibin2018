@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-15T16:40:00+08:00",
+  "updatedAt": "2026-08-16T00:20:00+08:00",
   "items": [
+    {
+      "id": "tech-20260815-712",
+      "title": "显卡厂商柏能警告入门级GPU即将断供",
+      "summary": "显卡厂商柏能(PC Partner)警告称，入门级GPU供应将在未来几个月大幅收紧、价格可能走高，芯片、内存及处理器等部件短缺预计在2026年下半年持续推高PC整机成本。",
+      "publishedAt": "2026-08-15T23:30:28+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1144/1144034.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-711",
+      "title": "英特尔开源编译器Jay通过Vulkan CTS认证",
+      "summary": "英特尔开源着色器编译器Jay取得里程碑进展，在Xe2与Xe3两代核显平台上通过Vulkan一致性测试(CTS)，该编译器已合入Mesa 26.3-devel代码库，旨在替代现有BRW编译器。",
+      "publishedAt": "2026-08-15T23:04:12+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1144/1144029.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260815-701",
+      "title": "GNOME 51 Beta 版桌面环境发布",
+      "summary": "GNOME 51 Beta桌面环境发布，新增设置中的指纹管理界面、Wayland协议下的背景模糊调节等功能，稳定版计划于9月16日正式发布。",
+      "publishedAt": "2026-08-15T22:55:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/185.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260815-702",
+      "title": "VR游戏发行商称Steam Frame头显发售“就在眼前”",
+      "summary": "一家VR游戏发行商透露Valve Steam Frame头显发售“即将到来”，但未公布具体日期，此前该设备已获FCC认证，Steam商店也新增了适配该头显的专属分类。",
+      "publishedAt": "2026-08-15T22:39:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/182.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260815-706",
+      "title": "小米Poco F9系列曝光，基于Redmi K100 Pro打造",
+      "summary": "消息称小米Poco F9系列将推出F9 Pro与F9 Ultra两款机型，基于Redmi K100 Pro/Pro Max打造，配备185Hz刷新率OLED屏与骁龙8至尊版第五代平台，主打海外中高端市场。",
+      "publishedAt": "2026-08-15T21:39:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/175.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-704",
+      "title": "达美航空航班遭遇虚假Wi-Fi钓鱼攻击，FBI介入",
+      "summary": "达美航空一架波音757航班上，有乘客搭建名为“Delta WiFi Fast”的虚假热点实施钓鱼，机组经ACARS上报后航空公司暂时关闭机上Wi-Fi，FBI与FAA已介入调查，飞行安全未受影响。",
+      "publishedAt": "2026-08-15T20:47:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/170.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260815-709",
+      "title": "沃尔沃推出“安全教练”应用分析驾驶行为",
+      "summary": "沃尔沃推出车机及手机端“安全教练”应用，通过分析刹车、加速与过弯等驾驶行为进行评分，先在瑞典与挪威面向2020年后车型上线，未来计划拓展至美国及欧洲其他市场。",
+      "publishedAt": "2026-08-15T20:26:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/168.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260815-705",
+      "title": "微软Edge新增从Google账号导入Chrome数据功能",
+      "summary": "微软Edge稳定版新增“从Google账号导入Chrome数据”选项，用户无需本地安装Chrome，登录谷歌账号即可直接导入书签、密码、浏览历史及自动填充信息。",
+      "publishedAt": "2026-08-15T20:20:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/166.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260815-713",
+      "title": "黄仁勋安抚AI算力市场：部分项目可获25%残值支持",
+      "summary": "英伟达宣布与阿波罗、贝莱德、黑石、博枫、高盛及KKR等机构合作搭建独立融资平台，目标撬动超5000亿美元第三方资金，黄仁勋称部分AI基础设施项目可获最高25%残值支持。",
+      "publishedAt": "2026-08-15T18:41:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/154.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-703",
+      "title": "KaihongOS桌面版x86正式预装原生VS Code",
+      "summary": "深圳开鸿数字宣布开鸿操作系统桌面版(x86)正式预装原生VS Code，无需容器即可直接使用，同时新增USB网卡、网络共享支持及核显视频编解码性能优化。",
+      "publishedAt": "2026-08-15T18:26:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/147.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260815-708",
+      "title": "群联谈存储短缺：NAND新增产能最快需4年",
+      "summary": "群联电子董事长表示，NAND闪存新增产能从投资到量产最快需4年而非市场预期的2年，供应紧张或持续多年；公司二季度营收约142.6亿元，净利润同比增长约34倍。",
+      "publishedAt": "2026-08-15T18:01:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/129.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260815-707",
+      "title": "惠普推出OmniBook 5笔记本，16英寸OLED屏",
+      "summary": "惠普发布16英寸OmniBook 5笔记本，搭载英特尔Panther Lake平台处理器，最高至酷睿Ultra 9 386H，屏幕最高支持2880×1880分辨率OLED面板，起售价1599美元。",
+      "publishedAt": "2026-08-15T17:32:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/120.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260815-710",
+      "title": "岚图追光S正式上市，华为乾崑智驾四激光方案",
+      "summary": "岚图追光S正式上市，搭载华为乾崑智驾四激光雷达方案，共三个配置版本，限时售价22.39万至27.39万元，配备98kWh电池，CLTC续航最高740公里。",
+      "publishedAt": "2026-08-15T16:56:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/990/113.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260815-601",
       "title": "KDE Plasma 6.8 将支持远程桌面双向复制粘贴",
@@ -231,15 +348,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260815-511",
-      "title": "黑客利用macOS屏幕共享漏洞植入门罗币挖矿程序",
-      "summary": "荷兰国家网络安全中心警告，攻击者正利用macOS屏幕共享功能中的身份验证绕过漏洞CVE-2026-65400发起攻击，该漏洞影响开放5900端口的VNC远程桌面服务。苹果已于8月6日在macOS Tahoe 26.6.1等版本修复，已知案例中攻击者获取root权限并植入门罗币挖矿程序。",
-      "publishedAt": "2026-08-14T10:59:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260815-003",
       "title": "5米1大五座旗舰 纯电续航402km！魏牌V8X上市 限时22.68万起",
       "summary": "魏牌全新大五座旗舰SUV V8X正式上市，推出豪华家庭版与运动版共五个版本，官方零售价23.98万至31.58万元，叠加限时权益后最低22.68万元起，纯电续航达402公里。",
@@ -301,6 +409,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/718.htm",
       "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260815-511",
+      "title": "黑客利用macOS屏幕共享漏洞植入门罗币挖矿程序",
+      "summary": "荷兰国家网络安全中心警告，攻击者正利用macOS屏幕共享功能中的身份验证绕过漏洞CVE-2026-65400发起攻击，该漏洞影响开放5900端口的VNC远程桌面服务。苹果已于8月6日在macOS Tahoe 26.6.1等版本修复，已知案例中攻击者获取root权限并植入门罗币挖矿程序。",
+      "publishedAt": "2026-08-14T10:59:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260814-020",
@@ -366,24 +483,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260814-010",
-      "title": "Akira勒索团伙利用安全模式关闭EDR，窃取数据但加密失败",
-      "summary": "Akira勒索软件团伙通过缺乏多因素认证的SonicWall VPN入侵网络，利用Windows安全模式绕过终端检测响应工具，虽窃取了凭证与文件，但因内存错误导致加密程序执行失败。",
-      "publishedAt": "2026-08-13T16:47:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260814-013",
-      "title": "严重VMware vCenter漏洞遭利用，攻击者借此建立反向SSH通道",
-      "summary": "VMware vCenter Syslog Server中的严重漏洞CVE-2026-59310正被利用于部署反向SSH工具以维持访问权限，研究人员发现47个国家的361台系统已遭入侵，距补丁发布仅五天。",
-      "publishedAt": "2026-08-13T12:40:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260814-007",
       "title": "全球最大电池纯电动飞机Heart Aerospace X1完成首飞",
       "summary": "瑞典公司Heart Aerospace的X1验证机在纽约普拉茨堡国际机场完成载人首飞，起飞重量超11吨，功率输出超1兆瓦，作为其30座混合动力支线客机的全尺寸验证平台。",
@@ -402,15 +501,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260814-015",
-      "title": "硬件钱包厂商Trezor披露数据泄露，近1.4万客户信息受影响",
-      "summary": "Trezor披露其发货服务商ShipMonk遭黑客攻击，导致约1.4万名客户的姓名、地址、邮箱和电话号码泄露，涉及5月10日至8月8日期间的订单数据。",
-      "publishedAt": "2026-08-13T11:13:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260814-009",
       "title": "吉利银河TT纯电轿车预售，全系800V平台，14.59万元起",
       "summary": "吉利银河TT纯电轿车开启预售，全系标配800V高压平台及宁德时代神行TT电池，支持11分钟补能400公里以上，并搭载千里浩瀚H5/H7辅助驾驶系统，预售价14.59万元起。",
@@ -427,6 +517,15 @@
       "source": "36氪",
       "url": "https://www.36kr.com/newsflashes/3937713404509320",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260814-010",
+      "title": "Akira勒索团伙利用安全模式关闭EDR，窃取数据但加密失败",
+      "summary": "Akira勒索软件团伙通过缺乏多因素认证的SonicWall VPN入侵网络，利用Windows安全模式绕过终端检测响应工具，虽窃取了凭证与文件，但因内存错误导致加密程序执行失败。",
+      "publishedAt": "2026-08-13T16:47:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260814-012",
@@ -573,6 +672,15 @@
       "id": "tech-20260813-103"
     },
     {
+      "id": "tech-20260814-013",
+      "title": "严重VMware vCenter漏洞遭利用，攻击者借此建立反向SSH通道",
+      "summary": "VMware vCenter Syslog Server中的严重漏洞CVE-2026-59310正被利用于部署反向SSH工具以维持访问权限，研究人员发现47个国家的361台系统已遭入侵，距补丁发布仅五天。",
+      "publishedAt": "2026-08-13T12:40:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260814-014",
       "title": "小米曝光升降车标专利，采用双标识轮换设计",
       "summary": "小米汽车获得一项车标升降装置专利，可容纳两枚车标轮流升降展示，其中一枚为镀金镀钛高端车标，机构支持快拆并可布置于引擎盖、保险杠、尾门等多个位置。",
@@ -580,6 +688,15 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1143/1143403.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260814-015",
+      "title": "硬件钱包厂商Trezor披露数据泄露，近1.4万客户信息受影响",
+      "summary": "Trezor披露其发货服务商ShipMonk遭黑客攻击，导致约1.4万名客户的姓名、地址、邮箱和电话号码泄露，涉及5月10日至8月8日期间的订单数据。",
+      "publishedAt": "2026-08-13T11:13:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+      "subCategory": "安全漏洞"
     },
     {
       "title": "微软限制 Microsoft 365 和 OneDrive，推动Win10用户升级Win11",
@@ -607,123 +724,6 @@
       "url": "https://news.mydrivers.com/1/1143/1143353.htm",
       "subCategory": "消费电子",
       "id": "tech-20260813-013"
-    },
-    {
-      "title": "联想来酷 Air 14 2026 笔记本新增酷睛 3-304/5-320 处理器版本，3999 元起",
-      "summary": "联想为来酷Air 14 2026笔记本新增酷睛3-304和5-320处理器版本，8月18日上市，入门版12GB+512GB售3999元（补贴后3399元），高配版12GB+1TB售5199元，配妇14英寸1920×1200屏幕。",
-      "publishedAt": "2026-08-13T08:26:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/026.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-007"
-    },
-    {
-      "title": "零刻新款ME Pro NAS迷你机首发4795元起：升级锐龙AI 9 HX 470",
-      "summary": "零刻推出新款ME Pro系列NAS迷你主机，搭载AMD锐龙AI 9 HX 470处理器，提供双盘位和四盘位两种配置，起售价4795元，支持DDR5-5600内存、双网口（10GbE+2.5GbE）及USB 40Gbps接口。",
-      "publishedAt": "2026-08-13T08:22:07+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143352.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-012"
-    },
-    {
-      "title": "剑指苹果 MacBook Neo：联想 IdeaPad Vibe 笔记本曝光，7 种颜色",
-      "summary": "Windows Latest曝光联想IdeaPad Vibe笔记本渲染图，定位对标苹果MacBook Neo，提供粉、黄、棕、绿、蓝、银、青共7种配色，均配备统一深灰键盘，将支持骏龙和AMD处理器多种选项。",
-      "publishedAt": "2026-08-13T08:18:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/025.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-014"
-    },
-    {
-      "title": "维基百科信息遭恶意篡改，谷歌搜索误显示 OpenAI CEO 奥尔特曼死讯",
-      "summary": "OpenAI CEO奥尔特曼的维基百科页面遭恶意篡改，导致谷歌搜索知识面板一度错误显示其死讯，该页面当日被编辑22次，谷歌数小时后删除错误内容，并说明知识面板综合数百个信息源而非仅维基百科。",
-      "publishedAt": "2026-08-13T08:06:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/024.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260813-017"
-    },
-    {
-      "title": "96GB GDDR7显存加持！英伟达对RTX PRO 6000涨价 至16000美元直接翻1倍",
-      "summary": "英伟达将其专业卡RTX PRO 6000工作站版价格上调至16000美元，较最初建议零售价8000美元翻倍，该卡配妇96GB GDDR7显存；消费级RTX 5090零售价也已突破4500美元，高端存储紧缺预计将持续数年。",
-      "publishedAt": "2026-08-13T08:05:31+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143348.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260813-011"
-    },
-    {
-      "title": "Raycast 0.71 发布，让 AI 直接\"看懂\"你的屏幕",
-      "summary": "效率工具Raycast发布0.71版本，新增屏幕感知功能，可将当前应用窗口内容、选中文本和截图直接导入AI对话，避免手动复制粘贴，本次更新还包含AI上下文管理增强等多项改进。",
-      "publishedAt": "2026-08-13T08:03:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/022.htm",
-      "subCategory": "开发者工具",
-      "id": "tech-20260813-016"
-    },
-    {
-      "title": "J.D. Power 美国充电体验调研：Ionna 登顶，特斯拉仅排第四",
-      "summary": "J.D. Power美国电动车公共充电体验调研显示，由宝马、通用、本田等车企支持的Ionna网络用户满意度排名第一，特斯拉仅列第四；直流快充总体满意度较去年提升12分至666分（满分1000），充电失败率降至12%的历史低点。",
-      "publishedAt": "2026-08-13T07:51:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/020.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260813-018"
-    },
-    {
-      "title": "小米米家净水器 2 沸腾版预售：100℃ 真沸腾水、2000G 温热水流速，政府补贴价 2549 元",
-      "summary": "小米开启米家净水器2沸腾版预售，8月17日发售，采用先净化后加热方式提供100℃真沸腾水，搭载12级过滤系统，可去除145种污染物，原价3399元，政府补贴后价格为2549元。",
-      "publishedAt": "2026-08-13T07:47:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/018.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-015"
-    },
-    {
-      "title": "7 月全球电动汽车销量同比增长 9%",
-      "summary": "7月全球电动车销量达185万辆，同比增长9%，欧洲成为主要增长引擎，销量增长33%至45万辆，法国增幅达81%；中国市场销量下滑5%至98万辆，北美因联邦补贴取消暴跌27%至14万辆。",
-      "publishedAt": "2026-08-13T07:43:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/016.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260813-019"
-    },
-    {
-      "title": "2035年登月基建！中国月球机器狗负责挖矿、建造栖息地",
-      "summary": "中国航天研究团队提出2035年前在国际月球科研站部署四足机器狗，负责采集月壤水冰、建造栖息地等高危繁重任务，方案设想3名航天员搭配2台机器狗协作，目前仍处于理论规划阶段。",
-      "publishedAt": "2026-08-13T07:33:44+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143343.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260813-008"
-    },
-    {
-      "title": "开发周期缩眇40%！新思科技联手AMD、微软：用AI加速芯片设计",
-      "summary": "新思科技发布与AMD合作开发、在微软Discovery平台上评估的自主AI芯片设计工作流，包括调试收敛和实现收敛两大模块，早期评估显示可将调试周期缩短25%至40%，AMD正评估将其用于下一代产品开发。",
-      "publishedAt": "2026-08-13T07:25:43+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143342.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260813-009"
-    },
-    {
-      "title": "峰值下载375Mbps！马斯克豪言未来汽车标配星链，4K 高清看赛事直播",
-      "summary": "马斯克在X平台表示未来所有特斯拉车型都将标配星链卫星互联网，特斯拉随后展示搭载V5卫星天线的首款Cybercab自动驾驶出租车，车载星链下载速度可达375Mbps，可支持车内高清体育直播、电影和游戏。",
-      "publishedAt": "2026-08-13T06:47:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/004.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260813-020"
-    },
-    {
-      "title": "谷歌首款2nm折叠屏！谷歌Pixel 11 Pro Fold发布：12800元起",
-      "summary": "谷歌发布首款采用2nm芯片的折叠屏手机Pixel 11 Pro Fold，起售价1899美元（约合到杨12800元），外屏6.5英寸峰值亮度3600尼特、内屏8英寸，搭载Tensor G6芯片，主擄4800万像素并配备超广角与5倍长焦镜头，电池容量4750mAh、支掄25W无线充电，预装Android 17并承诺7年安全更新。",
-      "publishedAt": "2026-08-13T00:05:56+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143322.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260813-003"
     }
   ]
 }

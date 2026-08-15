@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-15T16:40:00+08:00",
+  "updatedAt": "2026-08-16T00:20:00+08:00",
   "items": [
+    {
+      "id": "industry-20260814-601",
+      "title": "SanDisk Investor Day: Caching Out the NAND Cycle with Contracts",
+      "summary": "SanDisk投资者日公布FY2028-FY2030财务目标，营收年增中高双位数，非GAAP毛利率约80%；企业级SSD占全球NAND位出货48%，去年同期为26%，公司市场份额维持12%-13%。",
+      "publishedAt": "2026-08-14",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/sandisk-investor-day-caching-out-the-nand-cycle-with-contracts",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260815-003",
+      "title": "forvis mazars：2026年亚太地区企业高管晴雨表展望报告",
+      "summary": "forvis mazars调查显示，仅67%的亚太企业预计2026年营收增长（较2025年80%下降），48%视经济不确定性为首要风险，47%将AI列为最关键技术投资领域。",
+      "publishedAt": "2026-08-14",
+      "source": "199IT / Forvis Mazars",
+      "url": "http://www.199it.com/archives/1837214.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260815-004",
+      "title": "Sprout Social：智能鸿沟——为何企业难以跟上实时洞察时代",
+      "summary": "Sprout Social对705名营销与社媒数据从业者的调查显示，93%认为社媒情报对企业增长至关重要，但仅10%已将其纳入企业战略，86%曾因洞察延迟错失商业机会。",
+      "publishedAt": "2026-08-14",
+      "source": "199IT / Sprout Social",
+      "url": "http://www.199it.com/archives/1832829.html",
+      "subCategory": "企业服务"
+    },
     {
       "id": "industry-20260815-501",
       "title": "第二季度智能手机出货下滑，分析机构称\"价值\"或成新的市场衡量指标",
@@ -51,13 +78,22 @@
       "subCategory": "医疗健康"
     },
     {
-      "id": "industry-20260814-601",
-      "title": "SanDisk Investor Day: Caching Out the NAND Cycle with Contracts",
-      "summary": "SanDisk投资者日公布FY2028-FY2030财务目标，营收年增中高双位数，非GAAP毛利率约80%；企业级SSD占全球NAND位出货48%，去年同期为26%，公司市场份额维持12%-13%。",
-      "publishedAt": "2026-08-14",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/sandisk-investor-day-caching-out-the-nand-cycle-with-contracts",
-      "subCategory": "半导体产业"
+      "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
+      "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
+      "publishedAt": "2026-08-13",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1786338.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-103"
+    },
+    {
+      "id": "industry-20260813-601",
+      "title": "路透社：2026年7-8月调查显示超80%日本企业AI使用有限或未使用",
+      "summary": "路透社与日经研究7月29日至8月6日的调查显示，超80%日本企业AI应用仅限部分部门或尚未采用，仅16%企业实现全公司部署，生成式AI使用率为86.4%，低于中、德、美三国。",
+      "publishedAt": "2026-08-13",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1845593.html",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260814-005",
@@ -141,6 +177,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260815-005",
+      "title": "全国乘用车市场信息联席会：8月1-9日新能源乘用车零售19.5万辆",
+      "summary": "乘联会数据显示，8月1-9日全国乘用车厂家批发27.6万辆、零售31.7万辆，同比分别下降24%和22%；新能源乘用车批发、零售各19.5万辆，市场渗透率61.6%。",
+      "publishedAt": "2026-08-13T17:05:00+08:00",
+      "source": "乘联会（搜狐汽车）",
+      "url": "https://m.sohu.com/a/1062418407_115312",
+      "subCategory": "新能源汽车"
+    },
+    {
       "title": "IDC：第二季度中国平板电脑市场华为、苹果、联想前三",
       "summary": "IDC数据显示，2026年第二季度中国平板电脑市场出货796万台，同比下降4.4%，消费市场下滑9.8%，商用市场增长67.1%。华为、苹果、联想位列出货量前三，成本上涨压力预计延续至2027年。",
       "publishedAt": "2026-08-13T12:05:00+08:00",
@@ -168,22 +213,40 @@
       "subCategory": "消费零售"
     },
     {
-      "title": "代理式AI重塑旅游业：从智能助手迈向自主决策",
-      "summary": "行业报告指出，代理式AI凭借自主规划与多步骤推理能力正推动旅游业从效率工具迈向业务执行者，59%高管认为其提升员工效率，超九成用户信任AI提供的旅行信息，但仅2%消费者愿意完全交由AI处理预订。",
-      "publishedAt": "2026-08-13",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1786338.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-103"
+      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
+      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妇12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
+      "publishedAt": "2026-08-12",
+      "source": "199IT（Counterpoint Research）",
+      "url": "https://www.199it.com/archives/1845076.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260813-001"
     },
     {
-      "id": "industry-20260813-601",
-      "title": "路透社：2026年7-8月调查显示超80%日本企业AI使用有限或未使用",
-      "summary": "路透社与日经研究7月29日至8月6日的调查显示，超80%日本企业AI应用仅限部分部门或尚未采用，仅16%企业实现全公司部署，生成式AI使用率为86.4%，低于中、德、美三国。",
-      "publishedAt": "2026-08-13",
+      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
+      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
+      "publishedAt": "2026-08-12",
       "source": "199IT",
-      "url": "http://www.199it.com/archives/1845593.html",
-      "subCategory": "行业研报"
+      "url": "https://www.199it.com/archives/1832141.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260812-001"
+    },
+    {
+      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
+      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
+      "publishedAt": "2026-08-12",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
+      "subCategory": "消费零售",
+      "id": "industry-20260812-007"
+    },
+    {
+      "id": "industry-20260812-601",
+      "title": "US Smartphone Sales Fall 5% YoY in Q2 2026 as Pricing Pressure Squeezes Low-end Segment",
+      "summary": "Counterpoint数据显示，2026年第二季度美国智能手机销量同比下降5%，苹果、三星、摩托罗拉、谷歌合计下滑4%，百元以下机型销量骤降64%，中小厂商跌45%。",
+      "publishedAt": "2026-08-12",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/us-smartphone-sales-fall-5-percent-q2-2026",
+      "subCategory": "消费零售"
     },
     {
       "title": "Counterpoint：今年前 30 周中国智能手机销量同比下降 8.6%，华为继续领跑市场",
@@ -285,40 +348,67 @@
       "id": "industry-20260812-005"
     },
     {
-      "title": "Counterpoint：2026年全球折叠屏出货量同比增21%，苹果首年份额25%",
-      "summary": "Counterpoint Research预测2026年全球折叠屏手机出货量同比增长21%，苹果首年即拿下约25%市场份额，市场格局将从三星国际领先、华为国内领先转向苹果、三星、华为三足鼎立；苹果折叠机型据报采用台积电2nm A20 Pro芯片，配妇12GB内存，取消Face ID改用侧边指纹识别，预计9月发布会亮相。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT（Counterpoint Research）",
-      "url": "https://www.199it.com/archives/1845076.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260813-001"
-    },
-    {
-      "title": "Gartner：2026年全球AI支出将达到2.59万亿美元 同比增长47%",
-      "summary": "Gartner预测2026年全球人工智能支出将达到2.59万亿美元，同比增长47%。AI基础设施支出占比超过45%，AI优化服务器支出五年内预计增长两倍，生成式AI模型使用量预计增长110%。",
-      "publishedAt": "2026-08-12",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1832141.html",
+      "title": "IDC：2026年第二季度印度智能手机出货量同比下降11.1%",
+      "summary": "IDC数据显示，受内存芯片短缺推高成本影响，2026年第二季度印度智能手机出货量同比下降11.1%至3320万部，均价创纪录达315美元；vivo、三星、OPPO位列出货量前三。",
+      "publishedAt": "2026-08-11",
+      "source": "IDC",
+      "url": "https://www.idc.com/resource-center/press-releases/india-smartphone-shipments-decline-q2-2026/",
       "subCategory": "行业研报",
-      "id": "industry-20260812-001"
+      "id": "industry-20260813-006"
     },
     {
-      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
-      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比降19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
-      "publishedAt": "2026-08-12",
+      "title": "Omdia：iPhone用户微短剧付费支出比安卓用户高40%",
+      "summary": "Omdia消费者调研结合Sensor Tower数据显示，iPhone用户每周在微短剧应用上平均支出约14美元，较安卓用户的10美元高出40%；韩国市场两类用户付费比例差距最大，达14个百分点。",
+      "publishedAt": "2026-08-11",
       "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
-      "subCategory": "消费零售",
-      "id": "industry-20260812-007"
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/iphone-users-spend-40percent-more-on-microdramas-than-android-users",
+      "subCategory": "行业研报",
+      "id": "industry-20260813-008"
     },
     {
-      "id": "industry-20260812-601",
-      "title": "US Smartphone Sales Fall 5% YoY in Q2 2026 as Pricing Pressure Squeezes Low-end Segment",
-      "summary": "Counterpoint数据显示，2026年第二季度美国智能手机销量同比下降5%，苹果、三星、摩托罗拉、谷歌合计下滑4%，百元以下机型销量骤降64%，中小厂商跌45%。",
-      "publishedAt": "2026-08-12",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/us-smartphone-sales-fall-5-percent-q2-2026",
-      "subCategory": "消费零售"
+      "title": "麦肯锡：工业AI驱动商业转型可带来5%-20%营收提升",
+      "summary": "麦肯锡研究显示，工业企业通过AI驱动的商业转型，两年内可实现5%至20%的营收提升及5%至10%的EBITDA改善；试点市场新增销售线索带来超10%业务增长，销售人员非销售事务性工作占比可从40%降至15%。",
+      "publishedAt": "2026-08-11",
+      "source": "McKinsey",
+      "url": "https://www.mckinsey.com/industries/industrials-and-electronics/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
+      "subCategory": "制造业",
+      "id": "industry-20260813-010"
+    },
+    {
+      "id": "industry-20260811-003",
+      "title": "Counterpoint：2025年印度高级驾驶辅助系统占乘用车市场的8.41%",
+      "summary": "Counterpoint Research报告显示，2025年印度乘用车市场高级驾驶辅助系统（ADAS）渗透率约8.41%，较2024年的6.43%增长约38%，Mahindra在L2级ADAS市场份额领先。",
+      "publishedAt": "2026-08-11",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1813101.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260811-601",
+      "title": "Agentic AI and the future of global business services",
+      "summary": "麦肯锡指出，智能体AI正在增强而非取代全球商业服务(GBS)团队，企业预期GBS团队规模缩减20%-30%但生产力显著提升，组织结构由金字塔转向\"钻石型\"。",
+      "publishedAt": "2026-08-11",
+      "source": "McKinsey & Company",
+      "url": "https://mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260815-006",
+      "title": "EY：2026年矿业与金属行业十大商业风险与机遇报告",
+      "summary": "安永报告显示，“运营复杂性”首次成为矿业与金属行业首要风险，31%企业称监管审批延迟是主要产能制约因素；样本企业2024年平均税负达40.6%，新矿山平均开发周期约18年。",
+      "publishedAt": "2026-08-11",
+      "source": "199IT / EY",
+      "url": "http://www.199it.com/archives/1790817.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260815-009",
+      "title": "QuestMobile：2026全景生态流量半年报告",
+      "summary": "QuestMobile数据显示，截至2026年6月，小程序月活总量达10.23亿，其中微信小程序月活9.62亿；智能家居、可穿戴、车载应用月活同比分别增长8.4%、6.8%、9.3%。",
+      "publishedAt": "2026-08-11",
+      "source": "QuestMobile",
+      "url": "https://www.questmobile.com.cn/research/report/2087076371092336642",
+      "subCategory": "行业研报"
     },
     {
       "title": "乘联分会：7月新能源汽车零售渗透率首次突砆65%，燃油车零售暴跌41%",
@@ -411,15 +501,6 @@
       "subCategory": "公司动态"
     },
     {
-      "id": "industry-20260814-012",
-      "title": "Vaderis Therapeutics完成1.52亿美元超额认购B轮融资",
-      "summary": "瑞士生物制药公司Vaderis Therapeutics宣布完成1.52亿美元超额认购B轮融资，由高盛另类投资与TCGX领投，用于推进engasertib治疗遗传性出血性毛细血管扩张症的全球三期HEROIC研究。",
-      "publishedAt": "2026-08-11T07:00:00-04:00",
-      "source": "Vaderis Therapeutics",
-      "url": "https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html",
-      "subCategory": "医疗健康"
-    },
-    {
       "id": "industry-20260811-006",
       "title": "大家不愿换新手机了！翻新机面板需求量暴涨：规模已超全新机",
       "summary": "研究机构Omdia报告显示，受内存涨价影响智能手机厂商削减产量，2026年一季度出货至二手翻新手机市场的显示面板达2.98亿块，同比增长20%，首次超过出货给新机厂商的2.89亿块。",
@@ -447,6 +528,15 @@
       "subCategory": "新能源汽车"
     },
     {
+      "id": "industry-20260814-012",
+      "title": "Vaderis Therapeutics完成1.52亿美元超额认购B轮融资",
+      "summary": "瑞士生物制药公司Vaderis Therapeutics宣布完成1.52亿美元超额认购B轮融资，由高盛另类投资与TCGX领投，用于推进engasertib治疗遗传性出血性毛细血管扩张症的全球三期HEROIC研究。",
+      "publishedAt": "2026-08-11T07:00:00-04:00",
+      "source": "Vaderis Therapeutics",
+      "url": "https://www.prnewswire.com/news-releases/vaderis-therapeutics-announces-oversubscribed-152-million-series-b-financing-and-initiation-of-the-global-phase-3-heroic-study-of-engasertib-for-hereditary-hemorrhagic-telangiectasia-302845188.html",
+      "subCategory": "医疗健康"
+    },
+    {
       "id": "industry-20260811-001",
       "title": "AI进药企，新药研发在提速",
       "summary": "经济日报报道，AI已深度融入新药研发全链条：全球AI药物发现市场规模约26亿美元，170多个AI原创新药项目进入临床开发阶段，AI发现分子的I期临床成功率达80%-90%，高于传统药牆52%的历史均值。",
@@ -456,49 +546,31 @@
       "subCategory": "医疗健康"
     },
     {
-      "title": "IDC：2026年第二季度印度智能手机出货量同比下降11.1%",
-      "summary": "IDC数据显示，受内存芯片短缺推高成本影响，2026年第二季度印度智能手机出货量同比下降11.1%至3320万部，均价创纪录达315美元；vivo、三星、OPPO位列出货量前三。",
-      "publishedAt": "2026-08-11",
+      "title": "IDC：中国企业级智能体数量预计从200万增至500万",
+      "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
+      "publishedAt": "2026-08-10",
       "source": "IDC",
-      "url": "https://www.idc.com/resource-center/press-releases/india-smartphone-shipments-decline-q2-2026/",
+      "url": "https://www.idc.com/resource-center/press-releases/%e4%bb%8e200%e4%b8%87%e5%88%b0500%e4%b8%87%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e4%bb%8e%e6%a6%82%e5%bf%b5%e8%b5%b0%e5%90%91%e8%a7%84%e6%a8%a1%e5%8c%96%e8%90%bd%e5%9c%b0%ef%bc%8c%e4%bc%81%e4%b8%9a/",
       "subCategory": "行业研报",
-      "id": "industry-20260813-006"
+      "id": "industry-20260813-007"
     },
     {
-      "title": "Omdia：iPhone用户微短剧付费支出比安卓用户高40%",
-      "summary": "Omdia消费者调研结合Sensor Tower数据显示，iPhone用户每周在微短剧应用上平均支出约14美元，较安卓用户的10美元高出40%；韩国市场两类用户付费比例差距最大，达14个百分点。",
-      "publishedAt": "2026-08-11",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/iphone-users-spend-40percent-more-on-microdramas-than-android-users",
+      "title": "Gartner：预计2026年全球AI优化型IaaS支出将增长96%",
+      "summary": "Gartner预测，2026年全球AI优化型基础设施即服务（IaaS）支出将达420亿美元，同比增长96%，2027年将进一步增至660亿美元；其中推理相关支出233亿美元，首次超过训练支出的190亿美元。",
+      "publishedAt": "2026-08-10",
+      "source": "Gartner（经TechEdgeAI转载）",
+      "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
       "subCategory": "行业研报",
-      "id": "industry-20260813-008"
+      "id": "industry-20260813-005"
     },
     {
-      "title": "麦肯锡：工业AI驱动商业转型可带来5%-20%营收提升",
-      "summary": "麦肯锡研究显示，工业企业通过AI驱动的商业转型，两年内可实现5%至20%的营收提升及5%至10%的EBITDA改善；试点市场新增销售线索带来超10%业务增长，销售人员非销售事务性工作占比可从40%降至15%。",
-      "publishedAt": "2026-08-11",
-      "source": "McKinsey",
-      "url": "https://www.mckinsey.com/industries/industrials-and-electronics/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
-      "subCategory": "制造业",
-      "id": "industry-20260813-010"
-    },
-    {
-      "id": "industry-20260811-003",
-      "title": "Counterpoint：2025年印度高级驾驶辅助系统占乘用车市场的8.41%",
-      "summary": "Counterpoint Research报告显示，2025年印度乘用车市场高级驾驶辅助系统（ADAS）渗透率约8.41%，较2024年的6.43%增长约38%，Mahindra在L2级ADAS市场份额领先。",
-      "publishedAt": "2026-08-11",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1813101.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260811-601",
-      "title": "Agentic AI and the future of global business services",
-      "summary": "麦肯锡指出，智能体AI正在增强而非取代全球商业服务(GBS)团队，企业预期GBS团队规模缩减20%-30%但生产力显著提升，组织结构由金字塔转向\"钻石型\"。",
-      "publishedAt": "2026-08-11",
-      "source": "McKinsey & Company",
-      "url": "https://mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
-      "subCategory": "企业服务"
+      "id": "industry-20260815-008",
+      "title": "艾媒咨询：2026年中国医疗健康行业半年投融资情况",
+      "summary": "艾媒咨询数据显示，2026年上半年中国医疗健康行业共发生投融资事件436起，总金额683.09亿元；医药领域以140起、382.70亿元居首，三大细分领域合计占比约85%。",
+      "publishedAt": "2026-08-10",
+      "source": "艾媒咨询",
+      "url": "https://www.iimedia.cn/c400/114052.html",
+      "subCategory": "医疗健康"
     },
     {
       "id": "industry-20260811-002",
@@ -618,24 +690,6 @@
       "subCategory": "消费零售"
     },
     {
-      "title": "IDC：中国企业级智能体数量预计从200万增至500万",
-      "summary": "IDC报告指出，中国活跃企业级AI智能体数量预计将从2025年约200万个增长至2026年约500万个，企业级AI平台呈现涵盖基础设施、数据、智能体开发、流程、应用与治理安全的六层全栈架构。",
-      "publishedAt": "2026-08-10",
-      "source": "IDC",
-      "url": "https://www.idc.com/resource-center/press-releases/%e4%bb%8e200%e4%b8%87%e5%88%b0500%e4%b8%87%ef%bc%9a%e6%99%ba%e8%83%bd%e4%bd%93%e4%bb%8e%e6%a6%82%e5%bf%b5%e8%b5%b0%e5%90%91%e8%a7%84%e6%a8%a1%e5%8c%96%e8%90%bd%e5%9c%b0%ef%bc%8c%e4%bc%81%e4%b8%9a/",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-007"
-    },
-    {
-      "title": "Gartner：预计2026年全球AI优化型IaaS支出将增长96%",
-      "summary": "Gartner预测，2026年全球AI优化型基础设施即服务（IaaS）支出将达420亿美元，同比增长96%，2027年将进一步增至660亿美元；其中推理相关支出233亿美元，首次超过训练支出的190亿美元。",
-      "publishedAt": "2026-08-10",
-      "source": "Gartner（经TechEdgeAI转载）",
-      "url": "https://techedgeai.com/gartner-forecasts-worldwide-ai-optimized-iaas-spending-to-grow-96-through-2026/",
-      "subCategory": "行业研报",
-      "id": "industry-20260813-005"
-    },
-    {
       "id": "industry-20260810-n04",
       "title": "任天堂：2026年第一财季Switch 2销量382万台，同比下降34.4%",
       "summary": "任天堂财报显示，截至6月30日的2026财年首财季，Switch 2主机销量382万台，同比下降34.4%，初代Switch销量66万台，同比降31.8%；期内营收5178亿日元，净利润1474亿日元。",
@@ -669,60 +723,6 @@
       "publishedAt": "2026-08-09T20:22:52+08:00",
       "source": "199IT",
       "url": "https://www.199it.com/archives/1844414.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260810-n07",
-      "title": "J.D. Power：2026年国内新能源车问题发生率46.1%，同比上涨12%",
-      "summary": "J.D. Power报告显示，2026年国内新能源车百车问题发生率46.1%，同比上涨12%；近85%的车主投诉源于智能化功能使用门槛较高而非硬件故障，事故维修费用是同级燃油车的1.7倍。",
-      "publishedAt": "2026-08-09T20:19:27+08:00",
-      "source": "J.D. Power",
-      "url": "https://www.199it.com/archives/1844418.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260810-n08",
-      "title": "本田中国：2026年1-7月汽车销量230870辆，同比下降35.9%",
-      "summary": "本田中国数据显示，2026年1-7月累计销量230870辆，同比下降35.9%；其中7月单月销量25052辆，同比降44.1%，一家日系供应商已因订单大幅缩减启动在华裁员约500人。",
-      "publishedAt": "2026-08-09T20:18:54+08:00",
-      "source": "本田中国",
-      "url": "https://www.199it.com/archives/1844423.html",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260810-n09",
-      "title": "洛图科技：2026年上半年中国运动相机线上销量311.9万台，销售颗82.0亿元，同比增长均超90%",
-      "summary": "洛图科技数据显示，2026上半年中国运动相机线上销量311.9万台，销售颗82.0亿元，同比增速均超90%；大畿以74.0%销量份额、兠80.9%销售额份额居首，影石Insta360位列第二。",
-      "publishedAt": "2026-08-09T20:18:45+08:00",
-      "source": "洛图科技",
-      "url": "https://www.199it.com/archives/1844427.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260810-n10",
-      "title": "IDC：2026年全球PC出货量预计下降11.3%，四季度同比或降20%",
-      "summary": "IDC预测，受存储芯片短缺影响，2026年全球PC出货量将同比下降11.3%，第四季度跌幅或达20%；分析师认为苹果599美元入门级MacBook Neo正对PC生态形成压力，倒逻微软及合作伙伴调整策略。",
-      "publishedAt": "2026-08-09T20:18:35+08:00",
-      "source": "IDC",
-      "url": "https://www.199it.com/archives/1844431.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260810-n11",
-      "title": "Counterpoint：2026年Q2全球DRAM销售额三星以39%份额居首",
-      "summary": "Counterpoint数据显示，2026年第二季度全球DRAM销售额中，三星以39%份额连续三个季度居首，SK海力士、美光分别以26%　25%位列二、三位，长锤存储份额达7%。",
-      "publishedAt": "2026-08-09T20:15:09+08:00",
-      "source": "Counterpoint Research",
-      "url": "https://www.199it.com/archives/1844542.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260810-n12",
-      "title": "乘联会：2026年7月中国汽车出口109.2万台，同比增长57%",
-      "summary": "乘联会数据显示，2026年7月中国汽车出口109.2万台，同比增长57%，出口金额190亿美元；1-7月累计出口640万辆，同比增长54%，上半年新能源汽车出口额同比增长68.7%。",
-      "publishedAt": "2026-08-09T20:12:48+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1844560.html",
       "subCategory": "新能源汽车"
     }
   ]
