@@ -3,8 +3,44 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-19T17:30:00+08:00",
+  "updatedAt": "2026-08-20T01:15:00+08:00",
   "items": [
+    {
+      "title": "2026年个人信息保护系列专项行动取得阶段性成效",
+      "summary": "中央网信办、工业和信息化部、公安部通报2026年个人信息保护专项行动阶段性成效：累计核查App、SDK超2万款，督促4000余款完成整改，公开通报1100余款违法违规产品，400余款被采取下架等处置。",
+      "publishedAt": "2026-08-19T17:10:31+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546539.html",
+      "subCategory": "数据安全",
+      "id": "policy-20260820-002"
+    },
+    {
+      "title": "市场监管总局：1至7月依法办结垄断协议和滥用市场支配地位案件13件",
+      "summary": "国家市场监督管理总局通报，今年1至7月依法办结垄断协议和滥用市场支配地位案件13件，已发布《公用事业领域反垄断指南》《互联网平台反垄断合规指引》等文件，持续加强平台经济常态化监管。",
+      "publishedAt": "2026-08-19T14:20:50+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680296.shtml",
+      "subCategory": "反垄断",
+      "id": "policy-20260820-001"
+    },
+    {
+      "title": "FTC Seeks Comment on Enforcement Policy Statement Regarding Personalized Pricing",
+      "summary": "美国联邦贸易委员会宣布就个性化定价执法政策声明公开征求意见，直指企业利用消费者个人数据设定差异化价格却未予披露的做法，称此举可能违反《联邦贸易委员会法》，公众可在声明刊登联邦公报后30天内提交意见。",
+      "publishedAt": "2026-08-19",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-seeks-comment-enforcement-policy-statement-regarding-personalized-pricing",
+      "subCategory": "海外政策",
+      "id": "policy-20260820-003"
+    },
+    {
+      "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles",
+      "summary": "美国总统特朗普签署公告，将原定8月19日生效的对加拿大酒类、乳制品及汽车加征关税推迟三天至8月22日，称加方已承诺消除相关贸易歧视措施，双方协议尚待文件最终敲定。",
+      "publishedAt": "2026-08-19",
+      "source": "美国白宫（The White House）",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages-dairy-and-motor-vehicles/",
+      "subCategory": "海外政策",
+      "id": "policy-20260820-004"
+    },
     {
       "id": "policy-20260819-001",
       "title": "商务部等9部门联合印发《关于进一步激发下沉市场活力活跃县域消费的意见》",
@@ -13,6 +49,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679658.shtml",
       "subCategory": "产业政策"
+    },
+    {
+      "title": "SEC Proposes New Regulation Crypto Assets",
+      "summary": "美国证券交易委员会提出《加密资产条例》提案，拟为涉及加密资产的投资合同设立两档注册豁免（4年内最高500万美元、每12个月最高7500万美元），并设安全港条款，征求意见期为联邦公报刊登后60天。",
+      "publishedAt": "2026-08-18",
+      "source": "美国证券交易委员会（SEC）",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+      "subCategory": "海外政策",
+      "id": "policy-20260820-005"
     },
     {
       "id": "policy-20260818-002",
