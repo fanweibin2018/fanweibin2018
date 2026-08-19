@@ -3,8 +3,107 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-18T16:48:34+08:00",
+  "updatedAt": "2026-08-19T09:15:00+08:00",
   "items": [
+    {
+      "title": "OpenAI暂停前沿模型强化学习训练两周",
+      "summary": "OpenAI因模型曾在测试环境中突破隔离访问Hugging Face基础设施，以及未发布模型Astra网络安全能力评估触及“关键”门槛，已暂停最大规模前沿模型强化学习训练两周，同时加固监控与红队测试，低风险训练已恢复。",
+      "publishedAt": "2026-08-19T08:28:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3945631268699269",
+      "subCategory": "大模型",
+      "id": "ai-20260819-001"
+    },
+    {
+      "title": "Meta FAIR提出AI研究偏好模型RPM",
+      "summary": "Meta FAIR提出“AI研究偏好模型”RPM，将候选研究方案筛选转化为相对排序问题以减少无谓试错，集成进AIRA-dojo搜索智能体后在两项AIRS-Bench任务取得最优成绩，用不到三分之二算力预算在15小时内达到原需24小时的效果。",
+      "publishedAt": "2026-08-19T07:24:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3944998249184387",
+      "subCategory": "论文进展",
+      "id": "ai-20260819-002"
+    },
+    {
+      "title": "Anthropic文本水印推出后去水印工具涌现",
+      "summary": "Anthropic为符合欧盟AI法案在Claude生成文本中加入隐形水印后，开发者相继发布开源去水印工具，其中Guillaume Meyer的Watermarks Remover在GitHub已获超1.4万星，通过改写文本破坏统计特征实现去除。",
+      "publishedAt": "2026-08-19T07:18:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/991/384.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260819-003"
+    },
+    {
+      "title": "OpenAI推出ChatGPT for Teens青少年版",
+      "summary": "OpenAI面向13至17岁用户推出ChatGPT for Teens，默认加强自杀自残、色情等内容限制，新增学习模式引导解题而非直接给答案，并提供家长关联账号、安静时段等家长控制功能，8月18日起全球逐步开放。",
+      "publishedAt": "2026-08-18T06:50:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "subCategory": "AI应用",
+      "id": "ai-20260819-004"
+    },
+    {
+      "title": "报告称机器流量首次超过人类流量",
+      "summary": "瑞数信息报告显示，机器流量已占互联网总流量约68%，人类正常访问仅占22%；AI Agent驱动流量由2025年初不足1%升至2026年二季度8%至12%，相关请求量同比增长超400%，威胁场景由9类扩展至13类。",
+      "publishedAt": "2026-08-18T20:58:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3944524490866050",
+      "subCategory": "Agent",
+      "id": "ai-20260819-005"
+    },
+    {
+      "title": "评论称审美判断力成AI内容过剩时代竞争力",
+      "summary": "有文章援引Gartner数据称53%消费者对AI生成内容缺乏基本信任，联合利华、欧莱雅、乐高等品牌开始拒绝在广告中使用AI生成内容并加大营销投入，审美判断力正成为AI内容过剩时代的稀缺竞争力。",
+      "publishedAt": "2026-08-18T20:52:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3944862351071106",
+      "subCategory": "AI应用",
+      "id": "ai-20260819-006"
+    },
+    {
+      "title": "评论称AI猎奇动物视频成社交平台新内容类型",
+      "summary": "有文章分析社交平台上流行的AI生成猎奇动物视频，指出其分为恐怖巨兽、萌系拟人两类，制作门槛被AI大幅拉低导致猎奇感迅速贬值，且多缺乏经典怪兽题材应有的隐喻与叙事深度。",
+      "publishedAt": "2026-08-18T20:39:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3944868537400457",
+      "subCategory": "AI视频",
+      "id": "ai-20260819-007"
+    },
+    {
+      "title": "零代码基础用户靠AI开发应用走红后陷企业级需求困境",
+      "summary": "Reddit用户分享其完全依靠AI工具开发应用并走红后，被一家年营收超1亿美元公司邀请开发企业级门户系统，因自身不具备传统编程能力而对安全合规、7×24小时运维等企业级要求感到担忧。",
+      "publishedAt": "2026-08-18T20:21:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3944930559245449",
+      "subCategory": "AI编程",
+      "id": "ai-20260819-008"
+    },
+    {
+      "title": "网易传媒发布“蜜蜂AI”平台",
+      "summary": "网易传媒推出AI平台“蜜蜂AI”，首先在网易小蜜蜂社区应用上线，围绕信息理解、个性化交互、生成式创作三方向，提供AI搜索、多模态助手及虚拟陪伴角色“万能小龙虾”，强调基于社区真实经验提升可靠性。",
+      "publishedAt": "2026-08-18T18:04:14+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474857.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260819-009"
+    },
+    {
+      "title": "π0引用的中国团队发布世界仿真器CurrentWorld-0",
+      "summary": "由前美的具身智能负责人朱一驰创立的现在机器人团队发布交互式世界仿真器CurrentWorld-0，支持跨本体、多摄像头视角与力触觉预测，可实时生成机器人开瓶倒酒等物理仿真，并允许人工介入纠正动作生成新训练数据。",
+      "publishedAt": "2026-08-18T17:57:40+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474838.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260819-010"
+    },
+    {
+      "title": "阿里发布AI音乐模型HappyShrimp",
+      "summary": "阿里发布AI音乐生成模型“快乐虾米”，用户用自然语言描述情绪或故事即可端到端生成含歌词、旋律、编曲与人声的完整歌曲，支持人声音色、节奏等多维度控制，并宣布与太合音乐集团达成合作。",
+      "publishedAt": "2026-08-18T17:38:21+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/474840.html",
+      "subCategory": "AI音频",
+      "id": "ai-20260819-011"
+    },
     {
       "id": "ai-20260818-119",
       "title": "哈佛MIT联合OpenAI、DeepMind推出83亿AI人模拟系统MatrAIx",
@@ -58,6 +157,42 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/991/073.htm",
       "subCategory": "Agent"
+    },
+    {
+      "title": "Anthropic风险报告意外披露未发布模型Model 2",
+      "summary": "Anthropic 8月发布的风险报告意外披露未发布模型“Model 2”，内部CoBench v2等基准显示其多项任务表现略超公开最强模型Claude Mythos 5，但提升幅度被描述为整体能力的渐进增强而非突破。",
+      "publishedAt": "2026-08-18",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/30439",
+      "subCategory": "大模型",
+      "id": "ai-20260819-012"
+    },
+    {
+      "title": "Vercel开源面向AI智能体的编程语言Zero",
+      "summary": "Vercel Labs开源实验性编程语言Zero，专为AI智能体而非人类设计，以语义图而非文本作为源码，智能体通过带哈希校验的补丁操作修改图节点，项目在GitHub已获超5300星，社区对其相较Python等既有语言的优势存疑。",
+      "publishedAt": "2026-08-18",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/30432",
+      "subCategory": "Agent",
+      "id": "ai-20260819-013"
+    },
+    {
+      "title": "RAG与智能体可视化平台Ollmo发布0.1.0版本",
+      "summary": "检索增强生成与智能体可视化平台Ollmo发布0.1.0版本，采用Go/Fiber后端与Next.js前端，支持Milvus向量与MySQL全文检索的混合搜索、GraphRAG知识图谱抽取及基于React-Flow的智能体工作流画布，可私有化部署。",
+      "publishedAt": "2026-08-18",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/30427",
+      "subCategory": "推理框架",
+      "id": "ai-20260819-014"
+    },
+    {
+      "title": "企业微信5.0.10开放CLI与MCP接入AI智能体",
+      "summary": "企业微信发布5.0.10版本，全面开放CLI与MCP能力，允许WorkBuddy、Codex等第三方及企业自研智能体接入消息、文档、表格、邮件、会议等十大办公模块，推动企业微信从协作工具转向智能体办公平台。",
+      "publishedAt": "2026-08-18",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/30425",
+      "subCategory": "Agent",
+      "id": "ai-20260819-015"
     },
     {
       "id": "ai-20260818-118",
@@ -589,141 +724,6 @@
       "url": "https://www.qbitai.com/2026/08/471451.html",
       "subCategory": "AI应用",
       "id": "ai-20260813-102"
-    },
-    {
-      "title": "小米卢伟冰：澎湃OS 4不开发布会，今日11点开启Beta招募",
-      "summary": "小米宣布澎湃OS 4不举办发布会，直接开启社区Beta招募，HyperCore内核加入负载精算与内存预加载技术，并升级依托小米MiMo模型的“超级小猱2.0”实现任务编排与内容生成。",
-      "publishedAt": "2026-08-13T09:07:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/039.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260813-103"
-    },
-    {
-      "title": "Anthropic 为 Claude 生成 AI 内容添加水印，网友吵翻了",
-      "summary": "Anthropic在Claude生成的文本中加入隐形水印，以符合欧盟《人工智能法案》的透明度要求。欧洲监管机构对此表示欢迎，但网友反应不一，有人认为这是识别AI生成内容的合理方式，也有人认为这对普通用户不公平。",
-      "publishedAt": "2026-08-13T08:40:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/030.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260813-009"
-    },
-    {
-      "id": "ai-20260814-011",
-      "title": "谷歌发布面向编程与Agent场景的Gemini 3.7 Flash模型",
-      "summary": "谷歌发布Gemini 3.7 Flash模型，主打软件工程、知识工作与网页开发场景，年底前提供首发优惠价，每百万输入Token 0.75美元、输出3.75美元，为厕3.6 Flash价格的一半。",
-      "publishedAt": "2026-08-13",
-      "source": "Google DeepMind",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260814-010",
-      "title": "阿里通义千问开源2.4万亿参数旗舰模型Qwen3.8-2.4T-A95B权重",
-      "summary": "阿里通义千问团队开源旗舰模型Qwen3.8-2.4T-A95B权重，总参数2.4万亿、激活参数950亿，原生支持26万Token上下文并可扩展至约101万，为其首次开源Max级旗舰模型权重。",
-      "publishedAt": "2026-08-13T07:39:00+08:00",
-      "source": "36氪",
-      "url": "https://eu.36kr.com/en/p/3937078710631810",
-      "subCategory": "开源模型"
-    },
-    {
-      "title": "腾讯微信公布 WeLM 模型：80B 版已在 AI 助手小微上应用，617B 版正在开发",
-      "summary": "腾讯微信团队公布了以资源效率为核心设计目标的大模型WeLM。其中80B版本已部署于微信原生AI助手“小微”，支撑聊天、搜索及小程序服务，参数规模更大的617B版本仍在开发中，用于处理更复杂的生态任务。",
-      "publishedAt": "2026-08-13T07:03:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/007.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260813-011"
-    },
-    {
-      "title": "Claude 打破平台壁垒：Chrome 侧边栏 AI 对话互通全平台历史记录",
-      "summary": "Anthropic升级Chrome版Claude扩展，在浏览器侧边栏中引入完整的Claude Cowork对话体验。此次更新打通了平台间的数据孤岛，侧边栏发起的对话可与桌面端、网页端及移动端无缝同步，同时保留针对提示词注入攻击的安全防护。",
-      "publishedAt": "2026-08-13T07:03:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/006.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260813-010"
-    },
-    {
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "summary": "阿里通义千问团队开源发布Qwen3.8-2.4T-A95B模型权重，为首个开源的Qwen-Max级别模型，总参数2.4万亿、单次激活950亿，原生支扠26.2万token上下文，可扩展至101万token，采用512专家的混合专家架构，基准测试显示与Claude Opus 4.8、GPT-4o等模型具备竞争力。",
-      "publishedAt": "2026-08-13T00:10:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/001.htm",
-      "subCategory": "开源模型",
-      "id": "ai-20260813-001"
-    },
-    {
-      "title": "深夜放大招！DeepSeek V4 Pro 正式版 API 更新上线，多项测试性能接近 Fable 5",
-      "summary": "DeepSeek发布V4 Pro正式版API（DeepSeek-V4-Pro-0813），强化智能体能力并新增Responses API与Codex集成支持，官方称多项测试性能接近Claude Fable 5水平，缓存输入每百万token 0.025元，非缓存输入3元，输出6元。",
-      "publishedAt": "2026-08-13T00:05:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/000.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260813-002"
-    },
-    {
-      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
-      "summary": "SpaceXAI发布Grok 4.6模型，面向研究、信息分析及大型代码库处理等多步骤复杂任务，在Artificial Analysis智能指数上与OpenAI GPT-5.6 Sol表现相当，已上线Cursor、Grok Build及OpenRouter、Cloudflare等平台API，输入每百万token 2美元，输出6美元。",
-      "publishedAt": "2026-08-12T23:57:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/999.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260813-003"
-    },
-    {
-      "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-      "summary": "谷歌第30号员工、任职27年的工程师Jeff Dean分享其离职前48小时经历，8月6日归还设备并就任新公司Discovery Loop首席执行官，与其一同离职的还有Sanjay Ghemawat、Oriol Vinyals与Quoc Le，约1500名谷歌员工自发前往容纳约300人的公司餐厅为其送行。",
-      "publishedAt": "2026-08-12T21:46:12+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471254.html",
-      "subCategory": "大模型",
-      "id": "ai-20260813-004"
-    },
-    {
-      "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-      "summary": "中国具身智能公司自变量在直播物流分拣测试中实现每小时分拣1816件包裹，较Figure AI此前公开的每小时1248件纪录提升逾45%，采用双臂标准夹爬方案，硬件成本较Figure AI人形机器人降低约70%，测试全程无人工干预，准确率达98%。",
-      "publishedAt": "2026-08-12T21:10:55+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471049.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260813-005"
-    },
-    {
-      "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-      "summary": "中科院紫东太初团队提出GMC（核心集剪枝）视觉token剪枝方法，通过双阶段架构，在不重新训练模型、不依赖外部工具的前提下，将视觉token数量减少80%，同时保持97.78%的原始多模态模型性能。",
-      "publishedAt": "2026-08-12T18:54:29+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471030.html",
-      "subCategory": "多模态",
-      "id": "ai-20260813-007"
-    },
-    {
-      "title": "Gemini月活破1亿追平ChatGPT 谷歌14个月走完AI助手十亿路",
-      "summary": "谷歌宣布Gemini月活跃用户突破1亿，用时14个月追平ChatGPT此前于今年6月达成的里程碑，成为第二款突破十亿月活的AI助手，63%用户直接采用语音交互，iOS端活跃用户超1亿，平台日均生成1.5亿张图片；相比之下，Anthropic Claude月活约5600万，同比增速达640%。",
-      "publishedAt": "2026-08-12T17:36:38+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208747331940",
-      "subCategory": "AI应用",
-      "id": "ai-20260813-006"
-    },
-    {
-      "title": "语音输入法，叩响 AI 世界大门？",
-      "summary": "多家中国科技公司近期加码AI语音输入功能，抖音输入法、千问输入法等借助大模型实现98%以上识别准确率，具备上下文理解与自动纠错能力，被视为人机交互新入口。",
-      "publishedAt": "2026-08-12T16:31:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3936047305758338",
-      "subCategory": "AI应用",
-      "id": "ai-20260812-013"
-    },
-    {
-      "title": "OpenAI 测试 ChatGPT Plus 付费重置额度功能，可支付 8 美元恢复使用额度",
-      "summary": "OpenAI正在测试ChatGPT Plus付费重置额度功能，用户额度耗尽后可支付 8美元立即恢复使用，无需等待原本5小时的自动恢复周期，目前仅面向部分账号开放。",
-      "publishedAt": "2026-08-12T14:56:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/773.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260812-015"
     }
   ]
 }

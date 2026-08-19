@@ -3,8 +3,53 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-19T00:55:00+08:00",
+  "updatedAt": "2026-08-19T09:15:00+08:00",
   "items": [
+    {
+      "title": "汽车芯片五项认证认可行业标准发布",
+      "summary": "国家市场监督管理总局、国家认证认可监督管理委员会8月18日发布五项汽车芯片认证认可行业标准，覆盖设计、认证、测试、算力等环节的评价要求，旨在为国产汽车芯片进入整车供应链提供统一评价依据。",
+      "publishedAt": "2026-08-18T11:08:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_a9e89d1ec178497397c260ae9bd21f7c.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260819-001"
+    },
+    {
+      "title": "国务院港澳办发言人：澳门新一份五年规划引领澳门高质量发展开新局谱新篇",
+      "summary": "国务院港澳办发言人8月18日就澳门特区政府公布《经济和社会发展第三个五年规划（2026-2030年）》发表谈话，称该规划具有里程碑意义。规划共10篇36章约8.6万字，编制中征集到1716份意见、8230条建议。",
+      "publishedAt": "2026-08-18",
+      "source": "国务院港澳事务办公室",
+      "url": "https://www.hmo.gov.cn/xwzx/xwfb/xwfb_child/202608/t20260818_42434.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260819-002"
+    },
+    {
+      "title": "SEC Proposes New Regulation Crypto Assets",
+      "summary": "美国证券交易委员会8月18日提议制定《加密资产条例》，拟设两项注册豁免：四年内累计不超过500万美元的一次性豁免，以及每12个月不超过7500万美元的豁免，公众意见征集期为发布后60天。",
+      "publishedAt": "2026-08-18",
+      "source": "U.S. Securities and Exchange Commission",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+      "subCategory": "金融监管",
+      "id": "policy-20260819-003"
+    },
+    {
+      "title": "Better WiFi on remote trains and access to cutting edge tech for British farmers through £13 million boost to drive next-gen satellite communications",
+      "summary": "英国航天局8月18日宣布向16个卫星通信项目投入1300万英镑资助，包括在苏格兰西高地铁路线试验卫星宽带、开发农业用卫星传感器，并涉及光通信、地面站升级等领域，覆盖英国空间产业相关工作。",
+      "publishedAt": "2026-08-18",
+      "source": "UK Space Agency",
+      "url": "https://www.gov.uk/government/news/better-wifi-on-remote-trains-and-access-to-cutting-edge-tech-for-british-farmers-through-13-million-boost-to-drive-next-gen-satellite-communications",
+      "subCategory": "海外政策",
+      "id": "policy-20260819-004"
+    },
+    {
+      "title": "Prime Minister launches national drive to get everyone in for Christmas",
+      "summary": "英国首相安迪·伯纳姆8月18日宣布投入4.42亿英镑（含7月已宣布的3.4亿英镑及新增1.02亿英镑），三年内提供逾1000套配套支持安置住房，并新增840万英镑社区终结无家可归基金，目标圣诞前解决露宿问题。",
+      "publishedAt": "2026-08-18",
+      "source": "Prime Minister's Office, 10 Downing Street",
+      "url": "https://www.gov.uk/government/news/prime-minister-launches-national-drive-to-get-everyone-in-for-christmas",
+      "subCategory": "海外政策",
+      "id": "policy-20260819-005"
+    },
     {
       "id": "policy-20260818-002",
       "title": "国家发展改革委：加大对民间投资项目支持力度",
@@ -679,51 +724,6 @@
       "url": "https://finance.sina.com.cn/jjxw/2026-07-31/doc-iniktkau9297339.shtml",
       "subCategory": "金融监管",
       "id": "policy-20260802-101"
-    },
-    {
-      "id": "policy-20260801-a004",
-      "title": "三大运营商规范互联网售卡 8月1日起第三方渠道停止办理",
-      "summary": "中国电信、移动、联通联合宣布规范互联网售卡，自2026年8月1日起第三方互联网渠道停止办理电话卡业务，用户仅可通过运营商官方App和官网购买，原因是不法商家冒用运营商名义违规收集用户敏感个人信息。",
-      "publishedAt": "2026-07-31T22:50:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-07-31/doc-iniktkcc1169465.shtml",
-      "subCategory": "数据安全"
-    },
-    {
-      "id": "policy-20260731-m007",
-      "title": "欧盟指控 Temu 未配合调查，最高可处以年营收 1% 罚款",
-      "summary": "欧盟委员会指控拼多多旗下Temu在2025年12月的突袭检查中未配合调查、拒绝提供相关信息资料，根据《外国补贴条例》Temu面临最高年营业额1%的罚款，Temu否认指控并称已充分配合。",
-      "publishedAt": "2026-07-31T20:52:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/374.htm",
-      "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260801-r004",
-      "title": "四部门发文健全金融机构治理 推动金融高质量发展",
-      "summary": "金融监管总局、人民银行、证监会、财政部联合印发实施意见，提出9方面22条举措健全金融机构治理，目标到2029年基本形成权责清晰、约束有效的治理机制，做好科技、绿色、普惠等五篇文章。",
-      "publishedAt": "2026-07-31T20:12:52+08:00",
-      "source": "新华社",
-      "url": "https://www.news.cn/20260731/94a3c7b9e92349d9a1b050ebf4d7848a/c.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260731-m002",
-      "title": "中核集团：华龙一号 2.0 版示范项目获国务院常务会议核准",
-      "summary": "国务院常务会议核准四个核电项目共8台机组，其中6台采用华龙一号技术，浙江金七门核电二期和广东太平岭核电三期被确定为\"华龙一号2.0版示范项目\"，目前国内外已有10台华龙一号机组商运，另有37台核准在建。",
-      "publishedAt": "2026-07-31T19:58:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/984/367.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260801-r003",
-      "title": "8月1日起，一批国家标准将实施",
-      "summary": "自8月1日起，46项强制性国家标准和442项推荐性国家标准正式实施，涵盖煤炭开采及甲醛生产能耗限额、家用太阳能热水系统能效、脑机接口数据格式、光伏电站并网运行等领域。",
-      "publishedAt": "2026-07-31T19:37:36+08:00",
-      "source": "新华社",
-      "url": "https://www.news.cn/politics/20260731/b4873b5e832f4ce1b69b261bc65bdb52/c.html",
-      "subCategory": "产业政策"
     }
   ]
 }
