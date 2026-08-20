@@ -3,8 +3,53 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-20T01:15:00+08:00",
+  "updatedAt": "2026-08-20T16:35:00+08:00",
   "items": [
+    {
+      "title": "MiniMax发布视频创作工具Design",
+      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "AI视频",
+      "id": "ai-20260820-023"
+    },
+    {
+      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
+      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "开源模型",
+      "id": "ai-20260820-024"
+    },
+    {
+      "title": "墨奇智能亮相WRC，展示具身大脑架构MoRA",
+      "summary": "成立仅半年的墨奇智能在2026世界机器人大会展示其MoRA具身智能架构与MORPHI KINO轮式机器人，演示15分钟内自主完成客厅清洁、冰箱补货、洗衣叠衣等连续家务任务，公司已积累3万小时真实场景数据。",
+      "publishedAt": "2026-08-20T09:37:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476078.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260820-021"
+    },
+    {
+      "title": "华尔街实测8款主流Agent，通义千问办公综合排名第一",
+      "summary": "投行Jefferies对8款AI Agent进行真实办公场景测试，涵盖多文档年报总结、联网调研、桌面浏览器操作等5项任务。阿里通义千问办公在模型能力与工程能力两个维度均排名第一，超过Claude Cowork、Codex等海外产品。",
+      "publishedAt": "2026-08-20T09:06:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476070.html",
+      "subCategory": "Agent",
+      "id": "ai-20260820-020"
+    },
+    {
+      "title": "ChatGPT全球范围出现登录与访问故障",
+      "summary": "美东时间8月19日晚8时左右，ChatGPT出现大规模服务中断，用户遇到登录、注册失败及“请求过多”提示，故障波及Codex平台及多个API接口。OpenAI在状态页确认问题并实施缓解措施。",
+      "publishedAt": "2026-08-20T08:20:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "subCategory": "AI应用",
+      "id": "ai-20260820-018"
+    },
     {
       "title": "章鱼动力亮相WRC 2026，发布“脑-手-数据”具身智能技术体系",
       "summary": "章鱼动力在2026世界机器人大会发布“脑-手-数据”技术体系：世界模型SYNWorld支持ACWM与WAM两种能力路径，配合高灵巧机械手OctoH-Hand，以及支持零样本跨个体肌电泛化的数据采集系统OctoSense。",
@@ -60,6 +105,15 @@
       "id": "ai-20260820-004"
     },
     {
+      "title": "AI视频创作引入3D白模预演工作流",
+      "summary": "报道介绍AI视频创作新趋势：创作者借助3D白模（previs）预先搭建场景与运镜，再交由AI生成最终画面，相比纯文字提示词更能保留空间信息、提升多镜头一致性，文中以某工具的“Previs Studio”功能为例说明该流程。",
+      "publishedAt": "2026-08-19T15:22:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/475476.html",
+      "subCategory": "AI视频",
+      "id": "ai-20260820-022"
+    },
+    {
       "title": "腾讯Toast上线一键上架，AI生成应用可直接发布至App Store",
       "summary": "腾讯AI应用生成平台Toast推出一键上架功能，开发者用AI生成应用后可直接发布至App Store，官方称此举提供从生成到上线的一站式开发者服务包。",
       "publishedAt": "2026-08-19T14:55:31+08:00",
@@ -67,6 +121,15 @@
       "url": "https://www.aibase.com/news/30468",
       "subCategory": "AI应用",
       "id": "ai-20260820-008"
+    },
+    {
+      "title": "图灵奖得主萨顿：AI行业过度依赖合成数据是一个大错误",
+      "summary": "强化学习先驱、图灵奖得主Rich Sutton在Sequoia播客中表示，AI行业为维持大模型扩展而依赖合成数据是“大错误”，机器生成数据无法替代真实世界经验数据，尤其在机器人等物理交互场景中。",
+      "publishedAt": "2026-08-19T14:25:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininvshv9427767.shtml",
+      "subCategory": "大模型",
+      "id": "ai-20260820-017"
     },
     {
       "title": "通义千问APP上线七夕AI送花助手及契合度测试",
@@ -78,6 +141,15 @@
       "id": "ai-20260820-010"
     },
     {
+      "title": "Liquid AI发布LFM2.5量化蒸馏Q4_0检查点",
+      "summary": "Liquid AI基于量化感知蒸馏（QAD）技术发布LFM2.5系列4bit检查点，覆盖230M至2.6B四种规模，相比传统训练后量化能恢复更多精度损失，并在MacBook Pro、树莓派5等端侧设备上提升解码吞吐。",
+      "publishedAt": "2026-08-19",
+      "source": "Hugging Face（Liquid AI）",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "subCategory": "开源模型",
+      "id": "ai-20260820-019"
+    },
+    {
       "title": "Modular宣布Mojo语言完全开源，采用Apache 2.0协议",
       "summary": "AI基础设施公司Modular宣布旗下Mojo编程语言正式完全开源，采用Apache 2.0许可协议，Mojo面向AI与高性能计算场景设计，力图兼顾Python易用性与系统级执行性能。",
       "publishedAt": "2026-08-19T11:36:16+08:00",
@@ -85,6 +157,15 @@
       "url": "https://www.aibase.com/news/30463",
       "subCategory": "推理框架",
       "id": "ai-20260820-007"
+    },
+    {
+      "title": "OpenAI暂缓前沿模型训练两周",
+      "summary": "OpenAI宣布对最新部署模型的强化学习训练暂停两周，原计划规模最大的前沿RL训练仍被搁置。公司称此举是为让安全、对齐与监控能力跟上模型能力提升，监控开销约占被监控推理算力的20%。",
+      "publishedAt": "2026-08-19T10:56:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103324002.html",
+      "subCategory": "大模型",
+      "id": "ai-20260820-016"
     },
     {
       "title": "Anthropic预告为Claude Code推出/design命令",
@@ -643,87 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/472016.html",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260814-008",
-      "title": "网络爆料称SSI测试基于测试时训练的小型推理引擎",
-      "summary": "有匿名账号爆料称Ilya Sutskever创立的SSI正在开发基于测试时训练（TTT）的小型推理引擎，模型可在解题过程中更新部分权重，消息称可能于本月发布，但尚未获SSI官方证实。",
-      "publishedAt": "2026-08-13T16:36:53+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471701.html",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "英国研究多种防范措施，避免恐怖分子利用AI制造生物武器",
-      "summary": "英国政府正制定基因合成领域AI生物安全监管框架，拟推出新生物武器立法、基因合成筛查系统及可疑DNA序列请求强制报告机制，并寻求与其他主要基因合成中心的国际协调。",
-      "publishedAt": "2026-08-13T16:08:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/261.htm",
-      "subCategory": "AI应用",
-      "id": "ai-20260813-107"
-    },
-    {
-      "id": "ai-20260814-001",
-      "title": "OpenAI推出GPT-5.6 Sol的Ultrafast模式，速度提升14倍",
-      "summary": "OpenAI联合Cerebras推出GPT-5.6 Sol的Ultrafast推理模式，最高可实现每秒750个输出词元，约为标准模式14倍速度，目前面向部分企业客户限量预览。",
-      "publishedAt": "2026-08-13T15:22:00-04:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "subCategory": "推理框架"
-    },
-    {
-      "title": "辛顿、李飞飞、吴恩达呼吁保持AI一定程度的开放",
-      "summary": "三位学者在AI4大会上就AI开放程度发表看法：辛顿反对开放模型权重但承认相关争论已难挽回，吴恩达强调保留多家AI供应商以维持竞争力，李飞飞主张分层次开放而非非此即彼。",
-      "publishedAt": "2026-08-13T15:21:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/245.htm",
-      "subCategory": "开源模型",
-      "id": "ai-20260813-105"
-    },
-    {
-      "title": "OpenAI奥尔特曼：6个月内AI将实现“完美理解用户使用情境”",
-      "summary": "奥尔特曼在Internapalooza活动上表示，约一代模型之后AI将能通过监控屏幕、记录会议等方式理解用户使用情境，在获授权后协助处理邮件、消息等信息并给出建议。",
-      "publishedAt": "2026-08-13T14:49:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/234.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260813-106"
-    },
-    {
-      "title": "联想集团Q1再创最佳业绩，AI服务器业务迎来爆发期",
-      "summary": "联想公布2026/27财年Q1业绩，营收1834亿元同比增43%，经调整净利润超73亿元增176%，AI相关业务收入634亿元增60%，占总营收约35%。",
-      "publishedAt": "2026-08-13T14:33:52+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471697.html",
-      "subCategory": "AI应用",
-      "id": "ai-20260813-101"
-    },
-    {
-      "title": "机器人AI模型DYNA-2登场，超100万小时人类视频训练任务成功率达90%",
-      "summary": "Dyna Robotics发布机器人基础模型DYNA-2，基于超100万小时第一人称人类视频训练，作为“世界动作模型”预测动作对物理世界的影响，制造场景任务成功率达80%至90%。",
-      "publishedAt": "2026-08-13T14:15:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/200.htm",
-      "subCategory": "具身智能",
-      "id": "ai-20260813-108"
-    },
-    {
-      "id": "ai-20260814-009",
-      "title": "DeepSeek发布V4 Pro正式版DeepSeek-V4-Pro-0813",
-      "summary": "DeepSeek发布V4 Pro正式版DeepSeek-V4-Pro-0813，在HLE、Terminal Bench、Cybergym、DeepSWE等测试中对标Claude Fable 5，Agent能力较预览版明显提升，API定价暂维持不变。",
-      "publishedAt": "2026-08-13T11:54:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471642.html",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”AI大片创作平台",
-      "summary": "360与《知识就是力量》杂志联合推出“知力·纳米”科普科幻AI大片创作平台，结合杂志70年科普内容与360纳米级影视流水线技术，提供从剧本到成片的模块化AI智能体创作流程。",
-      "publishedAt": "2026-08-13T11:11:48+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/471624.html",
-      "subCategory": "AI视频",
-      "id": "ai-20260813-104"
     }
   ]
 }
