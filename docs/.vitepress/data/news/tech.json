@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-20T16:35:00+08:00",
+  "updatedAt": "2026-08-21T00:52:10+08:00",
   "items": [
+    {
+      "title": "芝奇240万美元和解集体诉讼：涉嫌DDR4、DDR5内存以XMP/EXPO速度误导用户，消费者获赔约20美元",
+      "summary": "芝奇（G.Skill）因DDR4、DDR5内存包装标注XMP/EXPO超频速度但未充分披露相关风险，被诉误导消费者，达成240万美元集体诉讼和解，受影响消费者可获约20美元赔偿，芝奇将在产品包装及网页增加提示说明。",
+      "publishedAt": "2026-08-20T23:41:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/407.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260821-001"
+    },
+    {
+      "title": "华为Pura X View阔直板手机现身官网，四色官图发布",
+      "summary": "华为在享界G9及鸿蒙智行新品发布会上推出阔直板手机Pura X View，已在华为官网、京东等平台上架开启预约，预计搭载麒麟9030S处理器，提供四种配色及三种存储组合，门店体验活动定于8月28日启动。",
+      "publishedAt": "2026-08-20T22:17:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/389.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260821-008"
+    },
+    {
+      "title": "SteamOS 3.9适配英特尔Arc B580独显，可直接启动并运行多款游戏",
+      "summary": "SteamOS 3.9开发版新增对英特尔Arc B580独立显卡的原生支持，此前该显卡需先安装AMD显卡引导后再更换才能使用。测试显示该显卡可在SteamOS下直接启动并运行多款游戏，1440P分辨率下帧率表现良好，但XeSS帧生成功能暂不可用。",
+      "publishedAt": "2026-08-20T22:15:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/384.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260821-002"
+    },
+    {
+      "title": "阿里CEO吴泳铭：平头哥二代芯片预计今年下半年流片、产出",
+      "summary": "阿里巴巴CEO吴泳铭在分析师电话会上透露，旗下平头哥第二代自研芯片预计今年下半年流片、产出，算力与互联带宽将大幅提升。基于新一代真武芯片的超节点实例已在阿里云上线销售，该系列芯片已服务超过650家客户。",
+      "publishedAt": "2026-08-20T22:05:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/380.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260821-003"
+    },
+    {
+      "title": "小鹏辟谣：网传部分车型辅助驾驶研发进度信息为不实消息",
+      "summary": "小鹏汽车官方辟谣网传关于其部分车型辅助驾驶研发进度的传言，称相关信息不实，并表示第二代VLA智驾蒸馏上车工作正按计划推进，通行效率较传统L2辅助驾驶提升约30%，同一套模型已适配中国与欧洲市场。",
+      "publishedAt": "2026-08-20T21:17:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/356.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260821-007"
+    },
+    {
+      "title": "美政府机构警告：黑客正利用AI攻击全美多地供水系统",
+      "summary": "美国CISA、FBI与NSA联合发布警告，称黑客正利用AI生成漏洞利用脚本，针对管理供水、能源及制造业自动化流程的西门子S7可编程逻辑控制器发起攻击。明尼苏达、密歇根等多州已报告相关入侵事件，老旧且防护薄弱的系统风险较高。",
+      "publishedAt": "2026-08-20T21:05:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/352.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260821-006"
+    },
+    {
+      "title": "美光在美成立存储研究实验室，未来十年将投百亿美元探索关键突破",
+      "summary": "美光科技宣布在美国爱达荷州博伊西成立新的存储研究实验室，计划未来十年投入100亿美元，研究方向涵盖核心存储技术、先进存储与计算架构及芯片封装等领域，该项目为美光在美2500亿美元投资承诺的一部分。",
+      "publishedAt": "2026-08-20T20:44:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/345.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260821-004"
+    },
+    {
+      "title": "树莓派为Raspberry Pi CM5推出编程夹具，简化大规模部署工作",
+      "summary": "树莓派官方为Compute Module 5推出专用编程夹具，可自动完成安全启动、全盘加密及系统安装等批量部署流程，旨在简化商用场景下的大规模配置工作。该夹具售价600美元，目前已开放预订。",
+      "publishedAt": "2026-08-20T20:39:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/342.htm",
+      "subCategory": "开发者工具",
+      "id": "tech-20260821-005"
+    },
     {
       "title": "国产液电混驱超人形机器人首秀，身高达4米",
       "summary": "2026世界机器人大会上，一款国产液电混合驱动超人形机器人首次亮相，机身高度约4米，通过数字液压技术与电机结合，突破从公斤级到千吨级的力量限制，可用于核设施维护、深海作业及工业物流等场景。",
@@ -652,78 +724,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1144/1144040.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260816-008",
-      "title": "Intel开源着色器编译器Jay迎来里程碑！Xe2/Xe3双平台通过Vulkan CTS认证",
-      "summary": "英特尔开源着色器编译器Jay合入Mesa 26.3-devel分支后，已在Xe2与Xe3两代显卡平台通过Vulkan CTS一致性测试认证。项目由Alyssa Rosenzweig主导，旨在替代现有BRW编译器，目前尚未成为默认编译器。",
-      "publishedAt": "2026-08-15T23:04:12+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144029.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260815-601",
-      "title": "KDE Plasma 6.8 将支持远程桌面双向复制粘贴",
-      "summary": "KDE Plasma 6.8 将修复远程桌面剪贴板长期存在的限制，实现真正的双向复制粘贴。此前仅PortalSession能将本地剪贴板转发给客户端，PlasmaScreencastV1Session缺乏剪贴板监听功能，新版本预计10月中旬发布。",
-      "publishedAt": "2026-08-15T16:37:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/111.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260815-603",
-      "title": "北京2026 E-Town机器人消费节启动，促消费资金提至1800万元",
-      "summary": "北京经济技术开发区启动2026 E-Town机器人消费节，促消费资金由1500万元提升至1800万元，打造九千平方米机器人消费街，并与8月19日至23日举行的世界机器人大会联动，结合AR互动开展室内外双模式消费。",
-      "publishedAt": "2026-08-15T16:25:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/110.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260815-605",
-      "title": "技嘉推出RTX 5060 ARI显卡：雕妹立绘背板，加速频率2722MHz",
-      "summary": "技嘉推出AORUS GeForce RTX 5060 ARI显卡，白色外壳搭配高清二次元角色背板插画，规格与RTX 5060标准版一致，配备3840个CUDA核心和8GB GDDR7显存，加速频率达2722MHz，较英伟达公版高约9%。",
-      "publishedAt": "2026-08-15T16:19:13+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143974.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260815-602",
-      "title": "微软发在60天倒计时：Windows Server 2022及Win11 24H2将于10月13日终止支持",
-      "summary": "微软宣布60天倒计时，Windows Server 2022、Win11 24H2家庭版与专业版及Win10 LTSB 2016将于10月13日停止更新；Windows Server 2022转向扩展支持至2031年，Win11 24H2用户需升级至25H2以继续获得安全更新。",
-      "publishedAt": "2026-08-15T16:16:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/108.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260815-608",
-      "title": "Ayaneo展示开发者特别版KONKR Pocket Advance掌机，不对外销售",
-      "summary": "Ayaneo展示KONKR Pocket Advance掌机开发者特别版，采用半透明黑色机身搭配红色按键点缀，该版本仅提供给加入开发者激励计划、提交应用工具或本土化游戏的全球资深开发者，不对外销售。",
-      "publishedAt": "2026-08-15T16:14:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/107.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260815-606",
-      "title": "联想抯救者Y700无极参数曝光：骁龙8 Elite Gen5领先版、可插SIM卡",
-      "summary": "联想抯救者Y700无极曝光，搭载骁龙8 Elite Gen5领先版处理器，配备8.4英寸2560×1600分辨率165Hz刷新率OLED屏幕，支持插SIM匹 5G上网，内置7470mAh电池并支挠68W快充，将于8月25日发布。",
-      "publishedAt": "2026-08-15T16:14:39+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143973.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260815-604",
-      "title": "机器人日租金跳水：疯狂接单成顶流打工人",
-      "summary": "机器人租赁市场今夏价格大幅下探，日租金从去年约8000元降至目前2000至3000元；热门机型交付周期由45至60天缩短至现货交付，租赁平台库存同比增长十倍，7月租赁订单同比激增150%。",
-      "publishedAt": "2026-08-15T15:54:26+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143972.htm",
-      "subCategory": "机器人"
     }
   ]
 }

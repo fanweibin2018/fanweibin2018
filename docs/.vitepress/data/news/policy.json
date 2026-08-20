@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-20T16:35:00+08:00",
+  "updatedAt": "2026-08-21T00:52:10+08:00",
   "items": [
+    {
+      "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
+      "summary": "英国竞争与市场管理局（CMA）对Vandemoortele收购冷冻起酥面点供应商Délifrance一案作出附条件批准，认定若不干预将使合并后企业成为英国冷冻可颂等产品的主导供应商，削弱市场竞争。该公司须出售位于伍斯特的层压面团生产设施及斯坦斯的销售业务。",
+      "publishedAt": "2026-08-20",
+      "source": "UK Competition and Markets Authority (gov.uk)",
+      "url": "https://www.gov.uk/government/news/vandemoortele-required-to-sell-uk-plant-following-pastry-merger-investigation",
+      "subCategory": "反垄断",
+      "id": "policy-20260821-001"
+    },
     {
       "title": "《网络数据安全风险评估办法》实施有关事项答记者问",
       "summary": "《网络数据安全风险评估办法》自2026年8月20日起正式施行，公安部有关负责人就实施情况答记者问，明确评估机构可通过网信办数据和技术安全中心、公安部第三研究所等指定机构开展服务认证，公安机关将建立动态监测机制核查评估报告真实性，对拒不整改的机构可责令停止数据处理活动。",
@@ -714,15 +723,6 @@
       "publishedAt": "2026-08-03",
       "source": "中国证券监督管理委员会",
       "url": "https://www.csrc.gov.cn/csrc/c100028/c7649538/content.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260805-003",
-      "title": "深化务实合作 密切协同发展 共创\"十五五\"资本市场高水平开放新局面",
-      "summary": "证监会主席吴清在香港人民币国债期货挂牌仪式上提出深化内地与香港资本市场合作的五方面协同举措，涵盖功能、产品、生态、监管、治理协同，包括支持符合条件企业跨境上市融资及扩大人民币计价期货产品供给。",
-      "publishedAt": "2026-08-03",
-      "source": "中国证券监督管理委员会",
-      "url": "https://www.csrc.gov.cn/csrc/c106311/c7649382/content.shtml",
       "subCategory": "金融监管"
     }
   ]

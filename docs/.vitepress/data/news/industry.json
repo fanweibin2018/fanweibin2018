@@ -3,8 +3,71 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-20T16:35:00+08:00",
+  "updatedAt": "2026-08-21T00:52:10+08:00",
   "items": [
+    {
+      "title": "三星9月将为韩国牙山HBM新厂动工，投资规模达6万亿韩元",
+      "summary": "据TrendForce报道,三星电子将于9月在韩国牙山园区动工建设投资规模达6万亿韩元的新HBM工厂;目前HBM4良率已提升至接近80%,平泽园区P5-1与P5-2拟改建为三倍产能结构,预计2030年建成后产能提升逾1.5倍。",
+      "publishedAt": "2026-08-20T23:21:17+08:00",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/20/news-samsung-to-break-ground-on-krw-6t-onyang-hbm-fab-in-sept-p5-eyes-triple-fab-shift-as-expansion-accelerates/",
+      "subCategory": "半导体产业",
+      "id": "industry-20260821-004"
+    },
+    {
+      "title": "SK海力士公布共封装光学(CPO)技术路线图，加码AI基础设施布局",
+      "summary": "SK海力士在《自然·电子学》发表共封装光学(CPO)技术路线图,计划将光学收发器直接集成至处理器封装,目标实现单节点超100Tb/s带宽、能效低于1皮焦/比特、芯片间延迟低于10纳秒,以突破AI集群铜互连带宽瓶颈。",
+      "publishedAt": "2026-08-20T21:56:59+08:00",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/20/news-sk-hynix-unveils-cpo-roadmap-looks-beyond-hbm-to-ai-infrastructure/",
+      "subCategory": "半导体产业",
+      "id": "industry-20260821-005"
+    },
+    {
+      "title": "FCAI：2026年6月中国产汽车在澳大利亚销量4.66万辆，超过日本",
+      "summary": "据FCAI数据,2026年6月中国产汽车在澳大利亚销量达4.66万辆,超过日本的2.71万辆,其中特斯拉上海产车型约8600辆;7月澳大利亚纯电动车渗透率达21.7%,电动化车辆合计渗透率48.4%。",
+      "publishedAt": "2026-08-20T20:18:13+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1846586.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260821-001"
+    },
+    {
+      "title": "美国银行：英特尔芯片代工业务2030年新增营收或达400亿美元",
+      "summary": "美国银行研报预测,若英特尔拿下3800亿美元晶圆代工市场10%份额及200亿美元先进封装市场30%份额,到2030年其代工业务新增营收将达400亿美元,约为当前11亿美元规模的40倍;18A制程良率已进入量产阶段。",
+      "publishedAt": "2026-08-20T20:17:54+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1846590.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260821-003"
+    },
+    {
+      "title": "乘联分会：2026年上半年5万元以下车型销量约13万辆，同比下降55%",
+      "summary": "乘联分会数据显示,2026年上半年售价5万元以下车型累计销量约13万辆,同比下滑55%,市场份额由2025年的2.8%降至1.4%;其中5万元以下燃油车销量同比下降52%,新能源汽车7月渗透率首次突破60%。",
+      "publishedAt": "2026-08-20T20:17:03+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1846595.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260821-002"
+    },
+    {
+      "title": "英特尔Razor Lake部分芯片或于2027年转由台积电N2X代工",
+      "summary": "据报道,英特尔正评估为Razor Lake处理器采用双代工策略,部分芯片可能采用台积电N2X制程,具体取决于自研18A-P制程表现;该策略与Nova Lake类似,台积电A16制程计划于2026年第四季度量产。",
+      "publishedAt": "2026-08-20T19:37:29+08:00",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/20/news-intel-may-tap-tsmc-n2x-for-some-razor-lake-chips-in-2027-depending-on-18a-p-performance/",
+      "subCategory": "半导体产业",
+      "id": "industry-20260821-007"
+    },
+    {
+      "title": "Marvell、AMD加入谷歌TPU供应链，博通、联发科面临竞争压力",
+      "summary": "据报道,Marvell已与谷歌达成定制AI芯片协议,谷歌获得价值122亿美元的Marvell股权认购权,预计到2033财年相关收入达1200亿美元;AMD也在为谷歌设计第十代TPU,原独家供应商博通及后加入的联发科面临多元化采购压力。",
+      "publishedAt": "2026-08-20T17:49:12+08:00",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/20/news-marvell-amd-reportedly-shake-up-google-tpu-race-putting-broadcom-mediatek-under-pressure/",
+      "subCategory": "半导体产业",
+      "id": "industry-20260821-006"
+    },
     {
       "title": "乘联分会：2026年7月乘用车零售146.1万辆，同比下降20.9%",
       "summary": "乘联分会数据显示，7月全国乘用车零售146.1万辆，同比下降20.9%；中国品牌零售103.8万辆，份额升至71.1%，德系、日系、美系、韩系份额均较吠23年明显下滑。",
@@ -661,69 +724,6 @@
       "url": "https://news.mydrivers.com/1/1143/1143048.htm",
       "subCategory": "半导体产业",
       "id": "industry-20260812-002"
-    },
-    {
-      "title": "挑战三星独家供货！京东方争取iPad Air OLED面板入场券",
-      "summary": "京东方正争取成为苹果iPad Air OLED面板第二供应商，目前三星显示为独家供应商。京东方已在重庆B12六代线启动新一代iPad Air OLED面板开发工作，苹果将于年底前决定是否正式采用。",
-      "publishedAt": "2026-08-12T07:06:24+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143044.htm",
-      "subCategory": "公司动态",
-      "id": "industry-20260812-005"
-    },
-    {
-      "title": "乘联分会：7月新能源汽车零售渗透率首次突砂65%，燃油车零售暴跌41%",
-      "summary": "乘联分会数据显示，7月新能源汽车零售渗透率达65.1%，同比提升11.6个百分点；狭义乘用车零售146.1万辆，同比下降20.9%，燃油车零售同比骤降41%，新能源出口91.8万辆，同比增长87.8%。",
-      "publishedAt": "2026-08-11T22:23:00+08:00",
-      "source": "乘联分会（新浪财经转载）",
-      "url": "https://finance.sina.cn/stock/wbstock/2026-08-11/doc-inimyhiz0561563.shtml",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260813-003"
-    },
-    {
-      "id": "industry-20260818-109",
-      "title": "换电业务收入同比增两成，中国铁塔上半年营收达486.93亿元",
-      "summary": "中国铁塔发堃2026年中期业绩，上半年营业收入486.93亿元，同比下降1.8%；归属股东净利润74.89亿元，同比增长30.1%。能源业务收入25.91亿元，其中换电业务收入15.95亿元，同比增长20.6%。",
-      "publishedAt": "2026-08-11T20:28:00+08:00",
-      "source": "北京日报客户端",
-      "url": "https://baijiahao.baidu.com/s?id=1873230048723255493",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260811-201",
-      "title": "日系三强2027财年Q1：本田亿4509亿日元同比增长129.3%，日产扇亏",
-      "summary": "据199IT报道，本田汽讥2027财年一季度净利润同比增长129.3%至4509亿日元，营收增至6.0615万亿日元；日产汽车同期营业利润由亏损791亿日元转为盈利779亿日元，净利润扇亏至38亿日元，营收2.9642万亿日元。",
-      "publishedAt": "2026-08-11T20:22:19+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1844959.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260811-202",
-      "title": "乘联分会：2026年7月乘用车零售销量前十新能源匿9席，仅1款燃油车",
-      "summary": "乘联分会数据显示，2026年7月乘用车零售销量前十榜单中，星愿以32306辆夺冠，零跑A10、特斯拉Model Y分居二三位；前十车型中仅卡罗拉锐放一款燃油车入围，销量14510辆，新能源车型占据九席。",
-      "publishedAt": "2026-08-11T20:21:58+08:00",
-      "source": "199IT（乘联分会）",
-      "url": "https://www.199it.com/archives/1844912.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260811-203",
-      "title": "Omdia：2026年Q1翻新手机显示面板出货量2.98亿块，同比增长20%",
-      "summary": "Omdia报告显示，受内存价格上涨及新机需求疲软影响，2026年第一季度出货至二手翻新手机市场的显示面板达2.98亿块，同比增长20%，首次超过同期出货给手机厂商的2.89亿块面板数量。",
-      "publishedAt": "2026-08-11T20:21:46+08:00",
-      "source": "199IT（Omdia）",
-      "url": "https://www.199it.com/archives/1844915.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260811-204",
-      "title": "Omdia：2026年Q2全球平板电脑出货量3600万台，同比下降10%",
-      "summary": "Omdia数据显示，2026年第二季度全球平板电脑出货量3600万台，同比下降10%，打破返校季环比增长的季节性规律；苹果iPad出货1350万台匸38%份额居首，三星近600万台列第二，联想同比增长27%排名第三。",
-      "publishedAt": "2026-08-11T20:20:45+08:00",
-      "source": "199IT（Omdia）",
-      "url": "https://www.199it.com/archives/1844918.html",
-      "subCategory": "消费零售"
     }
   ]
 }

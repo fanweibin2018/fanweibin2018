@@ -3,8 +3,62 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-20T16:35:00+08:00",
+  "updatedAt": "2026-08-21T00:52:10+08:00",
   "items": [
+    {
+      "title": "美股周四下跌：道指跌0.8%标普跌0.3%纳指跌0.8% 沃尔玛拖累大盘",
+      "summary": "美东时间8月20日周四，美股三大股指集体下跌，道指跌0.8%，标普500指数跌0.3%，纳指跌0.8%。沃尔玛因美国同店销售增速不及预期，股价大跌超9%，拖累大盘。同时美债收益率反弹，10年期国债收益率上行5个基点至4.70%，30年期上行6个基点至5.25%。",
+      "publishedAt": "2026-08-21T00:13:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+      "subCategory": "美股",
+      "id": "finance-20260821-001"
+    },
+    {
+      "title": "黄金价格8月20日续涨突破4500美元 财政部购债计划及美联储纪要影响市场",
+      "summary": "8月20日周四，现货黄金价格延续上涨，突破每盎司4500美元，为6月初以来首次。金价上涨主要受美国财政部宣布增加长期国债购买规模影响，10年期美债收益率下行逾5个基点，30年期下行9个基点。美联储7月会议纪要显示部分官员支持加息，但市场反应以财政部消息为主。",
+      "publishedAt": "2026-08-20T23:33:00+08:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260821-003"
+    },
+    {
+      "title": "沃尔玛发布2027财年二季度财报 上调全年业绩指引",
+      "summary": "沃尔玛发布2027财年第二季度业绩，总营收同比增长5.9%，美国同店销售（剔除燃油）增长2.6%，为六年来最慢增速。公司上调全年指引，预计营收增长4%至5%，营业利润增长7%至8.5%，调整后每股收益2.80至2.87美元。财报公布后沃尔玛股价盘中一度下跌超9%。",
+      "publishedAt": "2026-08-20T23:04:52+08:00",
+      "source": "MarketBeat（沃尔玛官方财报）",
+      "url": "https://www.marketbeat.com/instant-alerts/walmart-q2-earnings-call-highlights-2026-08-20/",
+      "subCategory": "公司财报",
+      "id": "finance-20260821-002"
+    },
+    {
+      "title": "a16z：AI时代海外创始人在融资中更具优势",
+      "summary": "科技媒体TechCrunch8月20日报道，风险投资机构a16z合伙人表示，其无国界创始人计划显示，Apps Fund一期和二期投资中44%流向海外出生的创始人。该机构认为创始人同时立足本国市场与硅谷有助于服务全球企业客户对AI方案的需求，并以语音AI公司ElevenLabs为例说明分布式总部模式的兴起。",
+      "publishedAt": "2026-08-20T21:00:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "subCategory": "一级市场",
+      "id": "finance-20260821-006"
+    },
+    {
+      "title": "特朗普威胁对伊朗发起经济施压 布伦特原油涨至94美元上方",
+      "summary": "美国总统特朗普8月20日威胁对伊朗采取他所称史上最严厉的经济施压行动，警告协助伊朗的金融机构与企业将面临后果。消息公布后，布伦特原油一度上涨约3%至每桶94.33美元，美国WTI原油上涨3.1%至每桶87.01美元。伊朗外长阿拉格希对此予以驳斥。",
+      "publishedAt": "2026-08-20T20:53:00+08:00",
+      "source": "IBTimes",
+      "url": "https://www.ibtimes.com/trump-announces-increased-economic-pressure-against-iran-oil-prices-jump-3806599",
+      "subCategory": "风险事件",
+      "id": "finance-20260821-004"
+    },
+    {
+      "title": "美国至8月15日当周初请失业金人数降至20.6万 低于预期",
+      "summary": "美国劳工部8月20日公布数据显示，截至8月15日当周初请失业金人数季调后为20.6万人，较前一周修正后的21.2万人下降6000人，低于市场预期的21万人。四周移动平均值为20.4万人，较前值上升4250人。持续申领失业金人数升至179.9万人。",
+      "publishedAt": "2026-08-20T20:30:00+08:00",
+      "source": "Brisk Markets（美国劳工部数据）",
+      "url": "https://www.briskmarkets.com/blog/initial-jobless-claims-fall-to-206k-beating-us-market-forecasts/",
+      "subCategory": "宏观经济",
+      "id": "finance-20260821-005"
+    },
     {
       "title": "TJX二季度每股收益超预期，上调全年业绩指引",
       "summary": "TJX公司公布2027财年二季度业绩，每股收益1.22美元，超市场预期的1.19美元，营收约151.8亿美元，公司将全年每股收益指引上调至5.15-5.20美元区间。",
@@ -670,60 +724,6 @@
       "source": "上海证券报",
       "url": "https://paper.cnstock.com/html/2026-08/13/content_2254539.htm",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260814-013",
-      "title": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
-      "summary": "美国30年期抵押贷款平均利率降至6.67%，较前一周6.69%下降2个基点，为六周来首次下降，就业数据走弱及通胀降温迹象降低了市场对美联储近期加息的预期。",
-      "publishedAt": "2026-08-13",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "title": "午盘播报 8月13日 周四",
-      "summary": "8月13日国内商品期货涨跌互现，玻璃跌近3%，纯碱跌超2%，氧化铝、铸造铝合金、焦煤跌超1%；国内成品油价格8月14日预计每升下调0.15元；美国汽油、柴油价格双双创下年内同期新高。",
-      "publishedAt": "2026-08-13T11:30:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608133840258778.html",
-      "subCategory": "大宗商品",
-      "id": "finance-20260813-108"
-    },
-    {
-      "title": "债市公告精选| “汇车退债”触发回售条款，兑付存重大不确定性；旭辉子公司债务逾期50亿",
-      "summary": "广汇汽车可转债“汇车退债”触发回售条款，公司现金不足以覆盖剩余本息，拟8月14日召开债券持有人会议商讨重组方案，该债券8月4日起停牌、8月17日到期；旭辉集团旗下20家子公司债务逾期合计50.181亿元。",
-      "publishedAt": "2026-08-13T10:52:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2453071",
-      "subCategory": "风险事件",
-      "id": "finance-20260813-110"
-    },
-    {
-      "id": "finance-20260814-011",
-      "title": "人民币市场汇价（8月13日）",
-      "summary": "中国外汇交易中心公布8月13日人民币汇率中间价：100美元对人民币678.88元，100港元对86.518元，100欧元对780.14元，100日元对4.2508元。",
-      "publishedAt": "2026-08-13T10:02:00+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260813/b223d0910c4a4d34bfd70289d85d7da8/c.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260814-009",
-      "title": "国际金价突破4500美元",
-      "summary": "8月13日国际金价走高，COMEX黄金一度触及4509.1美元/盎司，最大涨幅0.93%；伦敦现货黄金触及4449.73美元/盎司；COMEX白银同步走强，最高触及66.45美元/盎司。",
-      "publishedAt": "2026-08-13T09:37:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininctaw3342074.shtml",
-      "subCategory": "大宗商品"
-    },
-    {
-      "title": "原油交易提醒：美国原油库存意外暴增，油价小幅回落",
-      "summary": "截至8月7日当周美国商业原油库存增加1742.2万桶，远超市场预期减少140万桶；受此影响，WTI原油8月13日亚洲早盘回落至82.30美元/桶附近，市场同时关注霏尔木兹海峽局势对油价的潜在支撑。",
-      "publishedAt": "2026-08-13T09:36:32+08:00",
-      "source": "汇通网",
-      "url": "https://www.fx678.com/202608130936309065.shtml",
-      "subCategory": "大宗商品",
-      "id": "finance-20260813-107"
     }
   ]
 }

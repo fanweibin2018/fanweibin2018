@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-20T16:35:00+08:00",
+  "updatedAt": "2026-08-21T00:52:10+08:00",
   "items": [
+    {
+      "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
+      "summary": "据彭博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
+      "publishedAt": "2026-08-20T22:40:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/397.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260821-003"
+    },
+    {
+      "title": "中国信通院：全国已建成启用超70家具身智能训练场，覆盖过半省级行政区",
+      "summary": "中国信通院报告显示，全国已建成启用超70家具身智能训练场，另有40余家在建，覆盖长三角、京津冀、珠三角三大集群及过半省级行政区。训练场承担数据生产、模型训练与真实环境验证功能，工业制造场景占比达86%，建设正从一线城市向三四线城市延伸。",
+      "publishedAt": "2026-08-20T21:18:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/357.htm",
+      "subCategory": "具身智能",
+      "id": "ai-20260821-002"
+    },
+    {
+      "title": "揭秘OpenAI的\"终极野心\"：让智能体像人类一样熟练操作电脑",
+      "summary": "OpenAI员工透露，让智能体像人类一样熟练操作电脑是公司长期目标，尤其聚焦网页浏览。训练已从依赖像素分析转向提取网页数据，具备一定自我纠错能力，但跨应用表现仍落后于预期。团队正开发授权机制，要求智能体执行删除等敏感操作前先获用户确认。",
+      "publishedAt": "2026-08-20T20:29:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/339.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260821-001"
+    },
+    {
+      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+      "summary": "韶音宣布与光帆科技合作，将其AI技术接入新款OpenFit 2 AI开放式耳机。光帆基于自研AI OS提供智能对话、日程管理、速记等功能集，这是光帆AI技术首次落地第三方主流硬件品牌，标志其从内部验证走向行业能力开放。",
+      "publishedAt": "2026-08-20T18:13:45+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476281.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260821-005"
+    },
+    {
+      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+      "summary": "Prime Intellect测试多智能体结合Harness的科研能力，在nanoGPT优化任务中，18个模型从3290步基线竞速优化。开源Kimi K3搭配自研Harness达2930步，逼近Opus5的2920步，Fable5表现最佳。",
+      "publishedAt": "2026-08-20T17:46:23+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476199.html",
+      "subCategory": "论文进展",
+      "id": "ai-20260821-006"
+    },
+    {
+      "title": "美团搜索3.0如何用大模型表征重构本地生活搜索底座？",
+      "summary": "美团技术团队分享搜索3.0技术演进，介绍如何用大模型语义表征重构本地生活搜索基础设施。团队经历排序模型引入语义表征验证、结合对比学习与LoRA优化的系统性升级、跨场景部署等阶段，将搜索词转化为向量表示，提升了点击率与转化效率。",
+      "publishedAt": "2026-08-20T17:30:00+08:00",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/zh/news/30507",
+      "subCategory": "AI应用",
+      "id": "ai-20260821-004"
+    },
     {
       "title": "MiniMax发布视频创作工具Design",
       "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/989/689.htm",
       "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260814-002",
-      "title": "DeepSeek开源发布Agent框架DeepSeek Harness",
-      "summary": "DeepSeek开源发布Agent工具框架DeepSeek Harness，基于插件架构Cordis提供上百个内置插件，支持标准、PTC、极简、创意四种预设模式，并提供轨迹回放与Token消耗监控功能。",
-      "publishedAt": "2026-08-14T00:03:19+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472208.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260814-003",
-      "title": "神秘生图模型mona-lisa-1现身LM Arena盲测，疑似OpenAI新品",
-      "summary": "代号mona-lisa-1的图像生成模型8月9日现身LM Arena盲测，测试者通过OpenAI官方内容溯源工具检测到相关来源信号，但OpenAI尚未就该模型发布官方说明或产品文档。",
-      "publishedAt": "2026-08-13T22:41:00+08:00",
-      "source": "IT之家",
-      "url": "https://m.ithome.com/html/989476.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260814-004",
-      "title": "新加坡AI芯片公司Acrab完成B轮融资，推出700TOPS边缘Agent芯片",
-      "summary": "新加坡AI基础设施公司Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元，其边缘AI芯片GΞLIX 1峰值算力700TOPS，配套个人AI中心Agent Box已进入客户导入阶段。",
-      "publishedAt": "2026-08-13T20:34:42+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260814-005",
-      "title": "xAI发布Grok 4.6，GDPVal-AA v2测试超GPT-5.6 Sol",
-      "summary": "xAI发布Grok 4.6，在GDPVal-AA v2测试中获1753分，高于GPT-5.6 Sol的1728分与Claude Fable 5的1741分，API定价维持每百万输入2美元、输出6美元不变。",
-      "publishedAt": "2026-08-13T20:04:29+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472067.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260814-006",
-      "title": "具身数据基础设施公司元点科所40天完成两轮融资",
-      "summary": "具身智能数据基础设施公司元点科技（SCALEFORCE）40天内完成两轮数千万元融资，资金用于其物理AI操作系统MatrixOS技术迭代及大规模数据生产网络建设。",
-      "publishedAt": "2026-08-13T19:53:02+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472060.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260814-007",
-      "title": "Anthropic研究员携手Claude解关2000阶以下全部哈达玛矩阵问题",
-      "summary": "Anthropic研究员Levent Alpöge团队与Claude合作构造出668阶哈达玛矩阵，并解关2000阶以下全部悬而未决的哈达玛矩阵问题，成为FrontierMath基准中第四个被AI攻克的开放数学难题。",
-      "publishedAt": "2026-08-13T19:29:04+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/472016.html",
-      "subCategory": "论文进展"
     }
   ]
 }
