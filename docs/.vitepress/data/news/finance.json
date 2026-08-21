@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-21T16:50:00+08:00",
+  "updatedAt": "2026-08-21T23:55:00+08:00",
   "items": [
+    {
+      "id": "finance-20260821-200",
+      "title": "A股成交量跌破2万亿元，通信、有色走强，下周怎么走？",
+      "summary": "8月21日A股成交额降至1.89万亿元，较上日缩量；两融余额约2.67万亿元。通信、有色板块领涨超2%，医药板块跌超3%；全市场2505只个股上涨（57只涨停）、2862只下跌。上证指数涨0.04%，深成指涨0.87%，创业板指涨1.43%。",
+      "publishedAt": "2026-08-21T22:05:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4099548.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260821-201",
+      "title": "尾盘，港股千亿巨头拉升！啥情况？",
+      "summary": "8月21日港股尾盘，MINIMAX收涨11.86%，市值报1213亿港元；智谱收涨10.36%，市值报5257亿港元。消息面上，国家超算互联网上线智谱新一代基座模型API调用服务，MINIMAX推出新产品，叠加Anthropic上市传闻提振大模型概念股。",
+      "publishedAt": "2026-08-21T17:28:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4096674.html",
+      "subCategory": "港股"
+    },
     {
       "id": "finance-20260821-105",
       "title": "财政部：1-7月证券交易印花税1864亿元，同比增长99.2%",
@@ -13,6 +31,24 @@
       "source": "36氪（财政部）",
       "url": "https://www.36kr.com/newsflashes/3949026508700809",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260821-202",
+      "title": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
+      "summary": "8月21日现货黄金12月期货开盘报每盎司4577美元，较前日涨0.1%；早盘一度报4633.90美元。近一周涨5.9%，近一月涨14.4%，近一年涨36.7%。美国国债规模本周创40万亿美元新高，避险需求支撑金价维持强势。",
+      "publishedAt": "2026-08-21T11:10:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260821-204",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+      "summary": "8月21日美股盘中，道指涨408.81点（涨0.77%）报53168.02点，标普500涨41.24点（涨0.54%）报7682.40点，纳指涨143.40点（涨0.55%）报26210.56点；比特币涨6.15%报77289.92美元，为5月以来新高（盘中数据，非收盘价）。",
+      "publishedAt": "2026-08-21T10:47:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260821-103",
@@ -40,6 +76,24 @@
       "source": "36氪",
       "url": "https://www.36kr.com/newsflashes/3948455862484354",
       "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260821-203",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "卫星轨道数据中心公司Starcloud完成2.5亿美元B轮融资，在3月1.7亿美元A轮基础上追加，投后估值23亿美元。Manhattan West Ventures领投，英伟达投资2500万美元，思科、Benchmark等跟投，公司目前仅25名员工。",
+      "publishedAt": "2026-08-21T07:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260821-205",
+      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "summary": "管理资产规模达9380亿美元的私募巨头阿波罗全球管理确认发生数据泄露。攻击者于7月6日至10日通过社会工程手段侵入云系统，窃取姓名、出生日期、住址及社会安全号码等信息，公司未回应是否支付赎金。",
+      "publishedAt": "2026-08-21T06:35:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260821-101",
@@ -670,60 +724,6 @@
       "source": "每日经济新闻",
       "url": "https://www.nbd.com.cn/articles/2026-08-14/4541944.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260815-004",
-      "title": "美国7月零售销售环比意外下降0.6%，创2025年5月以来最大降幅",
-      "summary": "美国商务部数据显示，7月零售销售环比下降0.6%，为2025年5月以来最大降幅，此前6月环比上修为增长0.2%；剔除汽车和加油站后环比下降0.2%，线上零售环比下降2.2%。",
-      "publishedAt": "2026-08-14T07:41:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/articles/retail-sales-unexpectedly-fall-july-124133129.html",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260814-003",
-      "title": "8月14日收盘：标普500指数收盘创历史新高 受通胀数据低于预期及油价下跌提振",
-      "summary": "美股8月13日收盘，标普500指数涨0.65%报7798.99点创历史新高，纳指涨0.81%至26803.02点，道指涨0.13%至53839.98点，受美国7月PPI数据低于预期及原油价格下跌提振。",
-      "publishedAt": "2026-08-14T04:25:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfmmw4338336.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260814-004",
-      "title": "通胀降温再添“新证”！美国7月PPI同比增4.7%",
-      "summary": "美国劳工部公布数据显示，7月PPI同比上涨4.7%，低于市场预期的4.9%和前值5.5%；核心PPI同比增4.2%，符合预期；环比持平，能源价格下跌为主要拖累因素。",
-      "publishedAt": "2026-08-13T23:27:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-08-13/doc-inineywi9799523.shtml",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260814-010",
-      "title": "国际原油期货跌幅扩大，WTI原油跌超3%",
-      "summary": "8月13日国际原油期货跌幅扩大，WTI原油价格跌3.13%至80.66美元/桶，布伦特原油跌2.90%至86.40美元/桶。",
-      "publishedAt": "2026-08-13T22:15:00+08:00",
-      "source": "界面新闻",
-      "url": "https://m.163.com/dy/article/L48C0M9N0534A4SC.html",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260814-005",
-      "title": "中国央行将开展1万亿元人民币买断式逆回购操作",
-      "summary": "中国人民银行公告将于8月14日开展1万亿元、期限6个月（185天）的买断式逆回购操作，为本月同规模到期操作的等量续做，另将3个月期操作加量200亿元。",
-      "publishedAt": "2026-08-13T20:13:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-08-13/doc-inineqhh4661310.shtml",
-      "subCategory": "政策利率"
-    },
-    {
-      "title": "三大指数午后回落全线收跌，全市场超4300股飘绿，医药股持续活跃",
-      "summary": "8月13日A股三大指数午后集体翻绿，沪指跌0.5%，深成指跌0.87%，创业板指跌0.45%，沪深两市成交额2.55万亿元，较上一交易日放量3985亿元，医药股逆势活跃，超4300只个股下跌。",
-      "publishedAt": "2026-08-13T16:48:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2453502",
-      "subCategory": "A股",
-      "id": "finance-20260813-101"
     }
   ]
 }
