@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-21T08:50:00+08:00",
+  "updatedAt": "2026-08-21T16:50:00+08:00",
   "items": [
     {
       "id": "trade-20260821-100",
@@ -13,6 +13,24 @@
       "source": "亿恩网",
       "url": "https://www.ennews.com/news-142384.html",
       "subCategory": "海关数据"
+    },
+    {
+      "id": "trade-20260821-102",
+      "title": "欧盟第20轮对俄制裁拉黑6家中企",
+      "summary": "欧盟4月23日通过的第20轮对俄制裁名单中新增6家中国企业，包括香港Brightmile、扬州扬杰电子、上海ETS Solutions等，理由为向俄罗斯军工综合体供应军民两用物资，涉及电子元器件、航空技术等领域。中国商务部回应反对未经联合国授权的单边制裁。",
+      "publishedAt": "2026-08-21T02:10:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/bQj1SUUl",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260821-101",
+      "title": "SHEIN中国香港IPO推迟至9月1日，估值锚定260亿至270亿美元",
+      "summary": "SHEIN原定8月底完成的香港上市计划延后至9月1日，8月24日起启动簿记建档，募资目标约20亿美元，估值锚定260亿至270亿美元，明显低于2022年近千亿美元峰值。博裕资本、瑞银资管等基石投资者正洽谈参与，腾讯、泛大西洋等现有股东将主导认购。",
+      "publishedAt": "2026-08-21T01:59:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/RxdHTz98",
+      "subCategory": "平台动态"
     },
     {
       "title": "\"牛来\"在海外爆红！亚马逊上同款已卖断货",
@@ -157,6 +175,15 @@
       "url": "https://www.amz123.com/kx/Ik0IWhjp",
       "subCategory": "选品趋势",
       "id": "trade-20260820-020"
+    },
+    {
+      "id": "trade-20260821-103",
+      "title": "TikTok美国裁减75个西雅图电商业务岗位",
+      "summary": "TikTok向华盛顿州提交裁员通知，计划裁减西雅图地区75个岗位，多与TikTok Shop及全球电商团队相关，涵盖运营、风控及工程等职位，员工离职日期定为10月19日。此前8月6日TikTok已关闭纳什维尔办公室并裁员250人。",
+      "publishedAt": "2026-08-20T07:14:00+08:00",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/t/LBFW5nJ6",
+      "subCategory": "平台动态"
     },
     {
       "title": "俄物流商Delovye Linii：备件门到门运输需求同比暴增60%",
@@ -330,15 +357,6 @@
       "id": "trade-20260820-023"
     },
     {
-      "title": "Stripe联合Advent拟以约530亿美元收购PayPal",
-      "summary": "据报道，Stripe与私募基金Advent International正洽购PayPal，此前每肆60.50美元、约530亿美元的报价被PayPal董事会拒绝，市场消息称卖方目标价接近每肆70美元，交易或需18至24个月完成监管审查。",
-      "publishedAt": "2026-08-19",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/208989628304",
-      "subCategory": "跨境支付",
-      "id": "trade-20260820-005"
-    },
-    {
       "title": "TikTok私信P2P转账功能曝光",
       "summary": "有开发者在TikTok美国版iPhone应用隐藏代码中发现私信内点对点转账功能的痕迹，付款方可像Venmo一样附言，收款方点击接受后完成交易，未处理款项将自动退回。该功能仍处于早期开发阶段，尚无确定上线时间及适用地区。",
       "publishedAt": "2026-08-19T10:48:08+08:00",
@@ -355,6 +373,15 @@
       "url": "https://www.amz123.com/kx/9Prcbqnn",
       "subCategory": "平台动态",
       "id": "trade-20260820-028"
+    },
+    {
+      "title": "Stripe联合Advent拟以约530亿美元收购PayPal",
+      "summary": "据报道，Stripe与私募基金Advent International正洽购PayPal，此前每肆60.50美元、约530亿美元的报价被PayPal董事会拒绝，市场消息称卖方目标价接近每肆70美元，交易或需18至24个月完成监管审查。",
+      "publishedAt": "2026-08-19",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/208989628304",
+      "subCategory": "跨境支付",
+      "id": "trade-20260820-005"
     },
     {
       "id": "trade-20260818-108",
@@ -375,6 +402,15 @@
       "subCategory": "新兴市场"
     },
     {
+      "id": "trade-20260818-114",
+      "title": "俄罗斯睡眠经济升温：M.Video床垉Q2销量环比增长3.3倍，矫形枕半年增16倍",
+      "summary": "俄罗斯M.Video平台数据显示，2026年上半年床品类目增长强劲，6月销量较1月增长328%、营业额增长250%，二季度床垉销量环比增长3.3倍，矫形枕上半年销量增长16倍，消费者对睡眠品质关注度上升。",
+      "publishedAt": "2026-08-18T06:30:00+08:00",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/TnsorAmo",
+      "subCategory": "选品趋势"
+    },
+    {
       "id": "trade-20260818-110",
       "title": "上海发布\"十五五\"物流规划，剑指全球供应链管理中心",
       "summary": "上海市政府发布现代物流发展\"十五五\"规划，提出到2030年将上海建成全球物流与供应链网络核心节点、国际物流枢纽及全球供应链管理中心城市的目标。",
@@ -391,24 +427,6 @@
       "source": "亿恩网",
       "url": "https://www.ennews.com/news-142157.html",
       "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260818-114",
-      "title": "俄罗斯睡眠经济升温：M.Video床垉Q2销量环比增长3.3倍，矫形枕半年增16倍",
-      "summary": "俄罗斯M.Video平台数据显示，2026年上半年床品类目增长强劲，6月销量较1月增长328%、营业额增长250%，二季度床垉销量环比增长3.3倍，矫形枕上半年销量增长16倍，消费者对睡眠品质关注度上升。",
-      "publishedAt": "2026-08-18T06:30:00+08:00",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/TnsorAmo",
-      "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260818-001",
-      "title": "俄罗斯9月起强制推行电子运输单据系统GIS EPDD",
-      "summary": "俄罗斯国家电子运输单据信息系统GIS EPDD将于9月1日起正式强制运行，设置至2027年3月1日的半年豁免期，期间仅口头警告不予处罚，俄交通部称电子单据将成为货运合规硬性基准。",
-      "publishedAt": "2026-08-17",
-      "source": "出海网",
-      "url": "https://www.chwang.com/daily/20260817",
-      "subCategory": "物流仓储"
     },
     {
       "id": "trade-20260818-111",
@@ -447,6 +465,15 @@
       "subCategory": "平台政策"
     },
     {
+      "id": "trade-20260818-001",
+      "title": "俄罗斯9月起强制推行电子运输单据系统GIS EPDD",
+      "summary": "俄罗斯国家电子运输单据信息系统GIS EPDD将于9月1日起正式强制运行，设置至2027年3月1日的半年豁免期，期间仅口头警告不予处罚，俄交通部称电子单据将成为货运合规硬性基准。",
+      "publishedAt": "2026-08-17",
+      "source": "出海网",
+      "url": "https://www.chwang.com/daily/20260817",
+      "subCategory": "物流仓储"
+    },
+    {
       "id": "trade-20260818-005",
       "title": "TikTok电商计刳2027年一季度开通沙特、韩国、澳大利亚站点",
       "summary": "TikTok电商拟于2027年第一季度新增沙特阿拉伯、韩国、澳大利亚三个市场，分别对应中东高客单低渗透、韩流电商成熟及澳新英语高净值低竞争等市场特点。",
@@ -463,15 +490,6 @@
       "source": "雨果网",
       "url": "https://www.cifnews.com/article/188272",
       "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260816-001",
-      "title": "俄罗斯电商巨头联合呼吁推出物流冲击纳困方案",
-      "summary": "Wildberries、Ozon、Yandex等俄罗斯电商企业联名致信总理米舵斯金，请求针对物流设施遭袖事件提供财政补偿、至少半年税收减免及暂停检查等纳困措施，俄工商会电商委员会则建议改用十年期贷款重组方案。",
-      "publishedAt": "2026-08-15",
-      "source": "AMZ123",
-      "url": "https://www.amz123.com/kx/PnjOap0n",
-      "subCategory": "物流仓储"
     },
     {
       "id": "trade-20260816-002",
@@ -600,6 +618,15 @@
       "subCategory": "关税法规"
     },
     {
+      "id": "trade-20260816-001",
+      "title": "俄罗斯电商巨头联合呼吁推出物流冲击纳困方案",
+      "summary": "Wildberries、Ozon、Yandex等俄罗斯电商企业联名致信总理米舵斯金，请求针对物流设施遭袖事件提供财政补偿、至少半年税收减免及暂停检查等纳困措施，俄工商会电商委员会则建议改用十年期贷款重组方案。",
+      "publishedAt": "2026-08-15",
+      "source": "AMZ123",
+      "url": "https://www.amz123.com/kx/PnjOap0n",
+      "subCategory": "物流仓储"
+    },
+    {
       "id": "trade-20260814-601",
       "title": "从\"水土不服\"到\"类目Top3\"！福建卖家靠这招逆袭",
       "summary": "一福建家居卖家初入日本乐天市场时因产品设计不符合日本消费者小空间、多功能收纳需求而遇冷，调整策略并优化一款可折叠鞋柜储物凳后，一年内跀身家居类目Top3，月销售额超过2000万日元。",
@@ -697,33 +724,6 @@
       "source": "亿恩网",
       "url": "https://www.ennews.com/news-141941.html",
       "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260815-501",
-      "title": "征收100%关税！特朗普又签署新文件了",
-      "summary": "美国白宫8月13日宣布，特朗普签署行政令对进口无人机及关键零部件按尺寸功能实施最高100%从价关税，小型无人机加征25%，欧盟日本韩国等加征15%，英国加征10%，分析认为将推动供应链向东南亚等地转移。",
-      "publishedAt": "2026-08-14T16:48:00+08:00",
-      "source": "雨果网",
-      "url": "https://www.cifnews.com/article/188266",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-010",
-      "title": "美国点名40多国，警告中国商品借道规避关税",
-      "summary": "白宫发布报告称，超过40个国家已成为中国商品规避美国关税的转运通道，报告按供应链整合程度和产业基础将相关国家划分为三个风险等级。",
-      "publishedAt": "2026-08-14T16:27:26+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141936.html",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260815-009",
-      "title": "Shopee在巴西推出Turbo极速配送服务",
-      "summary": "Shopee在巴西推出Turbo极速配送服务，圣保罗大都会区订单最快4小时送达，满10雷亚尔包邮，首批已有4000家商家接入。",
-      "publishedAt": "2026-08-14T16:25:18+08:00",
-      "source": "亿恩网",
-      "url": "https://www.ennews.com/news-141934.html",
-      "subCategory": "物流仓储"
     }
   ]
 }

@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-21T08:50:00+08:00",
+  "updatedAt": "2026-08-21T16:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260821-107",
+      "title": "OpenAI全面开源Codex Harness",
+      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
+      "publishedAt": "2026-08-21T15:18:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/656.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260821-108",
+      "title": "马斯克：在AI领域，中国是SpaceX AI公司迄今最强竞争对手",
+      "summary": "马斯克在X平台评论一条2011年预测SpaceX将与中国展开顶级竞争的旧推文时表示，在AI领域，中国是SpaceX AI公司最强大的竞争对手，显示其认为中国在人工智能领域构成最强劲挑战。",
+      "publishedAt": "2026-08-21T15:15:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/654.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260821-105",
+      "title": "Jeff Dean离职谷歌后首次公开访谈：反思Gemini编程投入偏晚",
+      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩至分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
+      "publishedAt": "2026-08-21T12:05:11+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260821-103",
       "title": "触觉让世界模型更懂物理，也更难通用",
@@ -42,6 +69,24 @@
       "subCategory": "开源模型"
     },
     {
+      "id": "ai-20260821-106",
+      "title": "优必选行者具身智能大模型完成生成式人工智能服务备案",
+      "summary": "优必选自研\"行者具身智能大模型\"于8月18日通过国家网信办生成式人工智能服务备案，成为具身机器人行业首批完成备案的模型之一。该模型与优必选开源Thinker模型同源，强调面向家庭陪伴场景的表情、眼神、姿态及触觉交互，公司称已有5个算法完成国家互联网信息服务算法备案。",
+      "publishedAt": "2026-08-21",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476406.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260821-104",
+      "title": "Generalist AI发布具身模型GEN-1.5，机器人观看3~12秒演示即学会新动作",
+      "summary": "Generalist AI发布基础机器人模型GEN-1.5，无需梯度更新或微调，仅通过3至12秒演示即可完成一次性学习，可泛化到物体替换及跨场景动作组合。模型未针对上下文学习设计专门架构，零样本成功率59%，少量额外训练后提升至83%。",
+      "publishedAt": "2026-08-21",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "subCategory": "具身智能"
+    },
+    {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
       "summary": "据彭博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
       "publishedAt": "2026-08-20T22:40:57+08:00",
@@ -67,6 +112,15 @@
       "url": "https://www.ithome.com/0/992/339.htm",
       "subCategory": "Agent",
       "id": "ai-20260821-001"
+    },
+    {
+      "id": "ai-20260821-109",
+      "title": "吴泳铭：阿里AI年化收入突破495亿元",
+      "summary": "阿里巴巴集团CEO吴泳铭在2027财年第一季度财报电话会上披露，阿里云AI相关产品年化经常性收入（ARR）已突破495亿元人民币（约73亿美元），AI产品收入占阿里云外部商业化收入比例达35%，且毛利率显著高于云产品平均水平。",
+      "publishedAt": "2026-08-20T19:57:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3947807144311944",
+      "subCategory": "大模型"
     },
     {
       "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
@@ -96,24 +150,6 @@
       "id": "ai-20260821-004"
     },
     {
-      "title": "MiniMax发布视频创作工具Design",
-      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "AI视频",
-      "id": "ai-20260820-023"
-    },
-    {
-      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
-      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "开源模型",
-      "id": "ai-20260820-024"
-    },
-    {
       "title": "墨奇智能亮相WRC，展示具身大脑架构MoRA",
       "summary": "成立仅半年的墨奇智能在2026世界机器人大会展示其MoRA具身智能架构与MORPHI KINO轮式机器人，演示15分钟内自主完成客厅清洁、冰箱补货、洗衣叠衣等连续家务任务，公司已积累3万小时真实场景数据。",
       "publishedAt": "2026-08-20T09:37:00+08:00",
@@ -139,6 +175,24 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "subCategory": "AI应用",
       "id": "ai-20260820-018"
+    },
+    {
+      "title": "MiniMax发布视频创作工具Design",
+      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "AI视频",
+      "id": "ai-20260820-023"
+    },
+    {
+      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
+      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "开源模型",
+      "id": "ai-20260820-024"
     },
     {
       "title": "章鱼动力亮相WRC 2026，发布“脑-手-数据”具身智能技术体系",
@@ -231,15 +285,6 @@
       "id": "ai-20260820-010"
     },
     {
-      "title": "Liquid AI发布LFM2.5量化蒸馏Q4_0检查点",
-      "summary": "Liquid AI基于量化感知蒸馏（QAD）技术发布LFM2.5系列4bit检查点，覆盖230M至2.6B四种规模，相比传统训练后量化能恢复更多精度损失，并在MacBook Pro、树莓派5等端侧设备上提升解码吞吐。",
-      "publishedAt": "2026-08-19",
-      "source": "Hugging Face（Liquid AI）",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "subCategory": "开源模型",
-      "id": "ai-20260820-019"
-    },
-    {
       "title": "Modular宣布Mojo语言完全开源，采用Apache 2.0协议",
       "summary": "AI基础设施公司Modular宣布旗下Mojo编程语言正式完全开源，采用Apache 2.0许可协议，Mojo面向AI与高性能计算场景设计，力图兼顾Python易用性与系统级执行性能。",
       "publishedAt": "2026-08-19T11:36:16+08:00",
@@ -310,6 +355,15 @@
       "url": "https://arxiv.org/abs/2608.18063",
       "subCategory": "论文进展",
       "id": "ai-20260820-012"
+    },
+    {
+      "title": "Liquid AI发布LFM2.5量化蒸馏Q4_0检查点",
+      "summary": "Liquid AI基于量化感知蒸馏（QAD）技术发布LFM2.5系列4bit检查点，覆盖230M至2.6B四种规模，相比传统训练后量化能恢复更多精度损失，并在MacBook Pro、树莓派5等端侧设备上提升解码吞吐。",
+      "publishedAt": "2026-08-19",
+      "source": "Hugging Face（Liquid AI）",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "subCategory": "开源模型",
+      "id": "ai-20260820-019"
     },
     {
       "id": "ai-20260819-001",
@@ -670,60 +724,6 @@
       "source": "36氪",
       "url": "https://www.36kr.com/p/3940126125161602",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260815-607",
-      "title": "实测GLM-5.3：同一个模型，为什么会像两个AI？",
-      "summary": "36氪实测智谱GLM-5.3发现，该模型在简单指令下代码质量表现一般，但在详细提示下表现明显提升，尤其在安全领域能在40秒内识别出经过混淆处理的CVE-2022-22947漏洞。",
-      "publishedAt": "2026-08-15T09:08:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3939428375788680",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260815-507",
-      "title": "How Claude's text watermark works",
-      "summary": "Anthropic为Claude模型引入基于Google DeepMind SynthID-Text技术的文本水印机制，通过微调低置信度词元选择的随机性使 AI生成内容可被追溯验证，不影响输出质量与生成速度，以满足欧盟人工智能法案合规要求。",
-      "publishedAt": "2026-08-15T03:16:00+08:00",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260815-001",
-      "title": "阿里开源Qwen3.8-27B模型，编程、办公场景表现超越Qwen3.7-Plus",
-      "summary": "阿里巴巴开源27B参数的Qwen3.8-27B模型，原生支持262K上下文，可扩展至1M，新增reasoning_effort功能按任务复杂度调节推理深度，编程与办公场景表现超越Qwen3.7-Plus。",
-      "publishedAt": "2026-08-14T23:13:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/953.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260815-504",
-      "title": "中国医生用GPT-5.6破解22年数学难题，Crouzeix本人确认正确",
-      "summary": "北京协和医院博士后靳善木借助GPT-5.6-Sol模型，耗时约16小时完成困扰学界22年的Crouzeix猜想证明，经数学家Townsend、Greenbaum及提出者Crouzeix本人核实确认正确，材料已在GitHub开源。",
-      "publishedAt": "2026-08-14T23:08:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/952.htm",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260815-004",
-      "title": "新研究证实，AI生成书籍已挤压人类作者作品市场空间",
-      "summary": "一项分析2023至2026年亚马逊逾1.4万本电子书销量数据的研究显示，有销量图书数量增至19倍，读者总支出仅增至9倍，且未检测出AI文本的图书市场份额也在下降，显示AI生成内容正挤压人类作者的市场空间。",
-      "publishedAt": "2026-08-14T23:06:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/951.htm",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260815-003",
-      "title": "科技行业史上最大收购之一，SpaceX豪掷600亿美元拿下AI编程公司Cursor",
-      "summary": "SpaceX以600亿美元完成对AI编程公司Cursor的收购，相关监管备案已于8月14日生效，此前双方已合作开发编程模型Grok 4.5，交易被称为科技行业史上最大收购之一。",
-      "publishedAt": "2026-08-14T22:34:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/944.htm",
-      "subCategory": "AI编程"
     }
   ]
 }
