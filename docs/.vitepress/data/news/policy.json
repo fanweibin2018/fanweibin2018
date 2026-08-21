@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-21T00:52:10+08:00",
+  "updatedAt": "2026-08-21T08:50:00+08:00",
   "items": [
+    {
+      "id": "policy-20260821-100",
+      "title": "商务部召开2026年8月20日例行新闻发布会",
+      "summary": "商务部新闻发言人何亚东在例行新闻发布会上表示，今年前7个月我国进口增长22%，保持良好增长势头；针对美国对无人机及零部件加征232关税，他表示这是以“国家安全”为名的单边主义、保护主义行为，敦促美方立即撤销相关关税措施。",
+      "publishedAt": "2026-08-20",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfbzt/2026/swbzklxxwfbh2026n8y20r/index.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260821-101",
+      "title": "全国银行间同业拆借中心受权公布8月贷款市场报价利率(LPR)",
+      "summary": "中国人民银行授权全国银行间同业拆借中心公布，2026年8月20日1年期贷款市场报价利率(LPR)为3.0%，5年期以上LPR为3.5%，均与上期持平，新利率将在下次发布前保持有效。",
+      "publishedAt": "2026-08-20",
+      "source": "中国人民银行（全国银行间同业拆借中心）",
+      "url": "https://www.chinamoney.com.cn/chinese/rdgz/20260820/3399885.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260821-102",
+      "title": "美国白宫发布第17号国家安全总统备忘录（国家太空运输政策）",
+      "summary": "美国白宫发布国家太空运输政策备忘录，提出到2030年支持超过1000次年发射与再入任务，要求相关机构改善发射场基础设施、简化许可审批并优先采用商业航天服务，同时指示NASA探索月球与火星商业物流方案，取代2013年发布的第26号总统政策指令。",
+      "publishedAt": "2026-08-20",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
+      "subCategory": "海外政策"
+    },
     {
       "title": "Vandemoortele required to sell UK plant following pastry merger investigation",
       "summary": "英国竞争与市场管理局（CMA）对Vandemoortele收购冷冻起酥面点供应商Délifrance一案作出附条件批准，认定若不干预将使合并后企业成为英国冷冻可颂等产品的主导供应商，削弱市场竞争。该公司须出售位于伍斯特的层压面团生产设施及斯坦斯的销售业务。",
@@ -697,33 +724,6 @@
       "source": "中央网络安全和信息化委员会办公室",
       "url": "https://www.cac.gov.cn/2026-08/04/c_1787588879723730.htm",
       "subCategory": "数字经济"
-    },
-    {
-      "title": "关于2026年记账式贴现（四十七期）国债发行工作有关事宜的通知",
-      "summary": "财政部发布通知，将于8月5日上午招标发行2026年记账式贴现（四十七期）国债，期限28天，竞争性招标面值200亿元，自8月6日起计息，9月3日到期兑付本息，8月10日起上市交易。",
-      "publishedAt": "2026-08-04T09:07:00+08:00",
-      "source": "财政部",
-      "url": "https://zwgls.mof.gov.cn/ywgg/202608/t20260804_3994791.htm",
-      "subCategory": "金融监管",
-      "id": "policy-20260804-954"
-    },
-    {
-      "id": "policy-20260803-901",
-      "title": "国务院公布《集成电路布图设计保护条例》",
-      "summary": "国务院第91次常务会议修订通过《集成电路布图设计保护条例》，以国令第842号公布，旨在保护集成电路布图设计专有权、鼓励技术创新，自2026年10月15日起施行。",
-      "publishedAt": "2026-08-03T17:00:00+08:00",
-      "source": "中国政府网",
-      "url": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260803-902",
-      "title": "证监会主席吴清出席人民币国债期货在港交所挂牌上市仪式并致辞",
-      "summary": "中国证监会主席吴清赴香港出席五年期人民币国债期货在港交所挂牌上市仪式并致辞，期间会见香港特首李家超、财政司司长陈茂波等，就深化两地资本市场务实合作交换意见。",
-      "publishedAt": "2026-08-03",
-      "source": "中国证券监督管理委员会",
-      "url": "https://www.csrc.gov.cn/csrc/c100028/c7649538/content.shtml",
-      "subCategory": "金融监管"
     }
   ]
 }

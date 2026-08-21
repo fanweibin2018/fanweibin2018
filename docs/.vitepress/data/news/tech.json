@@ -3,8 +3,170 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-21T00:52:10+08:00",
+  "updatedAt": "2026-08-21T08:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260821-117",
+      "title": "报告称苹果CarPlay支持成美国购车关键因素，同平台车型销量差距扩大至165.5%",
+      "summary": "汽车媒体报告显示，基于通用Ultium平台的本田Prologue与雪佛兰Blazer EV销量差距持续扩大，因雪佛兰取消CarPlay改用谷歌内置系统，本田保留无线互联功能，两者销量差距已由2024年的42.8%扩大至165.5%。",
+      "publishedAt": "2026-08-21T08:33:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/434.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260821-116",
+      "title": "荣耀Robot Phone手机维修备件价格公布，主摄3079元",
+      "summary": "荣耀公布新机Robot Phone维修备件价格，其中主摄像头传感器3079元为单件最贵部件，主板价格区间4599至6599元，屏幕总成979至1379元。该机8月12日发布、18日开售，起售价9999元，预订量已超40万台。",
+      "publishedAt": "2026-08-21T08:29:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/433.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260821-115",
+      "title": "CounterPoint：2026年第二季度欧洲手机出货量同比下降10%，苹果份额升至34%",
+      "summary": "CounterPoint报告称，2026年第二季度欧洲智能手机出货量同比下降10%至3500万部，为三年来同期次低水平，零部件成本上涨推高售价。苹果份额由25%升至34%，三星持平34%，小米、OPPO份额下滑。",
+      "publishedAt": "2026-08-21T08:15:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/431.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260821-114",
+      "title": "消息称苹果重心转向智能眼镜，裁撤整个VR研发团队",
+      "summary": "据IT之家报道，苹果已解散旗下VR研发团队及Apple Vision业务部门，裁员至少60人，此举与即将上任的CEO约翰·特纳斯淡化该产品线的规划相符。公司内部近几个月已完成调整，未来将主要聚焦Siri AI与智能眼镜产品。",
+      "publishedAt": "2026-08-21T08:12:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/430.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260821-113",
+      "title": "苹果收紧Apple Music服务，AI生成音乐年底将强制标注",
+      "summary": "苹果通知内容供应商，年底前平台上实质性由AI生成的音乐须添加AI透明度标签，原本今年3月推出的自愿标注机制将转为强制要求，唱片公司和发行商不再拥有自主选择权，苹果称已掌握可识别AI生成内容及所用模型的专有技术。",
+      "publishedAt": "2026-08-21T08:01:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/428.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260821-112",
+      "title": "JBL PULSE 6便携蓝牙音箱预售，到手2499元",
+      "summary": "JBL宣布PULSE 6便携蓝牙音箱开启预售，8月31日上午10点正式开售，售价2499元。产品支持IP68防尘防水，配备可通过JBL One App自定义的环形RGB灯效，续航12小时，支持15W快充与蓝牙6.0。",
+      "publishedAt": "2026-08-21T07:51:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/427.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260821-111",
+      "title": "消息称SK海力士拟在日本宫城建存储芯片工厂",
+      "summary": "据报道，SK海力士正推进在日本宫城县建设存储芯片工厂的计划，投资规模预计达数十万亿韩元，若落地将成为继美光、台积电之后第三家在日设厂的境外半导体企业，业内认为此举意在应对全球存储芯片供需失衡。",
+      "publishedAt": "2026-08-21T07:43:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/425.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260821-110",
+      "title": "商务部：7月新能源乘用车零售渗透率达65.1%，创历史新高",
+      "summary": "商务部披露今年前7个月消费市场情况，7月新能源乘用车零售渗透率达65.1%，创历史新高；具身智能机器人销售额同比增长95.1%，外骨骼装备和运动相机分别增长39.5%和24.7%，乡村消费增速快于城镇1.3个百分点。",
+      "publishedAt": "2026-08-21T07:36:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/424.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260821-109",
+      "title": "联想拯救者云游戏掌机C700定档8月25日发布，支持腾讯START",
+      "summary": "联想宣布旗下云游戏掌机拯救者C700将于8月25日晚7点发布，主打云游戏与串流体验，接入腾讯START服务后《黑神话：悟空》等3A大作可实现60帧、端到端延迟低于10毫秒。设备配备7.82英寸120Hz屏幕，重约556克。",
+      "publishedAt": "2026-08-21T07:30:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/423.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260821-108",
+      "title": "Omdia：2026年非洲智能手机市场预计下滑26%，结束连续三年增长",
+      "summary": "Omdia报告显示，非洲智能手机市场2026年第二季度出货量同比下降7%，为三年来首次下滑，百元以下入门机型受价格与存储成本上涨影响最大，跌幅达34%。传音以47%份额保持第一，三星、小米分列二三位。",
+      "publishedAt": "2026-08-21T07:25:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/421.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260821-107",
+      "title": "消息称博通拟通过AI相关债务融资筹资超600亿美元",
+      "summary": "据彭博社援引知情人士消息，博通正与多家贷款机构商讨大规模债务融资，拟通过次级债筹资逾600亿美元，加上有担保债务规模或达1000亿美元，资金将用于支持AI芯片相关业务，黑石、阿波罗等机构据悉有意参与，方案尚未最终确定。",
+      "publishedAt": "2026-08-21T07:24:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/420.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260821-106",
+      "title": "云电脑Windows 365上线五周年，微软公布深度整合AI智能体计划",
+      "summary": "微软宣布云电脑服务Windows 365上线五周年，将推出基于OpenClaw的Autopilot智能体Microsoft Scout，用户可通过Teams指令远程查找文件、编辑文档，并为开发者提供预装GitHub等工具的云电脑环境。",
+      "publishedAt": "2026-08-21T07:16:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/419.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260821-105",
+      "title": "火狐Firefox 115 ESR浏览器维护延长至2027年3月",
+      "summary": "Mozilla将Firefox 115 ESR维护周期从原定的2026年8月延长至2027年3月，这是最后一个兼容Windows 7/8/8.1及旧版macOS的ESR版本。截至8月10日，仍有4.796%用户使用Windows 7系统。",
+      "publishedAt": "2026-08-21T07:01:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/417.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260821-104",
+      "title": "Rust供应链攻击：累计超2.45亿次下载的arrayref等三个库遭植入构建期恶意代码",
+      "summary": "攻击者入侵arrayref等三个Rust库维护者账号，植入伪装成proc-macro2的恶意依赖，在项目构建阶段下载执行窃取凭证的程序，相关版本发布约1.5小时后被下架，研究人员称其基础设施与朝鲜背景攻击存在重合。",
+      "publishedAt": "2026-08-21T04:22:00+08:00",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260821-103",
+      "title": "疑似俄罗斯背景黑客滥用Google OAuth与WhatsApp设备关联功能实施账号劫持",
+      "summary": "研究人员披露三个疑似俄罗斯背景的网络间谍团伙，针对欧美学术、航空航天、国防及智库人员实施钓鱼攻击，手法包括诱导受害者关联WhatsApp设备、窃取Google OAuth令牌及仿冒官员骗取验证码，部分活动持续至2026年8月。",
+      "publishedAt": "2026-08-21T03:59:00+08:00",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260821-102",
+      "title": "Counterpoint：2026年第二季度拉美智能手机出货量同比下降10%",
+      "summary": "Counterpoint数据显示，2026年第二季度拉美智能手机出货量同比下降10%，为近三年最大跌幅，主因内存短缺与库存积压。三星份额升至38%，苹果因iPhone17增长5%，小米、荣耀分别下滑27%和8%。",
+      "publishedAt": "2026-08-21T03:24:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/413.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260821-101",
+      "title": "美国多机构联合预警：AI生成的漏洞利用脚本正攻击西门子S7系列PLC",
+      "summary": "美国NSA、CISA、FBI等机构联合发布公告，称攻击者利用AI生成的定制化Python脚本，针对暴露在互联网上的西门子S7系列PLC发起攻击，涉及制造、能源、水务等多个关键基础设施行业，建议尽快更新固件并加强网络隔离。",
+      "publishedAt": "2026-08-21T00:59:00+08:00",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260821-100",
+      "title": "特斯拉Semi纯电半挂卡车官宣进军欧洲市场",
+      "summary": "特斯拉宣布纯电半挂卡车Semi将进入欧洲市场，具体规格和上市时间将于9月德国IAA商用车展发布，最快2027年实现欧洲市场准入；美版车型续航523至805公里，支持1.2兆瓦快充。",
+      "publishedAt": "2026-08-20T23:55:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/409.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "title": "芝奇240万美元和解集体诉讼：涉嫌DDR4、DDR5内存以XMP/EXPO速度误导用户，消费者获赔约20美元",
       "summary": "芝奇（G.Skill）因DDR4、DDR5内存包装标注XMP/EXPO超频速度但未充分披露相关风险，被诉误导消费者，达成240万美元集体诉讼和解，受影响消费者可获约20美元赔偿，芝奇将在产品包装及网页增加提示说明。",
@@ -561,168 +723,6 @@
       "publishedAt": "2026-08-17T22:29:00+08:00",
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininruyf6830837.shtml",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260818-002",
-      "title": "代码量突破4300万行！Linux 7.2稳定版正式发布：AMD HDMI 2.1终获支持",
-      "summary": "Linus Torvalds正式发布Linux 7.2稳定版内核，代码量突破4300万行，新增缓存感知调度、USB4协议支持，AMD GPU驱动首次支持HDMI 2.1 FRL，Intel Xe驱动也迎来更新，将成为Ubuntu 26.10等发行版基础。",
-      "publishedAt": "2026-08-17T14:47:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144242.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260818-001",
-      "title": "宇树科技发布\"超人\"",
-      "summary": "宇树科技推出人形机器人\"超人\"，腿长0.85米，原地纵跳可袅2米，极限奔跑速度12.66米/秒，均超过现有人类纪录。公司称整机历时约三个多月研发完成，后续仍有较大优化空间。",
-      "publishedAt": "2026-08-17T14:41:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3943249742806403",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260818-006",
-      "title": "全球首个具身Physical AI开源生态将于9月2日发布",
-      "summary": "乐相科技旗下Zeroth元点机器人宣布，全球首个具身Physical AI开源生态OpenBridge将于9月2日发布。其人形机器人Zeroth M1预订单已近3万台，正式交付计划于12月启动。",
-      "publishedAt": "2026-08-17T12:11:00+08:00",
-      "source": "CNMO",
-      "url": "https://ai.cnmo.com/news/816139.html",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260818-003",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "summary": "安全机构SSD Secure Disclosure披露紫光展锐调制解调器固件漏洞，攻击者可通过VoLTE视频通话结合此前RCE漏洞，利用调制解调器与应用处理器共享物理内存的缺陷获得安卓内核完全访问权限，厂商尚未发布补丁。",
-      "publishedAt": "2026-08-17",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260818-004",
-      "title": "我国成功发射SEO卫星",
-      "summary": "北京时间8月17日11时02分，我国在太原卫星发射中心使用长征二号丙运载火箭成功发射SEO卫星，卫星顺利进入预定轨道，发射任务圆满成功，为长征系列运载火箭第664次飞行。",
-      "publishedAt": "2026-08-17T11:54:22+08:00",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/17/content_564956.html",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260816-701",
-      "title": "微软听勝：新版 Win11 右键菜单预览，设计更简洁、支持添加自定义选项",
-      "summary": "微软在Win11右键菜单预览版中简化设计，默认仅显示常用操作如打开、复制路径等，移除此前引发争议的AI功能，新增自定义开关、OneDrive子菜单及刷新按钮，目前处于实验分支，未来数周将进入Windows预览体验计划测试。",
-      "publishedAt": "2026-08-16T16:12:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/296.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260816-705",
-      "title": "按键是负责保命的！多家车企用回实体按键：造价远高于大屏",
-      "summary": "据报道，奥迪、奔驰、大众、吉利、比亚迪、长安等多家车企正在新车型中重新采用实体按键，原因是纯触屏方案会延长驾驶员视线离开路面的时间，工信部拟更新汽车操控标准要求安全功能配备实体控制，欧洲2026年新车安全评价体系也将座舱交互纳入评分。",
-      "publishedAt": "2026-08-16T15:48:10+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144078.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260816-703",
-      "title": "SK海力士SSD发生故障 网友吐槽：故障产品不予换新 仅原价退款",
-      "summary": "有用户反映其SK海力士SSD发生故障后申请保修换新，厂商以库存不足为由拒绝换新，仅按官方保修政策以原价或市场价较低者进行退款，存储芯片涨价期间该政策使早期购买用户获得的赔偿低于当前市场价格。",
-      "publishedAt": "2026-08-16T14:58:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144075.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260816-702",
-      "title": "长征十二号运载火箭成功发射：卫星互联网低轨24组卫星进入预定轨道",
-      "summary": "中国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星送入预定轨道，卫星由航天科技集团五院研制，长征十二号由八院研制，可将至少12吨载荷送入近地轨道，此次为长征系列第663次飞行任务。",
-      "publishedAt": "2026-08-16T14:25:54+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144073.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260816-704",
-      "title": "倍思随身充45W移动电源首发289元：自带两条快充线 支持NFC可视交互",
-      "summary": "倍思推出一款45W快充移动电源，首发价289元，容量20000mAh，随附72cm伸缩线缆与20cm USB-C手柄线均支持45W输出，机身提供USB-C与USB-A接口各一个，配备NFC健康监测功能可显示电池温度、循环次数与健康状态，并采用石墨烯散热设计。",
-      "publishedAt": "2026-08-16T14:02:49+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144069.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260816-706",
-      "title": "WordPress 高风险漏洞\"XSS2Shell\"曝光：黑客可利用登录流程漏洞发起跨站脚本攻击",
-      "summary": "WordPress发堃7.0.3安全更新，修复登录页面存在的跨站脚本漏洞CVE-2026-64638（XSS2Shell），因两层过滤规则不一致导致恶意内容绕过净化，目前已被用于攻击全球67个国家超1.1万个网站，官方建议管理员尽快升级并排查异常账号与插件。",
-      "publishedAt": "2026-08-16T10:28:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/248.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260816-004",
-      "title": "大疆Osmo 360 II首销开门红！全渠道销量第一 三大平台霸榜",
-      "summary": "大疆Osmo 360 II全景相机上市首日登顶京东、天猫、抖音三大平台全景相机相关销量榜单，全渠道首日销量排名第一。该产品起售价3299元，支持双1/1.1英寸传感器、8K/60fps录制及1.2亿像素静态照片拍摄。",
-      "publishedAt": "2026-08-16T08:28:55+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144045.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260816-003",
-      "title": "2026 世界机器人大会展位图揭晓：8 月 19 日开幕，宇树科技、优必选等参展",
-      "summary": "2026世界机器人大会展位图公布，大会定于8月19日至23日在北京经济技术开发区举行，设智创馆、智造馆、智合馆等展馆，宇树科技、优必选等人形机器人企业将参展，智创馆展区面积约2万平方米。",
-      "publishedAt": "2026-08-16T08:11:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/220.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260816-005",
-      "title": "9年前钉子户神机还能战！小米6刷上澎湃OS 4：运行还挺流畅",
-      "summary": "有开发者为已发布9年的小米6手机刷入小米澎湃OS 4测试版系统，实测整体运行流畅，部分新特性可正常使用，但该版本仍存在漏洞，不适合作为日常主力机使用。小米6此前已停止官方MIUI 11之后的系统更新。",
-      "publishedAt": "2026-08-16T08:01:17+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144044.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260816-001",
-      "title": "关税高达127.5%也划算！谷歌Waymo自动驾驶公司已买3200辆中国汽车",
-      "summary": "谷歌旗下Waymo自2024年起已进口超3200辆中国吉利极氜电动车用于Robotaxi车队。尽管相关车型需缴纳127.5%关税，含税后单车成本加上自动驾驶硬件仍低于此前采用的捷豊雷I-PACE车型。",
-      "publishedAt": "2026-08-16T07:53:01+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144043.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260816-006",
-      "title": "小米详解澎程安全设计：标配9个碰撞传感器 电池热失控后不起火、爆炸",
-      "summary": "小米公布澎程车型安全设计细节，车辆前保险杠、前纵梁、前车门、B柱、C柱等位置标配9个碰撞传感器，用于更精确识别碰撞位置和方向。其龙甲电池经55摄氏度满电热安全测试，单体热失控后未出现热扩散、起火或爆炸。",
-      "publishedAt": "2026-08-16T07:26:35+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144042.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260816-007",
-      "title": "微信鸿蒙版又补齐一波功能！聊天发实况图片、自定义视频来电铃声全量上线",
-      "summary": "微信鸿蒙版更新上线聊天发送实况图片、自定义音视频通话铃声等功能，用户可将视频号内容设为铃声，并支持在视频评论区查看动态表情。腾讯方面表示目标是让鸻蒙版功能对齐甚至超越iOS版本。",
-      "publishedAt": "2026-08-16T07:18:06+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144041.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260816-002",
-      "title": "苹果想用长锦等中国存储：这事美国直接否决了！",
-      "summary": "苹果曾就采购长锦存储芯片向美国政府提交申请并完成多轮兼容性测试，用于缓解Mac产品线内存成本压力。美国商务部长卢特尼克公开反对该方案，称特朗普政府完全不认可此合作，苹果被迫放弃该供应链策略。",
-      "publishedAt": "2026-08-15T23:59:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144040.htm",
       "subCategory": "芯片硬件"
     }
   ]

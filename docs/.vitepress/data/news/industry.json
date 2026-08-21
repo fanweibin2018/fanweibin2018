@@ -3,8 +3,62 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-21T00:52:10+08:00",
+  "updatedAt": "2026-08-21T08:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260821-102",
+      "title": "OECD：2026年全球钢铁行业展望报告",
+      "summary": "OECD报告预测，到2028年全球钢铁过剩产能将达7.45亿吨，2025年全球钢铁需求下降2.6%，2026年仅微增0.4%；中国2025年钢铁出口1.31亿吨，占粗钢产量14%，行业已从周期性波动转为结构性过剩。",
+      "publishedAt": "2026-08-21",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1838046.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260821-103",
+      "title": "Ericsson：2026年6月全球移动报告",
+      "summary": "爱立信报告显示，全球5G用户数在2026年一季度突破31亿，当季新增1.62亿；移动网络月流量达210EB，同比增长22%，5G首次占全球移动数据流量的50%，预计2031年5G用户将达64亿。",
+      "publishedAt": "2026-08-21",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1837398.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260821-101",
+      "title": "TrendForce集邦咨询: 预估2026年中国人形机器人市场规模达150亿元人民币，商业化验收启动",
+      "summary": "TrendForce预估，2026年中国人形机器人市场规模将达150亿元人民币，2027年至少维持60%以上增速；智元机器人截至6月已累计出货1.5万台，优必选U1预订量达13361台，行业重心正从技术展示转向实际需求。",
+      "publishedAt": "2026-08-19",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.cn/presscenter/news/20260819-13190.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260821-105",
+      "title": "AI时代的战略抉择：塑造生命科学的未来",
+      "summary": "世界经济论坛与波士顿咨询联合报告指出，AI辅助分子设计已将早期研发周期由4至5年压缩至约8个月，一期临床成功率由40%至65%提升至约85%，临床试验延期减少38%，患者招募评估时间缩短45%。",
+      "publishedAt": "2026-08-19",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1832770.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260821-100",
+      "title": "TrendForce集邦咨询: 2Q26全球前五大NAND Flash品牌合计营收季增77%，达688.7亿美元",
+      "summary": "TrendForce报告显示，2026年第二季度AI服务器企业级SSD需求旺盛导致供不应求，前五大NAND Flash品牌合计营收季增77%至688.7亿美元，三星以230.6亿美元居首，美光营收季增99.2%升至第三。",
+      "publishedAt": "2026-08-18",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.cn/presscenter/news/20260818-13187.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260821-104",
+      "title": "Gartner预测：2026年全球AI推理支出将超训练支出 优化型IaaS成关键支撑",
+      "summary": "Gartner预测，2026年全球AI优化型IaaS支出将增长96%至420亿美元，其中推理支出233亿美元首次超过训练支出190亿美元，占比55%，2027年该比例将升至59%，市场规模预计达660亿美元。",
+      "publishedAt": "2026-08-14",
+      "source": "ITBear",
+      "url": "https://www.itbear.com.cn/html/2026-08/1499285.html",
+      "subCategory": "SaaS"
+    },
     {
       "title": "三星9月将为韩国牙山HBM新厂动工，投资规模达6万亿韩元",
       "summary": "据TrendForce报道,三星电子将于9月在韩国牙山园区动工建设投资规模达6万亿韩元的新HBM工厂;目前HBM4良率已提升至接近80%,平泽园区P5-1与P5-2拟改建为三倍产能结构,预计2030年建成后产能提升逾1.5倍。",
@@ -670,60 +724,6 @@
       "url": "https://www.199it.com/archives/1832141.html",
       "subCategory": "行业研报",
       "id": "industry-20260812-001"
-    },
-    {
-      "title": "Omdia: Middle East smartphone market falls 19% in 2Q26 amid vendors prioritize profitability",
-      "summary": "Omdia数据显示，2026年第二季度中东（不含土耳其）智能手机出货量同比附19%至1060万部，创该地区近三季度最大跌幅；入门机型跌42%，高端机型出货量创同期新高，均价同比涢25%至448美元。",
-      "publishedAt": "2026-08-12",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/middle-east-smartphone-market-falls-19percent-in-2q26-amid-vendors-prioritize-profitability",
-      "subCategory": "消费零售",
-      "id": "industry-20260812-007"
-    },
-    {
-      "id": "industry-20260812-601",
-      "title": "US Smartphone Sales Fall 5% YoY in Q2 2026 as Pricing Pressure Squeezes Low-end Segment",
-      "summary": "Counterpoint数据显示，2026年第二季度美国智能手机销量同比下降5%，苹果、三星、摩托罗拉、谷歌合计下恇4%，百元以下机型销量骤降64%，中小厂商跌45%。",
-      "publishedAt": "2026-08-12",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/us-smartphone-sales-fall-5-percent-q2-2026",
-      "subCategory": "消费零售"
-    },
-    {
-      "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
-      "summary": "台积电高管何军在行业论坛上表示，公司5.5倍光罩尺寸CoWoS先进封装良率已达99%，该2.5D异质集成方案在多家AI客户产品验证中良率稳定保持98%以上；公司计刳2029年前推硸0全15倍光罩尺寸的更大规格CoWoS方案。",
-      "publishedAt": "2026-08-12T11:48:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/988/698.htm",
-      "subCategory": "半导体产业",
-      "id": "industry-20260812-012"
-    },
-    {
-      "title": "TCL华星宣布独供 REDMI K100 Pro 系列屏幕：新一代自研发光材料、超级像素技术",
-      "summary": "TCL华星宣布独家供应REDMI K100 Pro系列屏幕，该屏幕为185Hz电竞专业屏，支持环偏光护眼与全程DC调光。屏幕采用TCL华星新一代自研C11发光材料结合超级像素技术，实现色彩、清晰度与亮度提升同时降低功耗。",
-      "publishedAt": "2026-08-12T08:38:58+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143062.htm",
-      "subCategory": "公司动态",
-      "id": "industry-20260812-004"
-    },
-    {
-      "title": "话语权提升！京东方牌头制定首项卷曲显示器件国际标准",
-      "summary": "京东方牌头制定的IEC 62715-6-42:2026国际标准正式发布，规定卷曲显示器件平整力机械测试方法，填补相关领域全球标准空白，已被英国标准协会采纳为英国国家标准。京东方OLED显示屏累计出超过6亿片，居国内第一、全球第二。",
-      "publishedAt": "2026-08-12T07:52:34+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143054.htm",
-      "subCategory": "公司动态",
-      "id": "industry-20260812-003"
-    },
-    {
-      "title": "卡位长江、长锤！海力士重启中国NAND闪存工厂建设 将产能扩大约50%",
-      "summary": "SK海力士在大连的NAND闪存工厂时隔四年重启建设，计划年底完成首批半导体生产设备安装调试，明年上半年实现正式量产。新产线月加工晶圆约5万片，加上现有厂区月产10万片，大连厂区总产能将提升约50%。",
-      "publishedAt": "2026-08-12T07:21:55+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1143/1143048.htm",
-      "subCategory": "半导体产业",
-      "id": "industry-20260812-002"
     }
   ]
 }
