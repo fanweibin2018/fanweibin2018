@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-22T18:00:00+08:00",
+  "updatedAt": "2026-08-23T00:52:00+08:00",
   "items": [
+    {
+      "title": "Automation Taipei 2026: If AI is advancing so fast, why is the factory floor still so hard to automate?",
+      "summary": "DIGITIMES在Automation Taipei 2026现场报道指出，尽管AI技术快速进步，制造现场的物理自动化改造依然进展缓慢，工厂产线智能化落地仍面临现实障碍。",
+      "publishedAt": "2026-08-22T09:08:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL211/taipei-2026-automation-industrial-taiwan.html",
+      "subCategory": "制造业",
+      "id": "industry-20260823-008"
+    },
+    {
+      "title": "Manz Asia says yield is key to glass core mass production",
+      "summary": "DIGITIMES报道，AI芯片需求推动先进封装从圆形晶圆转向方形面板；Manz Asia管理层表示，良率将是玻璃基板（Glass Core）能否实现规模化量产的关键因素。",
+      "publishedAt": "2026-08-22T09:07:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260819PD227/manz-asia-advanced-packaging-equipment-production.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-007"
+    },
     {
       "title": "途虎养车2026上半年门店近9000家，收入87.8亿同比增11.4%",
       "summary": "途虎养车披露2026年上半年运营数据，截至6月末门店达8825家、上半年净增817家，约65%新店位于低线城市；营收87.8亿元同比增11.4%，注册用户达1.75亿人。",
@@ -33,6 +51,15 @@
       "id": "industry-20260822-006"
     },
     {
+      "title": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM",
+      "summary": "寒武纪董事长陈天石透露，公司正研发面向大模型训练与推理的第六代AI芯片及指令集，并扩大对DeepSeek、通义千问、GLM等国产大模型的适配支持。",
+      "publishedAt": "2026-08-21T15:55:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821PD227/cambricon-deepseek-qwen-llm.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-009"
+    },
+    {
       "id": "industry-20260821-106",
       "title": "消息称特斯拉因\"财务可行性不足\"已停产Solar Roof太阳能屋顶瓦片产品",
       "summary": "据外媒Electrek报道，特斯拉已停止生产Solar Roof太阳能屋顶瓦片产品，主因是产品财务上不可行。公司已要求第三方安装商此后仅提供传统太阳能电池板，美国官网Solar Roof产品页面已重定向至太阳能电池板页面，能源业务菜单中的Solar Roof选项已被移除。",
@@ -40,6 +67,33 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/651.htm",
       "subCategory": "公司动态"
+    },
+    {
+      "title": "Xiaomi's Xring O3 nears launch on TSMC N3P, testing its in-house chip strategy",
+      "summary": "小米创始人雷军确认，新一代Xring O3芯片将采用台积电N3P制程并即将量产上市，标志小米自研芯片战略进一步向高端手机市场推进。",
+      "publishedAt": "2026-08-21T12:08:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL206/xiaomi-xring-launch-silicon-testing-tsmc.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-012"
+    },
+    {
+      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
+      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
+      "publishedAt": "2026-08-21T11:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-011"
+    },
+    {
+      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
+      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
+      "publishedAt": "2026-08-21T10:33:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-010"
     },
     {
       "title": "Korean display makers step up OLED patent push as China narrows technology gap",
@@ -240,6 +294,42 @@
       "subCategory": "行业研报"
     },
     {
+      "title": "Omdia: Africa smartphone market expected to decline 26% in 2026 following first contraction in three years",
+      "summary": "Omdia预测非洲智能手机市场2026年将萎缩26%，为三年来首次年度下滑；存储涨价推高机型均价至202美元，百美元以下机型出货同比骤降34%，三星逆势增长15%。",
+      "publishedAt": "2026-08-20",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/africa-smartphone-market-expected-to-decline-26percent-in-2026-following-first-contraction-in-three-years",
+      "subCategory": "行业研报",
+      "id": "industry-20260823-001"
+    },
+    {
+      "title": "Omdia: Foldable smartphone shipments will double to 36 million units by 2028",
+      "summary": "Omdia预测折叠屏手机全球出货量将在2028年增至3600万部、较2025年翻倍，年增逾20%；华为、三星推出的宽幅折叠新形态被视为拉动需求回暖的关键因素。",
+      "publishedAt": "2026-08-20",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/foldable-smartphone-shipments-will-double-to-36-million-units-by-2028",
+      "subCategory": "行业研报",
+      "id": "industry-20260823-002"
+    },
+    {
+      "title": "Samsung and Apple the Only Key Brands to Grow in a Declining LATAM Market in Q2 2026",
+      "summary": "Counterpoint数据显示，2026年二季度拉美智能手机市场同比萎缩10%，为2023年三季度以来最大跌幅；仅三星、苹果逆势增长，分别增长6%和5%，摩托罗拉、小米降幅明显。",
+      "publishedAt": "2026-08-20",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/samsung-apple-growth-latam-market-q2-2026",
+      "subCategory": "行业研报",
+      "id": "industry-20260823-004"
+    },
+    {
+      "title": "资金涌向高壁垒项目 投资锚定商业化成效——2026年上半年医疗器械领域融资情况盘点",
+      "summary": "行业盘点显示，2026年上半年中国医疗器械领域发生193起融资事件，披露总额162.69亿元；脑机接口以48.08亿元居首，资本加速向脑机接口、介入器械等高壁垒赛道集中。",
+      "publishedAt": "2026-08-20",
+      "source": "中国食品药品网",
+      "url": "https://m.cnpharm.com/c/2026-08-20/1104862.shtml",
+      "subCategory": "医疗健康",
+      "id": "industry-20260823-006"
+    },
+    {
       "title": "2026世界机器人大会开幕，373家企业参展3000余件产品",
       "summary": "2026世界机器人大会8月19日在北京开幕，373家国内外企业参展，展出3000余件产品，首发新品超150件，博览会规模较去年增长约36%，来自30家国际机构的逾500位专家学者参会。",
       "publishedAt": "2026-08-19T10:39:00+08:00",
@@ -373,6 +463,24 @@
       "url": "https://www.199it.com/archives/1846425.html",
       "subCategory": "行业研报",
       "id": "industry-20260820-012"
+    },
+    {
+      "title": "Omdia: AR display shipments to reach 21 million by 2030, surpass VR",
+      "summary": "Omdia预测2030年AR显示屏出货量将达2100万片，首次超越VR的1900万片；AR显示屏市场份额预计从2026年28%升至2032年57%，轻量化智能眼镜设计成为关键驱动力。",
+      "publishedAt": "2026-08-19",
+      "source": "Omdia",
+      "url": "https://omdia.tech.informa.com/pr/2026/aug/ar-display-shipments-to-reach-21-million-by-2030-surpass-vr",
+      "subCategory": "行业研报",
+      "id": "industry-20260823-003"
+    },
+    {
+      "title": "Global Humanoid Robot Shipments Soar Nearly 300% YoY in H1 2026, Driven by Commercial Deployments",
+      "summary": "Counterpoint数据显示，2026年上半年全球人形机器人出货超2.2万台，同比增长近300%；智元、宇树等五大厂商合计占86%份额，全年出货预计突破5万台。",
+      "publishedAt": "2026-08-19",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026",
+      "subCategory": "行业研报",
+      "id": "industry-20260823-005"
     },
     {
       "id": "industry-20260819-001",
@@ -616,114 +724,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608143841679635.html",
       "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260814-013",
-      "title": "中际旭创拟17.47亿元受让中石科栀10.47%股份",
-      "summary": "光模块厂商中际旭创公告，拟以17.47亿元协议受让中石科技控股股东所持10.47%股份，转让价格为每胂55.70元；中石科技当日股价涨停，双方在数据中心散热领域预计形成协同效应。",
-      "publishedAt": "2026-08-14T11:05:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-14/doc-ininhaiv9444066.shtml",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260814-014",
-      "title": "东方甲选：发现大量异常仅退款订单，犯罪嫌疑人已被采取刑事强制措施",
-      "summary": "东方甲选发布声明称，日常订单监测中发现大量异常退款订单，存在“襭羊毛式”黑灰产诈骗嫌疑，已报案并配合警方调查，一名张姓嫌疑人已被采取刑事强制措施，公司称将强化风控体系。",
-      "publishedAt": "2026-08-14T10:53:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/989/604.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260814-603",
-      "title": "肿瘤业务收入大增78%！盈康生命上半年营收破10亿元",
-      "summary": "盈康生呾2026年上半年营敂10.16亿元，同比增20.56%，肿瘤业务收入3.91亿元，同比增78%；AI主动健康管理平台已在4家医院应用，收入近千万元，仍处商业模式验证阶段。",
-      "publishedAt": "2026-08-14T09:37:00+08:00",
-      "source": "每日经济网",
-      "url": "https://www.nbd.com.cn/articles/2026-08-14/4541760.html",
-      "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260821-104",
-      "title": "Gartner预测：2026年全球AI推理支出将超训练支出 优化型IaaS成关键支撑",
-      "summary": "Gartner预测，2026年全球AI优化型IaaS支出将增长96%至420亿美元，其中推理支出233亿美元首次超过训练支出190亿美元，占比55%，2027年该比例将升至59%，市场规模预计达660亿美元。",
-      "publishedAt": "2026-08-14",
-      "source": "ITBear",
-      "url": "https://www.itbear.com.cn/html/2026-08/1499285.html",
-      "subCategory": "SaaS"
-    },
-    {
-      "id": "industry-20260814-601",
-      "title": "SanDisk Investor Day: Caching Out the NAND Cycle with Contracts",
-      "summary": "SanDisk投资者日公布FY2028-FY2030财务目标，营收年增中高双位数，非GAAP毛利率约80%；企业级SSD占全球NAND位出趋48%，去年同期为26%，公司市场份额维持12%-13%。",
-      "publishedAt": "2026-08-14",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/sandisk-investor-day-caching-out-the-nand-cycle-with-contracts",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260816-001",
-      "title": "卫龙美味上半年营收增长6.7% 派息比例达90%",
-      "summary": "卫龙美味发垃2026年中期业绩，上半年营攸玅37.15亿元，同比增长6.7%；净利润7.66亿元，同比增长4%，毛利率提升至47.8%。蔬菜制品收入占比升至65.7%，中期股息加特别股息合计每股0.28元，派息率约90%。",
-      "publishedAt": "2026-08-13T23:06:00+08:00",
-      "source": "证券时报网（卫龙美吃09985.HK）",
-      "url": "https://www.stcn.com/article/detail/4074591.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260814-005",
-      "title": "洛图科技：2026上半年中国消费级平板销量1278.7万台，同比下降18.6%",
-      "summary": "洛图科技数据显示，2026年上半年中国消费级平板电脑销量1278.7万台，同比下降18.6%，苹果以33.3%份额居首，华为、小米分列二三位，线上渠道占比超六成。",
-      "publishedAt": "2026-08-13T20:52:00+08:00",
-      "source": "洛图科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhn3221185.shtml",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260814-007",
-      "title": "eCarsTrade：2026年全球自动驾驶汽车普及准备度排名中国第一，美国第二",
-      "summary": "eCarsTrade发布2026年全球自动驾驶汽车普及准备度排名，中国居首、美国第二，中国Robotaxi累计订单超1700万单，百度Apollo Go已在27个城市提供服务。",
-      "publishedAt": "2026-08-13T20:52:00+08:00",
-      "source": "eCarsTrade",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3409723.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260814-008",
-      "title": "Lansweeper：2026年企业Win10占比16.9%，较2025年初附33个百分点",
-      "summary": "Lansweeper数据显示，2026年企业端Windows 10占比降至16.9%，较2025年初的约50%大幅下降，约14%设备购买了扩展支持更新，仍有27%2%设备处于无保护状态。",
-      "publishedAt": "2026-08-13T20:52:00+08:00",
-      "source": "Lansweeper",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4682325.shtml",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260814-001",
-      "title": "IDC：2026年Q2中国平板电脑出货量796万台，同比下降4.4%",
-      "summary": "IDC数据显示，2026年第二季度中国平板电脑出货量796万台，同比下降4.4%，其中消费级市场下滑9.8%，商用市场因备货需求增长，华为保持出货量第一，苹果、联想分列二三位。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "IDC",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4665288.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260814-002",
-      "title": "Counterpoint：2026年Q2全球NAND市场长江存储出货容量份额14%升至第三",
-      "summary": "Counterpoint数据显示，2026年第二季度全球NAND市场中三星份额25%、SK海力士22%，长江存储升至14%排名第三，出货容量同比增长22%，首次超过锆侠。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "Counterpoint Research",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhh4665306.shtml",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260814-003",
-      "title": "TrendForce：2026年Q2全球OLED显示器出货量环比增长26.1%，同比增长98%",
-      "summary": "TrendForce数据显示，2026年第二季度全球OLED显示器出货量环比增长26.1%，同比增长98%，华硕以23.1%份额领先，三星与微星份额差距缩小至0.3个百分点。",
-      "publishedAt": "2026-08-13T20:22:00+08:00",
-      "source": "TrendForce",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineqhm3392701.shtml",
-      "subCategory": "行业研报"
     }
   ]
 }

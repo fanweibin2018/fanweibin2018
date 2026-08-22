@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-22T18:00:00+08:00",
+  "updatedAt": "2026-08-23T00:52:00+08:00",
   "items": [
     {
       "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
@@ -85,6 +85,33 @@
       "source": "中央网络安全和信息化委员会",
       "url": "https://www.cac.gov.cn/2026-08/21/c_1789061448529863.htm",
       "subCategory": "数字经济"
+    },
+    {
+      "title": "网信办发布《促进网信企业高质量发展行动计划（2026-2030年）》",
+      "summary": "中央网信办发布行动计划，从企业梯度培育、核心技术攻关（芯片、软件、人工智能、量子计算、区块链）、赋能实体经济、拓展国际市场、安全运营、法治环境、公平竞争、要素保障等九方面推动网信企业做优做强，并强调防范垄断、保障数据与网络安全。",
+      "publishedAt": "2026-08-21",
+      "source": "中央网信办",
+      "url": "https://www.cac.gov.cn/2026-08/21/c_1789061449039952.htm",
+      "subCategory": "数字经济",
+      "id": "policy-20260823-001"
+    },
+    {
+      "title": "财政部：发挥积极财政政策作用，推动经济社会高质量发展",
+      "summary": "国新办举行“十五五”开局系列发布会，财政部副部长廖岷等介绍“十五五”时期财政工作六方面部署，包括零基预算改革、防范化解地方隐性债务风险、理顺央地财政关系，并披露相关消费与投资支持政策已惠及1.13亿居民和622万家企业。",
+      "publishedAt": "2026-08-21",
+      "source": "财政部",
+      "url": "http://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202608/t20260821_3995927.htm",
+      "subCategory": "产业政策",
+      "id": "policy-20260823-002"
+    },
+    {
+      "title": "UK grants development consent for Beacon Fen Energy Park solar and battery storage project",
+      "summary": "英国能源安全与净零部门批准Beacon Fen Energy Park开发许可，项目包含400兆瓦光伏电站及最高600兆伏安电池储能设施，历经六个月审查程序，为已批准的180个能源项目申请中的第112个。",
+      "publishedAt": "2026-08-21",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced",
+      "subCategory": "新能源政策",
+      "id": "policy-20260823-003"
     },
     {
       "title": "商务部电子商务司负责人介绍2026年1-7月我国电子商务发展情况",
@@ -697,33 +724,6 @@
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-ditches-disparate-impact",
       "subCategory": "海外政策",
       "id": "policy-20260808-005"
-    },
-    {
-      "id": "policy-20260807-001",
-      "title": "关于对派拓公司在华销售产品启动网络安全审查的公告",
-      "summary": "国家网络安全审查办公室发布公告，依据国家安全法、网络安全法及网络安全审查办法等规定，对美国派拓网络公司在华销售产品启动网络安全审查，以保障关键信息基础设施安全稳定运行，防范网络安全风险隐患，维护国家安全。",
-      "publishedAt": "2026-08-06T17:00:00+08:00",
-      "source": "国家网信办",
-      "url": "https://www.cac.gov.cn/2026-08/06/c_1787764332950791.htm",
-      "subCategory": "数据安全"
-    },
-    {
-      "id": "policy-20260807-002",
-      "title": "工业和信息化部关于印发《民用爆炸物品行业安全发展\"十五五\"规划》的通知",
-      "summary": "工业和信息化部印发工信部规〔2026〕171号文件《民用爆炸物品行业安全发展\"十五五\"规划》，要求各省、自治区、直辖市及新疆生产建设兵团民爆行业主管部门结合实际认真贯彻实施，推动行业安全发展。",
-      "publishedAt": "2026-08-06T14:39:00+08:00",
-      "source": "工业和信息化部",
-      "url": "https://www.miit.gov.cn/jgsj/aqs/wjfb/art/2026/art_c6e5d226d71343fcb3a7236421b968ae.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "国家药监局发布首个化妆品强制性国家标准《化妆品安全通用要求》",
-      "summary": "国家药监局8月6日发布首个化妆品强制性国家标准《化妆品安全通用要求》，代替1987年旧标准，2028年1月1日起实施。新标准将儿童化妆品保护年龄扩大至12周岁以下，微生物限值比普通产品严格十倍，并新增重金属限量要求。",
-      "publishedAt": "2026-08-06T10:24:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-06/10672787.shtml",
-      "subCategory": "产业政策",
-      "id": "policy-20260806-700"
     }
   ]
 }

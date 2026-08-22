@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-22T18:00:00+08:00",
+  "updatedAt": "2026-08-23T00:52:00+08:00",
   "items": [
+    {
+      "title": "Bitcoin Tops US$78,000 as Crypto Rally Widens",
+      "summary": "比特币8月22日涨至78335美元，以太坊涨至2515美元，XRP涨至1.4538美元；行情受美元走弱、监管表态偏松及机构资金流入推动，当日比特币现货ETF净流入约6.06亿美元，贝莱德占比83%。",
+      "publishedAt": "2026-08-22T15:38:00+08:00",
+      "source": "The Rio Times",
+      "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-august-22-2026/",
+      "subCategory": "宏观经济",
+      "id": "finance-20260823-001"
+    },
+    {
+      "title": "美财长周一公布对伊朗新制裁 中国成焦点",
+      "summary": "美财长贝森特称将于8月24日公布对伊朗新一轮经济制裁，因中国购买伊朗逾八成海运原油出口而成为关注焦点；数据显示中国8月伊朗原油进口已降至日均约53.4万桶，独立炼厂正寻求巴西、伊拉克等替代供应。",
+      "publishedAt": "2026-08-22T14:31:00+08:00",
+      "source": "大纪元",
+      "url": "https://www.epochtimes.com/gb/26/8/22/n14834535.htm",
+      "subCategory": "风险事件",
+      "id": "finance-20260823-004"
+    },
+    {
+      "title": "黄金跌价，金条跌价，2026年8月22日，各大金店黄金、金条最新价格最新定价",
+      "summary": "2026年8月22日，上海黄金交易所现货金价报980.6元/克，回收价965元/克；周生生等品牌金店挂牌价约1361至1365元/克；香港金价报51653港元/两。",
+      "publishedAt": "2026-08-22T06:54:00+08:00",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260822A0254A00",
+      "subCategory": "大宗商品",
+      "id": "finance-20260823-002"
+    },
     {
       "title": "美股周五收高但全周下跌，比特币单日暴涨5.7%创逗三个月新高",
       "summary": "美东时间8月21日，道指涨0.98%报53277.01点，标普500涨0.43%报7674.37点，纳指涨0.43%报26180.46点；但全周三大指数均下跌，纳指周跌2%。比特币收盘暴涨5.74%至77908.91美元，本周累计上涨22%。10年期美债收益率报4.73%，30年期升至5.27%附近。",
@@ -13,6 +40,15 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
       "subCategory": "美股",
       "id": "finance-20260822-001"
+    },
+    {
+      "title": "新浪贵金属热点小时报丨2026年08月22日04时",
+      "summary": "COMEX黄金期货时隔三个月重新站上4600美元/盎司，受美元走弱、美债收益率下行、美财政部扩大长债回购规模及各国央行持续购金等因素支撑，机构资金持续流入黄金ETF。",
+      "publishedAt": "2026-08-22T04:00:00+08:00",
+      "source": "新浪财经",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908kekk.html?from=finance",
+      "subCategory": "大宗商品",
+      "id": "finance-20260823-003"
     },
     {
       "id": "finance-20260821-202",
@@ -688,42 +724,6 @@
       "source": "新浪财经（新华社）",
       "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhq3638326.shtml",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260815-607",
-      "title": "Crypto Market Analysis: Bitcoin Slips Toward $62,800 as Post-CPI Rally Fails to Materialize",
-      "summary": "周末清淡交投中，比特币报62812.32美元，24小时跌0.92%，一周跌3.34%。尽管7月CPI数据符合预期，通胀降温未能带来预期中的反弹行情，现货比特币ETF在CPI公布后出现资金流出。",
-      "publishedAt": "2026-08-15T09:56:00+08:00",
-      "source": "cryptonews.net",
-      "url": "https://cryptonews.net/news/bitcoin/33299646/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260815-602",
-      "title": "Anthropic第二财季营收超过115亿美元，较上年同期跃升至少13倍",
-      "summary": "美国AI公司Anthropic向潜在投资者披露，其最近一个完整季度初步营收超过115亿美元，去年同期为7.87亿美元，今年一季度为47.3亿美元，二季度调整后营业利涤转正，相关数据仍可能调整。",
-      "publishedAt": "2026-08-15T06:00:58+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusz8944454.shtml",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260815-503",
-      "title": "美股三大指数⁸月₁₄日收跌，但仍收获连续第三周上涨",
-      "summary": "美国三大股指⁸月₁₄日周五收盘齐跌，标普500指数跌0.17%报7785.76点，道指跌0.2%报3732.41点，纳指跌0.28%至26729.16点，受7月零售销售环比降0.6%及消费者信心走弱拖累，三大指数仍收获连续第三周上涨。",
-      "publishedAt": "2026-08-14T15:03:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260815-601",
-      "title": "全球一周最大融资：Databricks再获50亿美元融资，估值达1900亿美元",
-      "summary": "美国数据平台公司Databricks完成新一轮50亿美元融资，由Coatue领投，黑石、MGX等机构参投，公司估值达到1900亿美元，第二季度营收同比增长超80%。",
-      "publishedAt": "2026-08-15T03:32:36+08:00",
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
-      "subCategory": "一级市场"
     }
   ]
 }

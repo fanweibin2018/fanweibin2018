@@ -3,8 +3,152 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-22T18:00:00+08:00",
+  "updatedAt": "2026-08-23T00:52:00+08:00",
   "items": [
+    {
+      "title": "Linux 7.3 新增 AMD 低功耗核心支持，统一英特尔和 AMD 核心类型处理",
+      "summary": "Linux 7.3内核新增AMD低功耗核心识别类型，将不同厂商特定核心类型统一映射为通用CPU核心类型，同时改进调度器以优化老旧硬件游戏性能与短时间片任务延迟，MSR接口也将从32位过渡至64位。",
+      "publishedAt": "2026-08-22T23:23:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/115.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260823-012"
+    },
+    {
+      "title": "微软 Windows IKE 严重漏洞确认已遭恶意利用：攻击者无需认证即可远程执行代码",
+      "summary": "微软确认Windows IKE扩展存在严重漏洞CVE-2026-33824（CVSS 9.8），攻击者可发送特制UDP 500/4500端口数据包，在未认证情况下远程执行代码，CISA确认该漏洞已遭在野利用，微软4月更新已修复。",
+      "publishedAt": "2026-08-22T23:15:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/113.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260823-001"
+    },
+    {
+      "title": "中诚华隆 HL200 推理芯片发布：能效比 5.12 TFLOPS/W、集群最高可扩展至万卡",
+      "summary": "国产芯片厂商中诚华隆发布HL200推理芯片，单卡FP4算力4P、FP8算力2P，能效比达5.12 TFLOPS/W，支持单节点1024卡纵向堆叠、集群最高扩展至万卡规模，主打低精度推理场景。",
+      "publishedAt": "2026-08-22T22:32:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/108.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260823-005"
+    },
+    {
+      "title": "全球首款全自主打网球机器人亮相，与运动员开展人机混双对打",
+      "summary": "银河通用发布全球首款全自主打网球机器人“银河星仔”，采用LATENT深度强化学习算法自主掌握网球技能，可在0.1秒内锁定时速50公里来球，正手成功率90.9%，并与演员、网球冠军郑洁展开人机混双表演赛。",
+      "publishedAt": "2026-08-22T22:23:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/107.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260823-006"
+    },
+    {
+      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
+      "summary": "第二届世界人形机器人运动会在北京“冰丝带”开幕，来自16国的666支队伍、2056台机器人参赛，设51个赛项、超1300场比赛，天工Ultra机器人以9.39秒刷新百米最好成绩，多个项目取消人工遥控要求全程自主运行。",
+      "publishedAt": "2026-08-22T22:13:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/105.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260823-007"
+    },
+    {
+      "title": "保护苹果 macOS 用户：微软用行为追踪取代域名封禁，成功识别超 30 个 MacSync 关联域名",
+      "summary": "微软Defender团队通过行为追踪而非单纯封禁域名，成功识别出超30个与macOS窃密软件MacSync Stealer关联的域名；该恶意软件通过ClickFix钓鱼诱导用户执行终端命令，窃取密码、Keychain密钥及加密货币钱包等数据。",
+      "publishedAt": "2026-08-22T21:46:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/104.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260823-002"
+    },
+    {
+      "title": "长城魏牌 V8X 开启交付：定位大五座旗舰 SUV 车型，指导价 23.98-31.58 万元",
+      "summary": "长城魏牌V8X在成都车展启动交付，定位大五座旗舰SUV，指导价23.98万至31.58万元，搭载超级Hi4混动系统，综合功率500kW，馈电油耗下零百加速4.7秒，纯电续航（CLTC）达402公里。",
+      "publishedAt": "2026-08-22T20:12:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/090.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260823-009"
+    },
+    {
+      "title": "WordPress 扩展 W3 Total Cache 曝出 CVSS 满分重大漏洞，可允许黑客写入任意文件",
+      "summary": "WordPress缓存插件W3 Total Cache曝出CVSS满分（10.0）漏洞CVE-2026-18051，因缓存文件路径限制失效，攻击者可向服务器任意目录写入文件，该插件安装量超90万，官方已发布2.10.5修复版本。",
+      "publishedAt": "2026-08-22T20:09:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/088.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260823-003"
+    },
+    {
+      "title": "研究人员曝光美国 NASA 地面控制软件 AIT-GUI 存在严重安全漏洞，可导致黑客向飞船发送任意指令",
+      "summary": "安全公司Cycode披露NASA地面控制软件AIT-GUI存在CVSS 9.4高危漏洞，因缺乏身份验证、权限控制与CSRF防护，攻击者可诱导操作员访问恶意页面进而向航天器发送未经授权指令，NASA已于8月12日发布2.5.2修复版。",
+      "publishedAt": "2026-08-22T19:53:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/085.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260823-004"
+    },
+    {
+      "title": "宇树多款产品将参加第二届世界人形机器人运动会，因精力侧重量产缩减部分参赛项目",
+      "summary": "宇树科技宣布携多款产品参加第二届世界人形机器人运动会，但因量产任务优先及新机型测试工作繁重，缩减了部分已报名的参赛项目，运动会将持续至8月26日。",
+      "publishedAt": "2026-08-22T19:27:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/083.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260823-008"
+    },
+    {
+      "title": "OpenZFS 2.4.4 发布，新增 Linux 7.2 内核支持",
+      "summary": "OpenZFS发布2.4.4版本，新增对Linux 7.2内核的支持，覆盖4.18至7.2内核区间，新增zhack mmp reclaim命令用于恢复被多修改保护锁定的存储池，并修复克隆数据块读取等问题。",
+      "publishedAt": "2026-08-22T18:37:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/078.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260823-013"
+    },
+    {
+      "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
+      "summary": "雷鸟推出iO AI眼镜，主打“全天智记”功能，可持续采集语音并转写、总结为文字，整机重34克，支持55种语言实时翻译及AI实时提词，240mAh电池可支持约两天使用。",
+      "publishedAt": "2026-08-22T18:20:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/065.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260823-014"
+    },
+    {
+      "title": "TikTok 将支付 4 亿美元与美国司法部和解，以解决儿童隐私指控",
+      "summary": "TikTok同意支付4亿美元与美国司法部达成和解，以解决儿童隐私保护相关指控；诉讼源于此前政府指控其未经适当授权与家长同意收集13岁以下儿童个人信息，和解要求加强年龄验证与家长监管功能。",
+      "publishedAt": "2026-08-22T18:15:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/061.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260823-016"
+    },
+    {
+      "title": "特斯拉回应近 300 万辆召回：无需全部进店，贴纸 3 年内随时可领",
+      "summary": "特斯拉回应近300万辆车型召回：因应急机械门把手与内饰颜色接近、不易辨识，将通过粘贴警示标签及OTA升级实现事故后自动降窗，车主无需全部到店，标签可在三年内随时领取。",
+      "publishedAt": "2026-08-22T17:58:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/052.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260823-010"
+    },
+    {
+      "title": "消息称 OPPO 阔直板机型进版测试，小屏手机项目暂停",
+      "summary": "消息称OPPO阔直板机型已进入版本测试阶段，此前规划的小屏手机项目暂停，分析认为原因是小屏性能机市场接受度不足，此前iQOO 15 mini小屏项目也已被取消。",
+      "publishedAt": "2026-08-22T17:48:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/048.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260823-015"
+    },
+    {
+      "title": "极氪发布最新概念车0.01：6岁孩童操刀设计",
+      "summary": "极氪在2026成都车展发布特别概念车“极氪0.01”，其设计源自一名6岁儿童在儿童节创作活动中绘制的“玄甲雷霆赛车”，由主持人董浩主持发布仪式，是车企与青少年创意结合的营销尝试。",
+      "publishedAt": "2026-08-22T16:35:52+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1145/1145635.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260823-011"
+    },
     {
       "id": "tech-20260822-014",
       "title": "华为新款移动电源通过3C认证：20000mAh级容量，支持双向100W快充",
@@ -139,6 +283,15 @@
       "url": "https://www.ithome.com/0/992/888.htm",
       "subCategory": "XR-AR-VR",
       "id": "tech-20260822-007"
+    },
+    {
+      "title": "The New MCP Roadmap",
+      "summary": "Model Context Protocol维护团队发布新版路线图，聚焦五大方向：智能体消息原语、HTTP原生传输统一、企业级身份与安全、工具结果处理等基础能力改进，以及SDK开发体验优化，并邀请社区通过工作组与SEP提案参与。",
+      "publishedAt": "2026-08-22",
+      "source": "MCP Blog",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260823-017"
     },
     {
       "id": "tech-20260822-020",
@@ -571,159 +724,6 @@
       "url": "https://www.ithome.com/0/991/884.htm",
       "subCategory": "操作系统",
       "id": "tech-20260820-028"
-    },
-    {
-      "title": "NASA宣布放弃拯救Swift天文台，其年底前将坠入大气层",
-      "summary": "NASA宣布放弃拯救尼尔·盖尔斯·斯威夫特天文台，此前私营救援飞行器LINK在任务中出现失控旋转问题；受太阳活动加剧轨道衰减影响，该望远镜预计将在今年年底前坠入大气层烧毁。",
-      "publishedAt": "2026-08-20T08:00:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/882.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260820-027"
-    },
-    {
-      "title": "曝英特尔8核Panther Lake掌机处理器cTDP功耗8~25W",
-      "summary": "曝料称英特尔计划推出面向掌机的入门级Panther Lake处理器，可配置热设计功耗为8~25W，配备4个性能核心、4个低功耗核心及4个Xe3图形核心，定位效能优于Arc G3系列。",
-      "publishedAt": "2026-08-20T07:44:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/877.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260820-026"
-    },
-    {
-      "title": "亚马逊推送更新，封堵用户备份Kindle Oasis电子书路径",
-      "summary": "亚马逊为Kindle Oasis推送新固件更新，采用与多数Kindle设备相同的加密方案，使用户备份已购电子书变得更加困难，当前最新固件版本号为5.18.2.1.1。",
-      "publishedAt": "2026-08-20T07:30:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/875.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-025"
-    },
-    {
-      "title": "三星宣布8月27日举办Galaxy发布会，有望推出S26 FE",
-      "summary": "三星宣布将于8月27日举行Galaxy新品发布会，预计推出Galaxy S26系列及Galaxy S26 FE机型，新机主打影像与AI功能，配备5000万像素主摄三摄组合、Exynos 2500处理器及6.7英寸120Hz屏幕。",
-      "publishedAt": "2026-08-20T07:14:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/872.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-024"
-    },
-    {
-      "title": "三星Galaxy A58和Galaxy Xcover FR手机踪迹曝光",
-      "summary": "GSMA IMEI数据库显示三星Galaxy A58（型号SM-A5860）与Galaxy Xcover FR（型号SM-G778B）两款新机信息，前者为Galaxy A57后续机型，预计2027年一季度发布，后者定位工业与恶劣环境三防机型。",
-      "publishedAt": "2026-08-20T07:10:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/870.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-023"
-    },
-    {
-      "title": "苹果Beats 360头戴式耳机偷跑，降噪号称达Studio Pro 1.75倍",
-      "summary": "苹果旗下未发布的Beats 360头戴式耳机现身亚马逊英国站等电商平台，外形采用类似AirPods Max的网状织物圆润设计，主动降噪能力号称达到Beats Studio Pro的1.75倍，并支持IPX4防水。",
-      "publishedAt": "2026-08-20T06:45:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/867.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-022"
-    },
-    {
-      "title": "特斯拉Robotaxi撞穿路障后继续行驶，此前宣称安全记录无可挖剔遭反噬",
-      "summary": "美国得州一辆特斯拉Robotaxi检测到路障后仍撞穿并继续行驶，与此前特斯拉AI副总裁宣称车队已完成38万英里“无可挖剔”安全记录的说法形成反差，其测试规模仍远小于Waymo超2.2亿英里的无人驾驶里程。",
-      "publishedAt": "2026-08-20T00:14:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/865.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260820-001"
-    },
-    {
-      "title": "国产液电混驱超人形机器人首秀，身高达4米",
-      "summary": "2026世界机器人大会上，一款国产液电混合驱动超人形机器人首次亮相，机身高度约4米，通过数字液压技术与电机结合，突破从公斤级到千吨级的力量限制，可用于核设施维护、深海作业及工业物流等场景。",
-      "publishedAt": "2026-08-20",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/899.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260820-032"
-    },
-    {
-      "title": "赵长江详解智界RX智能环抱座椅：98个压力传感器+27个气袋",
-      "summary": "华为智界RX电动SUV配妅98个压力传感器与27个气袋的自适应座椅系统，通过算法持续优化支撑力度，车身采用镁铝合金轻量化框架，较传统钢制结构减重约8公斤。",
-      "publishedAt": "2026-08-19T23:39:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/863.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260820-002"
-    },
-    {
-      "title": "红魔游戏平杷5 PRO氘锋透明银翅版本月21日开售",
-      "summary": "红魔游戏平杷5 PRO「氘锋透明银翅」配色将于8月21日10点10分开售，国补后起售价4499元，产品总经理表示因产能限制该配色首批只能满足部分用户需求。",
-      "publishedAt": "2026-08-19T23:20:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/861.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-005"
-    },
-    {
-      "title": "599元起，芒米AIR Y系列竖版掌机开售",
-      "summary": "芒米竖版掌机AIR Y系列开售，共三个版本，售价599至1199元，标准版搭载骁龙662处理器，Pro版搭载骁龙865处理器，均配备4.2英寸1280×960屏幕与5000mAh电池，运行安卓14系统。",
-      "publishedAt": "2026-08-19T23:17:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/860.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-021"
-    },
-    {
-      "title": "亚马逊Alexa+免费登陆全美所有受支持的Fire TV设备",
-      "summary": "亚马逊宣布原价每月19.99美元的AI助手Alexa+免费向全美所有受支持的Fire TV设备开放，支持对话式搜索、智能家居控制等功能，覆盖现有Fire TV Stick、Fire TV Cube及海信、松下等品牌智能电视。",
-      "publishedAt": "2026-08-19T23:15:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/859.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260820-014"
-    },
-    {
-      "title": "嫦娥七号发射在即，将赴月球南极寻找水冰",
-      "summary": "我国探月工程嫦娥七号任务即将实施发射，探测器将前往月球南极寻找水冰，任务需突破精准软着陆、月面移动等多项关键技术，为国际月球科研站建设积累数据支持。",
-      "publishedAt": "2026-08-19T22:56:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/855.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260820-020"
-    },
-    {
-      "title": "天马高端OLED“天工屏”2.0发布会定档8月26日",
-      "summary": "天马微电子宣布旗下高端OLED技术品牌“天工屏”2.0版本发布会将于8月26日举行，在厦门设线下会场并同步线上直播，官方称新版本将在光谱材料及护眼透光等方面升级。",
-      "publishedAt": "2026-08-19T22:40:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/852.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260820-019"
-    },
-    {
-      "title": "索尼平价降噪耳机WH-1000XM4C信息曝光，砍掉NFC续航略降",
-      "summary": "索尼 WH-1000XM4C作为WH-1000XM4的降配版本，支持蓝牙6.0，取消NFC功能，开启降噪后续航27小时（原版30小时），仍保留QN1芯片与40mm动圈单元，欧洲预估售价约250欧元。",
-      "publishedAt": "2026-08-19T22:40:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/851.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-006"
-    },
-    {
-      "title": "消息称鸿蒙智行问界儿童车定价约1.58万元",
-      "summary": "有消息称鸿蒙智行问界儿童车定价约15800元，该车型由赛力斯与华为联合设计，外观模仿旗舰问界M9，配备大尺寸轮毂造型及前挡风玻璃处摄像头，为双座小型电动儿童车。",
-      "publishedAt": "2026-08-19T22:17:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/847.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-018"
-    },
-    {
-      "title": "Win11旧版Media Player再遭削弱，微软引导用户改用新版应用",
-      "summary": "微软在Windows 11最新预览版29648.1000中移除旧版Media Player的字幕控制功能，并引导用户改用新版应用。旧版启动更快、内存占用仅103.4MB（新版377MB），但缺乏现代编解码器支持，需额外购买HEVC扩展。",
-      "publishedAt": "2026-08-19T22:02:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/845.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260820-015"
     }
   ]
 }
