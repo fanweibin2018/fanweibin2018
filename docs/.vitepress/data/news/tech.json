@@ -3,8 +3,116 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-21T23:55:00+08:00",
+  "updatedAt": "2026-08-22T09:25:00+08:00",
   "items": [
+    {
+      "title": "上汽MG07大定破万仅用时1分57秒破MG4纪录，限时补贴价10.59万元起",
+      "summary": "上汽MG07在2026成都车展上市，大定破万仅用1分57秒，刷新MG4的39分37秒纪录，限时补贴价10.59万元起，搭载8295P芯片、15.6英寸2.5K中控屏及Momenta R7辅助驾驶，纯电版最大续航845公里。",
+      "publishedAt": "2026-08-22T08:36:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/906.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260822-009"
+    },
+    {
+      "title": "微软Win11将精细化管理统一内存，调控图形和AI预留容量",
+      "summary": "微软在Win11预览版Build 29648.1000中发现IntelligentCarveout等统一内存管理功能，允许CPU、GPU等共享高速内存池，用户可调整为图形、游戏或本地AI模型预留的内存容量，具体上线时间未公布。",
+      "publishedAt": "2026-08-22T08:21:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/904.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260822-002"
+    },
+    {
+      "title": "5G商用网络实现十厘米级定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
+      "summary": "爱立信与联发科基于3GPP标准的GNSS RTK技术，在5G商用网络上完成全球首次端到端高精度定位测试，室外场景实现亚30厘米级稳定精度，可支持自动驾驶、无人机及工业机器人定位需求。",
+      "publishedAt": "2026-08-22T08:14:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/903.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260822-001"
+    },
+    {
+      "title": "抖音\"验证助手\"升级：可查验\"二维码\"是否为抖音官方活动",
+      "summary": "抖音升级验证助手工具，用户可查验收到的活动二维码是否为官方发布，应对不法分子伪造周年庆礼品卡等至少十种诈骗话术，抖音强调平台不会通过邮寄卡片或外部链接索要个人信息。",
+      "publishedAt": "2026-08-22T08:12:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/902.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260822-005"
+    },
+    {
+      "title": "微软Win11 26H2将默认启用\"时光机\"：每隔24小时创建备份、最高占用50GB存储",
+      "summary": "微软将在Win11 26H2默认启用时间点还原功能，系统每24小时自动创建备份、最多保留72小时还原点，占用存储上限50GB，仅适用于未托管的家庭版和专业版，系统盘需200GB以上方可自动开启。",
+      "publishedAt": "2026-08-22T08:09:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/901.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260822-003"
+    },
+    {
+      "title": "华为鸿蒙HarmonyOS存量设备API占比数据更新，7.0.0 Beta2达4.65%",
+      "summary": "华为开发者平台更新截至8月20日的HarmonyOS存量设备API版本占比，6.1.1版本占比84.93%，6.1.0以上版本合计占97.27%，新发布的7.0.0 Beta2已达到4.65%的设备占比。",
+      "publishedAt": "2026-08-22T08:01:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/900.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260822-004"
+    },
+    {
+      "title": "英特尔下代核显Linux驱动默认支持Nova Lake：S/HX系列无缘光追",
+      "summary": "Mesa最新代码将英特尔Nova Lake系列S、U、H、HX核显图形支持由实验状态转为稳定并默认启用，Iris和ANV驱动无需再手动开启force_probe参数，其中桌面S系列与高端移动HX系列不具备硬件光线追踪能力。",
+      "publishedAt": "2026-08-22T07:59:34+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1145/1145569.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260822-006"
+    },
+    {
+      "title": "微软应用引导Chrome/Firefox等浏览器设Bing为默认搜索引擎，相关扩展拥有500万用户",
+      "summary": "微软发布独立安装包，引导用户在Edge、Firefox、Chrome、Brave浏览器中将Bing设为默认搜索引擎，配套Chrome扩展已有500万用户，安装完成后会跳转至微软Rewards页面。",
+      "publishedAt": "2026-08-22T07:43:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/895.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260822-012"
+    },
+    {
+      "title": "通过自动化系统封禁司机账户，Uber优步被荷兰罚款8.25亿欧元",
+      "summary": "荷兰数据保护机构以Uber未充分告知即通过自动化系统封禁司机账号为由处以8.25亿欧元罚款，为欧洲史上第二大GDPR罚单，涉及2018至2022年间投诉，2021年欧洲共126名司机因低评分被永久封号，Uber表示将提起上诉。",
+      "publishedAt": "2026-08-22T07:43:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/894.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260822-011"
+    },
+    {
+      "title": "全新一代智己LS6\"陆上A320\"官宣9月见，定位\"家庭SUV\"",
+      "summary": "上汽智己在2026成都车展宣布新一代LS6将于9月发布，命名陆上A320，定位家庭SUV，标配NEO三电架构、全功能底盘控制及IM CLAW智能系统，现款车型纯电版起售19.79万元，综合续航超1500公里。",
+      "publishedAt": "2026-08-22T07:36:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/893.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260822-010"
+    },
+    {
+      "title": "苹果14英寸M6 MacBook Pro前瞻：12核GPU、200GB/s内存带宽、升级均热板散热",
+      "summary": "据AppleInsider报道，苹果下一代入门级14英寸MacBook Pro（代号J804）预计2026年末或2027年初发布，M6芯片将升级为12核GPU、内存带宽提升至200GB/s，并扩大均热板覆盖范围以降低持续高负载下的降频。",
+      "publishedAt": "2026-08-22T07:24:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/892.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260822-013"
+    },
+    {
+      "title": "消息称苹果收缩Vision Pro相关业务，波及Siri等团队裁员共约200人",
+      "summary": "据报道苹果启动组织调整，解散Vision Pro游戏开发团队并缩减沉浸式视频制作团队，涉及约100人，Siri团队同步裁员约100人，公司称将根据用户实际使用情况调整业务重心，沉浸式内容未来更依赖第三方合作。",
+      "publishedAt": "2026-08-22T06:48:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/888.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260822-007"
+    },
     {
       "id": "tech-20260821-206",
       "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
@@ -166,6 +274,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/428.htm",
       "subCategory": "互联网产品"
+    },
+    {
+      "title": "微软Entra ID曝出被在野利用的严重漏洞CVE-2026-69836",
+      "summary": "微软修复Entra ID云身份平台中CVSS满分10.0的严重漏洞CVE-2026-69836，该漏洞源于不可信数据反序列化，可致未授权远程代码执行，已被在野利用，微软称已完全缓解，无需用户操作。",
+      "publishedAt": "2026-08-21",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260822-008"
     },
     {
       "id": "tech-20260821-112",
@@ -607,123 +724,6 @@
       "url": "https://www.ithome.com/0/991/825.htm",
       "subCategory": "航空航天",
       "id": "tech-20260820-013"
-    },
-    {
-      "title": "京东WRC 2026发布机器人战略，计划到2028年投入百亿级资源",
-      "summary": "京东在2026世界机器人大会上发布机器人战略，计划到2028年投入百亿级资源，助力100个机器人品牌各自实现超10亿元销售额，并建设80个RoboBase基地，目前已与超200个机器人品牌展开合作。",
-      "publishedAt": "2026-08-19T20:13:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/821.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260820-012"
-    },
-    {
-      "title": "华为新款平板AST系列通过星闪联盟测试，部分型号支持星闪音频",
-      "summary": "华为新款AST系列平板通过星闪联盟认证，消息称部分型号将支持星闪音频技术，该技术可实现最高16Mbps的无损 Hi-Fi音频传输，此前已在nova及畅享系列手机上应用。",
-      "publishedAt": "2026-08-19T20:07:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/819.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-008"
-    },
-    {
-      "title": "雷神黑武士猎刃Pro新增酷睯7 230H+RTX 5060 Ti版本",
-      "summary": "雷神水冷游戏台式机黑武士猎刃Pro推出酷睯7 230H搭配RTX 5060 Ti显卡的新配置，配备1TB PCIe 4.0固态硬盘与LPDDR5内存，24GB版本售价8999元起，32GB版本9499元起，提供三年整机保修。",
-      "publishedAt": "2026-08-19T20:00:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/817.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260820-007"
-    },
-    {
-      "title": "龙芯胡伟武称3B6600用1Xnm工艺追平AMD英特尔7nm性能",
-      "summary": "龙芯中科董事长胡伟武表示，采用自研1Xnm工艺的3B6600处理器性能可追平采用7nm及更先进工艺的主流X86 CPU，该8核处理器采用LA864微架构，单核性能较上代3A6000提升约50%。",
-      "publishedAt": "2026-08-19T19:22:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/811.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260820-010"
-    },
-    {
-      "id": "tech-20260819-001",
-      "title": "嘉娥七号进入发射倒计时，器箭组合体完成垂直转运",
-      "summary": "嘉娥七号探测器与长征五号遥十四运载火箭在文昌航天发射场完成总装测试，器箭组合体已垂直转运至发射区，计划近日择机发射，任务将探测月球南极永久阴影坑水冰证据。",
-      "publishedAt": "2026-08-19T11:27:00+08:00",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-19/doc-ininvmyt7036620.shtml",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260818-120",
-      "title": "刚签完合作协议 4 天，英伟达黄仁勋之女黄敏珊到访 LG 电子韩国机器人工厂",
-      "summary": "英伟达CEO黄仁勋之女、Omniverse与机器人业务高级总监黄敏珊到访LG电子首尔机器人工厂，距双方8月13日在英伟达总部签署合作备忘录仅4天。双方就在建的LG首尔数据工厂展开交流，该工厂用于机器人训练数据采集，预计年底投运。",
-      "publishedAt": "2026-08-18T16:39:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/174.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260818-118",
-      "title": "荣耀部分机型升级 MagicOS 11 支持极客中心功能，可自定义设备性能参数",
-      "summary": "荣耀部分机型（含WIN系列、GT Pro等）升级MagicOS 11后新增“极客中心”功能，提供全速、均衡、省电三种预设模式及自定义模式，可调整CPU/GPU频率、DDR速度等参数，无需root权限，此前已在MagicPad3 Pro平板上线。",
-      "publishedAt": "2026-08-18T16:28:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/160.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260818-124",
-      "title": "蒸汽热水一键混洗！石头A30 Pro Steam 3.0系列洗地机正式上市",
-      "summary": "石头科技推出A30 Pro Steam 3.0系列洗地机，共三款机型，旗舰版首次支持180℃活性蒸汽与90℃高温热水一键混洗，用于清理干涧酱汁、凝固油污等顷固污渍，配妀32000Pa吸力、12.5cm超薄机身及100分钟续航，支持180度贴边清洁。",
-      "publishedAt": "2026-08-18T16:22:12+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144566.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260818-117",
-      "title": "特斯拉上海超级工厂第 600 万个电池包下线",
-      "summary": "特斯拉宣布上海超级工厂完成第600万个电池包下线，电芯配方与电池包结构均为自主研发。该工厂2019年在临港新片区建成，是特斯拉首个海外整车工厂，六年来贡献了特斯拉全球约一半的电动车交付量。",
-      "publishedAt": "2026-08-18T16:19:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/153.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260818-125",
-      "title": "苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀",
-      "summary": "苹果首次公开承认监管压力已迫使其放宽对App Store的控制，冲击其估值超千亿美元的服务业务。公司在监管文件中警告，通过第三方支付渠道完成的购买可能不会为其带来任何佣金收入，近期财报显示服务营收与利润率均低于市场预期。",
-      "publishedAt": "2026-08-18T16:19:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3944762309639302",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260818-119",
-      "title": "微信鸿蒙版 App 获 8.0.20.53 版本邀测升级，灰度支付安全锁功能等",
-      "summary": "微信鸿蒙版App通过华为应用市场推送8.0.20.53版本邀测，测试期为8月18日至9月17日，新增视频分享、评论表情、直播礼物、游戏搜索及支付安全锁等功能，后者支持手势密码或生物识别验证钱包访问，目前装机量已超7200万。",
-      "publishedAt": "2026-08-18T16:12:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/150.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260818-122",
-      "title": "1418kWh大容量动力电池！国内最大吨位纯电动矿用卡车发布",
-      "summary": "紫金龙洁净发布ZL230E纯电动矿用卡车，称为国内目前载重最大的纯电矿卡，最大载重230吨、总重350吨，搭载1418kWh电池，25分钟可充至90%电量，双800kW电机，最大爸坡度38%，能耗较同级柴油车降低超70%。",
-      "publishedAt": "2026-08-18T16:11:35+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1144/1144562.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260818-126",
-      "title": "英特尔被曝在“Razor Lake”世代推出bLLC大缓存移动端处理器",
-      "summary": "据爆料者@jaykihn0透露，英特尔计划在“Razor Lake”世代移动处理器中引入bLLC大容量末级缓存设计，主要针对面向游戏本等高性能设备的Razor Lake HX系列，Razor Lake AX系列不会配备该设计，Nova Lake H笔记本平台预计不早于2027年一季度推出。",
-      "publishedAt": "2026-08-18T16:05:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/139.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }
