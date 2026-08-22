@@ -58,7 +58,7 @@
         },
         "publishedAt": {
           "type": "string",
-          "description": "原文发布时间。优先 ISO 8601 完整时间含时区(2026-05-13T08:30:00+08:00);仅从页面拿到日期时填 YYYY-MM-DD(2026-05-13)。严禁伪造时间——routine 抱不到具体时间就只填日期。",
+          "description": "原文发布时间。优先 ISO 8601 完整时间含时区(2026-05-13T08:30:00+08:00);仅从页面拿到日期时填 YYYY-MM-DD(2026-05-13)。严禁伪造时间——routine 抓不到具体时间就只填日期。",
           "anyOf": [
             { "format": "date-time" },
             { "format": "date" }
@@ -66,7 +66,7 @@
         },
         "source": {
           "type": "string",
-          "description": "原始来源名称,如 36氪 / InfoQ / 中国政府网。缺省时前端会用 URL host 兆底。"
+          "description": "原始来源名称,如 36氪 / InfoQ / 中国政府网。缺省时前端会用 URL host 兜底。"
         },
         "url": {
           "type": "string",
