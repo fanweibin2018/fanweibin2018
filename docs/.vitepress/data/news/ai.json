@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-21T23:55:00+08:00",
+  "updatedAt": "2026-08-22T09:25:00+08:00",
   "items": [
     {
       "id": "ai-20260821-200",
@@ -69,22 +69,58 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260821-101",
-      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
-      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
-      "publishedAt": "2026-08-21T07:46:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/426.htm",
-      "subCategory": "AI应用"
+      "title": "字节跳动Seed再调整：预训练、强化学习与Agent研发全面重构",
+      "summary": "字节跳动Seed基座模型团队重组，新设Pretrain Data、Horizon RL等四个一级部门，分别负责多模态预训练数据整合、强化学习及办公与对话场景的智能体产品研发。",
+      "publishedAt": "2026-08-21",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30537",
+      "subCategory": "大模型",
+      "id": "ai-20260822-001"
     },
     {
-      "id": "ai-20260821-100",
-      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
-      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
-      "publishedAt": "2026-08-21T06:54:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/416.htm",
-      "subCategory": "开源模型"
+      "title": "国产大模型再迎升级，科大讯飞即将发布全新主力通用大模型",
+      "summary": "科大讯飞总裁吴晓如透露，公司将在今年1024开发者节发布基于全国产算力训练的全新主力通用大模型，8月下旬先推出先行版本供市场体验，编程与Token成本效率处于国内前列。",
+      "publishedAt": "2026-08-21",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30534",
+      "subCategory": "大模型",
+      "id": "ai-20260822-002"
+    },
+    {
+      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+      "summary": "阿里云千问AI平台新增智谱GLM-5.3与DeepSeek-V4-Pro的API接入，两款模型聚焦编程与智能体任务，平台同时推出Token Plan订阅套餐供开发工具间自由切换使用。",
+      "publishedAt": "2026-08-21",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30523",
+      "subCategory": "大模型",
+      "id": "ai-20260822-005"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "summary": "研究设计三项测试考察语音识别模型是否针对公开测试集而非真实转写能力优化，发现部分VoxPopuli、LibriSpeech高分模型会复现错误参考文本、还原静音数字，面对全新录音时表现减弱。",
+      "publishedAt": "2026-08-21",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "subCategory": "AI评测",
+      "id": "ai-20260822-006"
+    },
+    {
+      "title": "从对话助手到智能办公平台，豆包推出技能、连接器与工作伙伴",
+      "summary": "豆包上线技能、连接器与工作伙伴三项办公能力，提供超200种技能与连接器，可通过飞书等应用直接检索处理任务，并支持组合多个智能体协作完成复杂项目。",
+      "publishedAt": "2026-08-21",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30525",
+      "subCategory": "Agent",
+      "id": "ai-20260822-007"
+    },
+    {
+      "title": "皮尤研究：ChatGPT发布后，超三成网页出现AI创作痕迹",
+      "summary": "皮尤研究中心分析约50万个英文网站发现，ChatGPT发布后新建网站中约35%显示AI写作或深度编辑痕迹，商业.com域名检测比例明显高于教育、政府类网站（约1%）。",
+      "publishedAt": "2026-08-21",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30521",
+      "subCategory": "AI评测",
+      "id": "ai-20260822-008"
     },
     {
       "id": "ai-20260821-106",
@@ -186,6 +222,24 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260821-101",
+      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
+      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
+      "publishedAt": "2026-08-21T07:46:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/426.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-100",
+      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
+      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
+      "publishedAt": "2026-08-21T06:54:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/416.htm",
+      "subCategory": "开源模型"
+    },
+    {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
       "summary": "据彭博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
       "publishedAt": "2026-08-20T22:40:57+08:00",
@@ -274,6 +328,24 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "subCategory": "AI应用",
       "id": "ai-20260820-018"
+    },
+    {
+      "title": "Introducing Agentic Search",
+      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率由26.7%提升至86%。",
+      "publishedAt": "2026-08-20",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/agentic-search/",
+      "subCategory": "Agent",
+      "id": "ai-20260822-004"
+    },
+    {
+      "title": "突破千亿参数大关！\"阳光清言\"藏语大模型正式发布",
+      "summary": "拉萨那金数智研究院成立，其研发的千亿参数级藏语大模型\"阳光清言\"同期发布，模型基于强基座模型继承通用智能与世界知识，实现藏语处理能力突破，已完成内测与公测。",
+      "publishedAt": "2026-08-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30518",
+      "subCategory": "大模型",
+      "id": "ai-20260822-009"
     },
     {
       "title": "MiniMax发布视频创作工具Design",
@@ -447,15 +519,6 @@
       "id": "ai-20260820-003"
     },
     {
-      "title": "EDITBRIDGE：面向超高分辨率图像编辑的新方法",
-      "summary": "研究团队提出EDITBRIDGE，将图像编辑重构为从低分辨率编辑结果到高分辨率对应图的结构化数据转换，并引入先验引导的分块稀疏注意力机制，实现4K编辑，速度提升3.6至8.4倍，单张约61秒完成。",
-      "publishedAt": "2026-08-19T01:53:16+08:00",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2608.18063",
-      "subCategory": "论文进展",
-      "id": "ai-20260820-012"
-    },
-    {
       "title": "Liquid AI发布LFM2.5量化蒸馏Q4_0检查点",
       "summary": "Liquid AI基于量化感知蒸馏（QAD）技术发布LFM2.5系列4bit检查点，覆盖230M至2.6B四种规模，相比传统训练后量化能恢复更多精度损失，并在MacBook Pro、树莓派5等端侧设备上提升解码吞吐。",
       "publishedAt": "2026-08-19",
@@ -463,6 +526,15 @@
       "url": "https://huggingface.co/blog/LiquidAI/qad",
       "subCategory": "开源模型",
       "id": "ai-20260820-019"
+    },
+    {
+      "title": "EDITBRIDGE：面向超高分辨率图像编辑的新方法",
+      "summary": "研究团队提出EDITBRIDGE，将图像编辑重构为从低分辨率编辑结果到高分辨率对应图的结构化数据转换，并引入先验引导的分块稀疏注意力机制，实现4K编辑，速度提升3.6至8.4倍，单张约61秒完成。",
+      "publishedAt": "2026-08-19T01:53:16+08:00",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.18063",
+      "subCategory": "论文进展",
+      "id": "ai-20260820-012"
     },
     {
       "id": "ai-20260819-001",
@@ -643,87 +715,6 @@
       "source": "AIbase",
       "url": "https://www.aibase.com/zh/news/30405",
       "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260818-011",
-      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测\"大满贯\"",
-      "summary": "阿里通义千问平台上线Qwen-Audio-3.0系列语音模型，含ASR、TTS与实时语音交互三款模型，官方称在Artificial Analysis 7月语音评测的三个核心赛道均排名全球第一，目前已接入千问App、千问办公与Coder产品。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30399",
-      "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260818-012",
-      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-      "summary": "OpenAI将Codex中GPT-5.6 Sol模型约105万token的上下文窗口，由此前仅限API访问扩展至ChatGPT Plus与Pro订阅用户，用户可手动开启该功能用于大型代码库重构与长时间调试，官方提醒该模式会显著加快token消耗。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30389",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260818-013",
-      "title": "AI圈迎来\"降本\"潮：企业对大模型成本愈发敏感，直言对主流AI实验室不抱期望",
-      "summary": "企业AI公司Writer推出新旗舰模型Palmyra X6，基于智谱开源模型GLM-5.2进行后训练优化，官方称结合运行时框架改进可将基础任务成本降低最多50%。公司CEO表示，越来越多企业更关注成本可控而非单纯追求榜单性能。",
-      "publishedAt": "2026-08-17",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30396",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260816-701",
-      "title": "IPO在即，OpenAI人事大震荡",
-      "summary": "OpenAI预备IPO前夕高管密集离职：任职8年的首席运营官布拉德·莱特凯普8月11日官宣离职，任职仅8个月的首席营收官丹妮丝·德雷瑟8月13日辞职，创始成员、GPU优化专家斯科特·格雷也被指已离职，2026年内已有约12位高管离开公司。",
-      "publishedAt": "2026-08-16T15:53:06+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3941902971993225",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260816-702",
-      "title": "AI也会\"闹情绪\"！中科大新研究：困惑和焦虑让AI更会干活儿",
-      "summary": "中国科学技术大学与牛津大学的研究发现，让AI识别并利用自身情绪状态可提升任务表现：加热物品任务成功率从9.6%升至56.9%，拿取两件物体任务成功率从4.4%升至31.3%；另一项研究将情绪嵌入世界模型后，预测准确率最高提升45.72个百分点。",
-      "publishedAt": "2026-08-16T15:24:57+08:00",
-      "source": "36氪（原载量子位）",
-      "url": "https://www.36kr.com/p/3941857474854016",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260816-703",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "summary": "WorkSwarm是一款办公协作智能体平台，支持多个AI智能体根据任务自动组队、共享上下文并接力完成工作，能在实际应用中执行操作而非仅输出对话内容，过程可追溯；目前支持鸿蒙PC、Windows和Mac，并可通过手机参与团队协作流程。",
-      "publishedAt": "2026-08-16T13:37:39+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/473972.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260816-704",
-      "title": "索尼PlayStation新专利公开：利用AI驱动账号模拟未成年人，主动识别潜在恶意用户",
-      "summary": "索尼互动娱乐递交专利申请，描述由大语言模型控制的AI账号模拟未成年玩家聊天行为，用于识别诈骗者、垃圾信息发送者等潜在恶意用户；系统分析可疑账号与AI账号互动来评估风险，反复出现可疑行为将导致账号被暂停，专利公开不代表技术已实际部署。",
-      "publishedAt": "2026-08-16T12:30:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/270.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260816-705",
-      "title": "2万亿美元，AI史上最大IPO进入倒计时",
-      "summary": "据彭博社报道，Anthropic计划10月启动IPO，估值或超2万亿美元，将超过SpaceX此前1.77万亿美元的纪录；公司2026年第二季度营收超115亿美元，同比增长逾14倍，年化营收从2025年底90亿美元升至2026年5月470亿美元。",
-      "publishedAt": "2026-08-16T11:36:22+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3941650963348873",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260816-706",
-      "title": "全球程序员都在给Anthropic白送钱！官方终于看不下去了",
-      "summary": "Anthropic发文提示Claude Code用户存在token浪费问题，给出6条省钱建议：任务间清空对话、锁定模型与推理强度以保留提示缓存、用@file引用替代手动路径、为输出多的命令加静默参数；开发者日均消耗约13美元token。",
-      "publishedAt": "2026-08-16T08:00:34+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3940734364302722",
-      "subCategory": "AI编程"
     }
   ]
 }
