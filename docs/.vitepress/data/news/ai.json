@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-23T00:52:00+08:00",
+  "updatedAt": "2026-08-23T09:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260823-101",
+      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
+      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已获5000万美元融资，计划扩编至25人。",
+      "publishedAt": "2026-08-23T08:15:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/133.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260823-104",
+      "title": "OpenAI说加州应加强其AI安全法案",
+      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
+      "publishedAt": "2026-08-22T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "subCategory": "大模型"
+    },
     {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
       "summary": "优必选在世界机器人大会展示Cruzr S2/Y1人形机器人在真实产线连续完成装卸、分拣作业，基于Thinker感知、Thinker-WM世界模型与Thinker-VLA执行三层端侧架构，日均产生约1000小时真实数据反哺模型迭代。",
@@ -15,6 +33,15 @@
       "id": "ai-20260823-001"
     },
     {
+      "id": "ai-20260823-102",
+      "title": "伽利略机器人首发\"陆行具身系统\"，打通轮车足底层技术壁垒",
+      "summary": "国家级专精特新\"小巨人\"企业伽利略机器人在2026世界机器人大会发布Galileo X全域移动机器人，核心为\"大一统陆行具身移动系统\"，融合轮式AGV、越野车与四足机器人能力，核心部件全栈自研，产品已覆盖全国26个省份并出口海外。",
+      "publishedAt": "2026-08-22T22:19:39+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/477246.html",
+      "subCategory": "具身智能"
+    },
+    {
       "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
       "summary": "魔法原子在WRC展示Magic-VLA K02通用具身大模型驱动的多形态机器人协同作业，涵盖轮式人形MagicBot D1与新品四足MagicDog T1，覆盖工业制造、物流与公共安全场景，模型跨设备适配率达100%。",
       "publishedAt": "2026-08-22T22:11:20+08:00",
@@ -22,6 +49,15 @@
       "url": "https://www.qbitai.com/2026/08/477155.html",
       "subCategory": "具身智能",
       "id": "ai-20260823-002"
+    },
+    {
+      "id": "ai-20260823-103",
+      "title": "00后清华博士生创业\"神经接口\"：把人类肌肉反应炼成Token",
+      "summary": "2001年出生的清华在读博士生秦深涛创立具身数据公司OriginFlow（渊澈太初），截至今年5月累计融资超5亿元。公司NeuroScale技术通过16通道肌电腕带采集表面肌电信号，结合视觉与IMU数据生成\"Human Tokens\"，用于填补物理AI具身训练所需的高质量物理交互数据空白。",
+      "publishedAt": "2026-08-22T21:56:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/477094.html",
+      "subCategory": "具身智能"
     },
     {
       "title": "Eon用LIF\"上传\"果蝇脑，中国团队直接上精细神经元和跨身体平台",
@@ -139,24 +175,6 @@
       "source": "36氪",
       "url": "https://36kr.com/p/3947852851664512",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260821-101",
-      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
-      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
-      "publishedAt": "2026-08-21T07:46:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/426.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-100",
-      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
-      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
-      "publishedAt": "2026-08-21T06:54:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/416.htm",
-      "subCategory": "开源模型"
     },
     {
       "title": "字节跳动Seed再调整：预训练、强化学习与Agent研发全面重构",
@@ -310,6 +328,24 @@
       "source": "AIbase",
       "url": "https://news.aibase.com/news/30520",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-101",
+      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
+      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
+      "publishedAt": "2026-08-21T07:46:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/426.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-100",
+      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
+      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
+      "publishedAt": "2026-08-21T06:54:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/416.htm",
+      "subCategory": "开源模型"
     },
     {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
@@ -591,15 +627,6 @@
       "id": "ai-20260820-003"
     },
     {
-      "title": "EDITBRIDGE：面向超高分辨率图像编辑的新方法",
-      "summary": "研究团队提出EDITBRIDGE，将图像编辑重构为从低分辨率编辑结果到高分辨率对应图的结构化数据转换，并引入先验引导的分块稀疏注意力机制，实现4K编辑，速度提升3.6至8.4倍，单张约61秒完成。",
-      "publishedAt": "2026-08-19T01:53:16+08:00",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2608.18063",
-      "subCategory": "论文进展",
-      "id": "ai-20260820-012"
-    },
-    {
       "title": "Liquid AI发布LFM2.5量化蒸馏Q4_0检查点",
       "summary": "Liquid AI基于量化感知蒸馏（QAD）技术发布LFM2.5系列4bit检查点，覆盖230M至2.6B四种规模，相比传统训练后量化能恢复更多精度损失，并在MacBook Pro、树莓派5等端侧设备上提升解码吞吐。",
       "publishedAt": "2026-08-19",
@@ -607,6 +634,15 @@
       "url": "https://huggingface.co/blog/LiquidAI/qad",
       "subCategory": "开源模型",
       "id": "ai-20260820-019"
+    },
+    {
+      "title": "EDITBRIDGE：面向超高分辨率图像编辑的新方法",
+      "summary": "研究团队提出EDITBRIDGE，将图像编辑重构为从低分辨率编辑结果到高分辨率对应图的结构化数据转换，并引入先验引导的分块稀疏注意力机制，实现4K编辑，速度提升3.6至8.4倍，单张约61秒完成。",
+      "publishedAt": "2026-08-19T01:53:16+08:00",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.18063",
+      "subCategory": "论文进展",
+      "id": "ai-20260820-012"
     },
     {
       "id": "ai-20260819-001",
@@ -688,42 +724,6 @@
       "source": "AIbase",
       "url": "https://www.aibase.com/zh/news/30432",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260819-002",
-      "title": "Anthropic年化营收升至650亿美元",
-      "summary": "据彭博社报道，Anthropic截至7月末的年化营收达到650亿美元，较5月的470亿美元及2025年底的90亿美元大幅跃升，若延续当前增速全年营收有望达到1000亿至1200亿美元；公司已提交保密IPO申请，预计最快于今秋上市。",
-      "publishedAt": "2026-08-17T23:56:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260818-007",
-      "title": "字节跳动与美国电影协会签署协议，加强AI模型版权保护",
-      "summary": "字节跳动与美国电影协会签署协议，加强旗下Seedance视频生成模型与Seedream图像生成模型的版权保护机制，称新版本已强化知识产权保护功能，双方表示将持续完善相关措施以应对AI技术演进。",
-      "publishedAt": "2026-08-17T23:06:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/990/847.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260818-005",
-      "title": "AI不是比人聪明，是输得起，菲尔兹奖得主点破OpenAI十项成果",
-      "summary": "针对OpenAI 8月1日公布的十项数学突破，菲尔兹奖得主高尔斯撰文称，AI优势并非更聪明而是能承受大量试错；其在系统枚举类搜索任务上表现突出，但在需要策略性剪枝的复杂搜索树问题上仍不及数学家。",
-      "publishedAt": "2026-08-17T20:25:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3943531098504579",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260818-002",
-      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的\"全身智能\"",
-      "summary": "具身智能公司共生知行8月17日发布双足人形机器人驾驶卡丁车演示，机器人协调手部转向与脚部踏板在闭合赛道完成行驶。公司称这是全身智能压力测试而非商业化应用，用于验证平衡、感知与复杂动作协同能力。",
-      "publishedAt": "2026-08-17T17:30:49+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/474537.html",
-      "subCategory": "具身智能"
     }
   ]
 }

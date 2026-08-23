@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-23T00:52:00+08:00",
+  "updatedAt": "2026-08-23T09:20:00+08:00",
   "items": [
     {
       "title": "Automation Taipei 2026: If AI is advancing so fast, why is the factory floor still so hard to automate?",
@@ -96,15 +96,6 @@
       "id": "industry-20260823-010"
     },
     {
-      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
-      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
-      "publishedAt": "2026-08-21T06:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-007"
-    },
-    {
       "title": "Intel and Memory: A History of Exits, and a New Bid to Return",
       "summary": "英特尔CEO陈立武表态公司有意重返存储芯片业务，正探索XBM（跨批次内存）和ZAM（Z角内存）两种新型架构，目标2030年后实现商用，此前该公司已两次退出内存市场。",
       "publishedAt": "2026-08-21",
@@ -195,6 +186,15 @@
       "subCategory": "行业研报"
     },
     {
+      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
+      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
+      "publishedAt": "2026-08-21T06:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
+      "subCategory": "制造业",
+      "id": "industry-20260822-007"
+    },
+    {
       "title": "三星9月将为韩国牙山HBM新厂动工，投资规模达6万亿韩元",
       "summary": "据TrendForce报道,三星电子将于9月在韩国牙山园区动工建设投资规模达6万亿韩元的新HBM工厂;目前HBM4良率已提升至接近80%,平泽园区P5-1与P5-2拟改建为三倍产能结构,预计2030年建成后产能提升逾1.5倍。",
       "publishedAt": "2026-08-20T23:21:17+08:00",
@@ -267,15 +267,6 @@
       "id": "industry-20260822-005"
     },
     {
-      "id": "industry-20260822-013",
-      "title": "GSMA：2026年欧洲移动经济报告",
-      "summary": "GSMA报告显示，2025年移动技术为欧盟贡献约1.1万亿欧元经济价值，占GDP的6.1%，直接创造130万个就业岗位，预计2030年移动经济规模增至1.6万亿欧元。",
-      "publishedAt": "2026-08-20T06:07:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeiu8047005.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "title": "2026年中国咖啡机行业发展状况及消费趋势报告",
       "summary": "艾媒咨询报告显示，2025年中国咖啡机市场规模达1073亿元，预计2030年增至1754.7亿元，行业呈现\"大行业小品牌\"格局，500-2000元中端产品最受消费者青睐，清洁不便为主要痛点。",
       "publishedAt": "2026-08-20",
@@ -328,6 +319,15 @@
       "url": "https://m.cnpharm.com/c/2026-08-20/1104862.shtml",
       "subCategory": "医疗健康",
       "id": "industry-20260823-006"
+    },
+    {
+      "id": "industry-20260822-013",
+      "title": "GSMA：2026年欧洲移动经济报告",
+      "summary": "GSMA报告显示，2025年移动技术为欧盟贡献约1.1万亿欧元经济价值，占GDP的6.1%，直接创造130万个就业岗位，预计2030年移动经济规模增至1.6万亿欧元。",
+      "publishedAt": "2026-08-20T06:07:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeiu8047005.shtml",
+      "subCategory": "行业研报"
     },
     {
       "title": "2026世界机器人大会开幕，373家企业参展3000余件产品",
@@ -546,15 +546,6 @@
       "id": "industry-20260820-018"
     },
     {
-      "id": "industry-20260818-004",
-      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
-      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
-      "publishedAt": "2026-08-17T02:38:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260818-113",
       "title": "京东：2026年Q2营收3464亿元，同比下降2.9%",
       "summary": "京东公布2026年第二季度营收3464亿元，同比下降2.9%，为2014年上市以来首次单季营收下滑；净利润71亿元，同比增长15%。公司表示外卖业务亏损收窄，核心电商业务仍保持盈利。",
@@ -607,6 +598,15 @@
       "url": "https://www.trendforce.com/presscenter/news/20260817-13183.html",
       "subCategory": "半导体产业",
       "id": "industry-20260820-013"
+    },
+    {
+      "id": "industry-20260818-004",
+      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
+      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
+      "publishedAt": "2026-08-17T02:38:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260818-003",
