@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-23T09:20:00+08:00",
+  "updatedAt": "2026-08-23T16:20:00+08:00",
   "items": [
+    {
+      "id": "policy-20260823-005",
+      "title": "Mayors given powers to green light developments",
+      "summary": "英国政府宣布赋予英格兰地方市长规划“叫停”权，可对150套以上住宅、1.5万平方米以上商业空间或30米以上建筑等重大开发项目直接作出审批决定，已有十位市长表态支持。",
+      "publishedAt": "2026-08-23T08:59:48+01:00",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/mayors-given-powers-to-green-light-developments",
+      "subCategory": "海外政策"
+    },
     {
       "id": "policy-20260823-101",
       "title": "国家广播电视总局：截至6月末，全国有线电视实际用户2.05亿户、广电5G用户近4400万户",
@@ -13,6 +22,15 @@
       "source": "国家广播电视总局（IT之家）",
       "url": "https://www.ithome.com/0/993/116.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260823-004",
+      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
+      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
+      "publishedAt": "2026-08-21T10:42:00-04:00",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
+      "subCategory": "反垄断"
     },
     {
       "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
@@ -564,15 +582,6 @@
       "id": "policy-20260812-002"
     },
     {
-      "id": "policy-20260811-003",
-      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
-      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
-      "publishedAt": "2026-08-10T15:41:50-04:00",
-      "source": "白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "subCategory": "海外政策"
-    },
-    {
       "title": "英国首相宣布整治电子烟店与博彩店 拯救衰落商业街",
       "summary": "英国首相安迪·伯纳姆宣布一揽子措施整治商业街：取消博彩法中的默许通过规则以赋予地方议会拒批新博彩店权力，要求新开电子烟店须获规划许可并收紧其定义，明年起对成人游戏中心设置规划要求，并将涉黑经营场所的最长关停令期限从6个月延长至12个月。",
       "publishedAt": "2026-08-11",
@@ -589,6 +598,15 @@
       "url": "https://www.fincen.gov/news/news-releases/fincen-permanently-ends-beneficial-ownership-reporting-requirements-millions",
       "subCategory": "金融监管",
       "id": "policy-20260812-003"
+    },
+    {
+      "id": "policy-20260811-003",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+      "summary": "特朗普签署行政令，要求联邦机构建立金标准儿童疫苗建议体系，推动单剂疫苗选项、重新评估接种时间表、研发替代佐剂，并指示司法部对限制医疗与宗教豁免的州法律采取行动。",
+      "publishedAt": "2026-08-10T15:41:50-04:00",
+      "source": "白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260810-x05",
@@ -706,24 +724,6 @@
       "source": "新华网",
       "url": "https://www.news.cn/20260807/938a02f987084754956c160b8cd3b0e7/c.html",
       "subCategory": "产业政策"
-    },
-    {
-      "title": "Aldi and Lidl should be subject to the same rules as major supermarkets",
-      "summary": "英国竞争与市场管理局初步裁定，阿尔迪及利多英国、北爱尔兰业务应纳入《2010年杂货市场调查（受控土地）令》监管范围，与七家现有大型超市适用同等土地协议规则，公众意见征询截止9月5日。",
-      "publishedAt": "2026-08-07",
-      "source": "GOV.UK (Competition and Markets Authority)",
-      "url": "https://www.gov.uk/government/news/aldi-and-lidl-should-be-subject-to-the-same-rules-as-major-supermarkets",
-      "subCategory": "反垄断",
-      "id": "policy-20260807-n03"
-    },
-    {
-      "title": "Venture capital access expanded for early-stage companies in UK",
-      "summary": "英国财政部与英国商业银行宣布\"投资者路径资本计划\"新一阶段投放1亿英镑，拟在伦敦以外地区新建约10支风险投资基金，支持早期科技企业及首次管理基金的多元背景投资人，计划总规模4亿英镑。",
-      "publishedAt": "2026-08-07",
-      "source": "GOV.UK (HM Treasury / British Business Bank)",
-      "url": "https://www.gov.uk/government/news/venture-capital-access-expanded-for-early-stage-companies-in-uk",
-      "subCategory": "海外政策",
-      "id": "policy-20260807-n04"
     }
   ]
 }

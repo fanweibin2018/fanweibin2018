@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-23T09:20:00+08:00",
+  "updatedAt": "2026-08-23T16:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260823-005",
+      "title": "阿里巴巴拟配售800亿港元新股 全部投入AI建设",
+      "summary": "阿里巴巴宣布向美国境外非美国人士配售新股，总额800亿港元，为2019年港股上市以来首次配售，所得款项净额将全部用于全栈AI能力建设及基础设施投入，市场消息称已获超额认购。",
+      "publishedAt": "2026-08-23T13:19:58+08:00",
+      "source": "网易财经",
+      "url": "https://www.163.com/news/article/L515BP4S0001899O.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260823-007",
+      "title": "特朗普6月执仓 操作逾千笔金融交易 频繁买卖股票、债券和ETF",
+      "summary": "据8月22日披露文件，美国总统特朗普6月内完成逾1000笔证券交易，涉及股票、债券及ETF买卖，总额介于7810万至2.631亿美元，其间买入伯克希尔、维萨等股份并卖出Meta仓位。白宫回应称资产由信托管理，不存在利益冲突。",
+      "publishedAt": "2026-08-23T09:27:00+08:00",
+      "source": "HK01",
+      "url": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60382729/%E7%89%B9%E6%9C%97%E6%99%AE6%E6%9C%88%E6%89%A7%E4%BB%93-%E6%93%8D%E4%BD%9C%E9%80%BE%E5%8D%83%E7%AC%94%E9%87%91%E8%9E%8D%E4%BA%A4%E6%98%93-%E9%A2%91%E7%B9%81%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8-%E5%80%BA%E5%88%B8%E5%92%8Cetf",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260823-006",
+      "title": "陈茂波网志：推动AI落地和普及应用",
+      "summary": "香港财政司司长陈茂波在网志中表示，港府正推动AI落地与普及应用。若中小企业AI应用水平追上大企业，到2035年最多可释放650亿港元经济效益。政府已投入5000万港元推行全民AI培训计划，两年内举办逾200场活动，惠及约5万人。",
+      "publishedAt": "2026-08-23",
+      "source": "财政司司长网志（香港特区政府）",
+      "url": "https://www.fso.gov.hk/chi/blog/blog20260823.htm",
+      "subCategory": "宏观经济"
+    },
     {
       "title": "Bitcoin Tops US$78,000 as Crypto Rally Widens",
       "summary": "比特币8月22日涨至78335美元，以太坊涨至2515美元，XRP涨至1.4538美元；行情受美元走弱、监管表态偏松及机构资金流入推动，当日比特币现货ETF净流入约6.06亿美元，贝莱德占比83%。",
@@ -697,33 +724,6 @@
       "source": "华尔街见闻",
       "url": "https://wallstreetcn.com/livenews/3150044",
       "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260816-001",
-      "title": "伊朗再袍一艘霍尔木兹海峽油轮，以色列加大黎巴嫩军事打击力度",
-      "summary": "CBS报道，伊朗周五（8月14日）再次袍击一艘阿布扎比国家石油公司(ADNOC)油轮，船体受损无人员伤亡；受霍尔木兹海峽局势影响，布伦特原油周内上涨4美元至88美元/桶，美国WTI原油约81美元/桶，全美汽油均价升至4.07美元/加仑，去年同期为3.16美元。",
-      "publishedAt": "2026-08-16T07:27:00+08:00",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260816-003",
-      "title": "比特币ETF单周流出3.897亿美元，Solana基金逆势吸金",
-      "summary": "据Crypto Times报道，截至8月15日当周，美国比特币现货ETF净流出3.897亿美元，为六周以来最大单周流出，贝莱德IBIT当周流出约5550万美元；同期Solana、XRP、HYPE等基金分别录得正流入，Solana基金流入1026万美元创五月以来新高。",
-      "publishedAt": "2026-08-15T23:58:09+08:00",
-      "source": "CryptoTimes",
-      "url": "https://www.cryptotimes.io/2026/08/15/bitcoin-etfs-lose-390m-as-solana-funds-buck-broader-crypto-outflows/",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260815-606",
-      "title": "伊朗回应特朗普：霍尔木兹海峽开放与关闭由伊朗掌控",
-      "summary": "伊朗副外长加里布阿巴迪回应特朗普有关将霍尔木兹海峽宣布为美国领土的言论，称海峽的开放与关闭只能由伊朗掌控，伊朗将继续实施封锁，直至美方接受现实。此前特朗普14日曾作出上述表态。",
-      "publishedAt": "2026-08-15T11:28:29+08:00",
-      "source": "新浪财经（新华社）",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkfhq3638326.shtml",
-      "subCategory": "风险事件"
     }
   ]
 }
