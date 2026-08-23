@@ -438,6 +438,24 @@
       "subCategory": "云计算"
     },
     {
+      "title": "微软Entra ID曝出被在野利用的严重漏洞CVE-2026-69836",
+      "summary": "微软修复Entra ID云身份平台中CVSS满分10.0的严重漏洞CVE-2026-69836，该漏洞源于不可信数据反序列化，可致未授权远程代码执行，已被在野利用，微软称已完全缓解，无需用户操作。",
+      "publishedAt": "2026-08-21",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260822-008"
+    },
+    {
+      "id": "tech-20260822-019",
+      "title": "GitLab CVE-2026-19478代码注入漏洞披露数日后即遭在野利用",
+      "summary": "GitLab一处CVSS 9.4的代码注入漏洞CVE-2026-19478在披露数日后即遭在野利用，未经身份验证的攻击者可通过GraphQL指令删除公开项目、伪造合并记录并移除项目维护者，官方建议尽快修补或限制GraphQL端点访问。",
+      "publishedAt": "2026-08-21",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260822-017",
       "title": "国产GPU厂商下场造SoC！格兰菲GF800发布：自研GPU+8核ARM",
       "summary": "格兰菲发布GF800芯片，集成自研GPU、8核ARM Cortex-A78处理器与专用NPU，支持DirectX 12、OpenGL 4.6等图形标准，兼容统信、麒麟等国产操作系统及Linux、Android、Windows。",
