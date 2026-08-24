@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-24T08:51:37+08:00",
+  "updatedAt": "2026-08-24T16:50:20+08:00",
   "items": [
+    {
+      "id": "ai-20260824-103",
+      "title": "AI 大模型周榜：国产 glm-5.3-max 首秀闯入综合榜前 15，kimi-k3-max 冲进前十",
+      "summary": "IT之家援引Arena榜单报道2026年第34周（8月17日至23日）AI大模型综合排名，智谱GLM-5.3-Max首次上榜即进入前15名，月之暗面Kimi-K3-Max首次跻身前十，阿里 Qwen3.8-Max则从第8名降至第19名，榜单还涵盖代码、图像、视频及智能体等分类。",
+      "publishedAt": "2026-08-24T16:24:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/601.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260824-102",
+      "title": "消息称字节整合 AI 生产力：TRAE、扣子并入豆包，将推统一办公品牌\"豆包工作\"",
+      "summary": "据报道，字节跳动正整合旗下AI生产力产品，将TRAE与扣子在办公场景的产品能力并入豆包，统一打造\"豆包工作\"品牌，预计近期上线。TRAE IDE与CLI仍作为独立编程产品线延续，字节方面称现有用户权益不受影响，此举延续了7月30日飞书与豆包团队整合的调整。",
+      "publishedAt": "2026-08-24T16:12:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/604.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260824-101",
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "summary": "阿里达摩院联合医疗机构推出肝癌AI诊断模型DAMO LiON，可通过CT影像识别约1厘米微小肝脏肿瘤，两个月临床试验中发现15例此前漏诊的恶性病灾。辅助诊断使阅片时间缩短27%，恶性肿瘤识别敏感度提升11.5%，相关研究发表于《自然-医学》。",
+      "publishedAt": "2026-08-24T16:07:59+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478473.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260824-104",
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "summary": "国产芯片企业中诚华隆发布新一代HL200推理芯片及配套超节点智算集群方案，芯片FP16/BF16算力达0.5P、FP8达2P、FP4达4P，能效比5.12 TFLOPS/W，支持单节点最高1024卡纵向堆叠、横向扩展至10240卡，已在DeepSeek V4等主流大模型上完成测试。",
+      "publishedAt": "2026-08-24T15:04:36+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478469.html",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260824-106",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价\"稳定、真实、有质感\"",
+      "summary": "阿里巴巴8月24日正式上线视频生成大模型Wan3.0，可生成30秒视频，并新增对DOC、XLS、PPT、PDF、MD等文档格式的支持，在人物、道具、声音、空间及风格一致性上有所提升。该模型已上线阿里云百炼、通义千问等平台，8月24日至9月23日提供限时优惠。",
+      "publishedAt": "2026-08-24T13:09:27+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478427.html",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260824-105",
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涼发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench评测中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
+      "publishedAt": "2026-08-24T13:04:52+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478421.html",
+      "subCategory": "具身智能"
+    },
     {
       "id": "ai-20260824-001",
       "title": "OpenAI CEO 奥尔特曼：担心人工智能会被少数强势主体掌控",
@@ -25,8 +79,8 @@
     },
     {
       "id": "ai-20260824-003",
-      "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
-      "summary": "主播Warren Pandiscia对Twitch及母公司亚马逊提起集体诉讼，指控其未经同意将主播直播、剪辑及聊天记录用于生成式AI模型训练，该功能默认开启且仅按频道设置退出选项。",
+      "title": "因使用主播内容训练亚马逋 AI，Twitch 面临集体诉讼",
+      "summary": "主播Warren Pandiscia对Twitch及母公司亚马逋提起集体诉讼，指控其未经同意将主播直播、剪辑及聊天记录用于生成式AI模型训练，该功能默认开启且仅按频道设置退出选项。",
       "publishedAt": "2026-08-24T07:19:39+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/326.htm",
@@ -107,15 +161,15 @@
     {
       "id": "ai-20260823-103",
       "title": "00后清华博士生创业\"神经接口\"：把人类肌肉反应炼成Token",
-      "summary": "2001年出生的清华在读博士生秦深涛创立具身数据公司OriginFlow（渊澈太初），截至今年5月累计融资超5亿元。公司NeuroScale技术通过16通道肌电腕带采集表面肌电信号，结合视觉与IMU数据生成\"Human Tokens\"，用于填补物理AI具身训练所需的高质量物理交互数据空白。",
+      "summary": "2001年出生的清华在读博士生秦深涿创立具身数据公司OriginFlow（渊澈太初），截至今年5月累计融资超5亿元。公司NeuroScale技术通过16通道肌电腿带采集表面肌电信号，结合视觉与IMU数据生成\"Human Tokens\"，用于填补物理AI具身训练所需的高质量物理交互数据空白。",
       "publishedAt": "2026-08-22T21:56:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/477094.html",
       "subCategory": "具身智能"
     },
     {
-      "title": "Eon用LIF\"上传\"果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "summary": "文章对比Eon Systems约14万神经元的果蝇脑虚拟仿真与中国团队DeepSoma平台，后者采用精细生物物理神经元建模、真实场景4D重建，统一世界模型、脑仿真与跨身体智能体部署，指向物理AI新范式。",
+      "title": "Eon用LIF\"上传\"果蚌脑，中国团队直接上精细神经元和跨身体平台",
+      "summary": "文章对比Eon Systems约14万神经元的果蚌脑虚拟仿真与中国团队DeepSoma平台，后者采用精细生物物理神经元建模、真实场景4D重建，统一世界模型、脑仿真与跨身体智能体部署，指向物理AI新范式。",
       "publishedAt": "2026-08-22T20:21:07+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/477090.html",
@@ -124,7 +178,7 @@
     },
     {
       "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "summary": "硅羽科技开发无GPS、无遥控依赖的自主飞行智能系统，采用\"真实到仿真\"数据方案，用少量真实飞行数据重建仿真环境生成海量训练场景，计划年内推出可在隧道、山地自主导航的产品。",
+      "summary": "硅羽科技开发无GPS、无遥控依赖的自主飞行智能系统，采用\"真实到仿真\"数据方案，用少量真实飞行数据重建仿真环境生成海量训练场景，计划年内推出可在隆道、山地自主导航的产品。",
       "publishedAt": "2026-08-22T16:53:13+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476965.html",
@@ -141,8 +195,8 @@
       "id": "ai-20260823-005"
     },
     {
-      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
-      "summary": "OpenRouter上线匿名模型Ox Alpha，限时一周免费，在DeepSWE代码分析测试中约得80分，超过Claude Fable 5(65)与GPT-5.6 Sol(52)，其分词器指纹与GLM-5.3高度吻合，被指向智谱。",
+      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碎压Claude Fable 5，线索指向智谱",
+      "summary": "OpenRouter上线匿名模型Ox Alpha，限时一周免费，在DeepSWE代码分析测试中约得80分，超过Claude Fable 5(65)与GPT-5.6 Sol(52)，其分词器指纹与GLM-5.3高度吅合，被指向智谱。",
       "publishedAt": "2026-08-22T14:54:05+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/003.htm",
@@ -179,7 +233,7 @@
     {
       "id": "ai-20260821-107",
       "title": "OpenAI全面开源Codex Harness",
-      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
+      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及pp-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
       "publishedAt": "2026-08-21T15:18:30+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/656.htm",
@@ -232,7 +286,7 @@
     },
     {
       "id": "ai-20260821-101",
-      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
+      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果Siri AI的设备优势",
       "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
       "publishedAt": "2026-08-21T07:46:37+08:00",
       "source": "IT之家",
@@ -259,7 +313,7 @@
     },
     {
       "title": "国产大模型再迎升级，科大讯飞即将发布全新主力通用大模型",
-      "summary": "科大讯飞总裁吴晓如透露，公司将在今年1024开发者节发布基于全国产算力训练的全新主力通用大模型，8月下旬先推出先行版本供市场体验，编程与Token成本效率处于国内前列。",
+      "summary": "科大讯飞总袁1024开发者节发布基于全国产算力训练的全新主力通用大模型，8月下旬先推出先行版本供市场体验，编程与Token成本效率处于国内前列。",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
       "url": "https://www.aibase.com/news/30534",
@@ -267,7 +321,7 @@
       "id": "ai-20260822-002"
     },
     {
-      "title": "千问AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
+      "title": "千问 AI平台模型矩阵持续扩容，GLM-5.3、DeepSeek-V4-Pro正式上线",
       "summary": "阿里云千问AI平台新增智谱GLM-5.3与DeepSeek-V4-Pro的API接入，两款模型聚焦编程与智能体任务，平台同时推出Token Plan订阅套餐供开发工具间自由切换使用。",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -277,7 +331,7 @@
     },
     {
       "title": "Measuring benchmark optimization in speech recognition",
-      "summary": "研究设计三项测试考察语音识别模型是否针对公开测试集而非真实转写能力优化，发现部分VoxPopuli、LibriSpeech高分模型会复现错误参考文本、还原静音数字，面对全新录音时表现减弱。",
+      "summary": "研究设计三项测试考察语音识别模型是否针对公开测试集而非真实转写能力优化，发现部分VoxPopuli、LibriSpeech高分模型会复现错误参考文本、还原静默数字，面对全新录音时表现减弱。",
       "publishedAt": "2026-08-21",
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
@@ -305,7 +359,7 @@
     {
       "id": "ai-20260821-106",
       "title": "优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "summary": "优必选自研\"行者具身智能大模型\"于8月18日通过国家网信办生成式人工智能服务备案，成为具身机器人行业首批完成备案的模型之一。该模型与优必选开源Thinker模型同源，强调面向家庭陪伴场景的表情、眼神、姿态及触觉交互，公司称已有5个算法完成国家互联网信息服务算法备案。",
+      "summary": "优必选自研\"行者具身智能大模型\"于8月18日通过国家网信办生成式人工智能服务备案，成为具身机器人行业首批完成备案的模型之一。该模型与优必选开源Thinker模型同源，强调面向家庭陈伴场景的表情、眼神、姿态及触觉交互，公司称已有5个算法完成国家互联网信息服务算法备案。",
       "publishedAt": "2026-08-21",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476406.html",
@@ -313,7 +367,7 @@
     },
     {
       "id": "ai-20260821-104",
-      "title": "Generalist AI发布具身模型GEN-1.5，机器人观看3~12秒演示即学会新动作",
+      "title": "Generalist AI发布具身模型GEN-1.5，机器人观3~12秒演示即学会新动作",
       "summary": "Generalist AI发布基础机器人模型GEN-1.5，无需梯度更新或微调，仅通过3至12秒演示即可完成一次性学习，可泛化到物体替换及跨场景动作组合。模型未针对上下文学习设计专门架构，零样本成功率59%，少量额外训练后提升至83%。",
       "publishedAt": "2026-08-21",
       "source": "量子位",
@@ -340,7 +394,7 @@
     },
     {
       "id": "ai-20260821-204",
-      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
+      "title": "商汤科技开源8B轻量多模态大模型：原畑4K输出、全能视觉编辑",
       "summary": "商汤科技开源8B参数轻量级多模态模型SenseNova U1.5Lite，原生支持3-4K上下文，可同时处理主体、数量、空间关系、文本布局等多重约束，支持边界框等控制方式并实现4K高分辨率图像输出。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -359,7 +413,7 @@
     {
       "id": "ai-20260821-206",
       "title": "DeepSeek Flash视觉模型突发更新，支持多模态",
-      "summary": "DeepSeek更新Harness工具链至v0.1.1-rc.1，推出基于V4Flash与V4Pro的视觉模型体验版V4Flash Vision-Exp，/goal与/plan等命令现可接受图文混合输入，此前v0.1.0-rc.8已启用多模态核心功能。（发布时间为估算值）",
+      "summary": "DeepSeek更新Harness工具链Atv0.1.1-rc.1，推出基于V4Flash与V4Pro的视觉模型体验版V4Flash Vision-Exp，/goal与/plan等命令现可接受图文混合输入，此前v0.1.0-rc.8已启用多模态核心功能。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
       "url": "https://news.aibase.com/news/30536",
@@ -367,7 +421,7 @@
     },
     {
       "id": "ai-20260821-207",
-      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3.18倍",
+      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飘升3.18倍",
       "summary": "Liquid AI与Hugging Face发布LFM2.5系列的DSpark草稿模型检查点，采用推测解码技术，GPU吞吐量最高提升3.18倍，边缘设备提升2.87倍，2.6B模型函数调用延迟平均降低57%，兼容SGLang与llama.cpp。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -385,7 +439,7 @@
     },
     {
       "id": "ai-20260821-209",
-      "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+      "title": "Grok Build重磅上线网页与移动端，人人皮可一句话秒变全栈开发者",
       "summary": "xAI旗下应用构建功能Grok Build结束早期测试，正式面向网页、iOS与Android全平台订阅用户开放，用户以自然语言描述创建应用并生成唯一grok.me链接，支持一键导出GitHub及集成对话、图像生成、语音合成等API能力。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -395,7 +449,7 @@
     {
       "id": "ai-20260821-210",
       "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
-      "summary": "Waymo将Gemini语音助手整合进自动驾驶出租车Ojai，已在洛杉矶、凤凰城、旧金山向常规用户推出，乘客可语音调节车厢温度、查询周边地标，停车指令仍由Waymo Driver底层系统统一调度处理。（发布时间为估算值）",
+      "summary": "Waymo将Gemini语音助手整合进自动驾驶出租车Ojai，已在洛杉矶、凤凰城、旧金山向常规用户推出，乘客可语音调节车厢温度、查询周边地标，停车指令仍由Waymo Driver底层系统统一调度。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
       "url": "https://news.aibase.com/news/30520",
@@ -403,7 +457,7 @@
     },
     {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
-      "summary": "据彭博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
+      "summary": "据彽博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
       "publishedAt": "2026-08-20T22:40:57+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/397.htm",
@@ -474,7 +528,7 @@
       "id": "ai-20260820-021"
     },
     {
-      "title": "华尔街实测8款主流Agent，通义千问办公综合排名第一",
+      "title": "华尔街实栱8款主流Agent，通义千问办公综合排名第一",
       "summary": "投行Jefferies对8款AI Agent进行真实办公场景测试，涵盖多文档年报总结、联网调研、桌面浏览器操作等5项任务。阿里通义千问办公在模型能力与工程能力两个维度均排名第一，超过Claude Cowork、Codex等海外产品。",
       "publishedAt": "2026-08-20T09:06:00+08:00",
       "source": "量子位",
@@ -556,7 +610,7 @@
     },
     {
       "title": "具身智能数据底座AperData开卖，首发价5100元",
-      "summary": "五一视界发布具身智能数据基础设施AperData，由AperEgo采集硬件与AperOS数据平台组成，无需操作机器人本体即可采集第一人称多模态数据，官方称效率较传统遥操作提升10倍以上，首发定价5100元。",
+      "summary": "五一视界发布具身智能数据基础设施AperData，由AperEgo采集硬件与AperOS数据平台组成，无需操作机器人本体即可采集第一人称多模态数据，官方称效率较传统遥操提升10倍以上，首发定价5100元。",
       "publishedAt": "2026-08-19T15:42:27+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/475477.html",
@@ -574,7 +628,7 @@
     },
     {
       "title": "腾讯混元多模态团队人事调整，姚顺雨执掌基础模型部",
-      "summary": "腾讯混元多模态团队完成人事调整：原xAI多模态理解负责人林旭东加入负责内容生成算法，原负责人胡瀚离职创业，前OpenAI研究员田永龙加入，姚顺雨执掌合并后的基础模型部并强调壁垒在于上下文与推理能力。",
+      "summary": "腾讯混元多模态团队完成人事调整：原oAI多模态理解负责人林旭东加入负责内容生成算法，原负责人胡瀞离职创业，前OpenAI研究员田永龙加入，姚顺雨执掌合并后的基础模型部并强调壁垒在于上下文与推理能力。",
       "publishedAt": "2026-08-19T15:34:26+08:00",
       "source": "AIbase",
       "url": "https://www.aibase.com/news/30470",
@@ -591,7 +645,7 @@
       "id": "ai-20260820-022"
     },
     {
-      "title": "腾讯Toast上线一键上架，AI生成应用可直接发布至App Store",
+      "title": "腾讯 Toast 上线一键上架，AI生成应用可直接发布至App Store",
       "summary": "腾讯AI应用生成平台Toast推出一键上架功能，开发者用AI生成应用后可直接发布至App Store，官方称此举提供从生成到上线的一站式开发者服务包。",
       "publishedAt": "2026-08-19T14:55:31+08:00",
       "source": "AIbase",
@@ -628,7 +682,7 @@
     },
     {
       "title": "OpenAI暂缓前沿模型训练两周",
-      "summary": "OpenAI宣布对最新部署模型的强化学习训练暂停两周，原计划规模最大的前沿RL训练仍被搁置。公司称此举是为让安全、对齐与监控能力跟上模型能力提升，监控开销约占被监控推理算力的20%。",
+      "summary": "OpenAI宣布对最新部署模型的强化学习训练暂停两周，原计划规模最大的前沿RL训练仍被搬置。公司称此举是为让安全、对齐与监控能力跟上模型能力提升，监控开销约占被监控推理算力的20%。",
       "publishedAt": "2026-08-19T10:56:00+08:00",
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103324002.html",
@@ -645,8 +699,8 @@
       "id": "ai-20260820-002"
     },
     {
-      "title": "蚂蚁Alpha公布医生端AI助手服务策略",
-      "summary": "蚂蚁旗下Alpha公布医生端服务策略，将为从乡村医生到知名专家的各级医生定制AI助手，覆盖基层到三甲医院场景，涉及诊断辅助、患者管理与科研支持等功能。",
+      "title": "蟑蚁Alpha公布医生端AI助手服务策略",
+      "summary": "蟑蚁旗下Alpha公布医生端服务策略，将为从乡村医生到知名专家的各级医生定制AI助手，覆盖基层到三甲医院场景，涉及诊断辅助、患者管理与科研支持等功能。",
       "publishedAt": "2026-08-19T10:51:37+08:00",
       "source": "AIbase",
       "url": "https://www.aibase.com/news/30461",
@@ -654,7 +708,7 @@
       "id": "ai-20260820-009"
     },
     {
-      "title": "安全机构曝Microsoft Copilot漏洞，恶意链接可自动窃取邮件与凭证",
+      "title": "安全机构曝 Microsoft Copilot漏洞，恶意链接可自动窃取邮件与凭证",
       "summary": "安全公司Varonis披露Microsoft Copilot漏洞，攻击者用带autorun等参数的恶意链接即可绕过用户确认，在已登录会话中自动执行注入指令，窃取邮箱内容与凭证并以Base64编码外传。",
       "publishedAt": "2026-08-19T10:46:06+08:00",
       "source": "AIbase",
@@ -670,60 +724,6 @@
       "url": "https://www.aibase.com/news/30459",
       "subCategory": "推理框架",
       "id": "ai-20260820-005"
-    },
-    {
-      "title": "智谱GLM-5.3模型API上线，权重下周五开源",
-      "summary": "智谱宣布GLM-5.3 API今日正式上线，在Artificial Analysis智能指数得分60，达到Claude Fable 5、GPT-5.6 Sol等闭源旗舰水平，并与Kimi K3并列开源模型第一，模型权重将于下周五开源。",
-      "publishedAt": "2026-08-19T09:10:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininvfsz9494660.shtml",
-      "subCategory": "大模型",
-      "id": "ai-20260820-003"
-    },
-    {
-      "title": "EDITBRIDGE：面向超高分辨率图像编辑的新方法",
-      "summary": "研究团队提出EDITBRIDGE，将图像编辑重构为从低分辨率编辑结果到高分辨率对应图的结构化数据转换，并引入先验引导的分块稀疏注意力机制，实现4K编辑，速度提升3.6至8.4倍，单张约61秒完成。",
-      "publishedAt": "2026-08-19T01:53:16+08:00",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2608.18063",
-      "subCategory": "论文进展",
-      "id": "ai-20260820-012"
-    },
-    {
-      "title": "Liquid AI发布LFM2.5量化蒸馏Q4_0检查点",
-      "summary": "Liquid AI基于量化感知蒸馏（QAD）技术发布LFM2.5系列4bit检查点，覆盖230M至2.6B四种规模，相比传统训练后量化能恢复更多精度损失，并在MacBook Pro、树莓派5等端侧设备上提升解码吞吐。",
-      "publishedAt": "2026-08-19",
-      "source": "Hugging Face（Liquid AI）",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "subCategory": "开源模型",
-      "id": "ai-20260820-019"
-    },
-    {
-      "id": "ai-20260819-001",
-      "title": "OpenAI推出ChatGPT for Teens青少年版",
-      "summary": "OpenAI于8月18日推出ChatGPT for Teens，13至17岁用户将默认进入该版本，提供学习模式、家长控制及夜间免打扰等功能，默认开启内容保护以减少自伤、恋爱或性相关话题的暴露，并限制聊天机器人使用情感依赖式语言。",
-      "publishedAt": "2026-08-18T21:50:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260818-119",
-      "title": "哈佛MIT联合OpenAI、DeepMind推出83亿AI人模拟系统MatrAIx",
-      "summary": "哈佛大学与MIT联合OpenAI、谷歌DeepMind推出MatrAIx系统，生成83亿AI智能体模拟全球人类行为，400项对比测试显示整体行为一致性达91.5%，团队已在Hugging Face公开百万条个性核心数据。",
-      "publishedAt": "2026-08-18T16:15:00+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/zh/news/30440",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260818-121",
-      "title": "阿里千问办公接入企业微信，此前已接入钉钉、飞书等国产办公平台",
-      "summary": "阿里千问办公接入企业微信，此前已接入钉钉、飞书等国产办公平台。用户可通过企业微信网页端使用千问办公，桌面客户端即将上线，支持读取表格数据、创建编辑文档、发送通知、查询日程等对话式操作，该产品于8月3日开启公测。",
-      "publishedAt": "2026-08-18T15:56:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/128.htm",
-      "subCategory": "AI应用"
     }
   ]
 }
