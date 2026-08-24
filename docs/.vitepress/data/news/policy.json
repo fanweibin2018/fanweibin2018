@@ -375,30 +375,30 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260816-701",
-      "title": "Review launched to shape pathway to reach zero emission driving by 2035",
-      "summary": "英国交通部、商业与贸易部等部门就“零排放汽车（ZEV）强制配额”机制启动公开评估，就2030年停售新燃油乘用车、2035年新车全面实现零排放的路径公开征求车企、经销商及公众意见，评估期至10月23日截止。",
-      "publishedAt": "2026-08-14T16:10:00+01:00",
-      "source": "英国政府网（GOV.UK）/ 交通部",
-      "url": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
-      "subCategory": "新能源政策"
+      "id": "policy-20260818-002",
+      "title": "国家发展改革委：加大对民间投资项目支持力度",
+      "summary": "国家发展改革委8月14日召开会议，部署加快推进2026年新型政策性金融工具投放工作，要求扩大对民间投资项目的支持力度，国家开发银行、进出口银行、农业发展银行等政策性银行参与部署。",
+      "publishedAt": "2026-08-17T17:39:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679151.shtml",
+      "subCategory": "产业政策"
     },
     {
-      "id": "policy-20260815-002",
-      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
-      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
-      "publishedAt": "2026-08-14T18:30:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
-      "subCategory": "金融监管"
+      "id": "policy-20260818-005",
+      "title": "中国人民银行新增8家数字人民币业务运营机构",
+      "summary": "央行新增平安银行、恒丰银行、渤海银行、上海银行、杭州银行、徽商银行、长沙银行、广西北部湾银行8家数字人民币业务运营机构，全国运营机构总数增至30家。",
+      "publishedAt": "2026-08-17T15:00:28+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081714114337358/index.html",
+      "subCategory": "数字经济"
     },
     {
-      "id": "policy-20260815-001",
-      "title": "8月14日24时起 国内汽、柴油价格每吨分别下调230元、220元",
-      "summary": "国家发展改革委宣布，自8月14日24时起，国内汽、柴油（标准品）价格每吨分别下调230元和220元，主因近期国际原油价格震荡回落，本轮为2026年以来第16次调价窗口，下次调价为8月28日24时。",
-      "publishedAt": "2026-08-14T15:03:37+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677640.shtml",
+      "id": "policy-20260818-003",
+      "title": "市场监管总局发布招标投标领域系统整治典型案例（第二批）",
+      "summary": "市场监管总局公布招标投标领域系统整治第二批典型案例，涉及出借资质投标、伪造环评证明、违规购买管理体系认证证书及违规收取电子招标文件费用等5起违法行为，均已依法处罚。",
+      "publishedAt": "2026-08-17T14:00:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_6a84230656e742e78a6973f2868cc9a6.html",
       "subCategory": "产业政策"
     },
     {
@@ -438,6 +438,51 @@
       "subCategory": "金融监管"
     },
     {
+      "id": "policy-20260815-002",
+      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
+      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
+      "publishedAt": "2026-08-14T18:30:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260816-701",
+      "title": "Review launched to shape pathway to reach zero emission driving by 2035",
+      "summary": "英国交通部、商业与贸易部等部门就“零排放汽车（ZEV）强制配额”机制启动公开评估，就2030年停售新燃油乘用车、2035年新车全面实现零排放的路径公开征求车企、经销商及公众意见，评估期至10月23日截止。",
+      "publishedAt": "2026-08-14T16:10:00+01:00",
+      "source": "英国政府网（GOV.UK）/ 交通部",
+      "url": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
+      "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260815-001",
+      "title": "8月14日24时起 国内汽、柴油价格每吨分别下调230元、220元",
+      "summary": "国家发展改革委宣布，自8月14日24时起，国内汽、柴油（标准品）价格每吨分别下调230元和220元，主因近期国际原油价格震荡回落，本轮为2026年以来第16次调价窗口，下次调价为8月28日24时。",
+      "publishedAt": "2026-08-14T15:03:37+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677640.shtml",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260814-005",
+      "title": "Rebuilding the United States Navy and America's Shipbuilding Industrial Base",
+      "summary": "美国总统签署备忘录，责成国防部60天内以蒸汽液压系统替代CVN-81航母部分电磁武器系统，允许外国船厂建造首批舰艇并转移技术，新建第五座海军船厂，并改革海军系统司令部以减少设计变更导致的成本超支与延期。",
+      "publishedAt": "2026-08-13",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260814-006",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "summary": "美国总统签署公告，对进口无人机及部件加征关税：25公斤以上或热成像无人机等征100%关税，25公斤以下征25%关税，9月3日生效；日本、韩国、台湾等盟友产品若关键部件产自当地可适用最高15%的优惠税率。",
+      "publishedAt": "2026-08-13",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "subCategory": "海外政策"
+    },
+    {
       "id": "policy-20260814-004",
       "title": "中国央行将开展1万亿元人民币买断式逆回购操作",
       "summary": "中国人民银行公告将于8月14日开展10000亿元、期限6个月的买断式逆回购操作，因当月有等量6个月期品种到期，此次操作为等量续作，旨在保持银行体系流动性充裕。",
@@ -452,7 +497,7 @@
       "summary": "市场监管总局公布十起公平竞争审查典型案例，涉及北京跨层级监督体系、黑龙江“六大机制”、江苏信息化审查、浙江AI辅助审查平台、沪苏浙皖跨省协同、重庆“1+2+N”制度框架等，推动统一大市场建设。",
       "publishedAt": "2026-08-13T16:27:37+08:00",
       "source": "国家市场监督管理总局",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677075.shtml",
+      "url": "https://www.chinanews.com.cn/gn/2026-08-13/10677075.shtml",
       "subCategory": "反垄断"
     },
     {
@@ -481,60 +526,6 @@
       "source": "人民日报",
       "url": "https://www.chinanews.com.cn/sh/2026/08-13/10676792.shtml",
       "subCategory": "AI监管"
-    },
-    {
-      "id": "policy-20260814-005",
-      "title": "Rebuilding the United States Navy and America's Shipbuilding Industrial Base",
-      "summary": "美国总统签署备忘录，责成国防部60天内以蒸汽液压系统替代CVN-81航母部分电磁武器系统，允许外国船厂建造首批舰艇并转移技术，新建第五座海军船厂，并改革海军系统司令部以减少设计变更导致的成本超支与延期。",
-      "publishedAt": "2026-08-13",
-      "source": "美国白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260814-006",
-      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
-      "summary": "美国总统签署公告，对进口无人机及部件加征关税：25公斤以上或热成像无人机等征100%关税，25公斤以下征25%关税，9月3日生效；日本、韩国、台湾等盟友产品若关键部件产自当地可适用最高15%的优惠税率。",
-      "publishedAt": "2026-08-13",
-      "source": "美国白宫",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
-      "subCategory": "海外政策"
-    },
-    {
-      "title": "央行发布2026年第二季度中国货币政策执行报告",
-      "summary": "中国人民银行发布2026年第二季度货币政策执行报告，提出充分发挥存量政策效能，及时谋划出台务实管用的增量政策，加大逆周期调节力度，继续实施适度宽松的货币政策，上半年GDP同比增长4.7%。",
-      "publishedAt": "2026-08-12T18:26:05+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218034520348/index.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260812-101"
-    },
-    {
-      "title": "中国人民银行公开市场业务公告〔2026〕第6号",
-      "summary": "中国人民银行发布公开市场业务公告，宣布将于8月14日、8月17日至19日开展隔夜逆回购操作，采用固定利率、数量招标方式，每日操作量不超过6000亿元，以更好满足银行体系短期流动性需求。",
-      "publishedAt": "2026-08-12T17:00:00+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125469/2026081213513734370/index.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260813-001"
-    },
-    {
-      "title": "两部门联合开展项目征集工作 推动计量支撑产业新质生产力发展",
-      "summary": "国家市场监督管理总局与工业和信息化部联合征集2026年度计量服务产业发展项目，聚焦人工智能、航空航天、新能源、半导体、生物技术等十大领域，重点支持攻克技术瓶颈、实现进口替代的计量攻关项目，预计遴选约十个项目予以支持。",
-      "publishedAt": "2026-08-12T11:07:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_b3ed93c7570644f0b79fb6e877ff27e6.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260812-005"
-    },
-    {
-      "title": "京津冀推行商事文本互认通用标准",
-      "summary": "北京、天津、河北三地市场监管部门联合推出“e注册·一起行”服务品牌，对公司章程、合伙协议等商事文本实行“一套标准、三地通用”，并依托“京雄企业链”实现跨区域数据共享，提升企业跨省经营便利度。",
-      "publishedAt": "2026-08-12T10:53:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7082c8070f224e83b8d3eb2c9f3e0e89.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260812-004"
     },
     {
       "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime",
@@ -582,13 +573,40 @@
       "id": "policy-20260812-103"
     },
     {
-      "title": "市场监管总局批准发布一批重要国家标准 覆盖多领域推动高质量发展",
-      "summary": "国家市场监督管理总局（国家标准委）近日批准发布338项重要国家标准，其中强制性标准15项、推荐性标准323项，内容涵盖人工智能医疗器械质量评价、立体显示与柔性显示技术、智能网联汽车自动驾驶系统安全强制性标准及互联网租赁自行车服务规范等，并新增车用压缩天然气等4项能源类强制性标准。",
-      "publishedAt": "2026-08-11T08:53:01+08:00",
-      "source": "中国质量新闻网（转载市场监管总局发布信息）",
-      "url": "https://news.china.com/socialgd/10000169/20260811/49666843.html",
+      "title": "央行发布2026年第二季度中国货币政策执行报告",
+      "summary": "中国人民银行发布2026年第二季度货币政策执行报告，提出充分发挥存量政策效能，及时谋划出台务实管用的增量政策，加大逆周期调节力度，继续实施适度宽松的货币政策，上半年GDP同比增长4.7%。",
+      "publishedAt": "2026-08-12T18:26:05+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218034520348/index.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260812-101"
+    },
+    {
+      "title": "中国人民银行公开市场业务公告〔2026〕第6号",
+      "summary": "中国人民银行发布公开市场业务公告，宣布将于8月14日、8月17日至19日开展隔夜逆回购操作，采用固定利率、数量招标方式，每日操作量不超过6000亿元，以更好满足银行体系短期流动性需求。",
+      "publishedAt": "2026-08-12T17:00:00+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125469/2026081213513734370/index.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260813-001"
+    },
+    {
+      "title": "两部门联合开展项目征集工作 推动计量支撑产业新质生产力发展",
+      "summary": "国家市场监督管理总局与工业和信息化部联合征集2026年度计量服务产业发展项目，聚焦人工智能、航空航天、新能源、半导体、生物技术等十大领域，重点支持攻克技术瓶颈、实现进口替代的计量攻关项目，预计遴选约十个项目予以支持。",
+      "publishedAt": "2026-08-12T11:07:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/mtjj/art/2026/art_b3ed93c7570644f0b79fb6e877ff27e6.html",
       "subCategory": "产业政策",
-      "id": "policy-20260812-002"
+      "id": "policy-20260812-005"
+    },
+    {
+      "title": "京津冀推行商事文本互认通用标准",
+      "summary": "北京、天津、河北三地市场监管部门联合推出“e注册·一起行”服务品牌，对公司章程、合伙协议等商事文本实行“一套标准、三地通用”，并依托“京雄企业链”实现跨区域数据共享，提升企业跨省经营便利度。",
+      "publishedAt": "2026-08-12T10:53:00+08:00",
+      "source": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7082c8070f224e83b8d3eb2c9f3e0e89.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260812-004"
     },
     {
       "title": "英国首相宣布整治电子烟店与博彩店 拯救衰落商业街",
@@ -609,13 +627,13 @@
       "id": "policy-20260812-003"
     },
     {
-      "id": "policy-20260810-x05",
-      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
-      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
-      "publishedAt": "2026-08-10T09:51:14-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
-      "subCategory": "金融监管"
+      "title": "市场监管总局批准发布一批重要国家标准 覆盖多领域推动高质量发展",
+      "summary": "国家市场监督管理总局（国家标准委）近日批准发布338项重要国家标准，其中强制性标准15项、推荐性标准323项，内容涵盖人工智能医疗器械质量评价、立体显示与柔性显示技术、智能网联汽车自动驾驶系统安全强制性标准及互联网租赁自行车服务规范等，并新增车用压缩天然气等4项能源类强制性标准。",
+      "publishedAt": "2026-08-11T08:53:01+08:00",
+      "source": "中国质量新闻网（转载市场监管总局发布信息）",
+      "url": "https://news.china.com/socialgd/10000169/20260811/49666843.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260812-002"
     },
     {
       "id": "policy-20260811-002",
@@ -661,6 +679,15 @@
       "url": "https://www.samr.gov.cn/xw/df/art/2026/art_7fe2d99dc99043bf904e0c7369b7e04d.html",
       "subCategory": "产业政策",
       "id": "policy-20260810-x04"
+    },
+    {
+      "id": "policy-20260810-x05",
+      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
+      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
+      "publishedAt": "2026-08-10T09:51:14-04:00",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
+      "subCategory": "金融监管"
     },
     {
       "title": "关于印发《煤炭工业发展\"十五五\"规划》的通知",
