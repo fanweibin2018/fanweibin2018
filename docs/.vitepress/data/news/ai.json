@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-24T00:50:00+08:00",
+  "updatedAt": "2026-08-24T08:51:37+08:00",
   "items": [
+    {
+      "id": "ai-20260824-001",
+      "title": "OpenAI CEO 奥尔特曼：担心人工智能会被少数强势主体掌控",
+      "summary": "OpenAI首席执行官奥尔特曼在采访中表示，担忧人工智能权力被少数强势主体垄断，认为过度强调安全限制反而可能导致权力集中，并对比OpenAI支持开源权重与Anthropic倾向加强监管的不同立场。",
+      "publishedAt": "2026-08-24T08:01:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/333.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260824-002",
+      "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
+      "summary": "据Business Insider报道，开源模型托管平台Hugging Face正探索出售事宜，潜在交易估值或达130亿美元以上，公司已与银行合作评估买家意向，此前2023年融资估值为45亿美元。",
+      "publishedAt": "2026-08-24T07:28:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/329.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260824-003",
+      "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
+      "summary": "主播Warren Pandiscia对Twitch及母公司亚马逊提起集体诉讼，指控其未经同意将主播直播、剪辑及聊天记录用于生成式AI模型训练，该功能默认开启且仅按频道设置退出选项。",
+      "publishedAt": "2026-08-24T07:19:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/326.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260824-004",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "summary": "TRAE AI创意大赛吸引3.7万人参赛、提交1.4万个项目，前保安与高中生等非程序员借助AI编程工具完成健康游戏、运动教练应用等作品，冠军作品实现从AI硬件设计到PCB自动化生产的全流程。",
+      "publishedAt": "2026-08-24T07:19:06+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "subCategory": "AI编程"
+    },
     {
       "id": "ai-20260823-201",
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
@@ -31,6 +67,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260823-104",
+      "title": "OpenAI说加州应加强其AI安全法案",
+      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
+      "publishedAt": "2026-08-22T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "subCategory": "大模型"
     },
     {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
@@ -112,15 +157,6 @@
       "url": "https://www.36kr.com/newsflashes/3950062675377280",
       "subCategory": "大模型",
       "id": "ai-20260823-007"
-    },
-    {
-      "id": "ai-20260823-104",
-      "title": "OpenAI说加州应加强其AI安全法案",
-      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
-      "publishedAt": "2026-08-22T09:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260821-200",
@@ -688,42 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/991/128.htm",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260818-120",
-      "title": "企业微信 5.0.10 开放 CLI 与 MCP，10 大办公模块可接入主流 Agent",
-      "summary": "企业微信5.0.10版本面向所有企业开放CLI与MCP能力，不再限制企业规模或资质，WorkBuddy、DeepSeek Harness等主流智能体可直接接入文档、表格、邮件、会议、通讯录等办公模块，并设置权限分离、关键操作人工审批、授权限时失效及操作留痕等安全机制。",
-      "publishedAt": "2026-08-18T15:02:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/088.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260818-115",
-      "title": "半价！全球最大AI聚合平台下调GPT-5.6 Sol调用费用",
-      "summary": "全球AI聚合平台OpenRouter将OpenAI GPT-5.6 Sol模型调用费用降至五折，输入费用从每百万Tokens5美元降至2.5美元，输出费用从30美元降至15美元，Vercel同步推出限时半价活动。",
-      "publishedAt": "2026-08-18T14:47:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/081.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260818-114",
-      "title": "Anthropic披露Model 2模型，能力略高于Claude Mythos 5",
-      "summary": "Anthropic在8月15日发布的风险报告中披露了未发布模型Model 2，内部基准CoBench v2显示其综合能力略高于当前公开的Claude Mythos 5，提升幅度不大。",
-      "publishedAt": "2026-08-18T14:15:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/074.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260818-116",
-      "title": "豆包工作任务模式上新：可在虚拟桌面操作Windows",
-      "summary": "豆包在Windows版本上线虚拟桌面功能，用户开启工作任务模式并授权后，豆包可像人一样查看屏幕、操作鼠标键盘完成跨软件任务，无需依赖MCP或插件，用户可实时观察并随时接管。",
-      "publishedAt": "2026-08-18T14:15:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/991/073.htm",
-      "subCategory": "Agent"
     }
   ]
 }
