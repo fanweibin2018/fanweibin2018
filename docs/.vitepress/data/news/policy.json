@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-24T16:50:20+08:00",
+  "updatedAt": "2026-08-25T01:05:00+08:00",
   "items": [
     {
       "id": "policy-20260824-005",
@@ -13,6 +13,33 @@
       "source": "Federal Register / Bureau of Industry and Security",
       "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
       "subCategory": "半导体出口管制"
+    },
+    {
+      "id": "policy-20260824-006",
+      "title": "国家能源局等发布第二批食品安全全链条监管创新案例",
+      "summary": "国务院食品安全办发布第二批全链条监管创新案例，涉及海南食品生产审批监管协同、重庆废弃食用油脂全链条数字化监管（响应时效从48小时缩至4小时）、江西鹰潭农贸市场联合监管等五地做法。",
+      "publishedAt": "2026-08-24",
+      "source": "国家市场监督管理总局（国务院食品安全办）",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683220.shtml",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260824-007",
+      "title": "央行开展5000亿元中期借贷便利（MLF）操作",
+      "summary": "中国人民银行发布公告，将于8月25日开展5000亿元中期借贷便利操作，采用固定数量、利率招标、多重价位中标方式，期限1年，以保持银行体系流动性充裕。",
+      "publishedAt": "2026-08-24",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125437/125446/125873/2026082417362891341/index.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260824-008",
+      "title": "FTC就Zillow与Redfin反垄断纠纷达成和解令",
+      "summary": "美国联邦贸易委员会联合五个州宣布，就针对Zillow与Redfin的反垄断诉讼达成为期10年的和解令，取消Zillow此前向Redfin支付1亿美元换取其退出租房广告市场的协议限制，要求Redfin六个月内重启相关业务。",
+      "publishedAt": "2026-08-24",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-secures-order-resolving-antitrust-concerns-zillow-redfin-agreement",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260823-005",
@@ -33,13 +60,58 @@
       "subCategory": "产业政策"
     },
     {
-      "id": "policy-20260823-004",
-      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
-      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
-      "publishedAt": "2026-08-21T10:42:00-04:00",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
-      "subCategory": "反垄断"
+      "id": "policy-20260824-003",
+      "title": "Whitehall officials to be posted into mayors' offices as PM marks first month of No10 North",
+      "summary": "英国政府宣布，将从今年秋季起向全国18个市长战略管理局各派驻5至10名公务员，为期6至9个月，并在约克郡－亨伯地区试点公务员快速通道计划，同时推出向市长开放政府数据与人工智能能力的数字权力下放项目。",
+      "publishedAt": "2026-08-21",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/whitehall-officials-to-be-posted-into-mayors-offices-as-pm-marks-first-month-of-no10-north",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260821-103",
+      "title": "中国与瑞士宣布完成自贸协定升级谈判",
+      "summary": "商务部部长王文涛与瑞士联邦主席帕姆兰8月20日在伯尔尼共同宣布完成中国—瑞士自贸协定升级谈判，双方承诺在货物、服务、投资、规则等领域实现更高水平双向开放。升级谈判自2024年9月启动，历经五轮磋商，双方将启动国内审批程序推动正式签署实施。",
+      "publishedAt": "2026-08-21",
+      "source": "中华人民共和国商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260821-200",
+      "title": "中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划（2026-2030年）》",
+      "summary": "中央网信委印发《促进网信企业高质量发展行动计划（2026—2030年）》，明确7项行动21条举措，涵盖企业培育、创新能力提升、产业升级赋能、海外市场拓展、安全发展、营商环境优化及要素保障等方面。",
+      "publishedAt": "2026-08-21",
+      "source": "中央网络安全和信息化委员会",
+      "url": "https://www.cac.gov.cn/2026-08/21/c_1789061448529863.htm",
+      "subCategory": "数字经济"
+    },
+    {
+      "title": "网信办发布《促进网信企业高质量发展行动计划（2026-2030年）》",
+      "summary": "中央网信办发布行动计划，从企业梯度培育、核心技术攻关（芯片、软件、人工智能、量子计算、区块链）、赋能实体经济、拓展国际市场、安全运营、法治环境、公平竞争、要素保障等九方面推动网信企业做优做强，并强调防范垄断、保障数据与网络安全。",
+      "publishedAt": "2026-08-21",
+      "source": "中央网信办",
+      "url": "https://www.cac.gov.cn/2026-08/21/c_1789061449039952.htm",
+      "subCategory": "数字经济",
+      "id": "policy-20260823-001"
+    },
+    {
+      "title": "财政部：发挥积极财政政策作用，推动经济社会高质量发展",
+      "summary": "国新办举行“十五五”开局系列发布会，财政部副部长廖岷等介绍“十五五”时期财政工作六方面部署，包括零基预算改革、防范化解地方隐性债务风险、理顺央地财政关系，并披露相关消费与投资支持政策已惠及1.13亿居民和622万家企业。",
+      "publishedAt": "2026-08-21",
+      "source": "财政部",
+      "url": "http://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202608/t20260821_3995927.htm",
+      "subCategory": "产业政策",
+      "id": "policy-20260823-002"
+    },
+    {
+      "title": "UK grants development consent for Beacon Fen Energy Park solar and battery storage project",
+      "summary": "英国能源安全与净零部门批准Beacon Fen Energy Park开发许可，项目包含400兆瓦光伏电站及最高600兆伏安电池储能设施，历经六个月审查程序，为已批准的180个能源项目申请中的第112个。",
+      "publishedAt": "2026-08-21",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced",
+      "subCategory": "新能源政策",
+      "id": "policy-20260823-003"
     },
     {
       "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
@@ -123,67 +195,13 @@
       "id": "policy-20260822-002"
     },
     {
-      "id": "policy-20260824-003",
-      "title": "Whitehall officials to be posted into mayors' offices as PM marks first month of No10 North",
-      "summary": "英国政府宣布，将从今年秋季起向全国18个市长战略管理局各派驻5至10名公务员，为期6至9个月，并在约克郡－亨伯地区试点公务员快速通道计划，同时推出向市长开放政府数据与人工智能能力的数字权力下放项目。",
-      "publishedAt": "2026-08-21",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/whitehall-officials-to-be-posted-into-mayors-offices-as-pm-marks-first-month-of-no10-north",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260821-103",
-      "title": "中国与瑞士宣布完成自贸协定升级谈判",
-      "summary": "商务部部长王文涛与瑞士联邦主席帕姆兰8月20日在伯尔尼共同宣布完成中国—瑞士自贸协定升级谈判，双方承诺在货物、服务、投资、规则等领域实现更高水平双向开放。升级谈判自2024年9月启动，历经五轮磋商，双方将启动国内审批程序推动正式签署实施。",
-      "publishedAt": "2026-08-21",
-      "source": "中华人民共和国商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_3c75ebcbff4f41ae8a245497e9796276.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260821-200",
-      "title": "中央网络安全和信息化委员会印发《促进网信企业高质量发展行动计划（2026-2030年）》",
-      "summary": "中央网信委印发《促进网信企业高质量发展行动计划（2026—2030年）》，明确7项行动21条举措，涵盖企业培育、创新能力提升、产业升级赋能、海外市场拓展、安全发展、营商环境优化及要素保障等方面。",
-      "publishedAt": "2026-08-21",
-      "source": "中央网络安全和信息化委员会",
-      "url": "https://www.cac.gov.cn/2026-08/21/c_1789061448529863.htm",
-      "subCategory": "数字经济"
-    },
-    {
-      "title": "网信办发布《促进网信企业高质量发展行动计划（2026-2030年）》",
-      "summary": "中央网信办发布行动计划，从企业梯度培育、核心技术攻关（芯片、软件、人工智能、量子计算、区块链）、赋能实体经济、拓展国际市场、安全运营、法治环境、公平竞争、要素保障等九方面推动网信企业做优做强，并强调防范垄断、保障数据与网络安全。",
-      "publishedAt": "2026-08-21",
-      "source": "中央网信办",
-      "url": "https://www.cac.gov.cn/2026-08/21/c_1789061449039952.htm",
-      "subCategory": "数字经济",
-      "id": "policy-20260823-001"
-    },
-    {
-      "title": "财政部：发挥积极财政政策作用，推动经济社会高质量发展",
-      "summary": "国新办举行“十五五”开局系列发布会，财政部副部长廖岷等介绍“十五五”时期财政工作六方面部署，包括零基预算改革、防范化解地方隐性债务风险、理顺央地财政关系，并披露相关消费与投资支持政策已惠及1.13亿居民和622万家企业。",
-      "publishedAt": "2026-08-21",
-      "source": "财政部",
-      "url": "http://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202608/t20260821_3995927.htm",
-      "subCategory": "产业政策",
-      "id": "policy-20260823-002"
-    },
-    {
-      "title": "UK grants development consent for Beacon Fen Energy Park solar and battery storage project",
-      "summary": "英国能源安全与净零部门批准Beacon Fen Energy Park开发许可，项目包含400兆瓦光伏电站及最高600兆伏安电池储能设施，历经六个月审查程序，为已批准的180个能源项目申请中的第112个。",
-      "publishedAt": "2026-08-21",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced",
-      "subCategory": "新能源政策",
-      "id": "policy-20260823-003"
-    },
-    {
-      "title": "商务部电子商务司负责人介绍2026年1-7月我国电子商务发展情况",
-      "summary": "商务部电子商务司负责人8月20日介绍，今年1-7月我国网上零售额同比增长4.8%，农产品网络零售额增长12.8%，快递业务收入增长7.4%，移动互联网接入流量增长17.7%；\"丝路电商\"覆盖阿拉伯国家等市场，跨境进口中塞尔维亚葡萄酒、孟加拉国咖啡豆等商品销售增速明显。",
-      "publishedAt": "2026-08-20T16:02:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_e6f8b5cf47a54836aeb3967f9b2d4b39.html",
-      "subCategory": "数字经济",
-      "id": "policy-20260822-003"
+      "id": "policy-20260823-004",
+      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
+      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
+      "publishedAt": "2026-08-21T10:42:00-04:00",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260821-100",
@@ -300,51 +318,6 @@
       "publishedAt": "2026-08-18T15:55:00+08:00",
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679658.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "SEC Proposes New Regulation Crypto Assets",
-      "summary": "美国证券交易委员会提出《加密资产条例》提案，拟为涉及加密资产的投资合同设立两档注册豁免（4年内最高500万美元、每12个月最高7500万美元），并设安全港条款，征求意见期为联邦公报刊登后60天。",
-      "publishedAt": "2026-08-18",
-      "source": "美国证券交易委员会（SEC）",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
-      "subCategory": "海外政策",
-      "id": "policy-20260820-005"
-    },
-    {
-      "title": "美国SEC委员皮尔斯就“监管加密资产”提案规则发表声明",
-      "summary": "美国证券交易委员会委员Hester M. Peirce就《监管加密资产》提案规则发表声明，提案设置初创企业豁免（四年内最高融资500万美元）与融资豁免（12个月内最高7500万美元，需财务披露），并为发行人提供安全港以剥离加密资产与投资合同的关联，公众意见征询期为60天。",
-      "publishedAt": "2026-08-18",
-      "source": "美国证券交易委员会（SEC）",
-      "url": "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-regulation-crypto-assets-081826",
-      "subCategory": "金融监管",
-      "id": "policy-20260820-009"
-    },
-    {
-      "id": "policy-20260818-002",
-      "title": "国家发展改革委：加大对民间投资项目支持力度",
-      "summary": "国家发展改革委8月14日召开会议，部署加快推进2026年新型政策性金融工具投放工作，要求扩大对民间投资项目的支持力度，国家开发银行、进出口银行、农业发展银行等政策性银行参与部署。",
-      "publishedAt": "2026-08-17T17:39:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-17/10679151.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260818-005",
-      "title": "中国人民银行新增8家数字人民币业务运营机构",
-      "summary": "央行新增平安银行、恒丰银行、渤海银行、上海银行、杭州银行、徽商银行、长沙银行、广西北部湾银行8家数字人民币业务运营机构，全国运营机构总数增至30家。",
-      "publishedAt": "2026-08-17T15:00:28+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081714114337358/index.html",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260818-003",
-      "title": "市场监管总局发布招标投标领域系统整治典型案例（第二批）",
-      "summary": "市场监管总局公布招标投标领域系统整治第二批典型案例，涉及出借资质投标、伪造环评证明、违规购买管理体系认证证书及违规收取电子招标文件费用等5起违法行为，均已依法处罚。",
-      "publishedAt": "2026-08-17T14:00:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_6a84230656e742e78a6973f2868cc9a6.html",
       "subCategory": "产业政策"
     },
     {
@@ -697,33 +670,6 @@
       "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202608/t20260810_1406952.html",
       "subCategory": "产业政策",
       "id": "policy-20260810-x02"
-    },
-    {
-      "title": "金砖国家第十六次经贸部长会议在印度斋普尔举行",
-      "summary": "商务部副部长、国际贸易谈判代表李成钢率团出席在印度斋普尔举行的金砖国家第十六次经贸部长会议，与印度、巴西、埃及等国经贸部长共商维护多边贸易体制，并就深化数字经济、服务贸易、人工智能等领域合作达成共识。",
-      "publishedAt": "2026-08-09T11:22:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_2dac06dfbefd493abda85d96ee5f6098.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260809-n01"
-    },
-    {
-      "title": "北京进一步优化住房限购政策，非京籍家庭购房社保个税缴纳年限降至1年",
-      "summary": "北京市住建委、规自委和住房公积金管理中心联合发布通知，自8月8日起施行：全市范围内非京籍家庭购买商品住房的社保或个税缴纳年限统一降为1年，夫妻双方均为公积金缴存人的家庭首套房贷款额度提高至240万元。",
-      "publishedAt": "2026-08-08T10:33:00+08:00",
-      "source": "北京市人民政府（首都之窗）",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202608/t20260808_4814360.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260809-001"
-    },
-    {
-      "title": "沪深交易所就完善LOF相关安排公开征求意见，拟对三类LOF终止上市",
-      "summary": "上交所、深交所发布征求意见稿，拟对商品期货类、QDII类及连续60个交易日场内资产净值低于1000万元的小微型LOF分类清出，相关产品加注特别标识提示风险，涉及约125只、规模约2600亿元的LOF产品。",
-      "publishedAt": "2026-08-08",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4064898.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260809-003"
     }
   ]
 }
