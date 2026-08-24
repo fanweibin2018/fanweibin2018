@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-24T16:50:20+08:00",
+  "updatedAt": "2026-08-25T01:05:00+08:00",
   "items": [
+    {
+      "id": "ai-20260824-107",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "summary": "深度原理联合微软研究院、斯坦福等机构发布论文，提出\"发现历程\"评价框架衡量AI自主科研能力，其MIRA平台在化学材料基准Research Claw登顶，并在药物发现基准Science Agent Arena以81.1%综合得分排名第一。",
+      "publishedAt": "2026-08-24T21:21:22+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478568.html",
+      "subCategory": "论文进展"
+    },
     {
       "id": "ai-20260824-103",
       "title": "AI 大模型周榜：国产 glm-5.3-max 首秀闯入综合榜前 15，kimi-k3-max 冲进前十",
@@ -123,15 +132,6 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260823-104",
-      "title": "OpenAI说加州应加强其AI安全法案",
-      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
-      "publishedAt": "2026-08-22T09:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "subCategory": "大模型"
-    },
-    {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
       "summary": "优必选在世界机器人大会展示Cruzr S2/Y1人形机器人在真实产线连续完成装卸、分拣作业，基于Thinker感知、Thinker-WM世界模型与Thinker-VLA执行三层端侧架构，日均产生约1000小时真实数据反哺模型迭代。",
       "publishedAt": "2026-08-22T22:46:43+08:00",
@@ -213,94 +213,13 @@
       "id": "ai-20260823-007"
     },
     {
-      "id": "ai-20260821-200",
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以\"Agent+具身\"联合进入商业机器人场景",
-      "summary": "明略科技与海康机器人在2026世界机器人大会联合参展，以自研视觉语言模型(VLM)与视觉语言动作模型(VLA)为商用服务机器人提供感知决策能力，覆盖餐饮清洁、工业物流、智能巡逻三大场景，机器人可自主区分垃圾与遗留物品并完整保留。",
-      "publishedAt": "2026-08-21T17:44:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476733.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260821-201",
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-      "summary": "雷鸟创新发布AI眼镜雷鸟iO，整机重量34克，搭载DeepSeek V4 Pro与千问3.7 Max等大模型及全天候记忆引擎，可自动生成24小时上下文总结、支持55种语言翻译，不配备摄像头，首发到手价1996元起。",
-      "publishedAt": "2026-08-21T17:00:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476628.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-107",
-      "title": "OpenAI全面开源Codex Harness",
-      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
-      "publishedAt": "2026-08-21T15:18:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/656.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260821-108",
-      "title": "马斯克：在AI领域，中国是SpaceX AI公司迄今最强竞争对手",
-      "summary": "马斯克在X平台评论一条2011年预测SpaceX将与中国展开顶级竞争的旧推文时表示，在AI领域，中国是SpaceX AI公司最强大的竞争对手，显示其认为中国在人工智能领域构成最强劲挑战。",
-      "publishedAt": "2026-08-21T15:15:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/654.htm",
+      "id": "ai-20260823-104",
+      "title": "OpenAI说加州应加强其AI安全法案",
+      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
+      "publishedAt": "2026-08-22T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260822-010",
-      "title": "深势科技上线玻尔·科学空间公测，AI承担科研实验全流程",
-      "summary": "深势科技推出桌面端AI科研平台玻尔·科学空间公测版，集成多学科AI专家，可完成文献综述、实验设计与执行，接入超2亿篇文献及5万余种科学计算工具，计算执行成功率达98.8%。",
-      "publishedAt": "2026-08-21T14:40:34+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476591.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-105",
-      "title": "Jeff Dean离职谷歌后首次公开访谈：反思Gemini编程投入偏晚",
-      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩至分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
-      "publishedAt": "2026-08-21T12:05:11+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476468.html",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260821-103",
-      "title": "触觉让世界模型更懂物理，也更难通用",
-      "summary": "文章梳理触觉传感如何让具身智能世界模型更懂物理交互，千觉机器人、戴盟机器人等企业相继发布触觉数据集与模型，但不同传感器信号格式不一，跨设备、跨硬件迁移仍是行业待解难题。",
-      "publishedAt": "2026-08-21T08:23:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3948077056087942",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260821-102",
-      "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Agent时代的“调度层”？",
-      "summary": "DeepSeek开源Agent框架Harness发布v0.1.0-rc.8版本，距上一版本仅两天，新增将Claude Code与Codex接入为子代理的能力，使不同模型可在统一任务调度与工具协同下互换使用。",
-      "publishedAt": "2026-08-21T08:01:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3947852851664512",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260821-101",
-      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
-      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
-      "publishedAt": "2026-08-21T07:46:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/426.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-100",
-      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
-      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
-      "publishedAt": "2026-08-21T06:54:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/416.htm",
-      "subCategory": "开源模型"
     },
     {
       "title": "字节跳动Seed再调整：预训练、强化学习与Agent研发全面重构",
@@ -456,6 +375,132 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260821-200",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以\"Agent+具身\"联合进入商业机器人场景",
+      "summary": "明略科技与海康机器人在2026世界机器人大会联合参展，以自研视觉语言模型(VLM)与视觉语言动作模型(VLA)为商用服务机器人提供感知决策能力，覆盖餐饮清洁、工业物流、智能巡逻三大场景，机器人可自主区分垃圾与遗留物品并完整保留。",
+      "publishedAt": "2026-08-21T17:44:33+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260821-201",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "summary": "雷鸟创新发布AI眼镜雷鸟iO，整机重量34克，搭载DeepSeek V4 Pro与千问3.7 Max等大模型及全天候记忆引擎，可自动生成24小时上下文总结、支持55种语言翻译，不配备摄像头，首发到手价1996元起。",
+      "publishedAt": "2026-08-21T17:00:06+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-107",
+      "title": "OpenAI全面开源Codex Harness",
+      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
+      "publishedAt": "2026-08-21T15:18:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/656.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260821-108",
+      "title": "马斯克：在AI领域，中国是SpaceX AI公司迄今最强竞争对手",
+      "summary": "马斯克在X平台评论一条2011年预测SpaceX将与中国展开顶级竞争的旧推文时表示，在AI领域，中国是SpaceX AI公司最强大的竞争对手，显示其认为中国在人工智能领域构成最强劲挑战。",
+      "publishedAt": "2026-08-21T15:15:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/654.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260822-010",
+      "title": "深势科技上线玻尔·科学空间公测，AI承担科研实验全流程",
+      "summary": "深势科技推出桌面端AI科研平台玻尔·科学空间公测版，集成多学科AI专家，可完成文献综述、实验设计与执行，接入超2亿篇文献及5万余种科学计算工具，计算执行成功率达98.8%。",
+      "publishedAt": "2026-08-21T14:40:34+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-105",
+      "title": "Jeff Dean离职谷歌后首次公开访谈：反思Gemini编程投入偏晚",
+      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩至分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
+      "publishedAt": "2026-08-21T12:05:11+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260821-103",
+      "title": "触觉让世界模型更懂物理，也更难通用",
+      "summary": "文章梳理触觉传感如何让具身智能世界模型更懂物理交互，千觉机器人、戴盟机器人等企业相继发布触觉数据集与模型，但不同传感器信号格式不一，跨设备、跨硬件迁移仍是行业待解难题。",
+      "publishedAt": "2026-08-21T08:23:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3948077056087942",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260821-102",
+      "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Agent时代的“调度层”？",
+      "summary": "DeepSeek开源Agent框架Harness发布v0.1.0-rc.8版本，距上一版本仅两天，新增将Claude Code与Codex接入为子代理的能力，使不同模型可在统一任务调度与工具协同下互换使用。",
+      "publishedAt": "2026-08-21T08:01:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3947852851664512",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260821-101",
+      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
+      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
+      "publishedAt": "2026-08-21T07:46:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/426.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-100",
+      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
+      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
+      "publishedAt": "2026-08-21T06:54:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/416.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "title": "Introducing Agentic Search",
+      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率由26.7%提升至86%。",
+      "publishedAt": "2026-08-20",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/agentic-search/",
+      "subCategory": "Agent",
+      "id": "ai-20260822-004"
+    },
+    {
+      "title": "突破千亿参数大关！\"阳光清言\"藏语大模型正式发布",
+      "summary": "拉萨那金数智研究院成立，其研发的千亿参数级藏语大模型\"阳光清言\"同期发布，模型基于强基座模型继承通用智能与世界知识，实现藏语处理能力突破，已完成内测与公测。",
+      "publishedAt": "2026-08-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30518",
+      "subCategory": "大模型",
+      "id": "ai-20260822-009"
+    },
+    {
+      "title": "MiniMax发布视频创作工具Design",
+      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "AI视频",
+      "id": "ai-20260820-023"
+    },
+    {
+      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
+      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "开源模型",
+      "id": "ai-20260820-024"
+    },
+    {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
       "summary": "据彭博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
       "publishedAt": "2026-08-20T22:40:57+08:00",
@@ -544,42 +589,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "subCategory": "AI应用",
       "id": "ai-20260820-018"
-    },
-    {
-      "title": "Introducing Agentic Search",
-      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率由26.7%提升至86%。",
-      "publishedAt": "2026-08-20",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/agentic-search/",
-      "subCategory": "Agent",
-      "id": "ai-20260822-004"
-    },
-    {
-      "title": "突破千亿参数大关！\"阳光清言\"藏语大模型正式发布",
-      "summary": "拉萨那金数智研究院成立，其研发的千亿参数级藏语大模型\"阳光清言\"同期发布，模型基于强基座模型继承通用智能与世界知识，实现藏语处理能力突破，已完成内测与公测。",
-      "publishedAt": "2026-08-20",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30518",
-      "subCategory": "大模型",
-      "id": "ai-20260822-009"
-    },
-    {
-      "title": "MiniMax发布视频创作工具Design",
-      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "AI视频",
-      "id": "ai-20260820-023"
-    },
-    {
-      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
-      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "开源模型",
-      "id": "ai-20260820-024"
     },
     {
       "title": "章鱼动力亮相WRC 2026，发布“脑-手-数据”具身智能技术体系",
@@ -715,15 +724,6 @@
       "url": "https://www.aibase.com/news/30460",
       "subCategory": "AI应用",
       "id": "ai-20260820-006"
-    },
-    {
-      "title": "阿里5nm RISC-V芯片玄铁C950原生运行270亿参数通义千问模型",
-      "summary": "阿里达摩院玄铁C950为5nm、64核RISC-V处理器，内置AI加速引擎，在不依赖GPU情况下原生运行通义千问3.8-27B模型，解码速度约每秒30个token，首token延迟约1.9秒。",
-      "publishedAt": "2026-08-19T10:42:00+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30459",
-      "subCategory": "推理框架",
-      "id": "ai-20260820-005"
     }
   ]
 }
