@@ -636,6 +636,15 @@
       "id": "policy-20260812-003"
     },
     {
+      "id": "policy-20260810-x05",
+      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
+      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
+      "publishedAt": "2026-08-10T09:51:14-04:00",
+      "source": "Federal Trade Commission",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260811-002",
       "title": "中国人民银行印发《中国人民银行\"十五五\"改革发展规划》",
       "summary": "央行印发《中国人民银行十五五改革发展规划》及9份配套行动方案，聚焦货币政策与宏观审慎框架、科技金融、绿色金融、普惠金融、养老金融、数字金融及金融市场对外开放等重点任务，目标到2030年加快建设金融强国。",
@@ -681,15 +690,6 @@
       "id": "policy-20260810-x04"
     },
     {
-      "id": "policy-20260810-x05",
-      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
-      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
-      "publishedAt": "2026-08-10T09:51:14-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
-      "subCategory": "金融监管"
-    },
-    {
       "title": "关于印发《煤炭工业发展\"十五五\"规划》的通知",
       "summary": "国家发展改革委、国家能源局联合印发煤炭工业发展\"十五五\"规划，提出加快煤炭产业结构优化升级、加强产供储销体系建设、推动智能化及绿色低碳转型等任务，并明确2030年煤层气产量目标为260亿立方米。",
       "publishedAt": "2026-08-10T08:23:17+08:00",
@@ -724,24 +724,6 @@
       "url": "https://www.stcn.com/article/detail/4064898.html",
       "subCategory": "金融监管",
       "id": "policy-20260809-003"
-    },
-    {
-      "title": "美国工业与安全局审查中国企业境外租用英伟达芯片算力的合规性",
-      "summary": "据报道，美国商务部工业与安全局正评估阿里巴巴、Moonshot AI等中国企业通过新加坡、马来西亚等地云服务商远程调用英伟达芯片算力的做法，探讨是否需将出口管制延伸至跨境云计算租用行为。",
-      "publishedAt": "2026-08-07T23:21:00+08:00",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/us-bis-review-china-remote-offshore-nvidia-chip-access",
-      "subCategory": "半导体出口管制",
-      "id": "policy-20260809-002"
-    },
-    {
-      "id": "policy-20260808-002",
-      "title": "工业和信息化部新增配置P频段资源助力应对极端天气",
-      "summary": "工业和信息化部新增配置P频段（400MHz）无线电频率资源，支持北斗卫星导航气象探空系统技术试验，用于应急放球、汛期加密观测及极端天气漂移观测，测风精度较传统L频段系统提升一个数量级。",
-      "publishedAt": "2026-08-07T20:28:52+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260807/938a02f987084754956c160b8cd3b0e7/c.html",
-      "subCategory": "产业政策"
     }
   ]
 }
