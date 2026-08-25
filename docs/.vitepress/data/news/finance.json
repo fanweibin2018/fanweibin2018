@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-25T01:05:00+08:00",
+  "updatedAt": "2026-08-25T08:35:00+08:00",
   "items": [
     {
       "id": "finance-20260824-111",
@@ -24,6 +24,24 @@
       "subCategory": "大宗商品"
     },
     {
+      "title": "诺诚健华中报扭亏为盈但指引保守，股价大跌近7%",
+      "summary": "诺诚健华8月24日发布2026年中报，上半年营收11.37亿元同比增55.5%，净利润2.4亿元实现扭亏（上年同期亏损3600万元），因公司维持全年销售指引未上调，股价当日大跌6.96%至27.54美元。",
+      "publishedAt": "2026-08-24T22:06:00+08:00",
+      "source": "Investing.com中文站",
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3532967",
+      "subCategory": "公司财报",
+      "id": "finance-20260825-004"
+    },
+    {
+      "title": "央行公告8月25日开展5000亿元MLF操作并加码隔夜逆回购",
+      "summary": "央行8月24日晚间公告，将于8月25日开展5000亿元1年期MLF操作，并在8月27日至9月1日每日开展不超过6000亿元隔夜逆回购操作，以呵护月末银行体系流动性。",
+      "publishedAt": "2026-08-24T20:47:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2462742",
+      "subCategory": "政策利率",
+      "id": "finance-20260825-003"
+    },
+    {
       "id": "finance-20260824-109",
       "title": "晚间公告｜8月24日这些公告有看头",
       "summary": "第一财经8月24日晚间公告汇总显示，赣锋锂业推进PPG锂湖项目整合，顺丰控股全资子公司拟增持丰巢控股，宁波海运拟斥资不超12.36亿元建造5艘散货船，多家公司披露资产收购与可转债融资计划。",
@@ -31,6 +49,15 @@
       "source": "第一财经",
       "url": "https://www.yicai.com/news/103331219.html",
       "subCategory": "公司财报"
+    },
+    {
+      "title": "英伟达通知客户AI服务器涨价超15%，内存成本飙升成主因",
+      "summary": "英伟达8月24日通知主要客户，受内存芯片成本飙升影响，明年初起AI服务器价格将上调超15%，涉及Vera Rubin与Grace Blackwell平台，消息发布于其8月26日公布二季度财报前两天。",
+      "publishedAt": "2026-08-24T18:03:00+08:00",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/nvidia-nvda-ai-server-price-hike-memory-costs/",
+      "subCategory": "公司财报",
+      "id": "finance-20260825-002"
     },
     {
       "id": "finance-20260824-112",
@@ -78,6 +105,15 @@
       "subCategory": "A股"
     },
     {
+      "title": "WTI、布伦特原油8月24日结算价均跌2.35%",
+      "summary": "WTI原油8月24日结算价下跌2.35%至85.01美元/桶，布伦特原油下跌2.35%至92.17美元/桶，单日跌超2美元。美国公布对伊朗新一轮制裁后，市场获利了结，抵消制裁对供应担忧的支撑。",
+      "publishedAt": "2026-08-24",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+      "subCategory": "大宗商品",
+      "id": "finance-20260825-001"
+    },
+    {
       "id": "finance-20260824-104",
       "title": "阿里巴巴股价大跌，800亿港元配售定价出炉",
       "summary": "8月24日阿里巴巴港股开盘大跌超9%，公司公布800亿港元新股配售定价为每股112.70港元，共配售7.1亿股，预计8月26日完成，净筹资约797亿港元将全部投入AI能力建设，为2019年港股双重上市以来首次新股配售。",
@@ -121,24 +157,6 @@
       "source": "新浪新闻",
       "url": "https://news.sina.com.cn/w/2026-08-24/doc-inipketz0176806.shtml",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260824-005",
-      "title": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
-      "summary": "据路透社报道，快时尚企业Shein在香港IPO中拟发售2.8亿股，定价区间为每股47.6至49.5港元，对应最高约270亿美元估值，最多募资138.6亿港元，将于8月31日定价、9月1日在港交所挂牌交易。",
-      "publishedAt": "2026-08-23",
-      "source": "Investing.com（路透社）",
-      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260823-006",
-      "title": "陈茂波网志：推动AI落地和普及应用",
-      "summary": "香港财政司司长陈茂波在网志中表示，港府正推动AI落地与普及应用。若中小企业AI应用水平追上大企业，到2035年最多可释放650亿港元经济效益。政府已投入5000万港元推行全民AI培训计划，两年内举办逾200场活动，惠及约5万人。",
-      "publishedAt": "2026-08-23",
-      "source": "财政司司长网志（香港特区政府）",
-      "url": "https://www.fso.gov.hk/chi/blog/blog20260823.htm",
-      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260824-003",
@@ -204,6 +222,24 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260824-005",
+      "title": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
+      "summary": "据路透社报道，快时尚企业Shein在香港IPO中拟发售2.8亿股，定价区间为每股47.6至49.5港元，对应最高约270亿美元估值，最多募资138.6亿港元，将于8月31日定价、9月1日在港交所挂牌交易。",
+      "publishedAt": "2026-08-23",
+      "source": "Investing.com（路透社）",
+      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260823-006",
+      "title": "陈茂波网志：推动AI落地和普及应用",
+      "summary": "香港财政司司长陈茂波在网志中表示，港府正推动AI落地与普及应用。若中小企业AI应用水平追上大企业，到2035年最多可释放650亿港元经济效益。政府已投入5000万港元推行全民AI培训计划，两年内举办逾200场活动，惠及约5万人。",
+      "publishedAt": "2026-08-23",
+      "source": "财政司司长网志（香港特区政府）",
+      "url": "https://www.fso.gov.hk/chi/blog/blog20260823.htm",
+      "subCategory": "宏观经济"
+    },
+    {
       "id": "finance-20260823-007",
       "title": "特朗普6月执仓 操作逾千笔金融交易 频繁买卖股票、债券和ETF",
       "summary": "据8月22日披露文件，美国总统特朗普6月内完成逾1000笔证券交易，涉及股票、债券及ETF买卖，总额介于7810万至2.631亿美元，其间买入伯克希尔、维萨等股份并卖出Meta仓位。白宫回应称资产由信托管理，不存在利益冲突。",
@@ -240,6 +276,15 @@
       "id": "finance-20260823-002"
     },
     {
+      "title": "美股周五收高但全周下跌，比特币单日暴涨5.7%创逗三个月新高",
+      "summary": "美东时间8月21日，道指涨0.98%报53277.01点，标普500涨0.43%报7674.37点，纳指涨0.43%报26180.46点；但全周三大指数均下跌，纳指周跌2%。比特币收盘暴涨5.74%至77908.91美元，本周累计上涨22%。10年期美债收益率报4.73%，30年期升至5.27%附近。",
+      "publishedAt": "2026-08-21T15:02:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "subCategory": "美股",
+      "id": "finance-20260822-001"
+    },
+    {
       "title": "新浪贵金属热点小时报丨2026年08月22日04时",
       "summary": "COMEX黄金期货时隔三个月重新站上4600美元/盎司，受美元走弱、美债收益率下行、美财政部扩大长债回购规模及各国央行持续购金等因素支撑，机构资金持续流入黄金ETF。",
       "publishedAt": "2026-08-22T04:00:00+08:00",
@@ -249,40 +294,22 @@
       "id": "finance-20260823-003"
     },
     {
-      "title": "高超音速导弹初创公Castelion完成8亿美元C轮融资，估值130亿美元",
-      "summary": "据Crunchbase News报道，国防科技公司Castelion完成8亿美元C轮股权融资及2.5亿美元债务融资，投后估值达130亿美元，由摩根大通、Andreessen Horowitz及凯雷投资集团领投，为当周（8月15日至21日）规模最大融资。公司总部位于加州托兰斯，主要研发高超音速打击导弹。",
-      "publishedAt": "2026-08-21",
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
-      "subCategory": "一级市场",
-      "id": "finance-20260822-004"
+      "id": "finance-20260821-202",
+      "title": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
+      "summary": "8月21日现货黄金12月期货开盘报每盎司4577美元，较前日涨0.1%；早盘一度报4633.90美元。近一周涨5.9%，近一月涨14.4%，近一年涨36.7%。美国国债规模本周创40万亿美元新高，避险需求支撑金价维持强势。",
+      "publishedAt": "2026-08-21T11:10:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html",
+      "subCategory": "大宗商品"
     },
     {
-      "id": "finance-20260821-108",
-      "title": "阿里Q2营收2690亿元同比增长9%，AI云与算力业务高速扩张",
-      "summary": "阿里巴巴公布2026年第二季度业绩，营收2690亿元，同比增长9%；AI云与算力业务收入484亿元，同比增长45%；云业务资本开支达677亿元，同比增长75%，公司持续加码AI计算能力建设。",
-      "publishedAt": "2026-08-21",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/pelXYNN8",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260821-104",
-      "title": "港股恒指收涨1.21%重上26000点，老铺黄金涨逗7%领涨蓝筹",
-      "summary": "恒生指数全日高开高走，收报26009点，升310点或1.21%，连升第5个交易日；国企指数升1.01%报8634点，恒生科技指数升1.39%报4766点，大市成交2572亿港元。金融股与金矿股带动升势，老铺黄金升7.4%为表现最好蓝筹。",
-      "publishedAt": "2026-08-21",
-      "source": "on.cc东网",
-      "url": "https://hk.on.cc/hk/bkn/cnt/finance/20260821/bkn-20260821092031512-0821_00842_001.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260824-105",
-      "title": "2026年8月中旬流通领域重要生产资料市场价格变动情况",
-      "summary": "国家统计局发布数据显示，8月中旬与8月上旬相比，流通领域9大类50种重要生产资料中33种价格上涨，14种下降，3种持平。丁二烯橡胶、焦煤、甲醇、苯等涨幅居前，硫酸、焦炭、乙醇等跌幅较大，有色金属及煤炭价格整体上行，生猪、多晶硅等价格波动明显。",
-      "publishedAt": "2026-08-21",
-      "source": "国家统计局",
-      "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965093.html",
-      "subCategory": "宏观经济"
+      "id": "finance-20260821-204",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+      "summary": "8月21日美股盘中，道指涨408.81点（涨0.77%）报53168.02点，标普500涨41.24点（涨0.54%）报7682.40点，纳指涨143.40点（涨0.55%）报26210.56点；比特币涨6.15%报77289.92美元，为5月以来新高（盘中数据，非收盘价）。",
+      "publishedAt": "2026-08-21T10:47:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260821-200",
@@ -294,6 +321,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260821-203",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "卫星轨道数据中心公司Starcloud完成3.5亿美元B轮融资，在3月1.75亿美元A轮基础上追加，投后估值23亿美元。Manhattan West Ventures领投，英伟达投资2500万美元，思科、Benchmark等跟投，公司目前仅25名员工。",
+      "publishedAt": "2026-08-21T07:00:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "subCategory": "一级市场"
+    },
+    {
       "id": "finance-20260822-009",
       "title": "现货黄金站上4600美元/盎司，大摩预计2027年或破5000美元",
       "summary": "财联社晚间报道，现货黄金站上4600美元/盎司，摩根士丹利预计金价2027年或升破5000美元；此前美国财政部宣布扩大长期国债回购规模，带动美债收益率回落、美元走弱，推升金价。",
@@ -301,6 +337,24 @@
       "source": "财联社",
       "url": "https://www.cls.cn/detail/2461133",
       "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260821-205",
+      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "summary": "管理资产规模达9380亿美元的私募巨头阿波罗全球管理确认发生数据泄露。攻击者于7月6日至10日通过社会工程手段侵入云系统，窃取姓名、出生日期、住址及社会安全号等信息，公司未回应是否支付赎金。",
+      "publishedAt": "2026-08-21T06:35:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
+      "subCategory": "风险事件"
+    },
+    {
+      "title": "布伦特原油报95.29美元，同比涨幅逗四成",
+      "summary": "8月21日美东时间上午8点30分，布伦特原油报每桶95.29美元，较前一交易日早盘微跌11美分，但较去年同期高出27美元以上，同比涨幅达40.54%。报道称供需关系及经济衰退、战争等大规模风险仍是短期油价波动的主要驱动因素。",
+      "publishedAt": "2026-08-21T08:30:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/price-of-oil-08-21-2026/",
+      "subCategory": "大宗商品",
+      "id": "finance-20260822-003"
     },
     {
       "id": "finance-20260822-005",
@@ -366,40 +420,40 @@
       "subCategory": "宏观经济"
     },
     {
-      "title": "美股周五收高但全周下跌，比特币单日暴涨5.7%创逗三个月新高",
-      "summary": "美东时间8月21日，道指涨0.98%报53277.01点，标普500涨0.43%报7674.37点，纳指涨0.43%报26180.46点；但全周三大指数均下跌，纳指周跌2%。比特币收盘暴涨5.74%至77908.91美元，本周累计上涨22%。10年期美债收益率报4.73%，30年期升至5.27%附近。",
-      "publishedAt": "2026-08-21T15:02:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
-      "subCategory": "美股",
-      "id": "finance-20260822-001"
+      "title": "高超音速导弹初创公Castelion完成8亿美元C轮融资，估值130亿美元",
+      "summary": "据Crunchbase News报道，国防科技公司Castelion完成8亿美元C轮股权融资及2.5亿美元债务融资，投后估值达130亿美元，由摩根大通、Andreessen Horowitz及凯雷投资集团领投，为当周（8月15日至21日）规模最大融资。公司总部位于加州托兰斯，主要研发高超音速打击导弹。",
+      "publishedAt": "2026-08-21",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
+      "subCategory": "一级市场",
+      "id": "finance-20260822-004"
     },
     {
-      "id": "finance-20260821-202",
-      "title": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
-      "summary": "8月21日现货黄金12月期货开盘报每盎司4577美元，较前日涨0.1%；早盘一度报4633.90美元。近一周涨5.9%，近一月涨14.4%，近一年涨36.7%。美国国债规模本周创40万亿美元新高，避险需求支撑金价维持强势。",
-      "publishedAt": "2026-08-21T11:10:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html",
-      "subCategory": "大宗商品"
+      "id": "finance-20260821-108",
+      "title": "阿里Q2营收2690亿元同比增长9%，AI云与算力业务高速扩张",
+      "summary": "阿里巴巴公布2026年第二季度业绩，营收2690亿元，同比增长9%；AI云与算力业务收入484亿元，同比增长45%；云业务资本开支达677亿元，同比增长75%，公司持续加码AI计算能力建设。",
+      "publishedAt": "2026-08-21",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/pelXYNN8",
+      "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260821-204",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
-      "summary": "8月21日美股盘中，道指涨408.81点（涨0.77%）报53168.02点，标普500涨41.24点（涨0.54%）报7682.40点，纳指涨143.40点（涨0.55%）报26210.56点；比特币涨6.15%报77289.92美元，为5月以来新高（盘中数据，非收盘价）。",
-      "publishedAt": "2026-08-21T10:47:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
-      "subCategory": "美股"
+      "id": "finance-20260821-104",
+      "title": "港股恒指收涨1.21%重上26000点，老铺黄金涨逗7%领涨蓝筹",
+      "summary": "恒生指数全日高开高走，收报26009点，升310点或1.21%，连升第5个交易日；国企指数升1.01%报8634点，恒生科技指数升1.39%报4766点，大市成交2572亿港元。金融股与金矿股带动升势，老铺黄金升7.4%为表现最好蓝筹。",
+      "publishedAt": "2026-08-21",
+      "source": "on.cc东网",
+      "url": "https://hk.on.cc/hk/bkn/cnt/finance/20260821/bkn-20260821092031512-0821_00842_001.html",
+      "subCategory": "港股"
     },
     {
-      "title": "布伦特原油报95.29美元，同比涨幅逗四成",
-      "summary": "8月21日美东时间上午8点30分，布伦特原油报每桶95.29美元，较前一交易日早盘微跌11美分，但较去年同期高出27美元以上，同比涨幅达40.54%。报道称供需关系及经济衰退、战争等大规模风险仍是短期油价波动的主要驱动因素。",
-      "publishedAt": "2026-08-21T08:30:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-21-2026/",
-      "subCategory": "大宗商品",
-      "id": "finance-20260822-003"
+      "id": "finance-20260824-105",
+      "title": "2026年8月中旬流通领域重要生产资料市场价格变动情况",
+      "summary": "国家统计局发布数据显示，8月中旬与8月上旬相比，流通领域9大类50种重要生产资料中33种价格上涨，14种下降，3种持平。丁二烯橡胶、焦煤、甲醇、苯等涨幅居前，硫酸、焦炭、乙醇等跌幅较大，有色金属及煤炭价格整体上行，生猪、多晶硅等价格波动明显。",
+      "publishedAt": "2026-08-21",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965093.html",
+      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260821-103",
@@ -429,24 +483,6 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260821-203",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "卫星轨道数据中心公司Starcloud完成3.5亿美元B轮融资，在3月1.75亿美元A轮基础上追加，投后估值23亿美元。Manhattan West Ventures领投，英伟达投资2500万美元，思科、Benchmark等跟投，公司目前仅25名员工。",
-      "publishedAt": "2026-08-21T07:00:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260821-205",
-      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-      "summary": "管理资产规模达9380亿美元的私募巨头阿波罗全球管理确认发生数据泄露。攻击者于7月6日至10日通过社会工程手段侵入云系统，窃取姓名、出生日期、住址及社会安全号等信息，公司未回应是否支付赎金。",
-      "publishedAt": "2026-08-21T06:35:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-      "subCategory": "风险事件"
-    },
-    {
       "id": "finance-20260821-101",
       "title": "全球市场：美股收跌 道指跌超1% 存储、加密货币概念股走强 Moderna跌23.55%",
       "summary": "美东时间8月20日，美股三大指数集体下跌，道指跌703.84点至52759.21点，跌1.32%；标普500跌0.87%，纳指跌1.0%。存储、加密货币概念股逆势上涨，Moderna在此前暴涨176.97%后回落23.55%。",
@@ -472,15 +508,6 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
       "subCategory": "美股",
       "id": "finance-20260821-001"
-    },
-    {
-      "id": "finance-20260821-109",
-      "title": "小米：2026年Q2总营收1089.22亿元，经调整净利涤62.19亿元",
-      "summary": "小米集团公吃2026年第二季度业绩，总营收1089.22亿元，经调整净利涤62.19亿元，超市场预期。面对内存成本上涨，公司未直接转嫁成本，手机ASP创历史新高，同比上涨约300元，手机业务毛利率维持8.5%的健康水平。",
-      "publishedAt": "2026-08-20",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1846613.html",
-      "subCategory": "公司财报"
     },
     {
       "title": "黄金价格8月20日续涨突破4500美元 财政部购债计划及美联储纪要影响市场",
@@ -537,6 +564,15 @@
       "subCategory": "公司财报"
     },
     {
+      "id": "finance-20260821-109",
+      "title": "小米：2026年Q2总营收1089.22亿元，经调整净利涤62.19亿元",
+      "summary": "小米集团公吃2026年第二季度业绩，总营收1089.22亿元，经调整净利涤62.19亿元，超市场预期。面对内存成本上涨，公司未直接转嫁成本，手机ASP创历史新高，同比上涨约300元，手机业务毛利率维持8.5%的健康水平。",
+      "publishedAt": "2026-08-20",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1846613.html",
+      "subCategory": "公司财报"
+    },
+    {
       "title": "TJX二季度每股收益超预期，上调全年业绩指引",
       "summary": "TJX公司公吃2027财年二季度业绩，每股收益1.22美元，超市场预期的1.19美元，营收约151.8亿美元，公司将全年每股收益指引上调至5.15-5.20美元区间。",
       "publishedAt": "2026-08-20T00:11:38+08:00",
@@ -544,24 +580,6 @@
       "url": "https://www.marketbeat.com/instant-alerts/tjx-companies-nysetjx-issues-earnings-results-2026-08-19/",
       "subCategory": "公司财报",
       "id": "finance-20260820-005"
-    },
-    {
-      "id": "finance-20260819-002",
-      "title": "A股8月19日午后大跌，创指跌蠅6%",
-      "summary": "8月19日A股三大指数低开低走，上证指数跌2.40%扦3894.42点，深证成指跌5.01%，创业板指跌超6%，科创50指数跌6.89%，全市场超5000只个股下跌，CPO、芯片等前期热门概念股遭重挫，煌炭股逆势走强。",
-      "publishedAt": "2026-08-19",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tob/2026-08-19/doc-ininvshr7071131.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260819-003",
-      "title": "港股8月19日午盘：恒指涨0.24%，芯片股下挖，百度跌超11%",
-      "summary": "8月19日港股午盘，恒生指数涨0.24%报25533.38点，恒生科技指数跌0.82%，国企指数涨0.62%；石油股受中东局势推动走强，中石油涨超2%；华红半导体因毛利率担忧跌超12%，百度跌超11%，小米涨超6%。",
-      "publishedAt": "2026-08-19",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvmyt7067098.shtml",
-      "subCategory": "港股"
     },
     {
       "title": "Moderna股价因黑色素瘤疫苗试验成功大涨超100%",
@@ -636,6 +654,24 @@
       "id": "finance-20260820-013"
     },
     {
+      "id": "finance-20260819-002",
+      "title": "A股8月19日午后大跌，创指跌蠅6%",
+      "summary": "8月19日A股三大指数低开低走，上证指数跌2.40%扦3894.42点，深证成指跌5.01%，创业板指跌超6%，科创50指数跌6.89%，全市场超5000只个股下跌，CPO、芯片等前期热门概念股遭重挫，煌炭股逆势走强。",
+      "publishedAt": "2026-08-19",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tob/2026-08-19/doc-ininvshr7071131.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260819-003",
+      "title": "港股8月19日午盘：恒指涨0.24%，芯片股下挖，百度跌超11%",
+      "summary": "8月19日港股午盘，恒生指数涨0.24%报25533.38点，恒生科技指数跌0.82%，国企指数涨0.62%；石油股受中东局势推动走强，中石油涨超2%；华红半导体因毛利率担忧跌超12%，百度跌超11%，小米涨超6%。",
+      "publishedAt": "2026-08-19",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvmyt7067098.shtml",
+      "subCategory": "港股"
+    },
+    {
       "title": "两次触发临停，920059一度大涨200%",
       "summary": "双英集团（920059.BJ）登陆北交所，开盘涨87.6%，盘中一度涨200%并两次触发临时停牌，收盘涨幅收窄至137.74%，总市值约40亿元；公司主营汽车座椅及内外饰件研发生产。",
       "publishedAt": "2026-08-19T11:16:00+08:00",
@@ -688,42 +724,6 @@
       "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8375619.shtml",
       "subCategory": "美股",
       "id": "finance-20260820-009"
-    },
-    {
-      "title": "8月19日热门中概股多数下跌，百度跌超12%",
-      "summary": "纳斯达克金龙中国指数收跌1.01%，百度跌12.73%领跌，台积电跌4.07%，联发科跌5.38%；阿里巴巴逆势涨2.76%，新东方涨2.48%，拼多多涨0.38%。",
-      "publishedAt": "2026-08-19T04:24:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9768059.shtml",
-      "subCategory": "美股",
-      "id": "finance-20260820-010"
-    },
-    {
-      "id": "finance-20260818-113",
-      "title": "港股午评：恒指跌0.65% 科指跌1.99% 科网股普跌 AI应用股走弱 智谱跌超16%",
-      "summary": "8月18日港股午盘，恒生指数跌0.65%报25287.25点，恒生科技指数跌1.99%，国企指数跌0.62%；科网股普跌，联想跌超4%，美团、快手、哔哩哔哩跌超3%；牧原股份涨超4%；AI应用股智谱跌超16%。",
-      "publishedAt": "2026-08-18",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-18/doc-inintats8708815.shtml",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260818-111",
-      "title": "一签赚55万，A股诞生新纪录",
-      "summary": "年内最贵新股频准激光（688826.SH）8月18日在科创板上市，开盘涨488%，盘中最高触及1300元/股，以500股中签计算，投资者浮盈约56.6万元，创下注册制以来新股首日盈利纪录。",
-      "publishedAt": "2026-08-18T10:04:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2456739",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260818-112",
-      "title": "AI算力订单占比升至九成 芯原股份上半年营收近翻倍但亏损持续｜财报解读",
-      "summary": "芯原股份发布中报，2026年上半年营敕418.64亿元，同比增长91.37%，归母净利涤亏损6.12亿元；今年1月1日至8月17日新签订单达151.42亿元，其中AI算力相关订单占比升至90%。",
-      "publishedAt": "2026-08-18T07:20:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2456581",
-      "subCategory": "公司财报"
     }
   ]
 }

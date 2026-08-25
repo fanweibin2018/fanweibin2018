@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-25T01:05:00+08:00",
+  "updatedAt": "2026-08-25T08:35:00+08:00",
   "items": [
+    {
+      "title": "玄戒O3、O100、D100齐发！小米朱丹：芯片研发投入是为下一个十年买入场券",
+      "summary": "小米一次性发布玄戒O3、O100、D100三款自研芯片，分别面向手机、高性能计算与汽车场景，五年间芯片研发投入超210亿元，组建近3000人技术团队。",
+      "publishedAt": "2026-08-25T08:30:45+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1146/1146087.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260825-010"
+    },
+    {
+      "title": "半导体博弈升级！美国拟施压荷兰 对华禁售DUV光刻机",
+      "summary": "美国正推动\"MATCH法案\"，拟迫使荷兰扩大对华出口管制至DUV光刻机，不仅禁止新机销售，还将禁止为现有设备提供维护服务，此前ASML已于2019年停止对华出口EUV设备。",
+      "publishedAt": "2026-08-25T08:27:08+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1146/1146085.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260825-007"
+    },
+    {
+      "title": "特斯拉 Semi 内华达新工厂下月举行投产仪式，年产能达 5 万辆",
+      "summary": "特斯拉将于下月在内华达州斯帕克斯的Semi专用工厂举行投产仪式，工厂已于今年4月启动规模化生产，年产能达5万辆电动重卡，届时参会者可试驾量产版车型。",
+      "publishedAt": "2026-08-25T08:13:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/797.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260825-001"
+    },
+    {
+      "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
+      "summary": "马斯克表示SpaceX计划2027年第四季度发射首批搭载英伟达Vera Rubin NVL72系统的AI卫星，2028年实现规模部署，已向FCC申请部署最多百万颗卫星组成的星座。",
+      "publishedAt": "2026-08-25T08:01:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/796.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260825-002"
+    },
+    {
+      "title": "Epic CEO 吐槽微软 Ctrl+C 可靠性，让 99% 的 Win10/Win11 用户感到懊恼",
+      "summary": "Epic Games CEO Tim Sweeney在X上吐槽Windows剪贴板不稳定，称按一次Ctrl+C并非总能成功复制。微软工程师此前解释这与剪贴板占用及历史记录异步监控有关。",
+      "publishedAt": "2026-08-25T07:55:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/795.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260825-003"
+    },
+    {
+      "title": "安卓最强2nm芯片易主！三星Exynos 2700内部实测跑分力压高通第六代骁龙8超级至尊版",
+      "summary": "据内部测试，三星Exynos 2700的Geekbench多核跑分较骁龙8 Gen6超级至尊版高9.5%，GPU峰值性能高约5%，该芯片采用2nm SF2P工艺，将首发于Galaxy S27系列。",
+      "publishedAt": "2026-08-25T07:52:31+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1146/1146077.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260825-008"
+    },
+    {
+      "title": "消息称智能戒指厂商 Oura 拟下月赴美 IPO，目标估值超 160 亿美元",
+      "summary": "芬兰智能戒指厂商Oura计划最早下月在美上市，拟融资最多30亿美元，目标估值超160亿美元，公司员工超900人，此前已完成8.75亿美元E轮融资。",
+      "publishedAt": "2026-08-25T07:49:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/793.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-004"
+    },
+    {
+      "title": "苹果秋季发布会大概率定档9月10日！邀请函最早明晚发",
+      "summary": "消息称苹果秋季新品发布会大概率定于9月10日（北京时间），邀请函最早于8月27日凌晨发出，届时预计发布iPhone 18 Pro/Pro Max及新款折叠屏iPhone Ultra等产品。",
+      "publishedAt": "2026-08-25T07:49:16+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1146/1146076.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-009"
+    },
+    {
+      "title": "联想承认 BIOS 更新导致 Legion Go 掌机变砖，受影响设备可免费维修",
+      "summary": "联想承认N3CN42WW版BIOS更新导致部分Legion Go掌机变砖，已在欧洲实验室复现该故障，确认非用户操作失误，受影响设备无论是否在保均可免费维修。",
+      "publishedAt": "2026-08-25T07:42:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/791.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-005"
+    },
+    {
+      "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
+      "summary": "爆料者Yogesh Brar公布苹果20周年纪念版iPhone渲染图，采用四曲面屏幕、前置单挖孔摄像头及后置横向双摄设计，通过玻璃光学折射打造无边框视觉效果。",
+      "publishedAt": "2026-08-25T07:36:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/790.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-006"
+    },
     {
       "id": "tech-20260824-111",
       "title": "微信鸿蒙版App获8.0.21.16版本邀测升级",
@@ -429,15 +519,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "title": "The New MCP Roadmap",
-      "summary": "Model Context Protocol维护团队发布新版路线图，聚焦五大方向：智能体消息原语、HTTP原生传输统一、企业级身份与安全、工具结果处理等基础能力改进，以及SDK开发体验优化，并邀请社区通过工作组与SEP提案参与。",
-      "publishedAt": "2026-08-22",
-      "source": "MCP Blog",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260823-017"
-    },
-    {
       "title": "Linux 7.3 新增 AMD 低功耗核心支持，统一英特尔和 AMD 核心类型处理",
       "summary": "Linux 7.3内核新增AMD低功耗核心识别类型，将不同厂商特定核心类型统一映射为通用CPU核心类型，同时改进调度器以优化老旧硬件游戏性能与短时间片任务延迟，MSR接口也将从32位过渡至64位。",
       "publishedAt": "2026-08-22T23:23:16+08:00",
@@ -600,6 +681,15 @@
       "subCategory": "机器人"
     },
     {
+      "title": "The New MCP Roadmap",
+      "summary": "Model Context Protocol维护团队发布新版路线图，聚焦五大方向：智能体消息原语、HTTP原生传输统一、企业级身份与安全、工具结果处理等基础能力改进，以及SDK开发体验优化，并邀请社区通过工作组与SEP提案参与。",
+      "publishedAt": "2026-08-22",
+      "source": "MCP Blog",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "subCategory": "开发者工具",
+      "id": "tech-20260823-017"
+    },
+    {
       "id": "tech-20260822-015",
       "title": "消息称iQOO 16/小平板9月见，首批第六代骁龙8至尊版新机+首个同平台平板",
       "summary": "博主爆料称iQOO将于9月推出iQOO 16手机与首款小平板，均搭载第六代骁龙8至尊版处理器，手机配6.85英寸2K+165Hz屏幕与5000万主摄三摄，平板配2.8K OLED高刷屏并内置散热风扇。",
@@ -634,96 +724,6 @@
       "url": "https://www.ithome.com/0/992/903.htm",
       "subCategory": "网络基础设施",
       "id": "tech-20260822-001"
-    },
-    {
-      "title": "抖音\"验证助手\"升级：可查验\"二维码\"是否为抖音官方活动",
-      "summary": "抖音升级验证助手工具，用户可查验收到的活动二维码是否为官方发布，应对不法分子伪造周年庆礼品卡等至少十种诈骗话术，抖音强调平台不会通过邮寄卡片或外部链接索要个人信息。",
-      "publishedAt": "2026-08-22T08:12:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/902.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260822-005"
-    },
-    {
-      "title": "微软Win11 26H2将默认启用\"时光机\"：每隔24小时创建备份、最高占用50GB存储",
-      "summary": "微软将在Win11 26H2默认启用时间点还原功能，系统每24小时自动创建备份、最多保留72小时还原点，占用存储上限50GB，仅适用于未托管的家庭版和专业版，系统盘需200GB以上方可自动开启。",
-      "publishedAt": "2026-08-22T08:09:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/901.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260822-003"
-    },
-    {
-      "title": "华为鸿蒙HarmonyOS存量设备API占比数据更新，7.0.0 Beta2达4.65%",
-      "summary": "华为开发者平台更新截至8月20日的HarmonyOS存量设备API版本占比，6.1.1版本占比84.93%，6.1.0以上版本合计占97.27%，新发布的7.0.0 Beta2已达到4.65%的设备占比。",
-      "publishedAt": "2026-08-22T08:01:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/900.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260822-004"
-    },
-    {
-      "title": "英特尔下代核显Linux驱动默认支持Nova Lake：S/HX系列无缘光追",
-      "summary": "Mesa最新代码将英特尔Nova Lake系列S、U、H、HX核显图形支持由实验状态转为稳定并默认启用，Iris和ANV驱动无需再手动开启force_probe参数，其中桌面S系列与高端移动HX系列不具备硬件光线追踪能力。",
-      "publishedAt": "2026-08-22T07:59:34+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1145/1145569.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260822-006"
-    },
-    {
-      "title": "微软应用引导Chrome/Firefox等浏览器设Bing为默认搜索引擎，相关扩展拥有500万用户",
-      "summary": "微软发布独立安装包，引导用户在Edge、Firefox、Chrome、Brave浏览器中将Bing设为默认搜索引擎，配套Chrome扩展已有500万用户，安装完成后会跳转至微软Rewards页面。",
-      "publishedAt": "2026-08-22T07:43:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/895.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260822-012"
-    },
-    {
-      "title": "通过自动化系统封禁司机账户，Uber优步被荷兰罚款8.25亿欧元",
-      "summary": "荷兰数据保护机构以Uber未充分告知即通过自动化系统封禁司机账号为由处以8.25亿欧元罚款，为欧洲史上第二大GDPR罚单，涉及2018至2022年间投诉，2021年欧洲共126名司机因低评分被永久封号，Uber表示将提起上诉。",
-      "publishedAt": "2026-08-22T07:43:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/894.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260822-011"
-    },
-    {
-      "title": "全新一代智己LS6\"陆上A320\"官宣9月见，定位\"家庭SUV\"",
-      "summary": "上汽智己在2026成都车展宣布新一代LS6将于9月发布，命名陆上A320，定位家庭SUV，标配NEO三电架构、全功能底盘控制及IM CLAW智能系统，现款车型纯电版起售19.79万元，综合续航超1500公里。",
-      "publishedAt": "2026-08-22T07:36:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/893.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260822-010"
-    },
-    {
-      "title": "苹果14英寸M6 MacBook Pro前瞻：12核GPU、200GB/s内存带宽、升级均热板散热",
-      "summary": "据AppleInsider报道，苹果下一代入门级14英寸MacBook Pro（代号J804）预计2026年末或2027年初发布，M6芯片将升级为12核GPU、内存带宽提升至200GB/s，并扩大均热板覆盖范围以降低持续高负载下的降频。",
-      "publishedAt": "2026-08-22T07:24:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/892.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260822-013"
-    },
-    {
-      "title": "消息称苹果收缩Vision Pro相关业务，波及Siri等团队裁员共约200人",
-      "summary": "据报道苹果启动组织调整，解散Vision Pro游戏开发团队并缩减沉浸式视频制作团队，涉及约100人，Siri团队同步裁员约100人，公司称将根据用户实际使用情况调整业务重心，沉浸式内容未来更依赖第三方合作。",
-      "publishedAt": "2026-08-22T06:48:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/888.htm",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260822-007"
-    },
-    {
-      "id": "tech-20260821-206",
-      "title": "Mercury：AMD 客户端 CPU 份额首次突破 30%，英特尔优势进一步缩小",
-      "summary": "Mercury Research数据显示，2026年第二季度AMD x86客户端CPU出货份额首次突破30%，达30.3%，两年前为21.1%，英特尔份额降至69.7%。桌面端份额34.9%，移动端28.9%，客户端业务营收同比增长23%。",
-      "publishedAt": "2026-08-21T23:25:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/881.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }

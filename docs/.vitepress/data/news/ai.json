@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-25T01:05:00+08:00",
+  "updatedAt": "2026-08-25T08:35:00+08:00",
   "items": [
+    {
+      "title": "微软AI智能体系统Aion曝光：以Copilot为核心、重塑桌面体验",
+      "summary": "微软内部代号CopilotOS的Project Aion曝光，定位面向企业用户的Copilot中心化AI操作系统，取消开始菜单等传统桌面元素，通过\"Ask me anything\"对话框调用应用，支持按目标整理任务的Spaces、整合Microsoft 365数据的Context IQ，并对接Teams、Outlook、OneDrive、VS Code等应用。",
+      "publishedAt": "2026-08-25T08:20:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/798.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260825-006"
+    },
+    {
+      "title": "研究团队调查发现超七成英语生物医学论文已使用AI辅助写作，呼吁业界建立完善监管机制",
+      "summary": "研究团队分析PubMed Central上119万余篇生物医学论文发现，2025年约77%的英语生物医学论文显示AI辅助写作或编辑痕迹，较2023年19%、2024年52%大幅上升，非英语地区如韩国、中国比例超80%，讨论部分AI使用率最高约78%，团队呼吁建立披露与监管机制。",
+      "publishedAt": "2026-08-25T07:14:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/781.htm",
+      "subCategory": "论文进展",
+      "id": "ai-20260825-005"
+    },
+    {
+      "title": "谷歌为Pixel 11系列手机测试Gemini驱动的\"设备帮助\"工具，可对话式排查手机故障",
+      "summary": "谷歌在Google App 17.52版本中为Pixel 11系列手机灰度测试Gemini驱动的\"设备帮助\"功能，标注Labs实验标签，可对话式排查网络、电池、音频、应用性能等问题，并能管理存储空间、检查应用权限、调整通知设置，尚未面向全部用户推送。",
+      "publishedAt": "2026-08-25T06:49:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/772.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260825-004"
+    },
+    {
+      "title": "美国音乐人Dr. Dre公开支持AI音乐，将其类比鼓机、合成器",
+      "summary": "说唱制作人Dr. Dre公开承认在音乐创作中使用AI工具，称其为\"全新的创意工具\"，并将其类比曾遭抵制、如今已被广泛接受的鼓机与合成器等制作技术。报道同时提到Tidal拒绝向纯AI生成音乐支付版税，Spotify则推出AI标签以标识非人类创作者。",
+      "publishedAt": "2026-08-24T22:34:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/993/745.htm",
+      "subCategory": "AI音频",
+      "id": "ai-20260825-007"
+    },
     {
       "id": "ai-20260824-107",
       "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
@@ -13,6 +49,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478568.html",
       "subCategory": "论文进展"
+    },
+    {
+      "title": "菲尔兹奖得主都栽了，Claude终结78年悬案，或成最重要AI数学成果",
+      "summary": "哈佛数学家Levent Alpöge与Claude合作，解决自1948年悬而未决的六维球面S⁶复结构存在性猜想，三天内直接构造出该数学对象，完成108页证明，经AI验证工具审查未发现漏洞，被视为AI在数学领域最重要的贡献之一。",
+      "publishedAt": "2026-08-24T20:47:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3953397422537858",
+      "subCategory": "论文进展",
+      "id": "ai-20260825-001"
     },
     {
       "id": "ai-20260824-103",
@@ -67,6 +112,24 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478421.html",
       "subCategory": "具身智能"
+    },
+    {
+      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
+      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30563",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-002"
+    },
+    {
+      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
+      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30577",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-003"
     },
     {
       "id": "ai-20260824-001",
@@ -130,6 +193,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260823-104",
+      "title": "OpenAI说加州应加强其AI安全法案",
+      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
+      "publishedAt": "2026-08-22T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "subCategory": "大模型"
     },
     {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
@@ -213,12 +285,57 @@
       "id": "ai-20260823-007"
     },
     {
-      "id": "ai-20260823-104",
-      "title": "OpenAI说加州应加强其AI安全法案",
-      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
-      "publishedAt": "2026-08-22T09:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "id": "ai-20260821-200",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以\"Agent+具身\"联合进入商业机器人场景",
+      "summary": "明略科技与海康机器人在2026世界机器人大会联合参展，以自研视觉语言模型(VLM)与视觉语言动作模型(VLA)为商用服务机器人提供感知决策能力，覆盖餐饮清洁、工业物流、智能巡逻三大场景，机器人可自主区分垃圾与遗留物品并完整保留。",
+      "publishedAt": "2026-08-21T17:44:33+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260821-201",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "summary": "雷鸟创新发布AI眼镜雷鸟iO，整机重量34克，搭载DeepSeek V4 Pro与千问3.7 Max等大模型及全天候记忆引擎，可自动生成24小时上下文总结、支持55种语言翻译，不配备摄像头，首发到手价1996元起。",
+      "publishedAt": "2026-08-21T17:00:06+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-107",
+      "title": "OpenAI全面开源Codex Harness",
+      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
+      "publishedAt": "2026-08-21T15:18:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/656.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260821-108",
+      "title": "马斯克：在AI领域，中国是SpaceX AI公司迄今最强竞争对手",
+      "summary": "马斯克在X平台评论一条2011年预测SpaceX将与中国展开顶级竞争的旧推文时表示，在AI领域，中国是SpaceX AI公司最强大的竞争对手，显示其认为中国在人工智能领域构成最强劲挑战。",
+      "publishedAt": "2026-08-21T15:15:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/654.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260822-010",
+      "title": "深势科技上线玻尔·科学空间公测，AI承担科研实验全流程",
+      "summary": "深势科技推出桌面端AI科研平台玻尔·科学空间公测版，集成多学科AI专家，可完成文献综述、实验设计与执行，接入超2亿篇文献及5万余种科学计算工具，计算执行成功率达98.8%。",
+      "publishedAt": "2026-08-21T14:40:34+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-105",
+      "title": "Jeff Dean离职谷歌后首次公开访谈：反思Gemini编程投入偏晚",
+      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩至分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
+      "publishedAt": "2026-08-21T12:05:11+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
       "subCategory": "大模型"
     },
     {
@@ -375,60 +492,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260821-200",
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以\"Agent+具身\"联合进入商业机器人场景",
-      "summary": "明略科技与海康机器人在2026世界机器人大会联合参展，以自研视觉语言模型(VLM)与视觉语言动作模型(VLA)为商用服务机器人提供感知决策能力，覆盖餐饮清洁、工业物流、智能巡逻三大场景，机器人可自主区分垃圾与遗留物品并完整保留。",
-      "publishedAt": "2026-08-21T17:44:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476733.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260821-201",
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-      "summary": "雷鸟创新发布AI眼镜雷鸟iO，整机重量34克，搭载DeepSeek V4 Pro与千问3.7 Max等大模型及全天候记忆引擎，可自动生成24小时上下文总结、支持55种语言翻译，不配备摄像头，首发到手价1996元起。",
-      "publishedAt": "2026-08-21T17:00:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476628.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-107",
-      "title": "OpenAI全面开源Codex Harness",
-      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
-      "publishedAt": "2026-08-21T15:18:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/656.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260821-108",
-      "title": "马斯克：在AI领域，中国是SpaceX AI公司迄今最强竞争对手",
-      "summary": "马斯克在X平台评论一条2011年预测SpaceX将与中国展开顶级竞争的旧推文时表示，在AI领域，中国是SpaceX AI公司最强大的竞争对手，显示其认为中国在人工智能领域构成最强劲挑战。",
-      "publishedAt": "2026-08-21T15:15:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/654.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260822-010",
-      "title": "深势科技上线玻尔·科学空间公测，AI承担科研实验全流程",
-      "summary": "深势科技推出桌面端AI科研平台玻尔·科学空间公测版，集成多学科AI专家，可完成文献综述、实验设计与执行，接入超2亿篇文献及5万余种科学计算工具，计算执行成功率达98.8%。",
-      "publishedAt": "2026-08-21T14:40:34+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476591.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-105",
-      "title": "Jeff Dean离职谷歌后首次公开访谈：反思Gemini编程投入偏晚",
-      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩至分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
-      "publishedAt": "2026-08-21T12:05:11+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476468.html",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260821-103",
       "title": "触觉让世界模型更懂物理，也更难通用",
       "summary": "文章梳理触觉传感如何让具身智能世界模型更懂物理交互，千觉机器人、戴盟机器人等企业相继发布触觉数据集与模型，但不同传感器信号格式不一，跨设备、跨硬件迁移仍是行业待解难题。",
@@ -463,42 +526,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/416.htm",
       "subCategory": "开源模型"
-    },
-    {
-      "title": "Introducing Agentic Search",
-      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率由26.7%提升至86%。",
-      "publishedAt": "2026-08-20",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/agentic-search/",
-      "subCategory": "Agent",
-      "id": "ai-20260822-004"
-    },
-    {
-      "title": "突破千亿参数大关！\"阳光清言\"藏语大模型正式发布",
-      "summary": "拉萨那金数智研究院成立，其研发的千亿参数级藏语大模型\"阳光清言\"同期发布，模型基于强基座模型继承通用智能与世界知识，实现藏语处理能力突破，已完成内测与公测。",
-      "publishedAt": "2026-08-20",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30518",
-      "subCategory": "大模型",
-      "id": "ai-20260822-009"
-    },
-    {
-      "title": "MiniMax发布视频创作工具Design",
-      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "AI视频",
-      "id": "ai-20260820-023"
-    },
-    {
-      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
-      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "开源模型",
-      "id": "ai-20260820-024"
     },
     {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
@@ -562,6 +589,42 @@
       "url": "https://news.aibase.com/zh/news/30507",
       "subCategory": "AI应用",
       "id": "ai-20260821-004"
+    },
+    {
+      "title": "Introducing Agentic Search",
+      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率由26.7%提升至86%。",
+      "publishedAt": "2026-08-20",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/agentic-search/",
+      "subCategory": "Agent",
+      "id": "ai-20260822-004"
+    },
+    {
+      "title": "突破千亿参数大关！\"阳光清言\"藏语大模型正式发布",
+      "summary": "拉萨那金数智研究院成立，其研发的千亿参数级藏语大模型\"阳光清言\"同期发布，模型基于强基座模型继承通用智能与世界知识，实现藏语处理能力突破，已完成内测与公测。",
+      "publishedAt": "2026-08-20",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30518",
+      "subCategory": "大模型",
+      "id": "ai-20260822-009"
+    },
+    {
+      "title": "MiniMax发布视频创作工具Design",
+      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "AI视频",
+      "id": "ai-20260820-023"
+    },
+    {
+      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
+      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
+      "publishedAt": "2026-08-20",
+      "source": "AIBase每日简报",
+      "url": "https://news.aibase.com/daily/30505",
+      "subCategory": "开源模型",
+      "id": "ai-20260820-024"
     },
     {
       "title": "墨奇智能亮相WRC，展示具身大脑架构MoRA",
@@ -661,69 +724,6 @@
       "url": "https://www.aibase.com/news/30468",
       "subCategory": "AI应用",
       "id": "ai-20260820-008"
-    },
-    {
-      "title": "图灵奖得主萨顿：AI行业过度依赖合成数据是一个大错误",
-      "summary": "强化学习先驱、图灵奖得主Rich Sutton在Sequoia播客中表示，AI行业为维持大模型扩展而依赖合成数据是“大错误”，机器生成数据无法替代真实世界经验数据，尤其在机器人等物理交互场景中。",
-      "publishedAt": "2026-08-19T14:25:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininvshv9427767.shtml",
-      "subCategory": "大模型",
-      "id": "ai-20260820-017"
-    },
-    {
-      "title": "通义千问APP上线七夕AI送花助手及契合度测试",
-      "summary": "通义千问APP联合淘宝闪购推出七夕AI功能：送花助手可依用户描述的风格生成花语解读与推荐并一键生成贺卡；契合度测试让情侣回答问题获得个性化解读与好物推荐。",
-      "publishedAt": "2026-08-19T13:52:30+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30466",
-      "subCategory": "AI应用",
-      "id": "ai-20260820-010"
-    },
-    {
-      "title": "Modular宣布Mojo语言完全开源，采用Apache 2.0协议",
-      "summary": "AI基础设施公司Modular宣布旗下Mojo编程语言正式完全开源，采用Apache 2.0许可协议，Mojo面向AI与高性能计算场景设计，力图兼顾Python易用性与系统级执行性能。",
-      "publishedAt": "2026-08-19T11:36:16+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30463",
-      "subCategory": "推理框架",
-      "id": "ai-20260820-007"
-    },
-    {
-      "title": "OpenAI暂缓前沿模型训练两周",
-      "summary": "OpenAI宣布对最新部署模型的强化学习训练暂停两周，原计划规模最大的前沿RL训练仍被搁置。公司称此举是为让安全、对齐与监控能力跟上模型能力提升，监控开销约占被监控推理算力的20%。",
-      "publishedAt": "2026-08-19T10:56:00+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103324002.html",
-      "subCategory": "大模型",
-      "id": "ai-20260820-016"
-    },
-    {
-      "title": "Anthropic预告为Claude Code推出/design命令",
-      "summary": "Anthropic产品设计师Nate Parrott宣布Claude Code即将支持/design命令，可在编码前生成多个UI原型供挑选编辑，结合现有代码风格输出可分享的Artifacts原型。",
-      "publishedAt": "2026-08-19T10:54:17+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30462",
-      "subCategory": "AI编程",
-      "id": "ai-20260820-002"
-    },
-    {
-      "title": "蚂蚁Alpha公布医生端AI助手服务策略",
-      "summary": "蚂蚁旗下Alpha公布医生端服务策略，将为从乡村医生到知名专家的各级医生定制AI助手，覆盖基层到三甲医院场景，涉及诊断辅助、患者管理与科研支持等功能。",
-      "publishedAt": "2026-08-19T10:51:37+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30461",
-      "subCategory": "AI应用",
-      "id": "ai-20260820-009"
-    },
-    {
-      "title": "安全机构曝Microsoft Copilot漏洞，恶意链接可自动窃取邮件与凭证",
-      "summary": "安全公司Varonis披露Microsoft Copilot漏洞，攻击者用带autorun等参数的恶意链接即可绕过用户确认，在已登录会话中自动执行注入指令，窃取邮箱内容与凭证并以Base64编码外传。",
-      "publishedAt": "2026-08-19T10:46:06+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30460",
-      "subCategory": "AI应用",
-      "id": "ai-20260820-006"
     }
   ]
 }
