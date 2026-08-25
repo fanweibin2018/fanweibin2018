@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-25T10:30:00+08:00",
+  "updatedAt": "2026-08-25T23:59:00+08:00",
   "items": [
+    {
+      "title": "中国—加纳经贸联委会第五次会议在阿克拉召开",
+      "summary": "商务部部长助理张力与加纳财政部部长福森8月24日共同主持中国—加纳经贸联委会第五次会议，双方签署会议纪要，商定深化产供链、绿色能源等领域投资合作，推动双边贸易投资合作提质升级。",
+      "publishedAt": "2026-08-25T08:56:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/brief/103331905.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260825-010"
+    },
     {
       "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
       "summary": "中央网信办通报\"清朗·网络娱乐团播乱象整治\"专项行动进展，已处置违规团播直播间7200余个，严惩违规账号2200余个，指导平台清退一批问题严重的团播MCN机构，累计发布治理公告17期。",
@@ -715,15 +724,6 @@
       "source": "商务部",
       "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_c3d812a75499429ab0acc4e6b000bf0d.html",
       "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260810-x05",
-      "title": "FTC Stops Sprawling Credit Repair Scheme that Scammed Consumers Out of Nearly $200 Million",
-      "summary": "美国联邦贸易委员会促使联邦法院叫停一个由17家关联公司组成的虚假信用修复骗局，被告自2016年起通过谷歌广告虚假宣传、假冒催收人员及违规收费等手段骗取消费者约2亿美元，并专门针对现役军人。",
-      "publishedAt": "2026-08-10T09:51:14-04:00",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million",
-      "subCategory": "金融监管"
     }
   ]
 }

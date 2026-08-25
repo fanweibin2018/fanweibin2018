@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-25T10:30:00+08:00",
+  "updatedAt": "2026-08-25T23:59:00+08:00",
   "items": [
+    {
+      "title": "OECD：2026年亚洲资本市场报告",
+      "summary": "OECD报告显示，2025年亚洲资本市场占全球GDP约31%、上市公司数量占全球56%，全年融资总额3.3万亿美元，占全球39%；但IPO活动较2022至2024年均值下降11%，再融资增长55%，近四成亚洲上市公司市净率低于1倍。",
+      "publishedAt": "2026-08-25",
+      "source": "OECD（199IT转载）",
+      "url": "https://www.199it.com/archives/1838363.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260825-003"
+    },
     {
       "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
       "summary": "小米委托台积电代工三款新玄戒芯片，分别面向折叠屏手机、AI加速及自动驾驶应用，进一步扩展自研芯片版图并强化对台积电产能的依赖，同时降低对外部芯片供应商的依赖。",
@@ -715,15 +724,6 @@
       "source": "证券时报网",
       "url": "https://www.stcn.com/article/detail/4079046.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260818-002",
-      "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
-      "summary": "紫金黄金国际发布2026年中期业绩，收入约39.9亿美元，同比增长100%；母公司拥有人应占溢利约14.5亿美元，同比增长179%；矿产金产量约27.3吨；董事会宣派上市以来首次中期股息，每股1.5港元。",
-      "publishedAt": "2026-08-16T19:11:00+08:00",
-      "source": "东方财富网",
-      "url": "https://emwap.eastmoney.com/a/202608163842525597.html",
-      "subCategory": "公司动态"
     }
   ]
 }
