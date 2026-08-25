@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-25T10:30:00+08:00",
+  "updatedAt": "2026-08-25T23:59:00+08:00",
   "items": [
+    {
+      "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
+      "summary": "范式发布具身智能体框架PhanthyMotus生态共建计划，联合宇树科技等十余家机器人企业推动平台从开源转向多方共建，已积累超60万行代码，适配15款以上机器人型号，标准化200余种硬件驱动接口。",
+      "publishedAt": "2026-08-25T17:31:16+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/479314.html",
+      "subCategory": "具身智能",
+      "id": "ai-20260825-008"
+    },
     {
       "title": "微软AI智能体系统Aion曝光：以Copilot为核心、重塑桌面体验",
       "summary": "微软内部代号CopilotOS的Project Aion曝光，定位面向企业用户的Copilot中心化AI操作系统，取消开始菜单等传统桌面元素，通过\"Ask me anything\"对话框调用应用，支持按目标整理任务的Spaces、整合Microsoft 365数据的Context IQ，并对接Teams、Outlook、OneDrive、VS Code等应用。",
@@ -34,7 +43,7 @@
     },
     {
       "title": "美国音乐人Dr. Dre公开支持AI音乐，将其类比鼓机、合成器",
-      "summary": "说唱制作人Dr. Dre公开承认在音乐创作中使用AI工具，称其为\"全新的创意工具\"，并将其类比曾遭抵制、如今已被广泛接受的鼓机与合成器等制作技术。报道同时提到Tidal拒绝向纯AI生成音乐支付版税，Spotify则推出AI标签以标识非人类创作者。",
+      "summary": "说唱制作人Dr. Dre公开承认在音乐创作中使用AI工具，称其为\"全新的创意工具\"，并将其类比曾遂抵制、如今已被广泛接受的鼓机与合成器等制作技术。报道同时提到Tidal拒绝向纯AI生成音乐支付版税，Spotify则推出AI标签以标识非人类创作者。",
       "publishedAt": "2026-08-24T22:34:21+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/745.htm",
@@ -51,7 +60,7 @@
       "subCategory": "论文进展"
     },
     {
-      "title": "菲尔兹奖得主都栽了，Claude终结78年悬案，或成最重要AI数学成果",
+      "title": "菲尔兹奖得主都栓了，Claude终结78年悬案，或成最重要AI数学成果",
       "summary": "哈佛数学家Levent Alpöge与Claude合作，解决自1948年悬而未决的六维球面S⁶复结构存在性猜想，三天内直接构造出该数学对象，完成108页证明，经AI验证工具审查未发现漏洞，被视为AI在数学领域最重要的贡献之一。",
       "publishedAt": "2026-08-24T20:47:00+08:00",
       "source": "36氪",
@@ -61,8 +70,8 @@
     },
     {
       "id": "ai-20260824-103",
-      "title": "AI 大模型周榜：国产 glm-5.3-max 首秀闯入综合榜前 15，kimi-k3-max 冲进前十",
-      "summary": "IT之家援引Arena榜单报道2026年第34周（8月17日至23日）AI大模型综合排名，智谱GLM-5.3-Max首次上榜即进入前15名，月之暗面Kimi-K3-Max首次跻身前十，阿里Qwen3.8-Max则从第8名降至第19名，榜单还涵盖代码、图像、视频及智能体等分类。",
+      "title": "AI 大模型周榜：国产 glm-5.3-max 首秀闖入综合榜前 15，kimi-k3-max 冲进前十",
+      "summary": "IT之家援引Arena榜单报道2026年第34周（8月17日至23日）AI大模型综合排名，智谱GLM-5.3-Max首次上榜即进入前15名，月之暗面Kimi-K3-Max首次跻身前十，阿里 Qwen3.8-Max则从第8名降至第19名，榜单还涵盖代码、图像、视频及智能体等分类。",
       "publishedAt": "2026-08-24T16:24:30+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/601.htm",
@@ -80,7 +89,7 @@
     {
       "id": "ai-20260824-101",
       "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "summary": "阿里达摩院联合医疗机构推出肝癌AI诊断模型DAMO LiON，可通过CT影像识别约1厘米微小肝脏肿瘤，两个月临床试验中发现15例此前漏诊的恶性病灶。辅助诊断使阅片时间缩短27%，恶性肿瘤识别敏感度提升11.5%，相关研究发表于《自然-医学》。",
+      "summary": "阿里达摩院联合医疗机构推出肝癌AI诊断模型DAMO LiON，可通过CT影像识别约1厘米微小肝脏肿瘤，两个月临床试验中发现15例此前漏诊的恶性病灾。辅助诊断使阅片时间缩短27%，恶性肿瘤识别敏感度提升11.5%，相关研究发表于《自然-医学》。",
       "publishedAt": "2026-08-24T16:07:59+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478473.html",
@@ -107,7 +116,7 @@
     {
       "id": "ai-20260824-105",
       "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涛发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench评测中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
+      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涿发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench评测中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
       "publishedAt": "2026-08-24T13:04:52+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478421.html",
@@ -188,7 +197,7 @@
     {
       "id": "ai-20260823-101",
       "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已获5000万美元融资，计划扩编至25人。",
+      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已茷5000万美元融资，计划扩编至25人。",
       "publishedAt": "2026-08-23T08:15:10+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
@@ -241,7 +250,7 @@
     },
     {
       "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "summary": "硅羽科技开发无GPS、无遥控依赖的自主飞行智能系统，采用\"真实到仿真\"数据方案，用少量真实飞行数据重建仿真环境生成海量训练场景，计划年内推出可在隧道、山地自主导航的产品。",
+      "summary": "硅羽科技开发无GPS、无遥控依赖的自主飞行智能系统，采用\"真实到仿真\"数据方案，用少量真实飞行数据重建仿真环境生成海量训练场景，计划年内推出可在隆道、山地自主导航的产品。",
       "publishedAt": "2026-08-22T16:53:13+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476965.html",
@@ -258,8 +267,8 @@
       "id": "ai-20260823-005"
     },
     {
-      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碾压 Claude Fable 5，线索指向智谱",
-      "summary": "OpenRouter上线匿名模型Ox Alpha，限时一周免费，在DeepSWE代码分析测试中约得80分，超过Claude Fable 5(65)与GPT-5.6 Sol(52)，其分词器指纹与GLM-5.3高度吻合，被指向智谱。",
+      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碎压 Claude Fable 5，线索指向智谱",
+      "summary": "OpenRouter上线匿名模型Ox Alpha，限时一周免费，在DeepSWE代码分析测试中约得80分，超过Claude Fable 5(65)与GPT-5.6 Sol(52)，其分词器指纹与GLM-5.3高度吁合，被指向智谱。",
       "publishedAt": "2026-08-22T14:54:05+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/003.htm",
@@ -305,7 +314,7 @@
     {
       "id": "ai-20260821-107",
       "title": "OpenAI全面开源Codex Harness",
-      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及app-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
+      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及pp-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
       "publishedAt": "2026-08-21T15:18:30+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/656.htm",
@@ -331,8 +340,8 @@
     },
     {
       "id": "ai-20260821-105",
-      "title": "Jeff Dean离职谷歌后首次公开访谈：反思Gemini编程投入偏晚",
-      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩至分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
+      "title": "Jeff Dean离职谷歌后首次公开访谈：反思 Gemini 编程投入偏晚",
+      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩到分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
       "publishedAt": "2026-08-21T12:05:11+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476468.html",
@@ -376,7 +385,7 @@
     },
     {
       "title": "字节跳动Seed再调整：预训练、强化学习与Agent研发全面重构",
-      "summary": "字节跳动Seed基座模型团队重组，新设Pretrain Data、Horizon RL等四个一级部门，分别负责多模态预训练数据整合、强化学习及办公与对话场景的智能体产品研发。",
+      "summary": "字节跳动Seed基座模型团队重组，新设 Pretrain Data、Horizon RL等四个一级部门，分别负责多模态预训练数据整合、强化学习及办公与对话场景的智能体产品研发。",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
       "url": "https://www.aibase.com/news/30537",
@@ -431,7 +440,7 @@
     {
       "id": "ai-20260821-106",
       "title": "优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "summary": "优必选自研\"行者具身智能大模型\"于8月18日通过国家网信办生成式人工智能服务备案，成为具身机器人行业首批完成备案的模型之一。该模型与优必选开源Thinker模型同源，强调面向家庭陪伴场景的表情、眼神、姿态及触觉交互，公司称已有5个算法完成国家互联网信息服务算法备案。",
+      "summary": "优必选自研\"行者具身智能大模型\"于8月18日通过国家网信办生成式人工智能服务备案，成为具身机器人行业首批完成备案的模型之一。该模型与优必选开源Thinker模型同源，强调面向家庭陆伴场景的表情、眼神、姿态及触觉交互，公司称已有5个算法完成国家互联网信息服务算法备案。",
       "publishedAt": "2026-08-21",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476406.html",
@@ -439,7 +448,7 @@
     },
     {
       "id": "ai-20260821-104",
-      "title": "Generalist AI发布具身模型GEN-1.5，机器人观看3~12秒演示即学会新动作",
+      "title": "Generalist AI发布具身模型GEN-1.5，机器人观3~12秒演示即学会新动作",
       "summary": "Generalist AI发布基础机器人模型GEN-1.5，无需梯度更新或微调，仅通过3至12秒演示即可完成一次性学习，可泛化到物体替换及跨场景动作组合。模型未针对上下文学习设计专门架构，零样本成功率59%，少量额外训练后提升至83%。",
       "publishedAt": "2026-08-21",
       "source": "量子位",
@@ -466,8 +475,8 @@
     },
     {
       "id": "ai-20260821-204",
-      "title": "商汤科技开源8B轻量多模态大模型：原生4K输出、全能视觉编辑",
-      "summary": "商汤科技开源8B参数轻量级多模态模型SenseNova U1.5Lite，原生支持3-4K上下文，可同时处理主体、数量、空间关系、文本布局等多重约束，支持边界框等控制方式并实现4K高分辨率图像输出。（发布时间为估算值）",
+      "title": "商汤科技开源8B轻量多模态大模型：原畑4K输出、全能视觉编辑",
+      "summary": "商汤科技开恐8B参数轻量级多模态模型SenseNova U1.5Lite，原生支持3-4K上下文，可同时处理主体、数量、空间关系、文本布局等多重约束，支持边界框等控制方式并实现4K高分辨率图像输出。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
       "url": "https://news.aibase.com/news/30527",
@@ -493,7 +502,7 @@
     },
     {
       "id": "ai-20260821-207",
-      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3.18倍",
+      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飘升3.18倍",
       "summary": "Liquid AI与Hugging Face发布LFM2.5系列的DSpark草稿模型检查点，采用推测解码技术，GPU吞吐量最高提升3.18倍，边缘设备提升2.87倍，2.6B模型函数调用延迟平均降低57%，兼容SGLang与llama.cpp。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -511,7 +520,7 @@
     },
     {
       "id": "ai-20260821-209",
-      "title": "Grok Build重磅上线网页与移动端，人人皆可一句话秒变全栈开发者",
+      "title": "Grok Build重磅上线网页与移动端，人人皮一句话秒变全栈开发者",
       "summary": "xAI旗下应用构建功能Grok Build结束早期测试，正式面向网页、iOS与Android全平台订阅用户开放，用户以自然语言描述创建应用并生成唯一grok.me链接，支持一键导出GitHub及集成对话、图像生成、语音合成等API能力。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -619,7 +628,7 @@
     },
     {
       "title": "Introducing Agentic Search",
-      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率由26.7%提升至86%。",
+      "summary": "Mistral AI推出Agentic Search检索技术，提供search、open、navigate、read、grep五种工具支持模型对长文档多步迭代检索，在FinanceBench测试中准确率甦26.7%提升到86%。",
       "publishedAt": "2026-08-20",
       "source": "Mistral AI",
       "url": "https://mistral.ai/news/agentic-search/",
@@ -700,7 +709,7 @@
     },
     {
       "title": "腾讯混元多模态团队人事调整，姚顺雨执掌基础模型部",
-      "summary": "腾讯混元多模态团队完成人事调整：原xAI多模态理解负责人林旭东加入负责内容生成算法，原负责人胡瀚离职创业，前OpenAI研究员田永龙加入，姚顺雨执掌合并后的基础模型部并强调壁垒在于上下文与推理能力。",
+      "summary": "腾讯混元多模态团队完成人事调整：原oxAI多模态理解负责人林旭东加入负责内容生成算法，原负责人胡瀞离职创业，前OpenAI研究员田永龙加入，姚顺雨执掌合并后的基础模型部并强调壁垒在于上下文与推理能力。",
       "publishedAt": "2026-08-19T15:34:26+08:00",
       "source": "AIbase",
       "url": "https://www.aibase.com/news/30470",
@@ -715,15 +724,6 @@
       "url": "https://www.qbitai.com/2026/08/475476.html",
       "subCategory": "AI视频",
       "id": "ai-20260820-022"
-    },
-    {
-      "title": "腾讯Toast上线一键上架，AI生成应用可直接发布至App Store",
-      "summary": "腾讯AI应用生成平台Toast推出一键上架功能，开发者用AI生成应用后可直接发布至App Store，官方称此举提供从生成到上线的一站式开发者服务包。",
-      "publishedAt": "2026-08-19T14:55:31+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30468",
-      "subCategory": "AI应用",
-      "id": "ai-20260820-008"
     }
   ]
 }
