@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-25T10:30:00+08:00",
+  "updatedAt": "2026-08-25T23:59:00+08:00",
   "items": [
+    {
+      "title": "小米REDMI 17C 5G手机海外发布：天玑6300芯片，279新加坡元",
+      "summary": "Redmi 17C 5G海外发布，搭载联发科天玑6300芯片，配备6.9英寸720P LCD屏及120Hz刷新率，6000mAh电池支持33W快充，定价279新加坡元（约合1480元人民币）。",
+      "publishedAt": "2026-08-25T23:35:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/263.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-013"
+    },
+    {
+      "title": "NVIDIA DLSS 4.5光线重建更新实测：提升游戏画面质感",
+      "summary": "NVIDIA DLSS 4.5光线重建更新采用第二代Transformer AI模型，算力提升35%并强化降噪能力，新F预设模型在《生化危机：安魂曲》《心灵杀手2》等光追、路径追踪游戏中反射、阴影细节及动态光效表现提升明显。",
+      "publishedAt": "2026-08-25T23:30:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/261.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260825-014"
+    },
+    {
+      "title": "余承东官宣全新三折叠即将登场，华为Mate XT 2发布会定档9月7日",
+      "summary": "华为常务董事余承东宣布全新三折叠手机即将登场，鸿蒙HarmonyOS 7 | HUAWEI Mate XT 2及全场景新品发布会定档9月7日14:30举行，为华为第三款三折叠手机。",
+      "publishedAt": "2026-08-25T09:16:06+08:00",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8vs7WfEpjvH",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-012"
+    },
     {
       "id": "tech-20260825-011",
       "title": "苹果据悉准备推出两年来首款全新Mac mini",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/922.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "title": "上汽MG07大定破万仅用时1分57秒破MG4纪录，限时补贴价10.59万元起",
-      "summary": "上汽MG07在2026成都车展上市，大定破万仅用1分57秒，刷新MG4的39分37秒纪录，限时补贴价10.59万元起，搭载8295P芯片、15.6英寸2.5K中控屏及Momenta R7辅助驾驶，纯电版最大续航845公里。",
-      "publishedAt": "2026-08-22T08:36:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/906.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260822-009"
-    },
-    {
-      "title": "微软Win11将精细化管理统一内存，调控图形和AI预留容量",
-      "summary": "微软在Win11预览版Build 29648.1000中发现IntelligentCarveout等统一内存管理功能，允许CPU、GPU等共享高速内存池，用户可调整为图形、游戏或本地AI模型预留的内存容量，具体上线时间未公布。",
-      "publishedAt": "2026-08-22T08:21:26+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/904.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260822-002"
-    },
-    {
-      "title": "5G商用网络实现十厘米级定位精度，爱立信、联发科完成全球首例高精度户外定位端到端测试",
-      "summary": "爱立信与联发科基于3GPP标准的GNSS RTK技术，在5G商用网络上完成全球首次端到端高精度定位测试，室外场景实现亚30厘米级稳定精度，可支持自动驾驶、无人机及工业机器人定位需求。",
-      "publishedAt": "2026-08-22T08:14:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/903.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260822-001"
     }
   ]
 }
