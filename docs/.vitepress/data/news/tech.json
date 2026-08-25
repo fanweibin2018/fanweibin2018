@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-25T08:35:00+08:00",
+  "updatedAt": "2026-08-25T10:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260825-011",
+      "title": "苹果据悉准备推出两年来首款全新Mac mini",
+      "summary": "据知情人士透露，苹果正筹备推出近两年来首款全新Mac mini台式机，最早或于近期发布，可能早于9月iPhone发布会举行。新品是苹果下半年产品规划的一部分，同期规划还包括新款Apple Watch、AirPods及一款配备人脸识别功能的智能家居设备。",
+      "publishedAt": "2026-08-25T09:54:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3954293053177221",
+      "subCategory": "消费电子"
+    },
     {
       "title": "玄戒O3、O100、D100齐发！小米朱丹：芯片研发投入是为下一个十年买入场券",
       "summary": "小米一次性发布玄戒O3、O100、D100三款自研芯片，分别面向手机、高性能计算与汽车场景，五年间芯片研发投入超210亿元，组建近3000人技术团队。",
@@ -679,15 +688,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/981.htm",
       "subCategory": "机器人"
-    },
-    {
-      "title": "The New MCP Roadmap",
-      "summary": "Model Context Protocol维护团队发布新版路线图，聚焦五大方向：智能体消息原语、HTTP原生传输统一、企业级身份与安全、工具结果处理等基础能力改进，以及SDK开发体验优化，并邀请社区通过工作组与SEP提案参与。",
-      "publishedAt": "2026-08-22",
-      "source": "MCP Blog",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "subCategory": "开发者工具",
-      "id": "tech-20260823-017"
     },
     {
       "id": "tech-20260822-015",

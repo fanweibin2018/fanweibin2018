@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-25T08:35:00+08:00",
+  "updatedAt": "2026-08-25T10:30:00+08:00",
   "items": [
     {
       "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
@@ -112,6 +112,33 @@
       "url": "https://www.digitimes.com/news/a20260821VL206/xiaomi-xring-launch-silicon-testing-tsmc.html",
       "subCategory": "半导体产业",
       "id": "industry-20260823-012"
+    },
+    {
+      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
+      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
+      "publishedAt": "2026-08-21T11:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-011"
+    },
+    {
+      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
+      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
+      "publishedAt": "2026-08-21T10:33:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-010"
+    },
+    {
+      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
+      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
+      "publishedAt": "2026-08-21T06:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
+      "subCategory": "制造业",
+      "id": "industry-20260822-007"
     },
     {
       "id": "industry-20260824-001",
@@ -231,42 +258,6 @@
       "subCategory": "行业研报"
     },
     {
-      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
-      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
-      "publishedAt": "2026-08-21T11:27:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-011"
-    },
-    {
-      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
-      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
-      "publishedAt": "2026-08-21T10:33:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-010"
-    },
-    {
-      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
-      "summary": "Omdia发布2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
-      "publishedAt": "2026-08-20T21:00:00-05:00",
-      "source": "Omdia",
-      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260825-003"
-    },
-    {
-      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
-      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
-      "publishedAt": "2026-08-21T06:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-007"
-    },
-    {
       "title": "三星9月将为韩国牙山HBM新厂动工，投资规模达6万亿韩元",
       "summary": "据TrendForce报道,三星电子将于9月在韩国牙山园区动工建设投资规模达6万亿韩元的新HBM工厂;目前HBM4良率已提升至接近80%,平泽园区P5-1与P5-2拟改建为三倍产能结构,预计2030年建成后产能提升逾1.5倍。",
       "publishedAt": "2026-08-20T23:21:17+08:00",
@@ -283,6 +274,15 @@
       "url": "https://www.trendforce.com/news/2026/08/20/news-sk-hynix-unveils-cpo-roadmap-looks-beyond-hbm-to-ai-infrastructure/",
       "subCategory": "半导体产业",
       "id": "industry-20260821-005"
+    },
+    {
+      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
+      "summary": "Omdia发布2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
+      "publishedAt": "2026-08-20T21:00:00-05:00",
+      "source": "Omdia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
+      "subCategory": "SaaS",
+      "id": "industry-20260825-003"
     },
     {
       "title": "FCAI：2026年6月中国产汽车在澳大利亚销量4.66万辆，超过日本",
@@ -337,6 +337,15 @@
       "url": "https://www.digitimes.com/news/a20260820PD229/hyundai-samsung-samsung-sdi-kia-partnership.html",
       "subCategory": "新能源汽车",
       "id": "industry-20260822-005"
+    },
+    {
+      "id": "industry-20260822-013",
+      "title": "GSMA：2026年欧洲移动经济报告",
+      "summary": "GSMA报告显示，2025年移动技术为欧盟贡献约1.1万亿欧元经济价值，占GDP的6.1%，直接创造130万个就业岗位，预计2030年移动经济规模增至1.6万亿欧元。",
+      "publishedAt": "2026-08-20T06:07:00+08:00",
+      "source": "199IT",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeiu8047005.shtml",
+      "subCategory": "行业研报"
     },
     {
       "title": "2026年中国咖啡机行业发展状况及消费趋势报告",
@@ -402,13 +411,22 @@
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260822-013",
-      "title": "GSMA：2026年欧洲移动经济报告",
-      "summary": "GSMA报告显示，2025年移动技术为欧盟贡献约1.1万亿欧元经济价值，占GDP的6.1%，直接创造130万个就业岗位，预计2030年移动经济规模增至1.6万亿欧元。",
-      "publishedAt": "2026-08-20T06:07:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeiu8047005.shtml",
-      "subCategory": "行业研报"
+      "title": "2026世界机器人大会开幕，373家企业参展3000余件产品",
+      "summary": "2026世界机器人大会8月19日在北京开幕，373家国内外企业参展，展出3000余件产品，首发新品超150件，博览会规模较去年增长约36%，来自30家国际机构的逾500位专家学者参会。",
+      "publishedAt": "2026-08-19T10:39:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/2026-08-19/doc-ininvfss8394334.shtml",
+      "subCategory": "制造业",
+      "id": "industry-20260820-014"
+    },
+    {
+      "title": "中汽协：新能源汽车月度新车销量占比首次超过60%",
+      "summary": "中汽协数据显示，2026年7月新能源汽车产销分别完成157.6万辆和156.1万辆，同比增长26.8%和23.7%，月度新车销量占比首次超过60%，出口55.3万辆，同比增长150%。",
+      "publishedAt": "2026-08-19T10:10:37+08:00",
+      "source": "中华网/中国汽车工业协会",
+      "url": "https://tech.china.com/article/20260819/202608191944103.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260820-001"
     },
     {
       "id": "industry-20260824-002",
@@ -555,22 +573,13 @@
       "id": "industry-20260823-005"
     },
     {
-      "title": "2026世界机器人大会开幕，373家企业参展3000余件产品",
-      "summary": "2026世界机器人大会8月19日在北京开幕，373家国内外企业参展，展出3000余件产品，首发新品超150件，博览会规模较去年增长约36%，来自30家国际机构的逾500位专家学者参会。",
-      "publishedAt": "2026-08-19T10:39:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/2026-08-19/doc-ininvfss8394334.shtml",
-      "subCategory": "制造业",
-      "id": "industry-20260820-014"
-    },
-    {
-      "title": "中汽协：新能源汽车月度新车销量占比首次超过60%",
-      "summary": "中汽协数据显示，2026年7月新能源汽车产销分别完成157.6万辆和156.1万辆，同比增长26.8%和23.7%，月度新车销量占比首次超过60%，出口55.3万辆，同比增长150%。",
-      "publishedAt": "2026-08-19T10:10:37+08:00",
-      "source": "中华网/中国汽车工业协会",
-      "url": "https://tech.china.com/article/20260819/202608191944103.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260820-001"
+      "id": "industry-20260819-001",
+      "title": "吉宏股份半年报：跨境社交电商净利增长80.92%",
+      "summary": "吉宏股份披露2026年半年报，营业收入37亿元，净利润1.58亿元；跨境电商业务占营收65.61%，其中跨境社交电商净利润同比增长约81%，公司自研ChatGiiKin-6B模型已应用于选品、内容生成、广告投放及客服全链路，并在阿联酫新建包装生产基地。",
+      "publishedAt": "2026-08-18T09:18:00+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188296",
+      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260821-100",
@@ -589,15 +598,6 @@
       "source": "TrendForce",
       "url": "https://www.trendforce.com/news/2026/08/18/news-mlcc-lead-times-diverge-as-high-end-products-stretch-to-5-10-months-on-ai-demand-tightness-may-extend-into-2027/",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260819-001",
-      "title": "吉宏股份半年报：跨境社交电商净利增长80.92%",
-      "summary": "吉宏股份披露2026年半年报，营业收入37亿元，净利润1.58亿元；跨境电商业务占营收65.61%，其中跨境社交电商净利润同比增长约81%，公司自研ChatGiiKin-6B模型已应用于选品、内容生成、广告投放及客服全链路，并在阿联酫新建包装生产基地。",
-      "publishedAt": "2026-08-18T09:18:00+08:00",
-      "source": "雨果跨境",
-      "url": "https://www.cifnews.com/article/188296",
-      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260822-012",
@@ -634,6 +634,24 @@
       "url": "https://www.chinanews.com.cn/aseaninfo/2026/08-17/10679000.shtml",
       "subCategory": "行业研报",
       "id": "industry-20260820-017"
+    },
+    {
+      "title": "报告称2030年中国医美消费市场规模有望突破6000亿元",
+      "summary": "德勤中国与艾尔建美学联合发布《中国医美行业2026年度洞悉报告》，基于2000名消费者及200位从业者/医生调研，预测2030年中国医美消费市场规模将突破6000亿元，行业进入提质升级阶段。",
+      "publishedAt": "2026-08-17T11:26:00+08:00",
+      "source": "新京报",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqxuv7805368.shtml",
+      "subCategory": "消费零售",
+      "id": "industry-20260820-018"
+    },
+    {
+      "id": "industry-20260818-004",
+      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
+      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
+      "publishedAt": "2026-08-17T02:38:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260818-113",
@@ -688,24 +706,6 @@
       "url": "https://www.trendforce.com/presscenter/news/20260817-13183.html",
       "subCategory": "半导体产业",
       "id": "industry-20260820-013"
-    },
-    {
-      "title": "报告称2030年中国医美消费市场规模有望突破6000亿元",
-      "summary": "德勤中国与艾尔建美学联合发布《中国医美行业2026年度洞悉报告》，基于2000名消费者及200位从业者/医生调研，预测2030年中国医美消费市场规模将突破6000亿元，行业进入提质升级阶段。",
-      "publishedAt": "2026-08-17T11:26:00+08:00",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqxuv7805368.shtml",
-      "subCategory": "消费零售",
-      "id": "industry-20260820-018"
-    },
-    {
-      "id": "industry-20260818-004",
-      "title": "Omdia：2026年全球智能手机出货量将下降12.2%",
-      "summary": "Omdia预测2026年全球智能手机出货量将同比下降12.2%，降至10.93亿部，较2025年减少1.52亿部；受存储芯片涨价影响，平均销售价格预计从467美元升至565美元，市场结构向高端化转移。",
-      "publishedAt": "2026-08-17T02:38:00+08:00",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqarf8067201.shtml",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260818-003",
