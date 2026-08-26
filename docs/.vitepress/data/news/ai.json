@@ -3,8 +3,53 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-25T23:59:00+08:00",
+  "updatedAt": "2026-08-26T08:55:00+08:00",
   "items": [
+    {
+      "title": "商业史最庞大叙事：Anthropic 冲击全球最大 IPO，称 AI 潜在市场收入规模超 30 万亿美元",
+      "summary": "Anthropic据称在IPO材料中预测AI潜在市场规模超30万亿美元，超过SpaceX此前28.5万亿美元的规模。公司目标融资1000亿美元、估值2万亿美元，计划今年秋季上市，二季度营收达116亿美元并首次实现调整后运营利润转正。",
+      "publishedAt": "2026-08-26T08:36:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/327.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260826-001"
+    },
+    {
+      "title": "谷歌杀入法律 AI 赛道，推出专用 Gemini 工具",
+      "summary": "谷歌推出面向律所的Gemini Enterprise for Legal，通过插件对接法律软件平台，AI智能体可处理专业法律与行政事务，并将与汤森路透、Harvey、Legora等展开合作。",
+      "publishedAt": "2026-08-26T08:07:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/319.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260826-004"
+    },
+    {
+      "title": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
+      "summary": "据消息人士透露，OpenAI已完成代号Bel的新一代模型预训练，参数总量超过10万亿，是继Doug模型之后的下一代基座模型，将作为GPT-6之后的基础模型，目标是逼近通用人工智能能力边界。",
+      "publishedAt": "2026-08-26T07:00:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/296.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260826-002"
+    },
+    {
+      "title": "Anthropic 更新 Claude 记忆机制，打通 Cowork 与聊天的记忆功能",
+      "summary": "Anthropic宣布Cowork任务与Claude聊天共用同一套记忆系统，避免用户重复提供背景信息。健康、信仰等敏感话题默认不纳入记忆，可手动开启，功能覆盖Free、Pro、Max套餐的网页、桌面与移动端。",
+      "publishedAt": "2026-08-26T06:59:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/295.htm",
+      "subCategory": "Agent",
+      "id": "ai-20260826-003"
+    },
+    {
+      "title": "OpenAI 发布适用于 ChatGPT Work 和 Codex 的 Admin 插件，管理员可通过对话管理用户和权限",
+      "summary": "OpenAI上线Admin插件，管理员可通过对话调整设置、生成基于使用数据的报告，管理团队成员与分组权限、审批用量配额申请，并协助处理入职离职与团队调整，插件已上线ChatGPT Work插件目录。",
+      "publishedAt": "2026-08-26T06:55:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/294.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260826-005"
+    },
     {
       "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
       "summary": "范式发布具身智能体框架PhanthyMotus生态共建计划，联合宇树科技等十余家机器人企业推动平台从开源转向多方共建，已积累超60万行代码，适配15款以上机器人型号，标准化200余种硬件驱动接口。",
@@ -13,6 +58,15 @@
       "url": "https://www.qbitai.com/2026/08/479314.html",
       "subCategory": "具身智能",
       "id": "ai-20260825-008"
+    },
+    {
+      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "summary": "商汤日日新团队发布开源图像生成模型SenseNova U1.5 Lite，参数量8B，采用NEO-unify原生统一多模态架构，支持3-4k字符超长复杂指令跟随与原生4K输出，在复杂排版、精细编辑等场景对标闭源模型。",
+      "publishedAt": "2026-08-25T14:53:26+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/479192.html",
+      "subCategory": "开源模型",
+      "id": "ai-20260826-006"
     },
     {
       "title": "微软AI智能体系统Aion曝光：以Copilot为核心、重塑桌面体验",
@@ -40,6 +94,42 @@
       "url": "https://www.ithome.com/0/993/772.htm",
       "subCategory": "AI应用",
       "id": "ai-20260825-004"
+    },
+    {
+      "title": "Meta to Launch Hatch AI Agent Watermelon Model in a Few Weeks",
+      "summary": "Meta计划数周内推出面向消费者的AI智能体平台Hatch，下一代Watermelon模型预计10月发布。产品初期支持DoorDash、Etsy、Reddit、Yelp、Outlook等服务，并考虑推出最高199.99美元的订阅套餐。",
+      "publishedAt": "2026-08-25",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30607",
+      "subCategory": "Agent",
+      "id": "ai-20260826-007"
+    },
+    {
+      "title": "Google Gemini Receives a Deep Interface Upgrade with New Notification Center and Smart Filtering",
+      "summary": "谷歌为Gemini应用推出界面升级，侧边栏置顶常用对话并统一搜索入口，新增带铃铛图标的通知中心，最近使用页面增加对话筛选标签，Spark管理界面新增技能发现与连接管理的自定义页面。",
+      "publishedAt": "2026-08-25",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30605",
+      "subCategory": "AI应用",
+      "id": "ai-20260826-008"
+    },
+    {
+      "title": "GPT-5.6 Makes a Big Debut on Kiro! The AI-Native Coding Era Brings a Cost-Effectiveness Revolution",
+      "summary": "OpenAI与Kiro宣布集成GPT-5.6系列模型（Sol、Terra、Luna），在Terminal-Bench 2.1测试中GPT-5.6 Terra完成Kiro全部任务，成本降低约82%，AWS与OpenAI共同优化了该集成。",
+      "publishedAt": "2026-08-25",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30600",
+      "subCategory": "AI编程",
+      "id": "ai-20260826-009"
+    },
+    {
+      "title": "ChatGPT Launches Custom Sticker Feature, Perfectly Integrates with Two Major Social Media Giants",
+      "summary": "OpenAI为ChatGPT推出贴纸生成功能，支持上传照片、文字描述或风格转换生成个性化贴纸，自动裁切并生成透明背景，可导出至iMessage与WhatsApp，WhatsApp导出要求每组至少三张贴纸。",
+      "publishedAt": "2026-08-25",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30602",
+      "subCategory": "AI应用",
+      "id": "ai-20260826-010"
     },
     {
       "title": "美国音乐人Dr. Dre公开支持AI音乐，将其类比鼓机、合成器",
@@ -634,96 +724,6 @@
       "url": "https://mistral.ai/news/agentic-search/",
       "subCategory": "Agent",
       "id": "ai-20260822-004"
-    },
-    {
-      "title": "突破千亿参数大关！\"阳光清言\"藏语大模型正式发布",
-      "summary": "拉萨那金数智研究院成立，其研发的千亿参数级藏语大模型\"阳光清言\"同期发布，模型基于强基座模型继承通用智能与世界知识，实现藏语处理能力突破，已完成内测与公测。",
-      "publishedAt": "2026-08-20",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30518",
-      "subCategory": "大模型",
-      "id": "ai-20260822-009"
-    },
-    {
-      "title": "MiniMax发布视频创作工具Design",
-      "summary": "MiniMax推出视频创作工具Design，基于其H3多模态视频模型，用自然语言指令替代传统逐帧剪辑操作，据介绍支持参数化调整生成效果。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "AI视频",
-      "id": "ai-20260820-023"
-    },
-    {
-      "title": "阿里千问认可Unsloth的Qwen3.8-27B动态量化版",
-      "summary": "阿里通义千问官方认可Unsloth团队推出的Qwen3.8-27B Dynamic V3量化版本，其中1-bit版本可在8GB显存设备上运行，量化方案旨在降低模型本地部署门槛。",
-      "publishedAt": "2026-08-20",
-      "source": "AIBase每日简报",
-      "url": "https://news.aibase.com/daily/30505",
-      "subCategory": "开源模型",
-      "id": "ai-20260820-024"
-    },
-    {
-      "title": "章鱼动力亮相WRC 2026，发布“脑-手-数据”具身智能技术体系",
-      "summary": "章鱼动力在2026世界机器人大会发布“脑-手-数据”技术体系：世界模型SYNWorld支持ACWM与WAM两种能力路径，配合高灵巧机械手OctoH-Hand，以及支持零样本跨个体肌电泛化的数据采集系统OctoSense。",
-      "publishedAt": "2026-08-19T18:54:07+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/475931.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260820-014"
-    },
-    {
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "summary": "2026世界机器人大会上，人形机器人搭载SMASH 2.0系统完成全球首场自主乒乓球完整对局，融合视觉感知、实时轨迹预测、全身运动控制与具身智能决策，并由KAI世界模型驱动虚拟-现实交互学习。",
-      "publishedAt": "2026-08-19T18:12:09+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/475907.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260820-015"
-    },
-    {
-      "title": "Anthropic宣布Claude Code每周用量50%提升延长至8月31日",
-      "summary": "Anthropic官方宣布将Claude Code每周用量额度50%提升的优惠延长至8月31日，并考虑将其转为永久政策，网页对话、桌面应用与Claude Code共享同一额度池。",
-      "publishedAt": "2026-08-19T15:47:04+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30472",
-      "subCategory": "AI编程",
-      "id": "ai-20260820-001"
-    },
-    {
-      "title": "具身智能数据底座AperData开卖，首发价5100元",
-      "summary": "五一视界发布具身智能数据基础设施AperData，由AperEgo采集硬件与AperOS数据平台组成，无需操作机器人本体即可采集第一人称多模态数据，官方称效率较传统遥操作提升10倍以上，首发定价5100元。",
-      "publishedAt": "2026-08-19T15:42:27+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/475477.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260820-013"
-    },
-    {
-      "title": "Firefox智能窗口新增AI标签管理与网页搜索功能",
-      "summary": "Mozilla为Firefox智能窗口（美加英文测试版）新增功能：可按相关性自动推荐标签组、识别并一键关闭重复标签，并与Exa合作接入网页检索，支持用自然语言搜索浏览历史。",
-      "publishedAt": "2026-08-19T15:41:02+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30471",
-      "subCategory": "AI应用",
-      "id": "ai-20260820-011"
-    },
-    {
-      "title": "腾讯混元多模态团队人事调整，姚顺雨执掌基础模型部",
-      "summary": "腾讯混元多模态团队完成人事调整：原oxAI多模态理解负责人林旭东加入负责内容生成算法，原负责人胡瀞离职创业，前OpenAI研究员田永龙加入，姚顺雨执掌合并后的基础模型部并强调壁垒在于上下文与推理能力。",
-      "publishedAt": "2026-08-19T15:34:26+08:00",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30470",
-      "subCategory": "大模型",
-      "id": "ai-20260820-004"
-    },
-    {
-      "title": "AI视频创作引入3D白模预演工作流",
-      "summary": "报道介绍AI视频创作新趋势：创作者借助3D白模（previs）预先搭建场景与运镜，再交由AI生成最终画面，相比纯文字提示词更能保留空间信息、提升多镜头一致性，文中以某工具的“Previs Studio”功能为例说明该流程。",
-      "publishedAt": "2026-08-19T15:22:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/475476.html",
-      "subCategory": "AI视频",
-      "id": "ai-20260820-022"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-25T23:59:00+08:00",
+  "updatedAt": "2026-08-26T08:55:00+08:00",
   "items": [
     {
       "title": "港股25日跌0.02%，收报25511.1点",
@@ -15,6 +15,60 @@
       "id": "finance-20260825-006"
     },
     {
+      "title": "比特币8月25日盘中突破8万美元，为三个月来首次",
+      "summary": "8月25日，比特币价格盘中一度升至81160美元，突破8万美元关口，为三个月以来首次；当日晚间比特币价格回落至约78932美元。分析指出，美元走弱、机构需求增加及比特币ETF资金净流入是主要推动因素。",
+      "publishedAt": "2026-08-25T17:12:00-04:00",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/08/25/crypto-market-today-aug-25-bitcoins-rebound-above-usd80-000-has-it-finally-bottomed/",
+      "subCategory": "大宗商品",
+      "id": "finance-20260826-011"
+    },
+    {
+      "title": "财捷集团全年指引不及预期，盘后股价下跌9%",
+      "summary": "财捷集团(Intuit)公布2027财年指引，每股收益预期22.88至23.12美元，低于市场预期的27.30美元；营收指引233亿至235亿美元，低于237.4亿美元预期，主要受TurboTax业务增长放缓及平台重组影响，盘后股价下跌9%。",
+      "publishedAt": "2026-08-25T16:44:00-04:00",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/afterhours-movers-intu-smtc-syre-zm-ncno-432SI-4816322",
+      "subCategory": "公司财报",
+      "id": "finance-20260826-005"
+    },
+    {
+      "title": "Zoom第二财季营收12.8亿美元超预期，盘后股价仍跌3.5%",
+      "summary": "Zoom Communications公布第二财季业绩，每股收益1.55美元，营收12.8亿美元，业绩超出市场预期，并上调全年营收指引至50.9亿至51.0亿美元区间，但盘后股价仍下跌3.5%。",
+      "publishedAt": "2026-08-25T16:44:00-04:00",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/afterhours-movers-intu-smtc-syre-zm-ncno-432SI-4816322",
+      "subCategory": "公司财报",
+      "id": "finance-20260826-006"
+    },
+    {
+      "title": "升特二季度业绩超预期，AI数据中心业务增长64%，盘后股价涨3%",
+      "summary": "半导体公司升特(Semtech)公布二季度业绩，调整后每股收益0.71美元，营收3.419亿美元，均超市场预期，其中AI数据中心网络业务营收增长64%。公司给出三季度营收指引4.05亿至4.15亿美元，盘后股价上涨3%。",
+      "publishedAt": "2026-08-25T16:44:00-04:00",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/afterhours-movers-intu-smtc-syre-zm-ncno-432SI-4816322",
+      "subCategory": "公司财报",
+      "id": "finance-20260826-007"
+    },
+    {
+      "title": "Spyre Therapeutics类风湿关节炎药物II期试验未达标，盘后股价跌16%",
+      "summary": "生物科技公司Spyre Therapeutics(SYRE)公布，其TL1A抑制剂SPY072用于类风湿关节炎治疗的II期SKYWAY试验未达到作为单药疗法推进所需的内部疗效门槛，公司股价盘后下跌16%。",
+      "publishedAt": "2026-08-25T16:44:00-04:00",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/afterhours-movers-intu-smtc-syre-zm-ncno-432SI-4816322",
+      "subCategory": "公司财报",
+      "id": "finance-20260826-008"
+    },
+    {
+      "title": "nCino二季度业绩指引平淡，盘后股价下跌10%",
+      "summary": "银行软件公司nCino(NCNO)公布二季度调整后每股收益0.05美元，营收1.61亿美元；三季度营收指引1.6125亿至1.6325亿美元，仅勉强符合市场预期。受地区银行客户销售周期拉长影响，股价盘后下跌10%。",
+      "publishedAt": "2026-08-25T16:44:00-04:00",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/afterhours-movers-intu-smtc-syre-zm-ncno-432SI-4816322",
+      "subCategory": "公司财报",
+      "id": "finance-20260826-009"
+    },
+    {
       "title": "8月25日A股收评：沪指探底回升涨0.19%，两市成交额缩至1.83万亿元",
       "summary": "8月25日A股收盘，上证指数涨0.19%报3889.44点，深证成指跌0.35%报13745.87点，创业板指跌1%报3397.52点，两市成交额1.83万亿元；创新药、农业板块走强，贵金属、锂矿股回调。",
       "publishedAt": "2026-08-25T15:14:00+08:00",
@@ -22,6 +76,51 @@
       "url": "https://wap.eastmoney.com/a/202608253852761471.html",
       "subCategory": "A股",
       "id": "finance-20260825-005"
+    },
+    {
+      "title": "迪克体育用品二季度业绩不及预期，股价暴跌30.68%",
+      "summary": "迪克体育用品(Dick's Sporting Goods)公布二季度业绩，non-GAAP每股收益3.53美元，低于市场预期的3.78美元，营收约56亿美元，略低于56.5亿美元预期。公司将全年每股盈利指引下调至11至12美元区间，股价当日暴跌30.68%。",
+      "publishedAt": "2026-08-25T10:21:00-04:00",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/25/why-dicks-sporting-goods-stock-crashed-today/",
+      "subCategory": "公司财报",
+      "id": "finance-20260826-004"
+    },
+    {
+      "title": "美股收盘：道指、标普500均涨0.3%，纳指涨0.6%",
+      "summary": "美东时间8月25日美股收盘，道琼斯指数上涨0.3%，标普500指数上涨0.3%，纳斯达克指数上涨0.6%。市场消化加拿大对美国商品加征报复性关税的消息，并等待英伟达即将公布的财报。",
+      "publishedAt": "2026-08-25",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+      "subCategory": "美股",
+      "id": "finance-20260826-001"
+    },
+    {
+      "title": "莫德纳股价收涨14.36%，黑色素瘤mRNA疫苗III期试验达标",
+      "summary": "8月25日美股收盘，莫德纳(MRNA)股价上涨14.36%，报158.83美元。此前该公司与默克联合研发的黑色素瘤mRNA疫苗intismeran autogene在III期临床试验中达到主要终点，巴克莱将目标价从48美元上调至125美元。",
+      "publishedAt": "2026-08-25",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+      "subCategory": "美股",
+      "id": "finance-20260826-002"
+    },
+    {
+      "title": "国际油价8月25日下跌约3%，WTI报每桶82美元上方",
+      "summary": "8月25日，国际原油价格下跌约3%，WTI原油报每桶82美元上方，布伦特原油报每桶88美元附近，市场同时消化美加贸易紧张局势升级的影响。",
+      "publishedAt": "2026-08-25",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+      "subCategory": "大宗商品",
+      "id": "finance-20260826-003"
+    },
+    {
+      "title": "加拿大宣布对276亿美元美国商品征收报复性关税",
+      "summary": "加拿大政府宣布，自9月8日起将对约276亿美元(约199.4亿美元)的美国商品加征15%至50%不等的报复性关税，涉及钢铝、家具、服装、奶酪及家电等约700类产品，并推出75亿加元的企业与员工支持方案。",
+      "publishedAt": "2026-08-25",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/08/25/882795.htm",
+      "subCategory": "风险事件",
+      "id": "finance-20260826-010"
     },
     {
       "id": "finance-20260824-111",
@@ -625,105 +724,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680633.shtml",
       "subCategory": "政策利率",
       "id": "finance-20260820-007"
-    },
-    {
-      "title": "布伦特原油价格19日升至93.60美元/桶",
-      "summary": "据Fortune报道，8月19日布伦特原油价格报93.60美元/桶，较前一交易日上栨1.18美元，同比上栨2741美元，中东局势及霍尔木兹海峽局势紧张持续影响市场供需预期。",
-      "publishedAt": "2026-08-19T19:00:00+08:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-oil-08-19-2026/",
-      "subCategory": "大宗商品",
-      "id": "finance-20260820-008"
-    },
-    {
-      "title": "贵金属：流动性冲击加剧，贵金属及风险资产等全线下跌",
-      "summary": "周三日盘沪银期货跌超4.5%，沪金期货跌超1.5%；受美债收益率高企、外资减持美债及大型科技公司IPO分流资金等因素影响，机构预计国际金价短期或在4300-4450美元区间震荡。",
-      "publishedAt": "2026-08-19T16:25:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/money/future/2026-08-19/doc-ininvwqt9370603.shtml",
-      "subCategory": "大宗商品",
-      "id": "finance-20260820-015"
-    },
-    {
-      "title": "恒生指数收涨0.09% 恒生科技指数跌1.21%",
-      "summary": "8月19日港股收盘，恒生指数涨0.09%报25495.07点，恒生科技指数跌1.21%；小米涨约5%、美团涨约2%，百度跌超11%，光通信、半导体、PCB等板块跌幅居前。",
-      "publishedAt": "2026-08-19T16:19:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4086480.html",
-      "subCategory": "港股",
-      "id": "finance-20260820-003"
-    },
-    {
-      "title": "A股三大指数集体收跌，创业板指跌逸%6",
-      "summary": "8月19日A股收盘，上证指数跌2.40%失守3900点，深证成指跌5.01%，创业板指跌6.26%，超5000只个股下跌，逸百股跌停，全市场成交2.53万亿元。",
-      "publishedAt": "2026-08-19T15:27:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680354.shtml",
-      "subCategory": "A股",
-      "id": "finance-20260820-004"
-    },
-    {
-      "title": "国家统计局：7月全国城镇不包含在校生16-24岁劳动力失业率为17.9%",
-      "summary": "7月全国城镇调查失业率为5.2%，环比上升0.2个百分点；16-24岁不包含在校生劳动力失业率17.9%，环比上升3个百分点；25-29岁为7.2%，30-59岁为3.9%，环比下降0.1个百分点。",
-      "publishedAt": "2026-08-19T14:52:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininvshv9435757.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260820-013"
-    },
-    {
-      "title": "两次触发临停，920059一度大涨200%",
-      "summary": "双英集团（920059.BJ）登陆北交所，开盘涨87.6%，盘中一度涨200%并两次触发临时停牌，收盘涨幅收窄至137.74%，总市值约40亿元；公司主营汽车座椅及内外饰件研发生产。",
-      "publishedAt": "2026-08-19T11:16:00+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546118.html",
-      "subCategory": "一级市场",
-      "id": "finance-20260820-012"
-    },
-    {
-      "title": "百度港股因业绩不及预期低开逸%12",
-      "summary": "百度公布二季度净利涤同比大跌68%后，19日港股低开超12%至88.55港元，创九个月新低，年内累计跌幅逸%32，GPU云收入同比增长283%为报告中亮点。",
-      "publishedAt": "2026-08-19T10:57:00+08:00",
-      "source": "香港商報",
-      "url": "https://www.hkcd.com/hkcdweb/content/2026/08/19/content_8770407.html",
-      "subCategory": "港股",
-      "id": "finance-20260820-002"
-    },
-    {
-      "title": "港股恒指小幅收涨，科技龙头企业AI业务稳步拓展",
-      "summary": "恒生指数收涨0.07%报25471.15点，能源、航运股普涨；小米集团二季度营收1089.22亿元，其中智能电动汽车及AI等创新业务收入248.96亿元，同比增长17.08%；百度AI业务收入占比连续两季过半。",
-      "publishedAt": "2026-08-19T10:40:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680101.shtml",
-      "subCategory": "港股",
-      "id": "finance-20260820-011"
-    },
-    {
-      "id": "finance-20260819-001",
-      "title": "宇树科技上市首日开盘暴涨629.44%，市值近4449亿元",
-      "summary": "宇树科技8月19日登陆科创板，开盘扦1100元/股，较150.80元/股发行价暴涨629.44%，市值一度近4449亿元，发行市盈率219.23倍，显著高于行业平圣38.56倍；创始人王兴兴持股市值一度突破千亿元。",
-      "publishedAt": "2026-08-19T10:03:00+08:00",
-      "source": "虎嗅网",
-      "url": "https://www.huxiu.com/article/4884125.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "title": "天孚通信2026年上半年净利涤12.04亿元，同比增长33.92%",
-      "summary": "天孚通信上半年营撗28.28亿元，同比增长15.15%；归母净利涤12.04亿元，同比增长33.92%；光互连元器件收內29.90亿元，毛利率60.67%；研发投入1.95亿元，同比增长55%。",
-      "publishedAt": "2026-08-19T08:44:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-19/doc-ininvfsy2706332.shtml",
-      "subCategory": "公司财报",
-      "id": "finance-20260820-014"
-    },
-    {
-      "title": "8月19日美股收盘：纳指跌超1%，科技板块回落，全球债券收益率飘升",
-      "summary": "道指跌116.38点报53343.39点，标普500指数跌0.69%报7691.76点，纳指跌1.33%报26289.71点；存储芯片股闪盘、SK海力士、希捷跌超9%，30年期美债收益率升至19年高位。",
-      "publishedAt": "2026-08-19T04:35:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8375619.shtml",
-      "subCategory": "美股",
-      "id": "finance-20260820-009"
     }
   ]
 }
