@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-26T17:15:00+08:00",
+  "updatedAt": "2026-08-27T00:50:19+08:00",
   "items": [
+    {
+      "id": "policy-20260827-004",
+      "title": "（经济观察）中国财政金融协同促内需一揽子政策效显扩容",
+      "summary": "财政金融协同支持消费和民间投资的政策工具包今年以来带动新增信贷超20万亿元；其中4项投资类政策带动民间投资约1.51万亿元，2项消费类政策带动居民消费约1.88万亿元。",
+      "publishedAt": "2026-08-26T19:11:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684710.shtml",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260827-002",
+      "title": "中阿投资合作高级别委员会秘书处会议在京召开",
+      "summary": "国家发展改革委副主任周海兵与阿联酋投资部副部长阿尔哈维在京共同主持中阿投资合作高级别委员会秘书处会议，双方就协调推进投资合作项目、成立企业咨询委员会、开展金融市场专项合作等议题交换意见并达成共识。",
+      "publishedAt": "2026-08-26",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260826_1407203.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260827-001",
+      "title": "努力实现\"十五五\"良好开局——从计划执行报告看下半年经济工作重点",
+      "summary": "国家发展改革委副主任王昌林向全国人大常委会报告国民经济计划执行情况，上半年GDP同比增长4.7%；下半年将坚持稳中求进，实施积极财政政策和适度宽松货币政策，推进扩大内需、重大项目建设及\"人工智能+\"行动等重点工作。",
+      "publishedAt": "2026-08-26",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260826_1407198.html",
+      "subCategory": "产业政策"
+    },
     {
       "title": "工业和信息化部绿色低碳标准化技术委员会成立",
       "summary": "工业和信息化部绿色低碳标准化技术委员会正式成立，首届委员会由71名委员组成，秘书处设在中国电子技术标准化研究院，将承担工信部绿色低碳领域综合性、基础性行业标准制修订工作。",
@@ -688,42 +715,6 @@
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-sends-more-238-million-drivers-diners-harmed-grubhubs-deceptive-advertising-claims-other",
       "subCategory": "海外政策",
       "id": "policy-20260813-003"
-    },
-    {
-      "title": "Households living near new pylons to save thousands on bills",
-      "summary": "英国政府宣布电网基础设施补贴方案，位于新建或升级输电线路500米范围内的合资格家庭十年内最高可获2500英镑电费折扣，首批涵盖全国43个输电项目，由能源监管机构Ofgem负责实施，预计2027年上半年起陆续发放。",
-      "publishedAt": "2026-08-12",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/households-living-near-new-pylons-to-save-thousands-on-bills",
-      "subCategory": "新能源政策",
-      "id": "policy-20260812-006"
-    },
-    {
-      "title": "英国竞争与市场管理局拟取消27项市场救济措施",
-      "summary": "英国竞争与市场管理局发布初步决定，对33项在用市场救济措施进行审查后，拟全部取消23项、部分取消4项，涉及延保、套餐假期、零售银行、汽车保险等领域，公众咨询期至9月5日，最终决定预计今年秋季公布。",
-      "publishedAt": "2026-08-12",
-      "source": "英国竞争与市场管理局（CMA）",
-      "url": "https://www.gov.uk/government/news/cma-proposes-removing-27-market-remedies-in-part-or-full-following-review",
-      "subCategory": "反垄断",
-      "id": "policy-20260812-102"
-    },
-    {
-      "title": "欧盟发布更具循环性的汽车行业新规",
-      "summary": "欧盟《报废车辆条例》正式发布，要求新车塑料再生材料占比2032年达15%、2036年达25%，钢铝再生材料要求自2033年起适用，2031年年中起仅可出口适路车辆，并将卡车、客车、摩托车纳入监管范围。",
-      "publishedAt": "2026-08-12",
-      "source": "欧盟委员会",
-      "url": "https://environment.ec.europa.eu/news/new-rules-more-circular-european-automotive-sector-2026-08-12_en",
-      "subCategory": "产业政策",
-      "id": "policy-20260812-103"
-    },
-    {
-      "title": "市场监管总局批准发布一批重要国家标准 覆盖多领域推动高质量发展",
-      "summary": "国家市场监督管理总局（国家标准委）近日批准发布338项重要国家标准，其中强制性标准15项、推荐性标准323项，内容涵盖人工智能医疗器械质量评价、立体显示与柔性显示技术、智能网联汽车自动驾驶系统安全强制性标准及互联网租赁自行车服务规范等，并新增车用压缩天然气等4项能源类强制性标准。",
-      "publishedAt": "2026-08-11T08:53:01+08:00",
-      "source": "中国质量新闻网（转载市场监管总局发布信息）",
-      "url": "https://news.china.com/socialgd/10000169/20260811/49666843.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260812-002"
     }
   ]
 }
