@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-25T23:59:00+08:00",
+  "updatedAt": "2026-08-26T17:15:00+08:00",
   "items": [
+    {
+      "title": "三星电子发布 P9、P7 移动固态硬盘，配备 USB4 接口",
+      "summary": "三星在gamescom 2026发布P9、P7两款移动固态硬盘，P9顺序读写速率最高达4000MB/s和3800MB/s，容量覆盖1TB至8TB，将于8月31日起在全球开售。",
+      "publishedAt": "2026-08-26T16:36:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/625.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260826-008"
+    },
+    {
+      "title": "小鹏 G9L 首发搭载第二代 VLA 全新版本，X-Foresight 世界预测模型可推演未来 6 秒环境运动轨迹",
+      "summary": "小鹏G9L首发第二代VLA系统，新增X-Foresight世界预测模型可推演未来6秒环境运动轨迹，决策记忆窗口延长至30秒，响应速度较前代提升300%。",
+      "publishedAt": "2026-08-26T16:28:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/610.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260826-007"
+    },
+    {
+      "title": "OPPO ColorOS 17 官宣下月亮相：系统材质升级，全新锁屏效果公开",
+      "summary": "OPPO设计总监陈旭宣布ColorOS 17将于下月发布，系统材质全面升级，在提升透明度的同时保持信息清晰，并公开全新锁屏效果，一加、realme用户可参与内测。",
+      "publishedAt": "2026-08-26T16:17:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/607.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260826-006"
+    },
+    {
+      "title": "华为召开鸿蒙智家技术沟通会，多款智能家居新品亮相",
+      "summary": "华为举行鸿蒙智家技术沟通会，公布\"1+3+N\"全屋智能战略，发布新风空调、烘干洗衣机、智能床及3999元Vision智慧屏S7 RGB等多款新品，并推出多款人脸识别智能锁。",
+      "publishedAt": "2026-08-26T16:07:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/597.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260826-005"
+    },
+    {
+      "title": "小米澎湃 OS 4 系统全新融合设备中心亮相：卡片布局优化、支持不同家庭切换",
+      "summary": "小米澎湃OS 4推出全新融合设备中心，采用卡片布局优化设备查找，并支持在不同家庭间快速切换常用设备，Beta测试于8月14日启动，本次公开招募第二批适配设备。",
+      "publishedAt": "2026-08-26T16:05:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/596.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260826-004"
+    },
+    {
+      "title": "多亲 J36 AI 按键智能手机发布：红外遥控、微信支付宝、一句话生成文案，659 元",
+      "summary": "多亲发布J36 AI按键智能手机，售价659元，配备2.8英寸屏幕、MTK8766V处理器，支持红外遥控、微信支付宝及AI一句话生成文案功能。",
+      "publishedAt": "2026-08-26T12:25:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/484.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260826-003"
+    },
+    {
+      "title": "Parallels Desktop 27 发布：OpenGL 性能最高提升 160%、AI 矩阵计算最高提升 7 倍",
+      "summary": "Parallels Desktop 27采用基于Metal的图形驱动，为Mac上的Windows虚拟机带来OpenGL 4.3支持，并为M4以上芯片新增SME2指令支持，AI矩阵计算最高提速7倍。",
+      "publishedAt": "2026-08-26T09:03:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/334.htm",
+      "subCategory": "开发者工具",
+      "id": "tech-20260826-002"
+    },
     {
       "title": "小米REDMI 17C 5G手机海外发布：天玑6300芯片，279新加坡元",
       "summary": "Redmi 17C 5G海外发布，搭载联发科天玑6300芯片，配备6.9英寸720P LCD屏及120Hz刷新率，6000mAh电池支持33W快充，定价279新加坡元（约合1480元人民币）。",
@@ -24,13 +87,13 @@
       "id": "tech-20260825-014"
     },
     {
-      "title": "余承东官宣全新三折叠即将登场，华为Mate XT 2发布会定档9月7日",
-      "summary": "华为常务董事余承东宣布全新三折叠手机即将登场，鸿蒙HarmonyOS 7 | HUAWEI Mate XT 2及全场景新品发布会定档9月7日14:30举行，为华为第三款三折叠手机。",
-      "publishedAt": "2026-08-25T09:16:06+08:00",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8vs7WfEpjvH",
+      "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
+      "summary": "苹果发布新款Mac mini，提供M6与M5 Pro两种芯片版本，国内售价6999元起，8月27日9点开启预购，9月22日正式发售，M6为苹果首款2纳米芯片。",
+      "publishedAt": "2026-08-25T21:27:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/994/211.htm",
       "subCategory": "消费电子",
-      "id": "tech-20260825-012"
+      "id": "tech-20260826-001"
     },
     {
       "id": "tech-20260825-011",
@@ -40,6 +103,15 @@
       "source": "36氪",
       "url": "https://www.36kr.com/newsflashes/3954293053177221",
       "subCategory": "消费电子"
+    },
+    {
+      "title": "余承东官宣全新三折叠即将登场，华为Mate XT 2发布会定档9月7日",
+      "summary": "华为常务董事余承东宣布全新三折叠手机即将登场，鸿蒙HarmonyOS 7 | HUAWEI Mate XT 2及全场景新品发布会定档9月7日14:30举行，为华为第三款三折叠手机。",
+      "publishedAt": "2026-08-25T09:16:06+08:00",
+      "source": "凤凰网科技",
+      "url": "https://tech.ifeng.com/c/8vs7WfEpjvH",
+      "subCategory": "消费电子",
+      "id": "tech-20260825-012"
     },
     {
       "title": "玄戒O3、O100、D100齐发！小米朱丹：芯片研发投入是为下一个十年买入场券",
@@ -652,78 +724,6 @@
       "url": "https://www.ithome.com/0/993/078.htm",
       "subCategory": "开源生态",
       "id": "tech-20260823-013"
-    },
-    {
-      "title": "雷鸟 iO AI 眼镜体验：全天智记是亮点，堪比随身助理",
-      "summary": "雷鸟推出iO AI眼镜，主打“全天智记”功能，可持续采集语音并转写、总结为文字，整机重34克，支持55种语言实时翻译及AI实时提词，240mAh电池可支持约两天使用。",
-      "publishedAt": "2026-08-22T18:20:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/065.htm",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260823-014"
-    },
-    {
-      "title": "TikTok 将支付 4 亿美元与美国司法部和解，以解决儿童隐私指控",
-      "summary": "TikTok同意支付4亿美元与美国司法部达成和解，以解决儿童隐私保护相关指控；诉讼源于此前政府指控其未经适当授权与家长同意收集13岁以下儿童个人信息，和解要求加强年龄验证与家长监管功能。",
-      "publishedAt": "2026-08-22T18:15:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/061.htm",
-      "subCategory": "互联网产品",
-      "id": "tech-20260823-016"
-    },
-    {
-      "title": "特斯拉回应近 300 万辆召回：无需全部进店，贴纸 3 年内随时可领",
-      "summary": "特斯拉回应近300万辆车型召回：因应急机械门把手与内饰颜色接近、不易辨识，将通过粘贴警示标签及OTA升级实现事故后自动降窗，车主无需全部到店，标签可在三年内随时领取。",
-      "publishedAt": "2026-08-22T17:58:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/052.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260823-010"
-    },
-    {
-      "title": "消息称 OPPO 阔直板机型进版测试，小屏手机项目暂停",
-      "summary": "消息称OPPO阔直板机型已进入版本测试阶段，此前规划的小屏手机项目暂停，分析认为原因是小屏性能机市场接受度不足，此前iQOO 15 mini小屏项目也已被取消。",
-      "publishedAt": "2026-08-22T17:48:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/048.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260823-015"
-    },
-    {
-      "title": "极氪发布最新概念车0.01：6岁孩童操刀设计",
-      "summary": "极氪在2026成都车展发布特别概念车“极氪0.01”，其设计源自一名6岁儿童在儿童节创作活动中绘制的“玄甲雷霆赛车”，由主持人董浩主持发布仪式，是车企与青少年创意结合的营销尝试。",
-      "publishedAt": "2026-08-22T16:35:52+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1145/1145635.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260823-011"
-    },
-    {
-      "id": "tech-20260822-014",
-      "title": "华为新款移动电源通过3C认证：20000mAh级容量，支持双向100W快充",
-      "summary": "华为新款移动电源型号P0024通过3C认证，额定能量72.52Wh，约合19600mAh，支持双向100W快充，输出功率最高106W，为现有12000mAh型号的升级款。",
-      "publishedAt": "2026-08-22T15:17:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/012.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260822-016",
-      "title": "荣耀机器人闪电百米跑出9秒32，打破人类记录",
-      "summary": "荣耀人形机器人闪电在北京举行的第二届世界人形机器人运动会百米比赛中跑出9.32秒，超过人类9.58秒的世界纪录，峰值速度达14.5米/秒，赛前对其腿长与关节模块进行了升级。",
-      "publishedAt": "2026-08-22T13:34:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/981.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260822-015",
-      "title": "消息称iQOO 16/小平板9月见，首批第六代骁龙8至尊版新机+首个同平台平板",
-      "summary": "博主爆料称iQOO将于9月推出iQOO 16手机与首款小平板，均搭载第六代骁龙8至尊版处理器，手机配6.85英寸2K+165Hz屏幕与5000万主摄三摄，平板配2.8K OLED高刷屏并内置散热风扇。",
-      "publishedAt": "2026-08-22T09:54:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/922.htm",
-      "subCategory": "消费电子"
     }
   ]
 }
