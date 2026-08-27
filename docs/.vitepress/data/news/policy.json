@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-27T00:50:19+08:00",
+  "updatedAt": "2026-08-27T08:41:09+08:00",
   "items": [
     {
       "id": "policy-20260827-004",
@@ -76,6 +76,15 @@
       "url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0825/20260825221943908355266_pc.html",
       "subCategory": "数字经济",
       "id": "policy-20260826-004"
+    },
+    {
+      "id": "policy-20260827-005",
+      "title": "国家发展改革委召开\"六网协同\"协调推进工作会 研究\"六张网\"投融资机制和支持政策",
+      "summary": "国家发展改革委副主任岳修虎主持召开\"六网协同\"协调推进工作会，工业和信息化部、财政部、住房城乡建设部、交通运输部、水利部、中国人民银行、金融监管总局、证监会、国家能源局等十个部门参会，研究多元化融资模式，并针对不同类型项目制定差异化财政金融支持政策，以加快六张网重大项目建设。",
+      "publishedAt": "2026-08-25",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260825_1407189.html",
+      "subCategory": "产业政策"
     },
     {
       "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
@@ -713,8 +722,7 @@
       "publishedAt": "2026-08-12",
       "source": "Federal Trade Commission",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-sends-more-238-million-drivers-diners-harmed-grubhubs-deceptive-advertising-claims-other",
-      "subCategory": "海外政策",
-      "id": "policy-20260813-003"
+      "subCategory": "海外政策"
     }
   ]
 }
