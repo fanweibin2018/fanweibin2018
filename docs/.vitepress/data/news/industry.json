@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-28T15:20:00+08:00",
+  "updatedAt": "2026-08-29T00:20:00+08:00",
   "items": [
+    {
+      "title": "AI packaging race heats up: Taiwan OSATs plan US$14.6 billion capex",
+      "summary": "台湾封测厂在AI芯片需求带动下计划投入146亿美元资本支出，京元电子、日月光、力成等企业加码先进封装产能，AI投资周期正从晶圆制造延伸至封装测试环节。",
+      "publishedAt": "2026-08-28T14:47:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260828PD224/king-yuan-ase-powertech-capex-investment-packaging-testing-taiwan.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-501"
+    },
     {
       "id": "industry-20260828-002",
       "title": "China's Kaizhong eyes data centers and dexterous hands",
@@ -22,6 +31,15 @@
       "source": "199IT（联合国贸发会议）",
       "url": "https://www.199it.com/archives/1839145.html",
       "subCategory": "行业研报"
+    },
+    {
+      "title": "ACEA：2026年前四个月新注册纯电动汽车占欧盟市场近20%的份额",
+      "summary": "ACEA数据显示，2026年前四个月纯电动汽车占欧盟新车注册量的19.7%，较去年同期15.3%明显提升，注册量达74.69万辆；插电混动占比9.6%，燃油车合计份额降至30.2%，意大利、法国、德国增速领先。",
+      "publishedAt": "2026-08-28",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1832145.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260828-509"
     },
     {
       "id": "industry-20260828-001",
@@ -150,6 +168,24 @@
       "subCategory": "半导体产业"
     },
     {
+      "title": "China's AI software strategy gains scale as OpenHarmony ecosystem tops 1.35 billion devices",
+      "summary": "华为主导的开源系统OpenHarmony及HarmonyOS平台设备接入量已突破13.5亿台，中国正通过开源生态强化本土软件与工业软件能力，推动制造业数字化转型。",
+      "publishedAt": "2026-08-27T11:20:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL210/software-industrial-openharmony-harmonyos-manufacturing.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260828-503"
+    },
+    {
+      "title": "CXMT DDR5 closes in on SK Hynix at 8,000 MT/s, benchmark gap falls below 1%",
+      "summary": "中国长鑫存储CXMT新款DDR5内存芯片可在8000 MT/s频率下稳定运行，实测性能与SK海力士M-die产品差距已缩小至1%以内，成为继三星、SK海力士后又一高端DDR5供应商。",
+      "publishedAt": "2026-08-27T11:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL209/cxmt-ddr5-sk-hynix-memory-chips-performance.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-502"
+    },
+    {
       "id": "industry-20260827-102",
       "title": "Analysis: Smartwatch demand set to outpace broader hardware market in 2026",
       "summary": "2026年智能手表出货增速将超越整体硬件市场增速，增长快于智能手机和笔记本电脑等传统消费设备，高端运动手表和无屏可穿戴设备需求增加驱动增长。",
@@ -175,6 +211,24 @@
       "source": "DigiTimes",
       "url": "https://www.digitimes.com/news/a20260827PD206/sales-price-market-samsung-google.html",
       "subCategory": "消费零售"
+    },
+    {
+      "title": "Honor Robot Phone enters mass production, making robotics central to its premium AI strategy",
+      "summary": "荣耀历时一年多内部讨论后，其Robot Phone机器人手机已从概念阶段进入量产商用，董事长James Li称公司正将机器人业务作为高端AI战略核心。",
+      "publishedAt": "2026-08-27T08:32:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD228/honor-robotics-smartphone-commercial.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260828-505"
+    },
+    {
+      "title": "IntelliEPI says Japan substrate outage hit 2Q26 revenue",
+      "summary": "台湾磊晶厂IntelliEPI表示，日本磷化铟（InP）基板供应商因黄金周停工近三周，导致公司2026年第二季营收受压，公司正加大依赖日本供应商并协助德国厂商加速量产InP基板。",
+      "publishedAt": "2026-08-27T08:29:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD232/revenue-substrate-intelliepi-inp-demand.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-504"
     },
     {
       "id": "industry-20260827-001",
@@ -222,15 +276,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260827-002",
-      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
-      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
-      "publishedAt": "2026-08-26T10:11:36Z",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260827-008",
       "title": "YMTC targets global NAND lead by 2027 as parent seeks US$5 billion IPO",
       "summary": "长江存储目标在2027年底前成为全球最大NAND闪存供应商，母公司拟在上海募资近50亿美元用于产能升级与研发；今年二季度公司全球NAND位出货份额约14%，落后三星25%和SK海力士22%。",
@@ -258,6 +303,24 @@
       "subCategory": "消费零售"
     },
     {
+      "title": "Regulators fast-track lithium battery M&As as China shifts from capacity expansion to consolidation",
+      "summary": "中国监管部门正加快锂电池行业并购审批速度，推动产业从产能扩张阶段转向整合阶段，以优化现有产能配置并强化供应链一体化。",
+      "publishedAt": "2026-08-26",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260826PD222/lithium-battery-capacity-expansion-materials-price-supply-chain.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260828-506"
+    },
+    {
+      "id": "industry-20260827-002",
+      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
+      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
+      "publishedAt": "2026-08-26T10:11:36Z",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
+      "subCategory": "半导体产业"
+    },
+    {
       "title": "OECD：2026年亚洲资本市场报告",
       "summary": "OECD报告显示，2025年亚洲资本市场占全球GDP约31%、上市公司数量占全理56%，全年融资总额3.3万亿美元，占全理39%；但IPO活动较2022至2024年均值下降11%，再融资增长55%，近四成亚洲上市公司市净率低于1倍。",
       "publishedAt": "2026-08-25",
@@ -274,6 +337,24 @@
       "url": "http://www.199it.com/archives/1847563.html",
       "subCategory": "半导体产业",
       "id": "industry-20260826-001"
+    },
+    {
+      "title": "TrendForce集邦咨询：2Q26全球新能源车销量年增10.4%，海外市场成中系车厂核心竞争力",
+      "summary": "2026年第二季全球新能源车（含纯电、插混、氢燃料）合计销量达537万辆，年增10.4%；中国占比由66%降至56%，比亚迪重返销量冠军，特斯拉年增25%排名第二，海外市场成为中国车企核心竞争优势。",
+      "publishedAt": "2026-08-25",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.cn/presscenter/news/20260825-13196.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260828-507"
+    },
+    {
+      "title": "TrendForce集邦咨询：存储器合约价持续飙升，预估2027年占主要CSP资本支出比重将高达68%",
+      "summary": "TrendForce预估，受服务器DRAM及企业级SSD合约价大幅上涨影响，DRAM与NAND Flash合计占云端服务商资本支出比重将由2026年的47%扩大至2027年的68%，HBM合约价2027年估涨70%至140%。",
+      "publishedAt": "2026-08-25",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.cn/presscenter/news/20260825-13199.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-508"
     },
     {
       "title": "Xiaomi taps TSMC to make chips for foldables, AI and autonomous driving",
@@ -519,15 +600,6 @@
       "id": "industry-20260823-010"
     },
     {
-      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
-      "summary": "Omdia发垃2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
-      "publishedAt": "2026-08-20T21:00:00-05:00",
-      "source": "Omdia",
-      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260825-004"
-    },
-    {
       "title": "Korean display makers step up OLED patent push as China narrows technology gap",
       "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
       "publishedAt": "2026-08-21T06:15:00+08:00",
@@ -553,6 +625,15 @@
       "url": "https://www.trendforce.com/news/2026/08/20/news-sk-hynix-unveils-cpo-roadmap-looks-beyond-hbm-to-ai-infrastructure/",
       "subCategory": "半导体产业",
       "id": "industry-20260821-005"
+    },
+    {
+      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
+      "summary": "Omdia发垃2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
+      "publishedAt": "2026-08-20T21:00:00-05:00",
+      "source": "Omdia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
+      "subCategory": "SaaS",
+      "id": "industry-20260825-004"
     },
     {
       "title": "FCAI：2026年6月中国产汽车在澳大利亚销量4.66万辆，超过日本",
@@ -643,87 +724,6 @@
       "url": "https://omdia.tech.informa.com/pr/2026/aug/foldable-smartphone-shipments-will-double-to-36-million-units-by-2028",
       "subCategory": "行业研报",
       "id": "industry-20260823-002"
-    },
-    {
-      "title": "Samsung and Apple the Only Key Brands to Grow in a Declining LATAM Market in Q2 2026",
-      "summary": "Counterpoint数据显示，2026年二季度拉美智能手机市场同比萌砺10%，为2023年三季度以来最大跌幅；仅三星、苹果逆势增长，分别增长6%和5%，摩托罗拉、小米降幅明显。",
-      "publishedAt": "2026-08-20",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/samsung-apple-growth-latam-market-q2-2026",
-      "subCategory": "行业研报",
-      "id": "industry-20260823-004"
-    },
-    {
-      "title": "资金涨向高壁垒项目 投资锚定商业化成效——2026年上半年医疗器械领域融资情况盘点",
-      "summary": "行业盘点显示，2026年上半年中国医疗器械领域发生193起融资事件，披露总额162.69亿元；脑机接口以48.08亿元居首，资本加速向脑机接口、介入器械等高壁垒赛道集中。",
-      "publishedAt": "2026-08-20",
-      "source": "中国食品药品网",
-      "url": "https://m.cnpharm.com/c/2026-08-20/1104862.shtml",
-      "subCategory": "医疗健康",
-      "id": "industry-20260823-006"
-    },
-    {
-      "id": "industry-20260824-101",
-      "title": "\"什么值得买\"七夕消费趋势：从Jellycat到5090，兴趣改写礼物清单",
-      "summary": "消费导购平台\"什么值得买\"发布七夕消费趋势数据显示，消费者送礼日益偏离传统模式、转向兴趣导向。Switch游戏机销量增长49.11%，AirPods类音频产品增长42.04%，Jellycat玩偶增长49.79%，盲盒增长38.36%。体验型消费同样升温，电影相关消费增幅达825.75%，古镇游、汉服跟拍等文旅体验成为礼物新形式，节日消费呈现多元化和个性化特征。",
-      "publishedAt": "2026-08-20",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1847138.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260822-013",
-      "title": "GSMA：2026年欧洲移动经济报告",
-      "summary": "GSMA报告显示，2025年移动技术为欧盟贡献约1.1万亿欧元经济价值，占GDP的6.1%，直接创造130万个就业岗位，预脈2030年移动经济规模增至1.6万亿欧元。",
-      "publishedAt": "2026-08-20T06:07:00+08:00",
-      "source": "199IT",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininxeiu8047005.shtml",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260824-002",
-      "title": "Korea's Next-Gen OLED Push Gains Steam With LG FLiPP, Samsung Wide View Debuts",
-      "summary": "LG Display将于IMID 2026首次展示FLiPP新型OLED工艺，可提升开口率并延长面板寿命；三星显示同期展出Wide View折叠屏技术及20英寸可伸缩显示屏，面向下一代显示应用。",
-      "publishedAt": "2026-08-19",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/19/news-koreas-next-gen-oled-push-gains-steam-with-lg-flipp-samsung-wide-view-debuts/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260821-101",
-      "title": "TrendForce集邦咨询: 预估2026年中国人形机器人市场规模达150亿元人民币，商业化验收启动",
-      "summary": "TrendForce预估，2026年中国人形机器人市场规模将达150亿元人民币，2027年至少维拑60%以上增速；智元机器人截至6月已累计出货1.5万台，优必选U1预订量达13361台，行业重心正从技术展示转向实际需求。",
-      "publishedAt": "2026-08-19",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.cn/presscenter/news/20260819-13190.html",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260821-105",
-      "title": "AI时代的战略抱择：塑造生命科学的未来",
-      "summary": "世界经济论坛与波士顿咨询联合报告指出，AI辅助分子设计已将早期研发周期由4至5年压缩至约8个月，一期临床成功率甩40%至65%提升至约85%，临床试验延期减少38%，患者招募评估时间缩省45%。",
-      "publishedAt": "2026-08-19",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1832770.html",
-      "subCategory": "医疗健康"
-    },
-    {
-      "title": "乘联分会：2026年7月乘用车零售146.1万辆，同比下降20.9%",
-      "summary": "乘联分会数据显示，7月全国乘用车零售146.1万辆，同比下降20.9%；中国品牌零售103.8万辆，份额升至71.1%，德系、日系、美系、韩系份额均较名23年明显下滑。",
-      "publishedAt": "2026-08-19",
-      "source": "199IT/乘联分会",
-      "url": "https://www.199it.com/archives/1846452.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260820-002"
-    },
-    {
-      "title": "Mindfactory：2026年7月16GB显存显卡销售份额72.58%",
-      "summary": "德国电商平台Mindfactory数据显示，2026年7月16GB显存显卡销售份额达72.58%；当月GPU总销量2180块，AMD以1165块居首，NVIDIA945块次之，Intel70块。",
-      "publishedAt": "2026-08-19",
-      "source": "199IT/Mindfactory",
-      "url": "https://www.199it.com/archives/1846400.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260820-003"
     }
   ]
 }
