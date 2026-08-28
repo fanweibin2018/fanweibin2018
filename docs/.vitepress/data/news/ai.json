@@ -3,12 +3,12 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-27T23:00:00+08:00",
+  "updatedAt": "2026-08-28T15:20:00+08:00",
   "items": [
     {
       "id": "ai-20260827-153",
       "title": "Adobe Photoshop推出AI辅助编辑器测试版",
-      "summary": "Adobe为Photoshop新增AI Assisted Editor测试功能，支持基于自然语言提示词的图像编辑，包括提示词编辑、AI标记、蒙版编辑、背景移除和生成式填充等操作。同时上线非破坏性图层光线调整、动态文字扩展及超9亿素材的Adobe Stock面板，并接入FLUX 2 Pro、Gemini等多种生成模型。",
+      "summary": "Adobe为Photoshop新增AI Assisted Editor测试功能，支持基于自然语言提示词的图像编辑，包括提示词编辑、AI标记、蒙版编辑、背景移除和生成式填充等操作。同时上线非破坏性图层光线调整、动态文字扩展及覅9亿素材的Adobe Stock面板，并接入FLUX 2 Pro、Gemini等多种生成模型。",
       "publishedAt": "2026-08-27T22:01:17+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/995/305.htm",
@@ -26,7 +26,7 @@
     {
       "id": "ai-20260827-151",
       "title": "MiniMax ARR暴涨500%，Token消耗增长20倍",
-      "summary": "MiniMax商业化加速，8月ARR超过8亿美元，较2月的1.5亿美元增长约5倍；上半年收入1.166亿美元，同比增长283%。B端业务收入占比从去年三成升至八成，7月Token消耗量较1月增长20倍，企业与开发者客户突破200万，增长主要由M3模型与H3开源视频模型驱动。",
+      "summary": "MiniMax商业化加速，8月ARR超8亿美元，较2月的1.5亿美元增长级5倍；上半年收入1.166亿美元，同比增长283%。B端业务收入占比从去年三成升至八成，7月Token消耗量较1月增长20倍，企业与开发者客户突破200万，增长主要由M3模型与H3开源视频模型驱动。",
       "publishedAt": "2026-08-27T20:16:10+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/480092.html",
@@ -51,6 +51,15 @@
       "subCategory": "AI评测"
     },
     {
+      "id": "ai-20260828-001",
+      "title": "Anthropic预览Model Hardware Standard，助力AI智能体操作物理硬件",
+      "summary": "Anthropic发布Model Hardware Standard（MHS）研究预览版，为AI智能体操作实验室与制造设备提供统一通信规范，含读写指令、设备发现及安全限制，可将硬件集成时间从数周缩短至数小时，首批面向生物科技、机器人、量子计算及制造业合作伙伴开放，未来计划开源。",
+      "publishedAt": "2026-08-27",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "subCategory": "具身智能"
+    },
+    {
       "id": "ai-20260827-001",
       "title": "智谱开源GLM-5.3-Flash原生多模态模型",
       "summary": "智谱开源原生多模态模型GLM-5.3-Flash，此前以匿名代号Ox Alpha测试。总参数3200亿、激活180亿，智能指数得分57，与Claude Opus 4.8相当，限时价格为GLM-5.3标准价的1/20。",
@@ -71,7 +80,7 @@
     {
       "id": "ai-20260827-003",
       "title": "阿里通义开源Qwen3.8-Flash（Next），125B参数MoE模型",
-      "summary": "阿里通义开源Qwen3.8-Flash（Next），主参数125B加51B N-gram Embedding，单token激活6B，原生支持26.2万token上下文，训练成本约为前代的1/9，API定价每百万输入token 1元、输出3元。",
+      "summary": "阿里通义开源Qwen3.8-Flash（Next），主参数125B加51B N-gram Embedding，单token激数6B，原生支持26.2万token上下文，训练成本约为前代的1/9，API定价每百万输入token 1元、输出3元。",
       "publishedAt": "2026-08-26T20:39:50+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/994/735.htm",
@@ -98,7 +107,7 @@
     {
       "id": "ai-20260827-008",
       "title": "即梦AI推出影视厂牌「即梦片场」",
-      "summary": "即梦AI推出内容厂牌「即梦片场」，扶持AI长视频影视项目：电影类要求时长90分钟以上，S级项目获算力积分全额支持；剧集类单集3分钟以上，S/A/B三档给予不同积分与分账支持，并配套创作基金等扶持计划。",
+      "summary": "即梦AI推出内容厂牌「即梦片场」，扶持AI长视频影视项目：电影类要求时长90分钟以上，S级项目获算力积分全额支持；剧集类单隆3分钟以上，S/A/B三档给予不同积分与分账支持，并配套创作基金等扶持计划。",
       "publishedAt": "2026-08-26T14:02:00+08:00",
       "source": "AIBase",
       "url": "https://news.aibase.com/zh/news/30632",
@@ -116,10 +125,19 @@
     {
       "id": "ai-20260827-101",
       "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-      "summary": "一段10分钟一镜到底演示视频显示，宇树与智元两款架构不同的人形机器人在同一模型驱动下协作完成家务任务，包括一台机器人帮另一台披围巾、1.3米机器人自主学会踩箱子够高处物品并用脚推物、根据提手位置调整搬运方式，以及用刮水器精细控制力度擦窗等能力，被指区别于常规VLA、WAM或世界模型路线。",
+      "summary": "一段10分钟一镜到底演示视频显示，宇树与智元两款架构不同的人形机器人在同一模型驱动下协作完成家务任务，包括一台机器人帮另一台披围巾、1.3米机器人自主学会踩箱子够高处物品并用脚推物、根据提手位置调整搬运方式，以及用刷水器精细控制力度擦窗等能力，被指区别于常规VLA、WAM或世界模型路线。",
       "publishedAt": "2026-08-26T13:52:06+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/479634.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260827-007",
+      "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
+      "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
+      "publishedAt": "2026-08-26",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
       "subCategory": "具身智能"
     },
     {
@@ -141,15 +159,6 @@
       "id": "ai-20260826-004"
     },
     {
-      "id": "ai-20260827-007",
-      "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
-      "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
-      "publishedAt": "2026-08-26",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "subCategory": "具身智能"
-    },
-    {
       "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
       "summary": "范式发布具身智能体框架PhanthyMotus生态共建计划，联合宇树科技等十余家机器人企业推动平台从开源转向多方共建，已积累超60万行代码，适配15款以上机器人型号，标准化200余种硬件驱动接口。",
       "publishedAt": "2026-08-25T17:31:16+08:00",
@@ -160,7 +169,7 @@
     },
     {
       "title": "紫东太初推出AutoProject引擎，AI4S从做Task走向做Project",
-      "summary": "紫东太初ScienceClaw平台发布AutoProject引擎，包含Project2Task任务拆解、TaskExecutor自主执行、EviGraph证据验证三大能力，使AI能独立承担完整科研项目，EviGraph在ARCBenchML测评中获0.865综合得分。",
+      "summary": "紫东太初ScienceClaw平台发布AutoProject引擎，包含Project2Task任务拆解、TaskExecutor自主执行、EviGraph证据验证三大能力，使AI能独立承担完整科研项目，EviGraph在ARCBenchML测评中茷0.865综合得分。",
       "publishedAt": "2026-08-25T13:48:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/479096.html",
@@ -213,7 +222,7 @@
       "id": "ai-20260825-004"
     },
     {
-      "title": "美国音乐人Dr. Dre公开支持AI音乐，将其类比鼓机、合成器",
+      "title": "美国音乐人 Dr. Dre公开支持AI音乐，将其类比鼓机、合成器",
       "summary": "说唱制作人Dr. Dre公开承认在音乐创作中使用AI工具，称其为\"全新的创意工具\"，并将其类比曾遂抵制、如今已被广泛接受的鼓机与合成器等制作技术。报道同时提到Tidal拒绝向纯AI生成音乐支付版税，Spotify则推出AI标签以标识非人类创作者。",
       "publishedAt": "2026-08-24T22:34:21+08:00",
       "source": "IT之家",
@@ -269,7 +278,7 @@
     {
       "id": "ai-20260824-104",
       "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "summary": "国产芯片企业中诚华隆发布新一代HL200推理芯片及配套超节点智算集群方案，芯片FP16/BF16算力达0.5P、FP8达2P、FP4达4P，能效比5.12 TFLOPS/W，支持单节点最高1024卡纵向堆叠、横向扩展至10240卡，已在DeepSeek V4等主流大模型上完成测试。",
+      "summary": "国产芯片企业中诚华隆发布新一代HL200推理芯片及配套超节点智算集群方案，芯片FP16/BF16算力达0.5P、FP8达2P、FP4达4P，能效比5.12 TFLOPS/W，支持单节点最領1024卡纵向堆叠、横向扩展至10240卡，已在DeepSeek V4等主流大模型上完成测试。",
       "publishedAt": "2026-08-24T15:04:36+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478469.html",
@@ -287,11 +296,29 @@
     {
       "id": "ai-20260824-105",
       "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涿发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench评测中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
+      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涿发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench测评中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
       "publishedAt": "2026-08-24T13:04:52+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478421.html",
       "subCategory": "具身智能"
+    },
+    {
+      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
+      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30563",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-002"
+    },
+    {
+      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
+      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30577",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-003"
     },
     {
       "id": "ai-20260824-001",
@@ -330,24 +357,6 @@
       "subCategory": "AI编程"
     },
     {
-      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
-      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30563",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-002"
-    },
-    {
-      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
-      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30577",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-003"
-    },
-    {
       "id": "ai-20260823-201",
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
       "summary": "OpenAI首席全球事务官Chris Lehane警告，先进AI模型已具备\"规划并发起复杂网络攻击\"的能力，公众与企业需为此做好防御准备。此前一个前沿AI智能体曾入侵Hugging Face系统，OpenAI已暂停部分前沿模型的开发以加强安全措施，勒汉恩呼吁美国政府立法，要求AI模型在公开发布或部署前证明并保证安全标准。",
@@ -368,7 +377,7 @@
     {
       "id": "ai-20260823-101",
       "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已茷5000万美元融资，计划扩编至25人。",
+      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已茅5000万美元融资，计划扩编至25人。",
       "publishedAt": "2026-08-23T08:15:10+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
@@ -413,15 +422,15 @@
     {
       "id": "ai-20260823-103",
       "title": "00后清华博士生创业\"神经接口\"：把人类肌肉反应炼成Token",
-      "summary": "2001年出生的清华在读博士生秦深涛创立具身数据公司OriginFlow（渊澈太初），截至今年5月累计融资超5亿元。公司NeuroScale技术通过16通道肌电腕带采集表面肌电信号，结合视觉与IMU数据生成\"Human Tokens\"，用于填补物理AI具身训练所需的高质量物理交互数据空白。",
+      "summary": "2001年出生的清华在读博士生秦深涛创立具身数据公司OriginFlow（渊澈太初），截至今年5月累计融资超5亿元。公司NeuroScale技术通过16通道肌电腻带采集表面肌电信号，结合视觉与IMU数据生成\"Human Tokens\"，用于填补物理AI具身训练所需的高质量物理交互数据空白。",
       "publishedAt": "2026-08-22T21:56:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/477094.html",
       "subCategory": "具身智能"
     },
     {
-      "title": "Eon用LIF\"上传\"果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "summary": "文章对比Eon Systems约14万神经元的果蝇脑虚拟仿真与中国团队DeepSoma平台，后者采用精细生物物理神经元建模、真实场景4D重建，统一世界模型、脑仿真与跨身体智能体部署，指向物理AI新范式。",
+      "title": "Eon用LIF\"上传\"果蚌脑，中国团队直接上精细神经元和跨身体平台",
+      "summary": "文章对比Eon Systems约14万神经元的果蚌脑虚拟仿真与中国团队DeepSoma平台，后者采用精细生物物理神经元建模、真实场景4D重建，统一世界模型、脑仿真与跨身体智能体部署，指向物理AI新范式。",
       "publishedAt": "2026-08-22T20:21:07+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/477090.html",
@@ -447,7 +456,7 @@
       "id": "ai-20260823-005"
     },
     {
-      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碎压 Claude Fable 5，线索指向智谱",
+      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碎压Claude Fable 5，线索指向智谱",
       "summary": "OpenRouter上线匿名模型Ox Alpha，限时一周免费，在DeepSWE代码分析测试中约得80分，超过Claude Fable 5(65)与GPT-5.6 Sol(52)，其分词器指纹与GLM-5.3高度吁合，被指向智谱。",
       "publishedAt": "2026-08-22T14:54:05+08:00",
       "source": "IT之家",
@@ -503,7 +512,7 @@
     {
       "id": "ai-20260822-010",
       "title": "深势科技上线玻尔·科学空间公测，AI承担科研实验全流程",
-      "summary": "深势科技推出桌面端AI科研平台玻尔·科学空间公测版，集成多学科AI专家，可完成文献综述、实验设计与执行，接入超2亿篇文献及5万余种科学计算工具，计算执行成功率达98.8%。",
+      "summary": "深势科技推出桌面端AI科研平台玻尔·科学空间公测版，集成多学科AI专家，可完成文献综述、实验设计与执行，接入覅2亿篇文献及5万余种科学计算工具，计算执行成功率达98.8%。",
       "publishedAt": "2026-08-21T14:40:34+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476591.html",
@@ -512,47 +521,11 @@
     {
       "id": "ai-20260821-105",
       "title": "Jeff Dean离职谷歌后首次公开访谈：反思 Gemini 编程投入偏晚",
-      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期从天/周级压缩到分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
+      "summary": "Jeff Dean在斯坦福2026 Frontier & Pioneer Symposium上进行离职谷歌后首次公开访谈，坦言Gemini早期对编程能力投入\"重视得稍晚\"；其新公司Discovery Loop致力于自动化科学发现流程，目标将实验周期压缩到分钟/小时级，并指出AI模型已能完成顶级人类网络攻击者的任务。",
       "publishedAt": "2026-08-21T12:05:11+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476468.html",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260821-103",
-      "title": "触觉让世界模型更懂物理，也更难通用",
-      "summary": "文章梳理触觉传感如何让具身智能世界模型更懂物理交互，千觉机器人、戴盟机器人等企业相继发布触觉数据集与模型，但不同传感器信号格式不一，跨设备、跨硬件迁移仍是行业待解难题。",
-      "publishedAt": "2026-08-21T08:23:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3948077056087942",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260821-102",
-      "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Agent时代的“调度层”？",
-      "summary": "DeepSeek开源Agent框架Harness发布v0.1.0-rc.8版本，距上一版本仅两天，新增将Claude Code与Codex接入为子代理的能力，使不同模型可在统一任务调度与工具协同下互换使用。",
-      "publishedAt": "2026-08-21T08:01:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3947852851664512",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260821-101",
-      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
-      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
-      "publishedAt": "2026-08-21T07:46:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/426.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-100",
-      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
-      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
-      "publishedAt": "2026-08-21T06:54:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/416.htm",
-      "subCategory": "开源模型"
     },
     {
       "title": "字节跳动Seed再调整：预训练、强化学习与Agent研发全面重构",
@@ -583,7 +556,7 @@
     },
     {
       "title": "Measuring benchmark optimization in speech recognition",
-      "summary": "研究设计三项测试考察语音识别模型是否针对公开测试集而非真实转写能力优化，发现部分VoxPopuli、LibriSpeech高分模型会复现错误参考文本、还原静音数字，面对全新录音时表现减弱。",
+      "summary": "研究设计三项测试考察语音识别模型是否针对公开测试集而非真实转写能力优化，发现部分VoxPopuli、LibriSpeech高分模型会复现错误参考文本、还原静默数字，面对全新录音时表现减弱。",
       "publishedAt": "2026-08-21",
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/asr-benchmark-optimization",
@@ -646,7 +619,7 @@
     },
     {
       "id": "ai-20260821-204",
-      "title": "商汤科技开源8B轻量多模态大模型：原畑4K输出、全能视觉编辑",
+      "title": "商汤科技开源8B轻量多模态大模型：原畟4K输出、全能视觉编辑",
       "summary": "商汤科技开源8B参数轻量级多模态模型SenseNova U1.5Lite，原生支持3-4K上下文，可同时处理主体、数量、空间关系、文本布局等多重约束，支持边界框等控制方式并实现4K高分辨率图像输出。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
@@ -656,7 +629,7 @@
     {
       "id": "ai-20260821-205",
       "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-      "summary": "Anthropic宣布Computer Use、Skills API与Files API全面可用，计算机使用功能支持单次调用内多步连续操作并达HIPAA合规，新增网页结构解析浏览器工具，文件API提供最高1TB组织级存储空间，并通过Microsoft Foundry等平台提供。（发布时间为估算值）",
+      "summary": "Anthropic宣布Computer Use、Skills API与Files API全面可用，计算机使用功能支持单次调用内多步连续操作并达HIPAA合规，新增网页结构解析浏览器工具，文件API提供最領1TB组织级存储空间，并通过Microsoft Foundry等平台提供。（发布时间为估算值）",
       "publishedAt": "2026-08-21",
       "source": "AIbase",
       "url": "https://news.aibase.com/news/30522",
@@ -708,22 +681,49 @@
       "subCategory": "AI应用"
     },
     {
+      "id": "ai-20260821-103",
+      "title": "触觉让世界模型更懂物理，也更难通用",
+      "summary": "文章梳理触觉传感如何让具身智能世界模型更懂物理交互，千觉机器人、戴盟机器人等企业相继发布触觉数据集与模型，但不同传感器信号格式不一，跨设备、跨硬件迁移仍是行业待解难题。",
+      "publishedAt": "2026-08-21T08:23:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3948077056087942",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260821-102",
+      "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Agent时代的“调度层”？",
+      "summary": "DeepSeek开源Agent框架Harness发布v0.1.0-rc.8版本，距上一版本仅两天，新增将Claude Code与Codex接入为子代理的能力，使不同模型可在统一任务调度与工具协同下互换使用。",
+      "publishedAt": "2026-08-21T08:01:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/3947852851664512",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260821-101",
+      "title": "Mac 版 ChatGPT 可控制“信息”应用，古尔曼称恐触及苹果 Siri AI 的设备优势",
+      "summary": "OpenAI为macOS版ChatGPT新增控制系统“信息”应用的能力，可读取、撰写、发送短信并搜索对话生成摘要，需用户逐项授权；分析师古尔曼称此举可能冲击苹果Siri的设备优势。",
+      "publishedAt": "2026-08-21T07:46:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/426.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260821-100",
+      "title": "蚂蚁百灵开源 Ling-3.0 tiny / flash Base 模型，开放训练过程中的关键节点",
+      "summary": "蚂蚁百灵开源Ling-3.0-tiny-base与Ling-3.0-flash-base模型，公开预训练、中期训练及WSM合并阶段的六个checkpoint权重；tiny版本79亿参数（激活13亿），flash版本1240亿参数（激活51亿）。",
+      "publishedAt": "2026-08-21T06:54:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/416.htm",
+      "subCategory": "开源模型"
+    },
+    {
       "title": "Meta成微软最大AI客户之一：年采购额达数亿美元，每周消耗数万亿词元",
-      "summary": "据彭博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
+      "summary": "据彽博社报道，Meta已成为微软Azure云服务最大AI客户之一，年采购额达数亿美元，每周消耗算力相当于数万亿词元。微软Foundry平台托管超1.16万个AI模型，OpenAI贡献微软AI收入约七成，Meta也在开发自有模型API服务。",
       "publishedAt": "2026-08-20T22:40:57+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/992/397.htm",
       "subCategory": "AI应用",
       "id": "ai-20260821-003"
-    },
-    {
-      "title": "中国信通院：全国已建成启用超70家具身智能训练场，覆盖过半省级行政区",
-      "summary": "中国信通院报告显示，全国已建成启用超70家具身智能训练场，另有40余家在建，覆盖长三角、京津冀、珠三角三大集群及过半省级行政区。训练场承担数据生产、模型训练与真实环境验证功能，工业制造场景占比达86%，建设正从一线城市向三四线城市延伸。",
-      "publishedAt": "2026-08-20T21:18:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/357.htm",
-      "subCategory": "具身智能",
-      "id": "ai-20260821-002"
     }
   ]
 }
