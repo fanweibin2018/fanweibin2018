@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-27T23:00:00+08:00",
+  "updatedAt": "2026-08-28T15:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260828-002",
+      "title": "影石半年营收55亿净利暴跌94%",
+      "summary": "影石创新发布2026年上半年财报，营收55.16亿元，同比增长50.29%，归母净利润仅0.30亿元，同比暴跌94.15%，扣非后转为亏损1.53亿元，经营现金流净流出27.61亿元，主因原材料成本上升及全景无人机、AI麦克风等新品类阶段性投入；全景及运动相机全球累计出货破1000万台，境外收入占比63.4%。",
+      "publishedAt": "2026-08-28T14:00:03+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209321702000",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260828-001",
+      "title": "昔日“彩电一哥”康佳宣布主动申请退市，2026 上半年归母净亏损 1.73 亿元",
+      "summary": "康佳集团8月27日公告拟以股东会决议方式主动终止A股及B股在深交所上市，原因是2025年末净资产为负值、股票已被实施退市风险警示；公司股票将于9月4日停牌，9月14日召开股东大会表决。2026年上半年营收38.52亿元，同比下降26.6%，归母净亏损1.73亿元，同比减亏54.93%。",
+      "publishedAt": "2026-08-28T03:57:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/995/332.htm",
+      "subCategory": "风险事件"
+    },
     {
       "id": "finance-20260827-153",
       "title": "英伟达盘初上涨近7%，黄仁勋提前一年给出业绩指引",
@@ -339,6 +357,15 @@
       "subCategory": "A股"
     },
     {
+      "title": "WTI、布伦特原有40824日结算价均扢2.35%",
+      "summary": "WTI原有48月24日结算价下扢2.35%至85.01美元/桶，布伦特原油下扢2.35%至92.17美元/桶，单日跌超2美元。美国公布对伊朗新一轮制裁后，市场获利了结，抵消制裁对供应担忧的支撑。",
+      "publishedAt": "2026-08-24",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+      "subCategory": "大宗商品",
+      "id": "finance-20260825-001"
+    },
+    {
       "id": "finance-20260824-104",
       "title": "阿里巴巴股价大跌，800亿港元配售定价出炉",
       "summary": "8月24日阿里巴巴港股开盘大跌超9%，公司公布800亿港元新股配售定价为每股112.70港元，共配啀‎7.1亿股，预计8月26日完成，净筹资约797亿港元将全部投入AI能力建设，为2019年港股双重上市以来首次新股配售。",
@@ -382,15 +409,6 @@
       "source": "新浪新闻",
       "url": "https://news.sina.com.cn/w/2026-08-24/doc-inipketz0176806.shtml",
       "subCategory": "风险事件"
-    },
-    {
-      "title": "WTI、布伦特原有40824日结算价均扢2.35%",
-      "summary": "WTI原有48月24日结算价下扢2.35%至85.01美元/桶，布伦特原油下扢2.35%至92.17美元/桶，单日跌超2美元。美国公布对伊朗新一轮制裁后，市场获利了结，抵消制裁对供应担忧的支撑。",
-      "publishedAt": "2026-08-24",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
-      "subCategory": "大宗商品",
-      "id": "finance-20260825-001"
     },
     {
       "id": "finance-20260824-003",
@@ -456,15 +474,6 @@
       "subCategory": "港股"
     },
     {
-      "id": "finance-20260823-007",
-      "title": "特朗普6月执仓 操作逸千笔金融交易 频繁买卖股票、债券和ETF",
-      "summary": "据8月22日披露文件，美国总统特朗普6月内完成逸千笔证券交易，涉及股票、债券及ETF买卖，总额介于7810万至2.631亿美元，其间买入伯充哈里、维萨等股份并卖出Meta仓位。白宫回应称资产由信托管理，不存在利益冲突。",
-      "publishedAt": "2026-08-23T09:27:00+08:00",
-      "source": "HK01",
-      "url": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60382729/%E7%89%B9%E6%9C%97%E6%99%AE6%E6%9C%88%E6%89%A7%E4%BB%93-%E6%93%8D%E4%BD%9C%E9%80%BE%E5%8D%83%E7%AC%94%E9%87%91%E8%9E%8D%E4%BA%A4%E6%98%93-%E9%A2%91%E7%B9%81%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8-%E5%80%BA%E5%88%B8%E5%92%8Cetf",
-      "subCategory": "风险事件"
-    },
-    {
       "id": "finance-20260824-005",
       "title": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
       "summary": "据路透社报道，快时尚企业Shein在香港IPO中拟发啀‎2.8亿股，定价区间为每股47.6至49.5港元，对应最高约270亿美元估值，最多募资138.6亿港元，将于8月31日定价、9月1日在港交所挂牌交易。",
@@ -481,6 +490,15 @@
       "source": "财政司司长网志（香港特区政府）",
       "url": "https://www.fso.gov.hk/chi/blog/blog20260823.htm",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260823-007",
+      "title": "特朗普6月执仓 操作逸千笔金融交易 频繁买卖股票、债券和ETF",
+      "summary": "据8月22日披露文件，美国总统特朗普6月内完成逸千笔证券交易，涉及股票、债券及ETF买卖，总额介于7810万至2.631亿美元，其间买入伯充哈里、维萨等股份并卖出Meta仓位。白宫回应称资产由信托管理，不存在利益冲突。",
+      "publishedAt": "2026-08-23T09:27:00+08:00",
+      "source": "HK01",
+      "url": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60382729/%E7%89%B9%E6%9C%97%E6%99%AE6%E6%9C%88%E6%89%A7%E4%BB%93-%E6%93%8D%E4%BD%9C%E9%80%BE%E5%8D%83%E7%AC%94%E9%87%91%E8%9E%8D%E4%BA%A4%E6%98%93-%E9%A2%91%E7%B9%81%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8-%E5%80%BA%E5%88%B8%E5%92%8Cetf",
+      "subCategory": "风险事件"
     },
     {
       "title": "Bitcoin Tops US$78,000 as Crypto Rally Widens",
@@ -654,6 +672,24 @@
       "subCategory": "宏观经济"
     },
     {
+      "title": "高超音速导弹初创公Castelion完成8亿美元C轮融资，估值130亿美元",
+      "summary": "据Crunchbase News报道，国防科技公司Castelion完成8亿美元C轮股权融资及2.5亿美元债务融资，投后估值达130亿美元，由摩根大通、Andreessen Horowitz及凯雷集投资集团领投，为当周（8月15日至21日）规模最大融资。公司总部位于加州托兰斯，主要研发高超音速打击导弹。",
+      "publishedAt": "2026-08-21",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
+      "subCategory": "一级市场",
+      "id": "finance-20260822-004"
+    },
+    {
+      "id": "finance-20260821-108",
+      "title": "阿里Q2营收2690亿元同比增长9%，AI云与算力业务高速扩张",
+      "summary": "阿里巴巴公布2026年第二季度业绩，营收2690亿元，同比增长9%；AI云与算力业务收入484亿元，同比增长45%；云业务资本开支达677亿元，同比增长75%，公司持续加码AI计算能力建设。",
+      "publishedAt": "2026-08-21",
+      "source": "AMZ123跨境导航",
+      "url": "https://www.amz123.com/kx/pelXYNN8",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260821-103",
       "title": "我国长期国债走出独立行情具备三大支撑",
       "summary": "文章指出，在全球债市剧烈波动背景下，我国10年期、30年期国债收益率分别报1.68%和2.14%，走出独立稳健行情，主要得益于经济基本面平稳、机构配置需求充足及货币政策自主性增强三方面支撑。",
@@ -688,42 +724,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608213848260831.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260821-100",
-      "title": "中洲控股2026年上半年营故45.01亿元 同比增长168.35%",
-      "summary": "中洲控股发堃2026年上半年度报告，上半年实现营业收其45.01亿元，同比增长168.35%；归属于上市公司股东的净利斤9.89亿元，同比增长421.76%，地产业务毛利率升至69.02%。",
-      "publishedAt": "2026-08-21T00:20:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/aigc/agcbld/2026-08-21/doc-ininywth1780559.shtml",
-      "subCategory": "公司财报"
-    },
-    {
-      "title": "美股周四下跌：道指跌0.8%标普跌0.3%纳指跌0.8% 沃尔玛拖累大盘",
-      "summary": "美东时间8月20日周四，美股三大股指集体下跌，道指跌0.8%，标普500指数跌0.3%，纳指跌0.8%。沃尔玛因美国同店销售增速不及预期，股价大跌超9%，拖累大盘。同时美债收益率反弹，10年期国债收益率上行5个基点至4.70%，30年期上行6个基点至5.25%。",
-      "publishedAt": "2026-08-21T00:13:00+08:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
-      "subCategory": "美股",
-      "id": "finance-20260821-001"
-    },
-    {
-      "title": "高超音速导弹初创公Castelion完成8亿美元C轮融资，估值130亿美元",
-      "summary": "据Crunchbase News报道，国防科技公司Castelion完成8亿美元C轮股权融资及2.5亿美元债务融资，投后估值达130亿美元，由摩根大通、Andreessen Horowitz及凯雷集投资集团领投，为当周（8月15日至21日）规模最大融资。公司总部位于加州托兰斯，主要研发高超音速打击导弹。",
-      "publishedAt": "2026-08-21",
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
-      "subCategory": "一级市场",
-      "id": "finance-20260822-004"
-    },
-    {
-      "id": "finance-20260821-108",
-      "title": "阿里Q2营收2690亿元同比增长9%，AI云与算力业务高速扩张",
-      "summary": "阿里巴巴公布2026年第二季度业绩，营收2690亿元，同比增长9%；AI云与算力业务收入484亿元，同比增长45%；云业务资本开支达677亿元，同比增长75%，公司持续加码AI计算能力建设。",
-      "publishedAt": "2026-08-21",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/pelXYNN8",
-      "subCategory": "公司财报"
     }
   ]
 }
