@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-29T00:20:00+08:00",
+  "updatedAt": "2026-08-29T09:10:00+08:00",
   "items": [
     {
       "title": "AI packaging race heats up: Taiwan OSATs plan US$14.6 billion capex",
@@ -24,6 +24,15 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260828-001",
+      "title": "Samsung eyes zHBM products from 2029 as heat remains key hurdle",
+      "summary": "三星电子在Future of Memory and Storage 2026大会上公布zHBM三维堆叠内存概念，首代zHBM相关产品预脈2029年后面市，散热仍是该技术工程化的关键挑战。",
+      "publishedAt": "2026-08-28T11:45:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260828VL208/samsung-bandwidth-packaging-3d-president.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260828-003",
       "title": "United Nations：2026年世界投资报告",
       "summary": "联合国《2026年世界投资报告》显示，2025年全球外国直接投资同比增长6%至1.624万亿美元，扇转此前两年下滑趋势，主要由AI基础设施、数据中心、半导体及能源领域大型项目拉动，制造业投资则下降13%、可再生能源投资下降5%。",
@@ -42,13 +51,13 @@
       "id": "industry-20260828-509"
     },
     {
-      "id": "industry-20260828-001",
-      "title": "Samsung eyes zHBM products from 2029 as heat remains key hurdle",
-      "summary": "三星电子在Future of Memory and Storage 2026大会上公布zHBM三维堆叠内存概念，首代zHBM相关产品预脈2029年后面市，散热仍是该技术工程化的关键挑战。",
-      "publishedAt": "2026-08-28T11:45:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260828VL208/samsung-bandwidth-packaging-3d-president.html",
-      "subCategory": "半导体产业"
+      "title": "SK hynix launches Indiana chip packaging hub for first US-made HBM",
+      "summary": "SK海力士8月27日在美国印第安纳州普渡大学研究园为其首座美国高带宽内存封装厂举行奠基仪式，总投资超40亿美元，预计2028年10月完成洁净室建设，2029年第三季度实现HBM4E量产，全面投产后将创造约7000个直接及间接就业岗位。",
+      "publishedAt": "2026-08-28",
+      "source": "Korea Herald",
+      "url": "https://www.koreaherald.com/article/10854795",
+      "subCategory": "半导体产业",
+      "id": "industry-20260829-001"
     },
     {
       "id": "industry-20260827-153",
@@ -76,6 +85,78 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260827VL216/",
       "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260827-151",
+      "title": "Nvidia H200 China sales stall, with US$400M inventory charge",
+      "summary": "英伟达在2027财年第二季度财报中披露，上季度已向中国客户少量出货H200 AI芯片，这是此前约6000万美元芯片出货后的最新恢复性销售；公司同时因H200中国相关库存计提约4亿美元减值费用。",
+      "publishedAt": "2026-08-27T11:46:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD224/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "China's AI software strategy gains scale as OpenHarmony ecosystem tops 1.35 billion devices",
+      "summary": "华为主导的开源系统OpenHarmony及HarmonyOS平台设备接入量已突破13.5亿台，中国正通过开源生态强化本土软件与工业软件能力，推动制造业数字化转型。",
+      "publishedAt": "2026-08-27T11:20:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL210/software-industrial-openharmony-harmonyos-manufacturing.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260828-503"
+    },
+    {
+      "title": "CXMT DDR5 closes in on SK Hynix at 8,000 MT/s, benchmark gap falls below 1%",
+      "summary": "中国长鑫存储CXMT新款DDR5内存芯片可在8000 MT/s频率下稳定运行，实测性能与SK海力士M-die产品差距已缩小至1%以内，成为继三星、SK海力士后又一高端DDR5供应商。",
+      "publishedAt": "2026-08-27T11:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL209/cxmt-ddr5-sk-hynix-memory-chips-performance.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-502"
+    },
+    {
+      "id": "industry-20260827-102",
+      "title": "Analysis: Smartwatch demand set to outpace broader hardware market in 2026",
+      "summary": "2026年智能手表出货增速将超越整体硬件市场增速，增长快于智能手机和笔记本电脑等传统消费设备，高端运动手表和无屏可穿戴设备需求增加驱动增长。",
+      "publishedAt": "2026-08-27T09:45:00+08:00",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827PD210/shipments-2026-demand-hardware-market.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260827-103",
+      "title": "AI data center boom lifts Weltrend fan-control chip sales 64%",
+      "summary": "韦尔半导体上半年收入同比增长28%创历史新高，AI数据中心散热解决方案驱动其整体增长，其中风扇控制芯片销售增幅达到64%。",
+      "publishedAt": "2026-08-27T09:39:00+08:00",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260826PD234/weltrend-data-center-sales-2026-revenue.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-104",
+      "title": "Supply shortages, price hikes fail to slow new phone wave",
+      "summary": "尽管面临元器件供应链短缺和生产成本上升双重压力，全球手机市场新品发布节奏持续推进，终端厂商和消费者需求继续驱动产业运转。",
+      "publishedAt": "2026-08-27T09:28:00+08:00",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827PD206/sales-price-market-samsung-google.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "title": "Honor Robot Phone enters mass production, making robotics central to its premium AI strategy",
+      "summary": "荣耀历时一年多内部讨论后，其Robot Phone机器人手机已从概念阶段进入量产商用，董事长James Li称公司正将机器人业务作为高端AI战略核心。",
+      "publishedAt": "2026-08-27T08:32:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD228/honor-robotics-smartphone-commercial.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260828-505"
+    },
+    {
+      "title": "IntelliEPI says Japan substrate outage hit 2Q26 revenue",
+      "summary": "台湾磊晶厂IntelliEPI表示，日本磷化铟（InP）基板供应商因黄金周停工近三周，导致公司2026年第二季营收受压，公司正加大依赖日本供应商并协助德国厂商加速量产InP基板。",
+      "publishedAt": "2026-08-27T08:29:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD232/revenue-substrate-intelliepi-inp-demand.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-504"
     },
     {
       "id": "industry-20260827-154",
@@ -159,76 +240,13 @@
       "subCategory": "公司动态"
     },
     {
-      "id": "industry-20260827-151",
-      "title": "Nvidia H200 China sales stall, with US$400M inventory charge",
-      "summary": "英伟达在2027财年第二季度财报中披露，上季度已向中国客户少量出货H200 AI芯片，这是此前约6000万美元芯片出货后的最新恢复性销售；公司同时因H200中国相关库存计提约4亿美元减值费用。",
-      "publishedAt": "2026-08-27T11:46:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD224/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "China's AI software strategy gains scale as OpenHarmony ecosystem tops 1.35 billion devices",
-      "summary": "华为主导的开源系统OpenHarmony及HarmonyOS平台设备接入量已突破13.5亿台，中国正通过开源生态强化本土软件与工业软件能力，推动制造业数字化转型。",
-      "publishedAt": "2026-08-27T11:20:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827VL210/software-industrial-openharmony-harmonyos-manufacturing.html",
-      "subCategory": "公司动态",
-      "id": "industry-20260828-503"
-    },
-    {
-      "title": "CXMT DDR5 closes in on SK Hynix at 8,000 MT/s, benchmark gap falls below 1%",
-      "summary": "中国长鑫存储CXMT新款DDR5内存芯片可在8000 MT/s频率下稳定运行，实测性能与SK海力士M-die产品差距已缩小至1%以内，成为继三星、SK海力士后又一高端DDR5供应商。",
-      "publishedAt": "2026-08-27T11:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827VL209/cxmt-ddr5-sk-hynix-memory-chips-performance.html",
+      "title": "Renesas opens physical AI and robotics lab in Beijing",
+      "summary": "瑞萨电子8月27日在北京设立物理AI与机器人实验室，整合硬件、软件、AI算法、运动控制、传感与电源管理等能力，支持客户从概念验证到规模化部署的机器人系统开发；该实验室是瑞萨7月1日成立物理AI事业部后的最新举措。",
+      "publishedAt": "2026-08-27",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/renesas-opens-physical-ai-and-robotics-lab-in-beijing/",
       "subCategory": "半导体产业",
-      "id": "industry-20260828-502"
-    },
-    {
-      "id": "industry-20260827-102",
-      "title": "Analysis: Smartwatch demand set to outpace broader hardware market in 2026",
-      "summary": "2026年智能手表出货增速将超越整体硬件市场增速，增长快于智能手机和笔记本电脑等传统消费设备，高端运动手表和无屏可穿戴设备需求增加驱动增长。",
-      "publishedAt": "2026-08-27T09:45:00+08:00",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260827PD210/shipments-2026-demand-hardware-market.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260827-103",
-      "title": "AI data center boom lifts Weltrend fan-control chip sales 64%",
-      "summary": "韦尔半导体上半年收入同比增长28%创历史新高，AI数据中心散热解决方案驱动其整体增长，其中风扇控制芯片销售增幅达到64%。",
-      "publishedAt": "2026-08-27T09:39:00+08:00",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260826PD234/weltrend-data-center-sales-2026-revenue.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-104",
-      "title": "Supply shortages, price hikes fail to slow new phone wave",
-      "summary": "尽管面临元器件供应链短缺和生产成本上升双重压力，全球手机市场新品发布节奏持续推进，终端厂商和消费者需求继续驱动产业运转。",
-      "publishedAt": "2026-08-27T09:28:00+08:00",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260827PD206/sales-price-market-samsung-google.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "title": "Honor Robot Phone enters mass production, making robotics central to its premium AI strategy",
-      "summary": "荣耀历时一年多内部讨论后，其Robot Phone机器人手机已从概念阶段进入量产商用，董事长James Li称公司正将机器人业务作为高端AI战略核心。",
-      "publishedAt": "2026-08-27T08:32:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD228/honor-robotics-smartphone-commercial.html",
-      "subCategory": "公司动态",
-      "id": "industry-20260828-505"
-    },
-    {
-      "title": "IntelliEPI says Japan substrate outage hit 2Q26 revenue",
-      "summary": "台湾磊晶厂IntelliEPI表示，日本磷化铟（InP）基板供应商因黄金周停工近三周，导致公司2026年第二季营收受压，公司正加大依赖日本供应商并协助德国厂商加速量产InP基板。",
-      "publishedAt": "2026-08-27T08:29:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD232/revenue-substrate-intelliepi-inp-demand.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260828-504"
+      "id": "industry-20260829-002"
     },
     {
       "id": "industry-20260827-001",
@@ -276,6 +294,15 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260827-002",
+      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
+      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
+      "publishedAt": "2026-08-26T10:11:36Z",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260827-008",
       "title": "YMTC targets global NAND lead by 2027 as parent seeks US$5 billion IPO",
       "summary": "长江存储目标在2027年底前成为全球最大NAND闪存供应商，母公司拟在上海募资近50亿美元用于产能升级与研发；今年二季度公司全球NAND位出货份额约14%，落后三星25%和SK海力士22%。",
@@ -310,15 +337,6 @@
       "url": "https://www.digitimes.com/news/a20260826PD222/lithium-battery-capacity-expansion-materials-price-supply-chain.html",
       "subCategory": "新能源汽车",
       "id": "industry-20260828-506"
-    },
-    {
-      "id": "industry-20260827-002",
-      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
-      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
-      "publishedAt": "2026-08-26T10:11:36Z",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
-      "subCategory": "半导体产业"
     },
     {
       "title": "OECD：2026年亚洲资本市场报告",
@@ -465,6 +483,42 @@
       "id": "industry-20260823-012"
     },
     {
+      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
+      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
+      "publishedAt": "2026-08-21T11:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-011"
+    },
+    {
+      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
+      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
+      "publishedAt": "2026-08-21T10:33:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-010"
+    },
+    {
+      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
+      "summary": "Omdia发垃2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
+      "publishedAt": "2026-08-20T21:00:00-05:00",
+      "source": "Omdia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
+      "subCategory": "SaaS",
+      "id": "industry-20260825-004"
+    },
+    {
+      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
+      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
+      "publishedAt": "2026-08-21T06:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
+      "subCategory": "制造业",
+      "id": "industry-20260822-007"
+    },
+    {
       "id": "industry-20260824-001",
       "title": "Chip Packaging Experts Flag Heat as AI's Biggest Bottleneck; AI-Driven Design, CPO and STCO May Help",
       "summary": "业内专家指出，随着芯片堆叠密度提升，散热已成为AI芯片扩张的主要瓶颈，英伟达、AMD等AI芯片热设计功耗普遍蠅1千瓦，液冷渗透率预脈2026年升至53%，CPO与STCO被视为潜在缓解方案。",
@@ -582,33 +636,6 @@
       "subCategory": "行业研报"
     },
     {
-      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
-      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
-      "publishedAt": "2026-08-21T11:27:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-011"
-    },
-    {
-      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
-      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
-      "publishedAt": "2026-08-21T10:33:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-010"
-    },
-    {
-      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
-      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
-      "publishedAt": "2026-08-21T06:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-007"
-    },
-    {
       "title": "三星9月将为韩国牙山HBM新厂动工，投资规模达6万亿韩元",
       "summary": "据TrendForce报道,三星电子将于9月在韩国牙山园区动工建设投资规模达6万亿韩元的新HBM工厂;目前HBM4良率已提升至接近80%,平拽园区P5-1与P5-2拟改建为三倍产能结构,预脈2030年建成后产能提升逸逸.5倍。",
       "publishedAt": "2026-08-20T23:21:17+08:00",
@@ -625,15 +652,6 @@
       "url": "https://www.trendforce.com/news/2026/08/20/news-sk-hynix-unveils-cpo-roadmap-looks-beyond-hbm-to-ai-infrastructure/",
       "subCategory": "半导体产业",
       "id": "industry-20260821-005"
-    },
-    {
-      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
-      "summary": "Omdia发垃2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
-      "publishedAt": "2026-08-20T21:00:00-05:00",
-      "source": "Omdia",
-      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260825-004"
     },
     {
       "title": "FCAI：2026年6月中国产汽车在澳大利亚销量4.66万辆，超过日本",
@@ -706,24 +724,6 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1846620.html",
       "subCategory": "行业研报"
-    },
-    {
-      "title": "Omdia: Africa smartphone market expected to decline 26% in 2026 following first contraction in three years",
-      "summary": "Omdia预测非洲智能手机市场2026年将萌缩26%，为三年来首次年度下滑；存储涨价推高机型均价至202美元，百美元以下机型出货同比骤降34%，三星逆势增长15%。",
-      "publishedAt": "2026-08-20",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/africa-smartphone-market-expected-to-decline-26percent-in-2026-following-first-contraction-in-three-years",
-      "subCategory": "行业研报",
-      "id": "industry-20260823-001"
-    },
-    {
-      "title": "Omdia: Foldable smartphone shipments will double to 36 million units by 2028",
-      "summary": "Omdia预测折叠屏手机全球出货量将在2028年增至3600万部、较2025年習倍，年增逸逸年20%；华为、三星推出的宽幅折叠新形态被视为拉动需求回暖的关键因素。",
-      "publishedAt": "2026-08-20",
-      "source": "Omdia",
-      "url": "https://omdia.tech.informa.com/pr/2026/aug/foldable-smartphone-shipments-will-double-to-36-million-units-by-2028",
-      "subCategory": "行业研报",
-      "id": "industry-20260823-002"
     }
   ]
 }

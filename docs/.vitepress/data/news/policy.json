@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-29T00:20:00+08:00",
+  "updatedAt": "2026-08-29T09:10:00+08:00",
   "items": [
+    {
+      "title": "证监会发文支持构建房地产发展新模式",
+      "summary": "中国证监会发布《关于资本市场支持构建房地产发展新模式的意见》，提出四方面十二条举措，支持上市房企再融资、发行不动产REITs及资产支持证券，推动融资方式从依赖主体信用转向基于项目情况，并强化风险防范化解。",
+      "publishedAt": "2026-08-28T19:10:00+08:00",
+      "source": "中国证券报",
+      "url": "https://www.cs.com.cn/xwzx/01/2026/08/28/detail_2026082810035239.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260829-001"
+    },
     {
       "title": "央行、金融监管总局就改革完善房地产信贷管理答记者问",
       "summary": "央行、金融监管总局发布房地产信贷管理改革意见：开发贷推行\"牵头行\"制度，预售项目贷款期限最长5年、现房及商业项目最长7年；个人住房贷款最长年限由30年延至40年，放款与项目进度及销售登记挂钩。",
@@ -31,6 +40,15 @@
       "source": "交通运输部等（出海网）",
       "url": "https://www.chwang.com/news/209318499862",
       "subCategory": "产业政策"
+    },
+    {
+      "title": "商务部：上半年服务进出口总额3.8万亿元 同比增长8.3%",
+      "summary": "国新办举行发布会，商务部副部长鄢东介绍，上半年中国服务进出口总额3.8万亿元，同比增长8.3%，其中服务出口增长17.6%，知识产权使用费等生产性服务出口领涨；会上并通报2026年中国国际服务贸易交易会筹备进展。",
+      "publishedAt": "2026-08-28T10:33:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685658.shtml",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260829-003"
     },
     {
       "title": "商务部回应美301调查：反对针对16个经济体的产能过剩指控",
@@ -78,12 +96,30 @@
       "subCategory": "跨境贸易"
     },
     {
+      "title": "FTC与Cox Media Group等三方就AI语音营销虚假宣传达成最终和解",
+      "summary": "美国联邦贸易委员会宣布，就Cox Media Group等三家公司虚假宣称“主动聆听”AI营销服务可采集设备语音数据用于精准广告投放一事达成最终和解，三方合计向消费者赔付93万美元，并被禁止再作类似虚假宣传。",
+      "publishedAt": "2026-08-27",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about",
+      "subCategory": "AI监管",
+      "id": "policy-20260829-002"
+    },
+    {
       "id": "policy-20260827-004",
       "title": "（经济观察）中国财政金融协同促内需一揽子政策效显扩容",
       "summary": "财政金融协同支持消费和民间投资的政策工具包今年以来带动新增信贷超20万亿元；其中4项投资类政策带动民间投资约1.51万亿元，2项消费类政策带动居民消费约1.88万亿元。",
       "publishedAt": "2026-08-26T19:11:00+08:00",
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684710.shtml",
+      "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260826-006",
+      "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
+      "summary": "国新办举行\"开局起步'十五五'\"系列主题新闻发布会，工业和信息化部介绍将着力优化产业结构，加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，并推动量子科技、生物制造、脑机接口、具身智能、第六代移动通信等未来产业发展。",
+      "publishedAt": "2026-08-26T10:07:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684321.shtml",
       "subCategory": "产业政策"
     },
     {
@@ -123,15 +159,6 @@
       "id": "policy-20260828-504"
     },
     {
-      "id": "policy-20260826-006",
-      "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
-      "summary": "国新办举行\"开局起步'十五五'\"系列主题新闻发布会，工业和信息化部介绍将着力优化产业结构，加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，并推动量子科技、生物制造、脑机接口、具身智能、第六代移动通信等未来产业发展。",
-      "publishedAt": "2026-08-26T10:07:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684321.shtml",
-      "subCategory": "产业政策"
-    },
-    {
       "title": "工业和信息化部绿色低碳标准化技术委员会成立",
       "summary": "工业和信息化部绿色低碳标准化技术委员会正式成立，首届委员会由71名委员组成，秘书处设在中国电子技术标准化研究院，将承担工信部绿色低碳领域综合性、基础性行业标准制修订工作。",
       "publishedAt": "2026-08-25T20:09:58+08:00",
@@ -148,6 +175,15 @@
       "url": "https://www.stdaily.com/web/gdxw/2026-08/25/content_569413.html",
       "subCategory": "产业政策",
       "id": "policy-20260826-002"
+    },
+    {
+      "title": "中国—加纳经贸联委会第五次会议在阿克拉召开",
+      "summary": "商务部部长助理张力与加纳财政部部长福森8月24日共同主持中国—加纳经贸联委会第五次会议，双方签署会议纪要，商定深化产供链、绿色能源等领域投资合作，推动双边贸易投资合作提质升级。",
+      "publishedAt": "2026-08-25T08:56:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/brief/103331905.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260825-010"
     },
     {
       "title": "FTC Approves Final Consent Order in Ascension Health-AmSurg Deal",
@@ -177,13 +213,13 @@
       "subCategory": "产业政策"
     },
     {
-      "title": "中国—加纳经贸联委会第五次会议在阿克拉召开",
-      "summary": "商务部部长助理张力与加纳财政部部长福森8月24日共同主持中国—加纳经贸联委会第五次会议，双方签署会议纪要，商定深化产供链、绿色能源等领域投资合作，推动双边贸易投资合作提质升级。",
-      "publishedAt": "2026-08-25T08:56:00+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/brief/103331905.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260825-010"
+      "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
+      "summary": "中央网信办通报\"清朗·网络娱乐团播乱象整治\"专项行动进展，已处置违规团播直播间7200余个，严惩违规账号2200余个，指导平台清退一批问题严重的团播MCN机构，累计发布治理公告17期。",
+      "publishedAt": "2026-08-24T10:20:38+08:00",
+      "source": "央视网",
+      "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
+      "subCategory": "数字经济",
+      "id": "policy-20260825-003"
     },
     {
       "title": "New partnership set to see the UK and Ukraine develop battle winning technology as Britain secures access to Ukraine's Avengers AI Labs",
@@ -249,15 +285,6 @@
       "subCategory": "反垄断"
     },
     {
-      "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
-      "summary": "中央网信办通报\"清朗·网络娱乐团播乱象整治\"专项行动进展，已处置违规团播直播间7200余个，严惩违规账号2200余个，指导平台清退一批问题严重的团播MCN机构，累计发布治理公告17期。",
-      "publishedAt": "2026-08-24T10:20:38+08:00",
-      "source": "央视网",
-      "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
-      "subCategory": "数字经济",
-      "id": "policy-20260825-003"
-    },
-    {
       "id": "policy-20260823-005",
       "title": "Mayors given powers to green light developments",
       "summary": "英国政府宣布赋予英格兰地方市长规划\"叫停\"权，可对150套以上住宅、1.5万平方米以上商业空间或30米以上建筑等重大开发项目直接作出审批决定，已有十位市长表态支持。",
@@ -274,6 +301,15 @@
       "source": "国家广播电视总局（IT之家）",
       "url": "https://www.ithome.com/0/993/116.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260823-004",
+      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
+      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
+      "publishedAt": "2026-08-21T10:42:00-04:00",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
+      "subCategory": "反垄断"
     },
     {
       "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
@@ -400,15 +436,6 @@
       "url": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced",
       "subCategory": "新能源政策",
       "id": "policy-20260823-003"
-    },
-    {
-      "id": "policy-20260823-004",
-      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
-      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
-      "publishedAt": "2026-08-21T10:42:00-04:00",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
-      "subCategory": "反垄断"
     },
     {
       "title": "商务部电子商务司负责人介绍2026年1-7月我国电子商务发展情况",
@@ -636,15 +663,6 @@
       "subCategory": "海外政策"
     },
     {
-      "id": "policy-20260815-002",
-      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
-      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
-      "publishedAt": "2026-08-14T18:30:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260816-701",
       "title": "Review launched to shape pathway to reach zero emission driving by 2035",
       "summary": "英国交通部、商业与贸易部等部门就\"零排放汽车（ZEV）强制配额\"机制启动公开评估，就2030年停售新燃油乘用车、2035年新车全面实现零排放的路径公开征求车企、经销商及公众意见，评估期至10月23日截止。",
@@ -652,6 +670,15 @@
       "source": "英国政府网（GOV.UK）/ 交通部",
       "url": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
       "subCategory": "新能源政策"
+    },
+    {
+      "id": "policy-20260815-002",
+      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
+      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
+      "publishedAt": "2026-08-14T18:30:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
+      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260815-001",
@@ -697,33 +724,6 @@
       "source": "美国证券交易委员会（SEC）",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260814-004",
-      "title": "中国央行将开展1万亿元人民币买断式逆回购操作",
-      "summary": "中国人民银行公告将于8月14日开展10000亿元、期限6个月的买断式逆回购操作，因当月有等量6个月期品种到期，此次操作为等量续作，旨在保持银行体系流动性充裕。",
-      "publishedAt": "2026-08-13T20:13:00+08:00",
-      "source": "中国人民银行",
-      "url": "https://finance.sina.com.cn/roll/2026-08-13/doc-inineqhh4661310.shtml",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260814-003",
-      "title": "推动公平竞争审查制度落实落地 市场监管总局公布十起典型案例",
-      "summary": "市场监管总局公布十起公平竞争审查典型案例，涉及北京跨层级监督体系、黑龙江\"六大机制\"、江苏信息化审查、浙江AI辅助审查平台、沪苏浙皖跨省协同、重庆\"1+2+N\"制度框架等，推动统一大市场建设。",
-      "publishedAt": "2026-08-13T16:27:37+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10677075.shtml",
-      "subCategory": "反垄断"
-    },
-    {
-      "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税",
-      "summary": "商务部发布公告，对原产于印度的进口单模光纤继续征收反倾销税，税率为7.4%至30.6%，自2026年8月14日起实施，期限为5年。此前措施经2014年和2020年两次期终复审延续。",
-      "publishedAt": "2026-08-13T15:08:00+08:00",
-      "source": "商务部",
-      "url": "https://finance.sina.com.cn/china/2026-08-13/doc-ininecss3280689.shtml",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260813-101"
     }
   ]
 }

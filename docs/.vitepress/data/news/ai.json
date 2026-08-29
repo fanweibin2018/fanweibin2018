@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-29T00:20:00+08:00",
+  "updatedAt": "2026-08-29T09:10:00+08:00",
   "items": [
     {
       "title": "OpenAI开发Codex\"持久模式\"，智能体可主动长时间工作",
@@ -22,6 +22,15 @@
       "url": "https://www.ithome.com/0/995/770.htm",
       "subCategory": "AI编程",
       "id": "ai-20260828-511"
+    },
+    {
+      "title": "高德发布万帧级流式3D重建模型ABot-Recon，仅需12帧完成重建",
+      "summary": "高德发布无长程依赖的流式3D重建模型ABot-Recon，通过局部位姿预测与残差优化，仅用12帧连续画面即可重建万帧级3D场景。该模型在Oxford Spires基准上轨迹误差降低40.6%，KITTI-02测试达24.45FPS，显存峰值约6.71GB，仅需单目RGB视频输入。",
+      "publishedAt": "2026-08-28T11:45:45+08:00",
+      "source": "qbitai.com",
+      "url": "https://www.qbitai.com/2026/08/480208.html",
+      "subCategory": "多模态",
+      "id": "ai-20260828-512"
     },
     {
       "title": "腾讯混元开源旗舰模型Hy4preview，770B参数支持百万token上下文",
@@ -103,15 +112,6 @@
       "url": "https://www.aibase.com/news/30690",
       "subCategory": "多模态",
       "id": "ai-20260828-509"
-    },
-    {
-      "title": "高德发布万帧级流式3D重建模型ABot-Recon，仅需12帧完成重建",
-      "summary": "高德发布无长程依赖的流式3D重建模型ABot-Recon，通过局部位姿预测与残差优化，仅用12帧连续画面即可重建万帧级3D场景。该模型在Oxford Spires基准上轨迹误差降低40.6%，KITTI-02测试达24.45FPS，显存峰值约6.71GB，仅需单目RGB视频输入。",
-      "publishedAt": "2026-08-28T11:45:45+08:00",
-      "source": "qbitai.com",
-      "url": "https://www.qbitai.com/2026/08/480208.html",
-      "subCategory": "多模态",
-      "id": "ai-20260828-512"
     },
     {
       "id": "ai-20260827-153",
@@ -240,15 +240,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260827-007",
-      "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
-      "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
-      "publishedAt": "2026-08-26",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "subCategory": "具身智能"
-    },
-    {
       "id": "ai-20260827-102",
       "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
       "summary": "蚂蚁国际发布时间序列预测模型Falcon TST 2.0，平均绝对缩放误差(MASE)为0.666，超越多家大厂同类模型，聚焦跨境支付外汇风险管理场景，预测准确率稳定在93%以上；巴克莱、花旗、德意志银行、渣打等机构已将其用于现金流与外汇管理，一家航空客户据称对冲成本降低约30%。",
@@ -265,6 +256,15 @@
       "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "subCategory": "AI应用",
       "id": "ai-20260826-004"
+    },
+    {
+      "id": "ai-20260827-007",
+      "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
+      "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
+      "publishedAt": "2026-08-26",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "subCategory": "具身智能"
     },
     {
       "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
@@ -411,24 +411,6 @@
       "subCategory": "具身智能"
     },
     {
-      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
-      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30563",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-002"
-    },
-    {
-      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
-      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30577",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-003"
-    },
-    {
       "id": "ai-20260824-001",
       "title": "OpenAI CEO 奥尔特曼：担心人工智能会被少数强势主体掌控",
       "summary": "OpenAI首席执行官奥尔特曼在采访中表示，担忧人工智能权力被少数强势主体垄断，认为过度强调安全限制反而可能导致权力集中，并对比OpenAI支持开源权重与Anthropic倾向加强监管的不同立场。",
@@ -465,6 +447,24 @@
       "subCategory": "AI编程"
     },
     {
+      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
+      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30563",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-002"
+    },
+    {
+      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
+      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30577",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-003"
+    },
+    {
       "id": "ai-20260823-201",
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
       "summary": "OpenAI首席全球事务官Chris Lehane警告，先进AI模型已具备\"规划并发起复杂网络攻击\"的能力，公众与企业需为此做好防御准备。此前一个前沿AI智能体曾入侵Hugging Face系统，OpenAI已暂停部分前沿模型的开发以加强安全措施，勒汉恩呼吁美国政府立法，要求AI模型在公开发布或部署前证明并保证安全标准。",
@@ -490,6 +490,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260823-104",
+      "title": "OpenAI说加州应加强其AI安全法案",
+      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
+      "publishedAt": "2026-08-22T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "subCategory": "大模型"
     },
     {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
@@ -571,15 +580,6 @@
       "url": "https://www.36kr.com/newsflashes/3950062675377280",
       "subCategory": "大模型",
       "id": "ai-20260823-007"
-    },
-    {
-      "id": "ai-20260823-104",
-      "title": "OpenAI说加州应加强其AI安全法案",
-      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
-      "publishedAt": "2026-08-22T09:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260821-200",

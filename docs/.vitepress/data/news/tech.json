@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-29T00:20:00+08:00",
+  "updatedAt": "2026-08-29T09:10:00+08:00",
   "items": [
+    {
+      "title": "Meta为Quest头显推出XR Operator开发者工具，利用AI智能体快速测试VR游戏",
+      "summary": "Meta为Quest头显推出实验性开发者工具XR Operator，集成于Meta XR SDK v205，可让AI智能体自动启动项目、截图、定位问题并验证修复，但目前无法处理音频，官方建议用于静态、确定性的测试场景。",
+      "publishedAt": "2026-08-29T08:39:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/995/854.htm",
+      "subCategory": "XR-AR-VR",
+      "id": "tech-20260829-002"
+    },
+    {
+      "title": "长鑫科技自研LPDDR6芯片性能较上代LPDDR5X全面跃升，已向关键客户送样验证",
+      "summary": "长鑫科技称自研LPDDR6内存芯片性能较上一代LPDDR5X实现全面跃升，峰值速率达12800Mbps，已向关键客户送样验证，正加速推进量产，预计应用于手机、服务器及智能汽车领域。",
+      "publishedAt": "2026-08-29T08:33:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/995/852.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260829-001"
+    },
+    {
+      "title": "阿里云巴西节点开服，Qwen系列开源模型全球下载量突破30亿次",
+      "summary": "阿里云宣布巴西节点正式开服，包含两个可用区，为其在拉美的第二个区域节点；同时透露开源大模型Qwen系列全球下载量已突破30亿次，衍生模型超30万个，全球基础设施达到31个地域106个可用区。",
+      "publishedAt": "2026-08-29T08:11:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/995/847.htm",
+      "subCategory": "云计算",
+      "id": "tech-20260829-003"
+    },
     {
       "title": "泄露文件催生民间开发，英伟达DLSS 5成功移植至RTX 40系列显卡",
       "summary": "《NBA 2K27》泄露的DLSS 5文件被开发者\"Uncle Burrito\"修改，替换其中不兼容的CUDA二进制代码，使原本仅限RTX 50系列的神经渲染功能可在RTX 4080等Ada架构显卡上运行。",
@@ -157,6 +184,15 @@
       "url": "https://news.mydrivers.com/1/1146/1146943.htm",
       "subCategory": "消费电子",
       "id": "tech-20260828-513"
+    },
+    {
+      "title": "GLM-5.3开放权重上线Hugging Face",
+      "summary": "智谱AI旗舰模型GLM-5.3的开放权重已上线Hugging Face，模型页面显示于8月28日完成最新更新；此前官方称因模型具备较强网络安全能力，将在完成额外安全评估与加固后再公开权重。",
+      "publishedAt": "2026-08-28",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "subCategory": "开源生态",
+      "id": "tech-20260829-004"
     },
     {
       "id": "tech-20260827-200",
@@ -688,42 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/626.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260824-108",
-      "title": "AMD旗舰RX 10800 XT规格曝光：12800流处理器+48GB显存，直指RTX 5090",
-      "summary": "据爆料者Moore's Law Is Dead透露，AMD下一代旗舰显卡Radeon RX 10800 XT配备200个计算单元、12800个流处理器、48GB GDDR7显存及512位显存位宽，性能指向对标RTX 5090，预计售价2000至2500美元，AMD尚未官方确认相关信息。",
-      "publishedAt": "2026-08-24T15:49:12+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1145/1145938.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260824-109",
-      "title": "小米18 Fold全新折叠旗舰机开启预约，首发搭载自研玄戞O3 AI处理器",
-      "summary": "小米18 Fold折叠旗舰正式开启预约，将首发搭载自研玄戞O3 AI处理器，该芯片安兎兔跑分达522万分，为业内首款突破500万分的旗舰SoC，新机计划于9月正式发布。",
-      "publishedAt": "2026-08-24T15:23:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/576.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260824-104",
-      "title": "国内首款 3nm 智驾芯片，小米玄戞 D100 官宣明年商用",
-      "summary": "小米发布\"玄戞D100\"，称其为国内首款3nm高算力智能驾驶AI芯片，采用20颗高性能CPU核心与16颗高算力NPU核心，支持最高160GB统一内存，可实现200B参数超大模型的本地部署。该芯片已研发完成，计划于2027年实现商用。",
-      "publishedAt": "2026-08-24T14:36:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/526.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260824-102",
-      "title": "玄戞 O3 确认！REDMI 产品经理胡香心意外爆料小米自研芯片家族全新成员命名",
-      "summary": "REDMI产品经理胡香心在微博发文时意外透露小米自研芯片家族新成员命名为\"玄戞O3\"。此前小米曾预告8月24日将举行技术沟通会，介绍玄戞芯片家族新成员的最新进展，具体芯片参数等细节尚未正式公布。",
-      "publishedAt": "2026-08-24T13:27:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/489.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }
