@@ -3,8 +3,188 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-29T16:45:00+08:00",
+  "updatedAt": "2026-08-30T00:39:00+08:00",
   "items": [
+    {
+      "id": "tech-20260830-001",
+      "title": "黑客攻击柏林市政府系统并以5.79TB数据发起勒索，市长重申不会屈服",
+      "summary": "Rhysida黑客组织于8月7日至12日入侵柏林市政府系统，窃取约5.79TB数据，要求30枚比特币赎金，柏林市长凯·维格纳表示柏林不会屈服于勒索，部分线上服务已暂停。",
+      "publishedAt": "2026-08-29T23:15:33+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/051.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260830-002",
+      "title": "印度消费电子品牌Mivi跨界进军手机市场，首款产品9月发布",
+      "summary": "印度消费电子品牌Mivi宣布进军智能手机市场，首款5G手机将于9月发布，售价低于1.5万卢比（约合1055元人民币），搭载骁龙芯片，此前该品牌主营蓝牙音箱、耳机等音频产品。",
+      "publishedAt": "2026-08-29T23:02:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/049.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-003",
+      "title": "绿联推出新款二合一折叠无线充：支持25W Qi2.2，59美元",
+      "summary": "绿联在美国上市新款二合一折叠无线充电器，设计类似苹果已停产的MagSafe Duo，支持25W Qi2.2磁吸充电，另一充电位为AirPods提供5W功率，折叠后约6×7.26×2.67厘米，售价59.99美元。",
+      "publishedAt": "2026-08-29T22:44:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/048.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-004",
+      "title": "英伟达RTX 5090显卡供电接口熔毁怎么避免？超频团队直接将电源线焊在PCB上",
+      "summary": "巴西超频团队TecLab将RTX 5090显卡16-pin供电接口直接焊接在PCB走线上以绕开接口熔毁问题，在Inno3D HOF OC LAB双16-pin版本上验证可行，理论供电能力超1200W，但该改装将使质保失效。",
+      "publishedAt": "2026-08-29T22:12:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/045.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-005",
+      "title": "国家数据局：截至7月底，我国智算总规模达到245万PFLOPS",
+      "summary": "国家数据局公布数据，截至今年7月底，我国智能算力总规模达到245万PFLOPS（FP16），八大国家算力枢纽及三大协同发展区占全国智算规模超85%，约145万PFLOPS已接入国家级监测调度平台。",
+      "publishedAt": "2026-08-29T22:08:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/044.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260830-006",
+      "title": "一用户宏碁游戏本因14900HX过热送修后，免费升级至U9 275HX + RTX 5070 Ti最新款",
+      "summary": "一名宏碁掠夺者Helios 16用户因酷睿i9-14900HX处理器过热送修，因原主板缺货，宏碁免费更换为搭载酷睿Ultra 9 275HX、RTX 5070 Ti及240Hz OLED屏的最新款机型，但用户反映机身改为塑料材质。",
+      "publishedAt": "2026-08-29T21:56:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/043.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-007",
+      "title": "微软Win11原生WinUI框架现已开源",
+      "summary": "微软宣布完成WinUI开源工作，将该项目主线开发迁移至GitHub仓库microsoft/microsoft-ui-xaml，WinUI是Windows 11操作系统的原生UI框架，目前提交的PR均来自微软内部开发者。",
+      "publishedAt": "2026-08-29T21:50:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/042.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260830-008",
+      "title": "距地球1万光年：韦布太空望远镜拍下狮子星云迄今最清晰图像",
+      "summary": "NASA公布詹姆斯·韦布太空望远镜拍摄的NGC 2392（狮子星云）迄今最清晰图像，该星云位于双子座、距地球约1万光年，中心白矮星表面温度约20万摄氏度，天文学家预计其形态将在约1万年后消散。",
+      "publishedAt": "2026-08-29T21:38:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/040.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260830-009",
+      "title": "\"开源Windows\"ReactOS 0.4.16发布：全新图形安装程序、提升硬件支持",
+      "summary": "开源操作系统项目ReactOS发布0.4.16版本，新增全新图形化安装程序，可在启动盘及Live CD中直接安装系统，另加入类似Windows Server Core的服务器核心安装模式，并改进多显示器支持及显卡驱动。",
+      "publishedAt": "2026-08-29T21:29:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/039.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260830-010",
+      "title": "360骑行记录仪V6小魔方发售：2K高清防水，349元赠存储卡",
+      "summary": "360发布V6\"小魔方\"摩托车骑行记录仪，售价349元并赠送32GB存储卡，支持2K画质、F1.6光圈及146度广角，配1.54英寸屏幕可直接查看录像，具备车牌追踪、碰撞60秒紧急录制及停车监控功能。",
+      "publishedAt": "2026-08-29T21:23:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/037.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-011",
+      "title": "华为MatePad Mini平板获鸿蒙HarmonyOS 7.0.0.105更新，新增HiCar汽车互联",
+      "summary": "华为MatePad Mini平板迎来HarmonyOS 7.0.0.105 SP6更新，安装包约4GB，新增HUAWEI HiCar车机互联支持，并优化笔记跨设备协同、桌面天气组件、图片浏览性能及深色模式控制中心界面。",
+      "publishedAt": "2026-08-29T21:20:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/036.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260830-012",
+      "title": "Debian社区议案表决：开发者可使用生成式AI，人类负最终责任",
+      "summary": "Debian社区就大语言模型使用政策进行投票，采用孔多塞计票法，最终\"负责任使用生成式AI\"选项获多数支持，新政策允许在开发和文档中使用生成式AI且无需强制披露，但要求人类对代码质量和合规性负最终责任。",
+      "publishedAt": "2026-08-29T21:11:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/035.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260830-013",
+      "title": "YU7取得中保研安全测试最高评级，小米汽车分享\"秘诀\"",
+      "summary": "小米YU7在中国保险汽车安全指数（C-IASI）测试中取得最高评级，车身十处应用2200MPa超高强度钢，侧气帘长达2206毫米，电池采用防剐蹭梁、吸能框架及防弹涂层三层防护，此前C-NCAP综合得分93.5%。",
+      "publishedAt": "2026-08-29T21:08:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/034.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-014",
+      "title": "亚马逊上线竞价机制，第三方卖家可付费提速\"数小时达\"服务",
+      "summary": "亚马逊推出竞价机制，允许使用FBA的第三方卖家自主报价争取\"数小时达\"配送资格，该服务可实现购买后2小时内送达，已覆盖2300个都市区，纳入该服务的商品平均销量高出12%，卖家需承担更多库存分布成本。",
+      "publishedAt": "2026-08-29T20:06:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/025.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260830-015",
+      "title": "美国FTC正调查谷歌YouTube随意封号问题",
+      "summary": "据彭博社报道，美国联邦贸易委员会正调查YouTube在账号封禁、内容下架及限流方面是否违反消费者保护法，调查始于2025年，目前已进入准备潜在诉讼的最后阶段，YouTube尚未被正式指控违规。",
+      "publishedAt": "2026-08-29T20:05:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/024.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260830-016",
+      "title": "为开源软件豁免年龄验证要求，美国加州通过AB-1856法案",
+      "summary": "美国加州州议会以69票赞成、零票反对通过AB-1856法案，为Linux发行版、BSD等开源许可软件豁免年龄验证要求，该法案是对将于2027年1月1日生效的《数字时代适龄保护法》的补充。",
+      "publishedAt": "2026-08-29T19:37:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/020.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260830-017",
+      "title": "玩家获取Root权限后发现小米首款NAS智能存储自带Docker环境，OpenClaw已跑通",
+      "summary": "有玩家获取小米首款NAS产品Root权限后发现其搭载瑞昱RTD1619B处理器、约3.7GB内存，运行基于Yocto的Linux 6.6.35系统，内置Docker Engine 20.10.17等组件但未对普通用户开放，已成功运行OpenClaw容器。",
+      "publishedAt": "2026-08-29T19:21:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/019.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-018",
+      "title": "华为HarmonyOS开发套件26.0.0正式发布：API版本号启用语义化版本格式，鸿蒙7.0用户占比4.65%",
+      "summary": "华为发布HarmonyOS开发套件26.0.0，API版本号启用X.Y.Z语义化版本格式，DevEco Studio同步升级至26.0.0.821，新增资源泄漏检测等功能，浏览器内核由Chromium 132升级至144，鸿蒙7.0用户占比4.65%。",
+      "publishedAt": "2026-08-29T18:57:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/013.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260830-019",
+      "title": "苹果iPhone Ultra折叠屏手机维修费用曝光：更换内屏费用或超1千美元",
+      "summary": "苹果首款折叠屏手机iPhone Ultra预计下月发布，起售价可能超2000美元，据维修公司Correct创始人透露，其内屏更换费用约为1155美元，高于三星Galaxy Z Fold 8的772美元，苹果秋季发布会定于9月9日举行。",
+      "publishedAt": "2026-08-29T18:48:54+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/012.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-020",
+      "title": "美移民与海关执法局拟斥资200万美元，采购机器狗用于执法",
+      "summary": "美国移民与海关执法局计划投入200万美元采购机器狗用于执法，协助人员执行边境安全及基础设施保护任务，可远程操控进行环境勘察，配有机械臂可开门，机构称全天候部署机器狗每年可节省8万至13万美元人力成本。",
+      "publishedAt": "2026-08-29T17:25:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/995/967.htm",
+      "subCategory": "机器人"
+    },
     {
       "id": "tech-20260829-101",
       "title": "纽约知名夜店Basement宣布智能眼镜禁令，违者或被永久禁止入店",
@@ -49,15 +229,6 @@
       "url": "https://www.ithome.com/0/995/821.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260828-504"
-    },
-    {
-      "title": "GLM-5.3开放权重上线Hugging Face",
-      "summary": "智谱AI旗舰模型GLM-5.3的开放权重已上线Hugging Face，模型页面显示于8月28日完成最新更新；此前官方称因模型具备较强网络安全能力，将在完成额外安全评估与加固后再公开权重。",
-      "publishedAt": "2026-08-28",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "subCategory": "开源生态",
-      "id": "tech-20260829-004"
     },
     {
       "title": "长鑫存储开通微博首个关注小米手机，此前被曝为玄戒O3 LPDDR6内存核心合作伙伴",
@@ -202,6 +373,15 @@
       "url": "https://news.mydrivers.com/1/1146/1146943.htm",
       "subCategory": "消费电子",
       "id": "tech-20260828-513"
+    },
+    {
+      "title": "GLM-5.3开放权重上线Hugging Face",
+      "summary": "智谱AI旗舰模型GLM-5.3的开放权重已上线Hugging Face，模型页面显示于8月28日完成最新更新；此前官方称因模型具备较强网络安全能力，将在完成额外安全评估与加固后再公开权重。",
+      "publishedAt": "2026-08-28",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "subCategory": "开源生态",
+      "id": "tech-20260829-004"
     },
     {
       "id": "tech-20260827-200",
@@ -544,186 +724,6 @@
       "url": "https://www.ithome.com/0/994/263.htm",
       "subCategory": "消费电子",
       "id": "tech-20260825-013"
-    },
-    {
-      "title": "NVIDIA DLSS 4.5光线重建更新实测：提升游戏画面质感",
-      "summary": "NVIDIA DLSS 4.5光线重建更新采用第二代Transformer AI模型，算力提升35%并强化降噪能力，新F预设模型在《生化危机：安魂曲》《心灵杀手2》等光追、路径追踪游戏中反射、阴影细节及动态光效表现提升明显。",
-      "publishedAt": "2026-08-25T23:30:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/261.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260825-014"
-    },
-    {
-      "title": "苹果全新 Mac mini 发布：可选 M6 或 M5 Pro 芯片，6999 元起售",
-      "summary": "苹果发布新款Mac mini，提供M6与M5 Pro两种芯片版本，国内售价6999元起，8月27日9点开启预购，9月22日正式发售，M6为苹果首款2纳米芯片。",
-      "publishedAt": "2026-08-25T21:27:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/211.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260826-001"
-    },
-    {
-      "id": "tech-20260825-011",
-      "title": "苹果据悉准备推出两年来首款全新Mac mini",
-      "summary": "据知情人士透露，苹果正筹备推出近两年来首款全新Mac mini台式机，最早或于近期发布，可能早于9月iPhone发布会举行。新品是苹果下半年产品规划的一部分，同期规划还包括新款Apple Watch、AirPods及一款配备人脸识别功能的智能家居设备。",
-      "publishedAt": "2026-08-25T09:54:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3954293053177221",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "余承东官宣全新三折叠即将登场，华为Mate XT 2发布会定档月朎7日",
-      "summary": "华为常务董事余承东宣布全新三折叠手机即将登场，鸼蒙HarmonyOS 7 | HUAWEI Mate XT 2及全场景新品发布会定档鲓08朎7日14:30举行，为华为第三款三折叠手机。",
-      "publishedAt": "2026-08-25T09:16:06+08:00",
-      "source": "凤凰网科技",
-      "url": "https://tech.ifeng.com/c/8vs7WfEpjvH",
-      "subCategory": "消费电子",
-      "id": "tech-20260825-012"
-    },
-    {
-      "title": "玄戞O3、O100、D100齐发！小米朱丹：芯片研发投入是为下一个十年买入场券",
-      "summary": "小米一次性发布玄戞O3、O100、D100三款自研芯片，分别面向手机、高性能计算与汽车场景，五年间芯片研发投入超210亿元，组建近3000人技术团队。",
-      "publishedAt": "2026-08-25T08:30:45+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146087.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260825-010"
-    },
-    {
-      "title": "半导体博弈升级！美国拟施压荷兰 对华禁售DUV光刻机",
-      "summary": "美国正推动\"MATCH法案\"，拟迫使荷兰扩大对华出口管制至DUV光刻机，不仅禁止新机销售，还将禁止为现有设备提供维护服务，此前ASML已于2019年停止对华出口EUV设备。",
-      "publishedAt": "2026-08-25T08:27:08+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146085.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260825-007"
-    },
-    {
-      "title": "特斯拉 Semi 内华达新工厂下月举行投产仪式，年产能达 5 万辆",
-      "summary": "特斯拉将于下月在内华达州斯帕克斯的Semi专用工厂举行投产仪式，工厂已于今年4月启动规模化生产，年产能达5万辆电动重卡，届时参会者可试驾量产版车型。",
-      "publishedAt": "2026-08-25T08:13:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/797.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260825-001"
-    },
-    {
-      "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
-      "summary": "马斯克表示SpaceX计划2027年第四季度发射首批搭载英伟达Vera Rubin NVL72系统的AI卫星，2028年实现规模部署，已向FCC申请部署最多百万颗卫星组成的星座。",
-      "publishedAt": "2026-08-25T08:01:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/796.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260825-002"
-    },
-    {
-      "title": "Epic CEO 吐槽微软 Ctrl+C 可靠性，让 99% 的 Win10/Win11 用户感到懊恼",
-      "summary": "Epic Games CEO Tim Sweeney在X上吐槽Windows剪贴板不稳定，称按一次Ctrl+C并非总能成功复制。微软工程师此前解释这与剪贴板占用及历史记录异步监控有关。",
-      "publishedAt": "2026-08-25T07:55:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/795.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260825-003"
-    },
-    {
-      "title": "安卓最强2nm芯片易主！三星Exynos 2700内部实测跑分力压高通第六代骁龙8超级至尊版",
-      "summary": "据内部测试，三星Exynos 2700的Geekbench多核跑分较骁龙8 Gen6超级至尊版高9.5%，GPU峰值性能高约5%，该芯片采用2nm SF2P工艺，将首发于Galaxy S27系列。",
-      "publishedAt": "2026-08-25T07:52:31+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146077.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260825-008"
-    },
-    {
-      "title": "消息称智能戒指厂商 Oura 拟下月赴美 IPO，目标估值超 160 亿美元",
-      "summary": "芬兰智能戒指厂商Oura计划最早下月在美上市，拟融资最多30亿美元，目标估值超160亿美元，公司员工超900人，此前已完成8.75亿美元E轮融资。",
-      "publishedAt": "2026-08-25T07:49:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/793.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260825-004"
-    },
-    {
-      "title": "苹果秋季发布会大概率定档耈9月10日！邀请函最早明晚发",
-      "summary": "消息称苹果秋季新品发布会大概率定于9月10日（北京时间），邀请函最早于8月27日凌晨发出，届时预计发布iPhone 18 Pro/Pro Max及新款折叠屏iPhone Ultra等产品。",
-      "publishedAt": "2026-08-25T07:49:16+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146076.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260825-009"
-    },
-    {
-      "title": "联想承认 BIOS 更新导致 Legion Go 掌机变砖，受影响设备可免费维修",
-      "summary": "联想承认N3CN42WW版BIOS更新导致部分Legion Go掌机变砖，已在欧洲实验室复现该故障，确认非用户操作失误，受影响设备无论是否在保均可免费维修。",
-      "publishedAt": "2026-08-25T07:42:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/791.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260825-005"
-    },
-    {
-      "title": "苹果 20 周年纪念版 iPhone 新渲染图曝光：后置双摄、前置单挖孔设计",
-      "summary": "爆料者Yogesh Brar公布苹果20周年纪念版iPhone渲染图，采用四曲面屏幕、前置单挖孔摄像头及后置横向双摄设计，通过玻璃光学折射打造无边框视觉效果。",
-      "publishedAt": "2026-08-25T07:36:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/790.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260825-006"
-    },
-    {
-      "id": "tech-20260824-111",
-      "title": "微信鸿蒙版App获8.0.21.16版本邀测升级",
-      "summary": "微信鸿蒙版App在华为应用市场开启8.0.21.16版本邀测，测试期为8月24日至9月24日，更新说明为修复部分已知问题。此前8.0.20版本曾新增视频号、朋友圈链接及位置分享等功能。",
-      "publishedAt": "2026-08-24T23:28:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/755.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260824-114",
-      "title": "Brake problems in GM EVs draw greater federal scrutiny",
-      "summary": "美国国家公路交通安全管理局将通用汽车电动车电子刹车系统eBoost的调查升级为最高级别工程分析，此前已发生数百起故障、逸20起碰撞或起火事故，逸100万辆车受影响，涉及凯迪拉克Lyriq、雪佛兰Blazer EV等车型。",
-      "publishedAt": "2026-08-24T22:18:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260824-113",
-      "title": "成功举起16公斤，第二届世界人形机器人运动会首个举重冠军诞生",
-      "summary": "第二届世界人形机器人运动会举重项目产生首个冠军，北京人形机器人创新中心与华中科技大学联队的机器人成功举起16公斤娪冠。本届赛事吸引16个国家666支队伍、2056台机器人参赛，竞赛项目由26项扩展至51项。",
-      "publishedAt": "2026-08-24T22:05:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/740.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260824-112",
-      "title": "何小鹏：目标在明年实现Robotaxi无安全员载客运营",
-      "summary": "小鹏汽车董事长何小鹏透露，公司已在广州完成超2000个内部测试订单，并搭建完成云端接管平台，目标于明年实现Robotaxi无安全员载客运营，计划在量产车上部署第二代VLA技术并拓展海外业务合作。",
-      "publishedAt": "2026-08-24T21:07:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/730.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260824-110",
-      "title": "IBM宣布首款双架构大型机处理器：2nm工艺，11核心5.7GHz",
-      "summary": "IBM在Hot Chips 2026大会上公布首款双架构大型机处理器，采用2nm工艺，集成11个运行频率超5.7GHz的高性能核心、AI推理加速器及片上DPU，可在同一核心原生执行IBM Z/LinuxONE与Arm两种指令集。",
-      "publishedAt": "2026-08-24T20:21:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/720.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260824-107",
-      "title": "vivo 公布 OriginOS 7 新功能\"贴纸库\"：能在桌面、壁纸、熟屏界面上贴纸",
-      "summary": "vivo公布OriginOS 7新增\"贴纸库\"功能，支持在桌面、壁纸及熟屏界面贴纸，内置多种风格并支持自定义，可通过AI识别自动扳出相册照片主体生成可复用贴纸。该系统此前已于7月下旬开启公测，首批适配X300 Pro、X Fold6、iQOO 15等机型。",
-      "publishedAt": "2026-08-24T16:37:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/629.htm",
-      "subCategory": "操作系统"
     }
   ]
 }
