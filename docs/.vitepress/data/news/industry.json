@@ -3,8 +3,44 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-29T09:10:00+08:00",
+  "updatedAt": "2026-08-29T16:45:00+08:00",
   "items": [
+    {
+      "id": "industry-20260829-101",
+      "title": "国家数据发展研究院：2025年我国智能体专利授权量超3400件，增速为上一年两倍以上",
+      "summary": "国家数据发展研究院数据显示，2025年我国智能体相关专利授权量超3400件，增速较上一年翻倍以上；截至2026年年中全国算力规模达240万PFLOPS，半年增速50.9%；2025年数据产业规模达6.78万亿元，同比增长15.7%，其中AI相关软件与token服务贡献4.99万亿元，占比73.6%；日均token调用量从2024年初1000亿次增至2025年末100万亿次，2026年3月进一步升至140万亿次。",
+      "publishedAt": "2026-08-29T15:57:27+08:00",
+      "source": "IT之家（国家数据发展研究院）",
+      "url": "https://www.ithome.com/0/995/928.htm",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260828-003",
+      "title": "United Nations：2026年世界投资报告",
+      "summary": "联合国《2026年世界投资报告》显示，2025年全球外国直接投资同比增长6%至1.624万亿美元，扇转此前两年下滑趋势，主要由AI基础设施、数据中心、半导体及能源领域大型项目拉动，制造业投资则下降13%、可再生能源投资下降5%。",
+      "publishedAt": "2026-08-28",
+      "source": "199IT（联合国贸发会议）",
+      "url": "https://www.199it.com/archives/1839145.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "title": "ACEA：2026年前四个月新注册纯电动汽车占欧盟市场近20%的份额",
+      "summary": "ACEA数据显示，2026年前四个月纯电动汽车占欧盟新车注册量的19.7%，较去年同期15.3%明显提升，注册量达74.69万辆；插电混动占比9.6%，燃油车合计份额降至30.2%，意大利、法国、德国增速领先。",
+      "publishedAt": "2026-08-28",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1832145.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260828-509"
+    },
+    {
+      "title": "SK hynix launches Indiana chip packaging hub for first US-made HBM",
+      "summary": "SK海力士8月27日在美国印第安纳州普渡大学研究园为其首座美国高带宽内存封装厂举行奠基仪式，总投资超40亿美元，预计2028年10月完成洁净室建设，2029年第三季度实现HBM4E量产，全面投产后将创造约7000个直接及间接就业岗位。",
+      "publishedAt": "2026-08-28",
+      "source": "Korea Herald",
+      "url": "https://www.koreaherald.com/article/10854795",
+      "subCategory": "半导体产业",
+      "id": "industry-20260829-001"
+    },
     {
       "title": "AI packaging race heats up: Taiwan OSATs plan US$14.6 billion capex",
       "summary": "台湾封测厂在AI芯片需求带动下计划投入146亿美元资本支出，京元电子、日月光、力成等企业加码先进封装产能，AI投资周期正从晶圆制造延伸至封装测试环节。",
@@ -33,31 +69,94 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260828-003",
-      "title": "United Nations：2026年世界投资报告",
-      "summary": "联合国《2026年世界投资报告》显示，2025年全球外国直接投资同比增长6%至1.624万亿美元，扇转此前两年下滑趋势，主要由AI基础设施、数据中心、半导体及能源领域大型项目拉动，制造业投资则下降13%、可再生能源投资下降5%。",
-      "publishedAt": "2026-08-28",
-      "source": "199IT（联合国贸发会议）",
-      "url": "https://www.199it.com/archives/1839145.html",
+      "id": "industry-20260827-154",
+      "title": "TrendForce集邦咨询：三星电机调涨4Q26 OEM报价，开启MLCC产业上升周期",
+      "summary": "韩系厂商三星电机上调2026年第四季度对OEM、ODM客户的消费级X5R型MLCC报价25%至30%，AI服务器用高端X6S产品视议价情况上调10%至20%；行业产能利用率上升，部分厂商逼近九成，MLCC产业进入涨价周期。",
+      "publishedAt": "2026-08-27",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260827-13201.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-155",
+      "title": "Counterpoint：2026年Q2 iPhone 17 6%份额居全球手机榜首",
+      "summary": "Counterpoint数据显示，2026年第二季度iPhone 17以6%份额位居全球单机型销量榜首，苹果与三星合计占据畅销榜前十中十席，两家合计份额26%，同比提升2个百分点，中国品牌机型未进入前十。",
+      "publishedAt": "2026-08-27",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1848439.html",
       "subCategory": "行业研报"
     },
     {
-      "title": "ACEA：2026年前四个月新注册纯电动汽车占欧盟市场近20%的份额",
-      "summary": "ACEA数据显示，2026年前四个月纯电动汽车占欧盟新车注册量的19.7%，较去年同期15.3%明显提升，注册量达74.69万辆；插电混动占比9.6%，燃油车合计份额降至30.2%，意大利、法国、德国增速领先。",
-      "publishedAt": "2026-08-28",
+      "id": "industry-20260827-156",
+      "title": "工信部：2026年鸿蒙成世界第三大手机操作系统，新增装机量突破8000万台",
+      "summary": "工信部数据显示，鸿蒙已成为全球第三大手机操作系统，开源鸿蒙生态设备累计装机量突破13.5亿台；截至上周年内新增装机达8010.91万台，日活跃激活量维持在1700万台以上，鸿蒙在中国市场份额已超越iOS。",
+      "publishedAt": "2026-08-27",
       "source": "199IT",
-      "url": "https://www.199it.com/archives/1832145.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260828-509"
+      "url": "https://www.199it.com/archives/1848442.html",
+      "subCategory": "行业研报"
     },
     {
-      "title": "SK hynix launches Indiana chip packaging hub for first US-made HBM",
-      "summary": "SK海力士8月27日在美国印第安纳州普渡大学研究园为其首座美国高带宽内存封装厂举行奠基仪式，总投资超40亿美元，预计2028年10月完成洁净室建设，2029年第三季度实现HBM4E量产，全面投产后将创造约7000个直接及间接就业岗位。",
-      "publishedAt": "2026-08-28",
-      "source": "Korea Herald",
-      "url": "https://www.koreaherald.com/article/10854795",
+      "id": "industry-20260827-157",
+      "title": "GFK：2026年7月中国1000元以上高端TWS耳机市场华为42%，苹果33%",
+      "summary": "GFK数据显示，2026年7月中国千元以上高端TWS耳机市场，华为以42%份额领先，苹果以33%份额居次，差距近10个百分点；华为新品FreeBuds 7系列主动降噪耳机已于8月24日开启预订，采用半入耳设计。",
+      "publishedAt": "2026-08-27",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1848446.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260827-105",
+      "title": "Qualcomm Reportedly Enlists Samsung, SK hynix as HBC Memory Partners; TSMC Eyes Packaging Role",
+      "summary": "高通与三星、SK海力士合作推进高带宽计算架构商用，其中三星和SK海力士负责DRAM堆叠，带宽相当于传统HBM的六倍，首代HBC芯片将于明年应用。",
+      "publishedAt": "2026-08-27",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/27/news-qualcomm-reportedly-enlists-samsung-sk-hynix-as-hbc-memory-partners-tsmc-eyes-packaging-role/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-106",
+      "title": "Apple's First Ternus-Era Launch Event Set for Sept. 9, Foldable May Debut; Standard iPhone 18 Eyed for 2027",
+      "summary": "苹果将于9月9日召开秋季发布会，为新任CEO约翰·特努斯时代的首场活动，预期推出首款折叠屏iPhone和iPhone 18 Pro新品。",
+      "publishedAt": "2026-08-27",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/27/news-apples-first-ternus-era-launch-event-set-for-sept-9-foldable-may-debut-standard-iphone-18-eyed-for-2027/",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260827-107",
+      "title": "Kioxia Reportedly Plans JPY 1T+ NAND Fab in Japan, Operations Eyed for 2029 or Later",
+      "summary": "铠侠计划在日本投资超过1万亿日元建设新的NAND闪存生产工厂，预脈2029年或更晚投产，主要用于AI数据中心芯片供应，与三星竞争。",
+      "publishedAt": "2026-08-27",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/27/news-kioxia-reportedly-plans-jpy-1t-nand-fab-in-japan-operations-eyed-for-2029-or-later/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-108",
+      "title": "NVIDIA's Supply Commitments Soar to $279B as Memory Costs Surge; New NVHBM Boosts Bandwidth 30%",
+      "summary": "英伟达供应承诺增至2790亿美元应对存储成本上升，推出NVHBM芯片架构将带宽提升30%、功耗降低15%，存储短缺预计持续至财年2028。",
+      "publishedAt": "2026-08-27",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/27/news-nvidias-supply-commitments-soar-to-279b-as-memory-costs-surge-new-nvhbm-boosts-bandwidth-30-cuts-power-15/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-109",
+      "title": "Apple Suppliers Diverge in 1H26: Lens Profit Halves on Rising Memory Costs, Luxshare Revenue Jumps 40%",
+      "summary": "蓝思科技上半年净利润下滑至5.77亿元受存储成本上升影响，立讯精密收入增长40%至1745亿元并成功降低对手机业务的依赖度，实现业务多元化。",
+      "publishedAt": "2026-08-27",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/27/news-apple-suppliers-diverge-in-1h26-lens-profit-nearly-halves-on-rising-memory-costs-luxshare-revenue-jumps-40/",
+      "subCategory": "公司动态"
+    },
+    {
+      "title": "Renesas opens physical AI and robotics lab in Beijing",
+      "summary": "瑞萨电子8月27日在北京设立物理AI与机器人实验室，整合硬件、软件、AI算法、运动控制、传感与电源管理等能力，支持客户从概念验证到规模化部署的机器人系统开发；该实验室是瑞萨7月1日成立物理AI事业部后的最新举措。",
+      "publishedAt": "2026-08-27",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/renesas-opens-physical-ai-and-robotics-lab-in-beijing/",
       "subCategory": "半导体产业",
-      "id": "industry-20260829-001"
+      "id": "industry-20260829-002"
     },
     {
       "id": "industry-20260827-153",
@@ -159,94 +258,22 @@
       "id": "industry-20260828-504"
     },
     {
-      "id": "industry-20260827-154",
-      "title": "TrendForce集邦咨询：三星电机调涨4Q26 OEM报价，开启MLCC产业上升周期",
-      "summary": "韩系厂商三星电机上调2026年第四季度对OEM、ODM客户的消费级X5R型MLCC报价25%至30%，AI服务器用高端X6S产品视议价情况上调10%至20%；行业产能利用率上升，部分厂商逼近九成，MLCC产业进入涨价周期。",
-      "publishedAt": "2026-08-27",
-      "source": "TrendForce集邦咨询",
-      "url": "https://www.trendforce.cn/presscenter/news/20260827-13201.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-155",
-      "title": "Counterpoint：2026年Q2 iPhone 17 6%份额居全球手机榜首",
-      "summary": "Counterpoint数据显示，2026年第二季度iPhone 17以6%份额位居全球单机型销量榜首，苹果与三星合计占据畅销榜前十中十席，两家合计份额26%，同比提升2个百分点，中国品牌机型未进入前十。",
-      "publishedAt": "2026-08-27",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848439.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260827-156",
-      "title": "工信部：2026年鸿蒙成世界第三大手机操作系统，新增装机量突破8000万台",
-      "summary": "工信部数据显示，鸿蒙已成为全球第三大手机操作系统，开源鸿蒙生态设备累计装机量突破13.5亿台；截至上周年内新增装机达8010.91万台，日活跃激活量维持在1700万台以上，鸿蒙在中国市场份额已超越iOS。",
-      "publishedAt": "2026-08-27",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848442.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260827-157",
-      "title": "GFK：2026年7月中国1000元以上高端TWS耳机市场华为42%，苹果33%",
-      "summary": "GFK数据显示，2026年7月中国千元以上高端TWS耳机市场，华为以42%份额领先，苹果以33%份额居次，差距近10个百分点；华为新品FreeBuds 7系列主动降噪耳机已于8月24日开启预订，采用半入耳设计。",
-      "publishedAt": "2026-08-27",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848446.html",
+      "id": "industry-20260827-101",
+      "title": "奥维云网：2026年7月消费级摄像头线上零售量220.8万台、零售颔4.7亿元，同比均下降12.5%",
+      "summary": "奥维云网数据显示，2026年7月线上消费级摄像头零售量220.8万台、零售颔4.7亿元，销量和销售额同比均下滑12.5%；内容电商渠道销量堖3.1%但价格走低，传统电商渠道销量下滑但均价上升。150-199元价位段份额最高达33%，800万像素产品份额由17.6%升至29.4%，宠物识别、婴儿哭声识别等AI功能占比分别达29.7%、27.0%。",
+      "publishedAt": "2026-08-26",
+      "source": "奥维云网（199IT）",
+      "url": "https://www.199it.com/archives/1847886.html",
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260827-105",
-      "title": "Qualcomm Reportedly Enlists Samsung, SK hynix as HBC Memory Partners; TSMC Eyes Packaging Role",
-      "summary": "高通与三星、SK海力士合作推进高带宽计算架构商用，其中三星和SK海力士负责DRAM堆叠，带宽相当于传统HBM的六倍，首代HBC芯片将于明年应用。",
-      "publishedAt": "2026-08-27",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/27/news-qualcomm-reportedly-enlists-samsung-sk-hynix-as-hbc-memory-partners-tsmc-eyes-packaging-role/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-106",
-      "title": "Apple's First Ternus-Era Launch Event Set for Sept. 9, Foldable May Debut; Standard iPhone 18 Eyed for 2027",
-      "summary": "苹果将于9月9日召开秋季发布会，为新任CEO约翰·特努斯时代的首场活动，预期推出首款折叠屏iPhone和iPhone 18 Pro新品。",
-      "publishedAt": "2026-08-27",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/27/news-apples-first-ternus-era-launch-event-set-for-sept-9-foldable-may-debut-standard-iphone-18-eyed-for-2027/",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260827-107",
-      "title": "Kioxia Reportedly Plans JPY 1T+ NAND Fab in Japan, Operations Eyed for 2029 or Later",
-      "summary": "铠侠计划在日本投资超过1万亿日元建设新的NAND闪存生产工厂，预脈2029年或更晚投产，主要用于AI数据中心芯片供应，与三星竞争。",
-      "publishedAt": "2026-08-27",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/27/news-kioxia-reportedly-plans-jpy-1t-nand-fab-in-japan-operations-eyed-for-2029-or-later/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-108",
-      "title": "NVIDIA's Supply Commitments Soar to $279B as Memory Costs Surge; New NVHBM Boosts Bandwidth 30%",
-      "summary": "英伟达供应承诺增至2790亿美元应对存储成本上升，推出NVHBM芯片架构将带宽提升30%、功耗降低15%，存储短缺预计持续至财年2028。",
-      "publishedAt": "2026-08-27",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/27/news-nvidias-supply-commitments-soar-to-279b-as-memory-costs-surge-new-nvhbm-boosts-bandwidth-30-cuts-power-15/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-109",
-      "title": "Apple Suppliers Diverge in 1H26: Lens Profit Halves on Rising Memory Costs, Luxshare Revenue Jumps 40%",
-      "summary": "蓝思科技上半年净利润下滑至5.77亿元受存储成本上升影响，立讯精密收入增长40%至1745亿元并成功降低对手机业务的依赖度，实现业务多元化。",
-      "publishedAt": "2026-08-27",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/27/news-apple-suppliers-diverge-in-1h26-lens-profit-nearly-halves-on-rising-memory-costs-luxshare-revenue-jumps-40/",
-      "subCategory": "公司动态"
-    },
-    {
-      "title": "Renesas opens physical AI and robotics lab in Beijing",
-      "summary": "瑞萨电子8月27日在北京设立物理AI与机器人实验室，整合硬件、软件、AI算法、运动控制、传感与电源管理等能力，支持客户从概念验证到规模化部署的机器人系统开发；该实验室是瑞萨7月1日成立物理AI事业部后的最新举措。",
-      "publishedAt": "2026-08-27",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/renesas-opens-physical-ai-and-robotics-lab-in-beijing/",
-      "subCategory": "半导体产业",
-      "id": "industry-20260829-002"
+      "title": "Regulators fast-track lithium battery M&As as China shifts from capacity expansion to consolidation",
+      "summary": "中国监管部门正加快锂电池行业并购审批速度，推动产业从产能扩张阶段转向整合阶段，以优化现有产能配置并强化供应链一体化。",
+      "publishedAt": "2026-08-26",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260826PD222/lithium-battery-capacity-expansion-materials-price-supply-chain.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260828-506"
     },
     {
       "id": "industry-20260827-001",
@@ -294,15 +321,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260827-002",
-      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
-      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
-      "publishedAt": "2026-08-26T10:11:36Z",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260827-008",
       "title": "YMTC targets global NAND lead by 2027 as parent seeks US$5 billion IPO",
       "summary": "长江存储目标在2027年底前成为全球最大NAND闪存供应商，母公司拟在上海募资近50亿美元用于产能升级与研发；今年二季度公司全球NAND位出货份额约14%，落后三星25%和SK海力士22%。",
@@ -321,22 +339,13 @@
       "subCategory": "公司动态"
     },
     {
-      "id": "industry-20260827-101",
-      "title": "奥维云网：2026年7月消费级摄像头线上零售量220.8万台、零售颔4.7亿元，同比均下降12.5%",
-      "summary": "奥维云网数据显示，2026年7月线上消费级摄像头零售量220.8万台、零售颔4.7亿元，销量和销售额同比均下滑12.5%；内容电商渠道销量堖3.1%但价格走低，传统电商渠道销量下滑但均价上升。150-199元价位段份额最高达33%，800万像素产品份额由17.6%升至29.4%，宠物识别、婴儿哭声识别等AI功能占比分别达29.7%、27.0%。",
-      "publishedAt": "2026-08-26",
-      "source": "奥维云网（199IT）",
-      "url": "https://www.199it.com/archives/1847886.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "title": "Regulators fast-track lithium battery M&As as China shifts from capacity expansion to consolidation",
-      "summary": "中国监管部门正加快锂电池行业并购审批速度，推动产业从产能扩张阶段转向整合阶段，以优化现有产能配置并强化供应链一体化。",
-      "publishedAt": "2026-08-26",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260826PD222/lithium-battery-capacity-expansion-materials-price-supply-chain.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260828-506"
+      "id": "industry-20260827-002",
+      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
+      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
+      "publishedAt": "2026-08-26T10:11:36Z",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
+      "subCategory": "半导体产业"
     },
     {
       "title": "OECD：2026年亚洲资本市场报告",
@@ -427,96 +436,6 @@
       "url": "https://www.digitimes.com/news/a20260819PD227/manz-asia-advanced-packaging-equipment-production.html",
       "subCategory": "半导体产业",
       "id": "industry-20260823-007"
-    },
-    {
-      "title": "途虎养车2026上半年门店近9000家，收入87.8亿同比增11.4%",
-      "summary": "途虎养车披露2026年上半年运营数据，截至6月末门店肃本8825家、上半年净增817家，约65%新店位于低线城市；营收‌87.8亿元同比增11.4%，注册用户达1.75亿人。",
-      "publishedAt": "2026-08-21T20:25:41+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103328984.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260822-010"
-    },
-    {
-      "title": "Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？",
-      "summary": "Moderna与默沙东宣布个性化mRNA癌症疫苗V940联合Keytruda在黑色素瘤III期试验中达到双重主要终点，使复发或死亡风险降低49%，为mRNA疗法首次在肿瘤III期试验成功，产品最早或于2027年获批。",
-      "publishedAt": "2026-08-21T18:12:00+08:00",
-      "source": "铛媒体",
-      "url": "https://www.tmtpost.com/8111837.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260822-009"
-    },
-    {
-      "title": "DS Technology shifts from custom automation to modular systems, eyes Brazil and Mexico",
-      "summary": "台湾自动化整合商鼎新科技在2026台北自动化展上宣布业务转型，从高度定制化机器人自动化方案转向标准化模块系统，以便于国际市场推广，并计划拓展巴西与墨西哥市场。",
-      "publishedAt": "2026-08-21T16:55:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL215/automation-taiwan-mexico-brazil-technology.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-006"
-    },
-    {
-      "title": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM",
-      "summary": "寒武纪董事长陈天石透露，公司正研发面向大模型训练与推理的第六代AI芯片及指令集，并扩大对DeepSeek、通义千问、GLM等国产大模型的适配支持。",
-      "publishedAt": "2026-08-21T15:55:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821PD227/cambricon-deepseek-qwen-llm.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-009"
-    },
-    {
-      "id": "industry-20260821-106",
-      "title": "消息称特斯拉因\"财务可行性不足\"已停产Solar Roof太阳能屋顶瓦片产品",
-      "summary": "据外媒Electrek报道，特斯拉已停止生产Solar Roof太阳能屋顶瓦片产品，主因是产品财务上不可行。公司已要求第三方安装商此后仅提供传统太阳能电池板，美国官网Solar Roof产品页面已重定向至太阳能电池板页面，能源业务菜单中的Solar Roof选项已被移除。",
-      "publishedAt": "2026-08-21T15:08:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/651.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "title": "Xiaomi's Xring O3 nears launch on TSMC N3P, testing its in-house chip strategy",
-      "summary": "小米创始人雷军确认，新一代Xring O3芯片将采用台积电N3P制程并即将量产上市，标志小米自研芯片战略进一步向高端手机市场推进。",
-      "publishedAt": "2026-08-21T12:08:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL206/xiaomi-xring-launch-silicon-testing-tsmc.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-012"
-    },
-    {
-      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
-      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
-      "publishedAt": "2026-08-21T11:27:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-011"
-    },
-    {
-      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
-      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
-      "publishedAt": "2026-08-21T10:33:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-010"
-    },
-    {
-      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
-      "summary": "Omdia发垃2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
-      "publishedAt": "2026-08-20T21:00:00-05:00",
-      "source": "Omdia",
-      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260825-004"
-    },
-    {
-      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
-      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
-      "publishedAt": "2026-08-21T06:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-007"
     },
     {
       "id": "industry-20260824-001",
@@ -636,6 +555,105 @@
       "subCategory": "行业研报"
     },
     {
+      "title": "途虎养车2026上半年门店近9000家，收入87.8亿同比增11.4%",
+      "summary": "途虎养车披露2026年上半年运营数据，截至6月末门店肃本8825家、上半年净增817家，约65%新店位于低线城市；营收‌87.8亿元同比增11.4%，注册用户达1.75亿人。",
+      "publishedAt": "2026-08-21T20:25:41+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103328984.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260822-010"
+    },
+    {
+      "title": "Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？",
+      "summary": "Moderna与默沙东宣布个性化mRNA癌症疫苗V940联合Keytruda在黑色素瘤III期试验中达到双重主要终点，使复发或死亡风险降低49%，为mRNA疗法首次在肿瘤III期试验成功，产品最早或于2027年获批。",
+      "publishedAt": "2026-08-21T18:12:00+08:00",
+      "source": "铛媒体",
+      "url": "https://www.tmtpost.com/8111837.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260822-009"
+    },
+    {
+      "title": "DS Technology shifts from custom automation to modular systems, eyes Brazil and Mexico",
+      "summary": "台湾自动化整合商鼎新科技在2026台北自动化展上宣布业务转型，从高度定制化机器人自动化方案转向标准化模块系统，以便于国际市场推广，并计划拓展巴西与墨西哥市场。",
+      "publishedAt": "2026-08-21T16:55:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL215/automation-taiwan-mexico-brazil-technology.html",
+      "subCategory": "制造业",
+      "id": "industry-20260822-006"
+    },
+    {
+      "title": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM",
+      "summary": "寒武纪董事长陈天石透露，公司正研发面向大模型训练与推理的第六代AI芯片及指令集，并扩大对DeepSeek、通义千问、GLM等国产大模型的适配支持。",
+      "publishedAt": "2026-08-21T15:55:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821PD227/cambricon-deepseek-qwen-llm.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-009"
+    },
+    {
+      "id": "industry-20260821-106",
+      "title": "消息称特斯拉因\"财务可行性不足\"已停产Solar Roof太阳能屋顶瓦片产品",
+      "summary": "据外媒Electrek报道，特斯拉已停止生产Solar Roof太阳能屋顶瓦片产品，主因是产品财务上不可行。公司已要求第三方安装商此后仅提供传统太阳能电池板，美国官网Solar Roof产品页面已重定向至太阳能电池板页面，能源业务菜单中的Solar Roof选项已被移除。",
+      "publishedAt": "2026-08-21T15:08:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/992/651.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "title": "Xiaomi's Xring O3 nears launch on TSMC N3P, testing its in-house chip strategy",
+      "summary": "小米创始人雷军确认，新一代Xring O3芯片将采用台积电N3P制程并即将量产上市，标志小米自研芯片战略进一步向高端手机市场推进。",
+      "publishedAt": "2026-08-21T12:08:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL206/xiaomi-xring-launch-silicon-testing-tsmc.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-012"
+    },
+    {
+      "title": "SK Hynix weighs Japan memory fab in Miyagi, but says no investment is final",
+      "summary": "据DIGITIMES报道，SK海力士正评估在日本宫城县新建存储芯片工厂的可能性，公司强调相关投资计划尚未做出最终决定，具体规模与时间表仍待确认。",
+      "publishedAt": "2026-08-21T11:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821VL210/sk-hynix-investment-fab-manufacturing-infrastructure.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-011"
+    },
+    {
+      "title": "FOPLP's race to scale: Taiwan leads while three technical hurdles test mass production",
+      "summary": "DIGITIMES分析指出，面板级扇出封装（FOPLP）受AI算力需求拉动加速发展，台湾厂商在该领域领先全球，但仍有三大未公开技术瓶颈制约其大规模量产。",
+      "publishedAt": "2026-08-21T10:33:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260821PD208/foplp-packaging-production-demand-taiwan.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260823-010"
+    },
+    {
+      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
+      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
+      "publishedAt": "2026-08-21T06:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
+      "subCategory": "制造业",
+      "id": "industry-20260822-007"
+    },
+    {
+      "title": "2026年中国咖啡机行业发展状况及消费趋势报告",
+      "summary": "艾媒咨询报告显示，2025年中国咖啡机市场规模衡恳1073亿元，预计2030年增至1754.7亿元，行业呈现\"大行业小品牌\"格局，500-2000元中端产品最受消费者青睐，清洁不便为主要痛点。",
+      "publishedAt": "2026-08-20",
+      "source": "艾媒咨询",
+      "url": "https://www.iimedia.cn/c400/114646.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260822-011"
+    },
+    {
+      "id": "industry-20260821-107",
+      "title": "Omdia：2028年全球折叠屏手机出货量将达3600万部，较2025年增长超一倍",
+      "summary": "Omdia预测，2028年全球折叠屏手机出货量将达3600万部，较2025年增长超一倍，反映该品类在高端市场渗透率持续提升。",
+      "publishedAt": "2026-08-20",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1846620.html",
+      "subCategory": "行业研报"
+    },
+    {
       "title": "三星9月将为韩国牙山HBM新厂动工，投资规模达6万亿韩元",
       "summary": "据TrendForce报道,三星电子将于9月在韩国牙山园区动工建设投资规模达6万亿韩元的新HBM工厂;目前HBM4良率已提升至接近80%,平拽园区P5-1与P5-2拟改建为三倍产能结构,预脈2030年建成后产能提升逸逸.5倍。",
       "publishedAt": "2026-08-20T23:21:17+08:00",
@@ -652,6 +670,15 @@
       "url": "https://www.trendforce.com/news/2026/08/20/news-sk-hynix-unveils-cpo-roadmap-looks-beyond-hbm-to-ai-infrastructure/",
       "subCategory": "半导体产业",
       "id": "industry-20260821-005"
+    },
+    {
+      "title": "Veeam Named a Champion in Omdia's 2026 Global Managed Backup and Disaster Recovery Leadership Matrix",
+      "summary": "Omdia发垃2026年全球托管备份与灾难恢复(BDR)领导力矩阵，Veeam获评最高级别Champion，评估涵盖分析师评估、生态反馈和绩效指标三大维度，其VCSP合作伙伴计划已拥有超1.2万家MSP合作伙伴。",
+      "publishedAt": "2026-08-20T21:00:00-05:00",
+      "source": "Omdia",
+      "url": "https://finance.yahoo.com/technology/ai/articles/veeam-named-champion-omdia-2026-130000515.html",
+      "subCategory": "SaaS",
+      "id": "industry-20260825-004"
     },
     {
       "title": "FCAI：2026年6月中国产汽车在澳大利亚销量4.66万辆，超过日本",
@@ -697,33 +724,6 @@
       "url": "https://www.trendforce.com/news/2026/08/20/news-marvell-amd-reportedly-shake-up-google-tpu-race-putting-broadcom-mediatek-under-pressure/",
       "subCategory": "半导体产业",
       "id": "industry-20260821-006"
-    },
-    {
-      "title": "Samsung and Hyundai expand alliance from EV batteries into software-defined vehicles",
-      "summary": "三星与现代汽车集团宣布将合作范围从电动车电池扩展至软件定义汽车及机器人领域，据悉现代旗下捷尼赛斯即将推出的GV90车型将采用三星SDI方形电池技术。",
-      "publishedAt": "2026-08-20T16:10:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260820PD229/hyundai-samsung-samsung-sdi-kia-partnership.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260822-005"
-    },
-    {
-      "title": "2026年中国咖啡机行业发展状况及消费趋势报告",
-      "summary": "艾媒咨询报告显示，2025年中国咖啡机市场规模衡恳1073亿元，预计2030年增至1754.7亿元，行业呈现\"大行业小品牌\"格局，500-2000元中端产品最受消费者青睐，清洁不便为主要痛点。",
-      "publishedAt": "2026-08-20",
-      "source": "艾媒咨询",
-      "url": "https://www.iimedia.cn/c400/114646.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260822-011"
-    },
-    {
-      "id": "industry-20260821-107",
-      "title": "Omdia：2028年全球折叠屏手机出货量将达3600万部，较2025年增长超一倍",
-      "summary": "Omdia预测，2028年全球折叠屏手机出货量将达3600万部，较2025年增长超一倍，反映该品类在高端市场渗透率持续提升。",
-      "publishedAt": "2026-08-20",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1846620.html",
-      "subCategory": "行业研报"
     }
   ]
 }

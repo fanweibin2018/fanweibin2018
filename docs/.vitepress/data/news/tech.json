@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-29T09:10:00+08:00",
+  "updatedAt": "2026-08-29T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260829-101",
+      "title": "纽约知名夜店Basement宣布智能眼镜禁令，违者或被永久禁止入店",
+      "summary": "纽约知名夜店Basement发布规定，禁止顾客携带智能眼镜入场，无论佩戴或装在包内均属违规，违者将被请出场馆并可能被永久禁止再次入店，店方称此举是为保护舞池内所有人的隐私、安全与自由。此前挪威教育部长曾呼吁在学校禁用AI眼镜，美国移民及海关执法局禁止员工佩戴Meta智能眼镜，SAT考试也已对该类设备实施限制，Meta则通过软件更新在指示灯被遮挡时自动关闭摄像头。",
+      "publishedAt": "2026-08-29T16:23:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/995/958.htm",
+      "subCategory": "XR-AR-VR"
+    },
     {
       "title": "Meta为Quest头显推出XR Operator开发者工具，利用AI智能体快速测试VR游戏",
       "summary": "Meta为Quest头显推出实验性开发者工具XR Operator，集成于Meta XR SDK v205，可让AI智能体自动启动项目、截图、定位问题并验证修复，但目前无法处理音频，官方建议用于静态、确定性的测试场景。",
@@ -40,6 +49,15 @@
       "url": "https://www.ithome.com/0/995/821.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260828-504"
+    },
+    {
+      "title": "GLM-5.3开放权重上线Hugging Face",
+      "summary": "智谱AI旗舰模型GLM-5.3的开放权重已上线Hugging Face，模型页面显示于8月28日完成最新更新；此前官方称因模型具备较强网络安全能力，将在完成额外安全评估与加固后再公开权重。",
+      "publishedAt": "2026-08-28",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "subCategory": "开源生态",
+      "id": "tech-20260829-004"
     },
     {
       "title": "长鑫存储开通微博首个关注小米手机，此前被曝为玄戒O3 LPDDR6内存核心合作伙伴",
@@ -184,15 +202,6 @@
       "url": "https://news.mydrivers.com/1/1146/1146943.htm",
       "subCategory": "消费电子",
       "id": "tech-20260828-513"
-    },
-    {
-      "title": "GLM-5.3开放权重上线Hugging Face",
-      "summary": "智谱AI旗舰模型GLM-5.3的开放权重已上线Hugging Face，模型页面显示于8月28日完成最新更新；此前官方称因模型具备较强网络安全能力，将在完成额外安全评估与加固后再公开权重。",
-      "publishedAt": "2026-08-28",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "subCategory": "开源生态",
-      "id": "tech-20260829-004"
     },
     {
       "id": "tech-20260827-200",
@@ -715,15 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/629.htm",
       "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260824-106",
-      "title": "飞傲推出 QX11 解码耳放：双 ES9069Q DAC 芯片，提供 HiFi / 游戏模式，999 元",
-      "summary": "飞傲发布便携解码耳放QX11，定价999元，采用双ES9069Q DAC芯片。HiFi模式支持最高768kHz/32bit及DSD256解码，游戏模式提供AI麦克风降噪及四类游戏音效调校，桌面模式最大输出800mW+800mW，支持45W PD快充。",
-      "publishedAt": "2026-08-24T16:30:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/626.htm",
-      "subCategory": "消费电子"
     }
   ]
 }
