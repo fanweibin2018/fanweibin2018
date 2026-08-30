@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-30T00:39:00+08:00",
+  "updatedAt": "2026-08-30T09:15:00+08:00",
   "items": [
+    {
+      "id": "policy-20260830-004",
+      "title": "国家数据局：词元市场需求呈现爆发式增长",
+      "summary": "在2026中国国际大数据产业博览会上，国家数据局局长刘烈宏表示，随着大模型加速落地各行业，词元（Token）市场需求呈现爆发式增长。他指出词元是人工智能理解世界的最小单元，模型能力越强则词元生产效率和质量越高，目前已聚集算力租赁、模型厂商、数据服务商等多元参与者。",
+      "publishedAt": "2026-08-29T13:22:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686368.shtml",
+      "subCategory": "数字经济"
+    },
     {
       "id": "policy-20260830-002",
       "title": "《中国新电商发展报告（2026）》正式发布",
@@ -94,6 +103,15 @@
       "source": "美国证券交易委员会",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations",
       "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260830-005",
+      "title": "特朗普签署公告设立美国太空学院委员会",
+      "summary": "美国总统特朗普签署公告，设立总统委员会负责设计美国太空学院方案，由NASA局长牵头，成员包括战争部、行政管理和预算局等机构代表。委员会须在120天内就治理架构、课程设置、毕业生服务义务、申请条件及实施时间表提出建议。",
+      "publishedAt": "2026-08-28",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
+      "subCategory": "海外政策"
     },
     {
       "title": "工信部等四部门部署道路机动车辆产品生产一致性和质量提升专项行动",
@@ -706,24 +724,6 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260816-701",
-      "title": "Review launched to shape pathway to reach zero emission driving by 2035",
-      "summary": "英国交通部、商业与贸易部等部门就\"零排放汽车（ZEV）强制配额\"机制启动公开评估，就2030年停售新燃油乘用车、2035年新车全面实现零排放的路径公开征求车企、经销商及公众意见，评估期至10月23日截止。",
-      "publishedAt": "2026-08-14T16:10:00+01:00",
-      "source": "英国政府网（GOV.UK）/ 交通部",
-      "url": "https://www.gov.uk/government/news/review-launched-to-shape-pathway-to-reach-zero-emission-driving-by-2035",
-      "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260814-601",
-      "title": "美国商务部工业与安全局发布无人机出口管制简化新规",
-      "summary": "BIS新规将无人机国家安全管控续航门槛从30分钟提高至3小时，取消风力抗性参数，简化商用无人机出口许可要求，同时保留对军用及高端无人机的出口管制。该规则已刊登于美国联邦公报，2026年8月13日生效。",
-      "publishedAt": "2026-08-14",
-      "source": "美国联邦公报（Federal Register）/ 美国商务部工业与安全局",
-      "url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/html/2026-16628.htm",
-      "subCategory": "跨境贸易"
     }
   ]
 }

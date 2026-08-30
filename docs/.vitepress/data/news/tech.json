@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-30T00:39:00+08:00",
+  "updatedAt": "2026-08-30T09:15:00+08:00",
   "items": [
+    {
+      "id": "tech-20260830-021",
+      "title": "Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地",
+      "summary": "据Digitimes报道，苹果M6芯片是其首款2纳米工艺产品，先以小批量验证台积电2nm制程良率，为搭载A20 Pro芯片的iPhone 18 Pro量产铺路，台积电2nm相关WMCM封装产能预计2026年底达每月60万片，2027年超120万片。",
+      "publishedAt": "2026-08-30T08:33:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/071.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-024",
+      "title": "小屏党梦中情机！蓝狐Aura A1发布：4.7英寸LCD屏 罕见粉色面板 1399元起",
+      "summary": "蓝狐发布小屏手机Aura A1，搭载4.7英寸1600x720分辨率LCD屏，支持90Hz刷新率，联发科Helio G100处理器，8GB+128GB版本售价1399元、12GB+256GB版本1699元，另有粉色等三种配色可选，主打单手操作。",
+      "publishedAt": "2026-08-30T08:23:37+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1147/1147360.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-022",
+      "title": "广汽埃安 i60 今日推送全新 OTA 更新：支持原生 Apple CarPlay 互联、自定义充电上限",
+      "summary": "广汽埃安为i60车型推送新一轮OTA升级，新增倒车紧急刹车辅助、原生Apple CarPlay互联、可自定义80%至90%充电上限，并优化能量回收、增加分车型续航显示，支持App查看充电记录及自定义场景联动。",
+      "publishedAt": "2026-08-30T08:23:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/069.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-023",
+      "title": "SSD 耐久个案：64GB 闪迪固态硬盘 16 年累计写入超 9PB，通电超 6.1 万小时",
+      "summary": "有用户晒出一块使用16年的64GB闪迪SATA固态硬盘监控数据，累计写入超9PB、写入次数逾14万次，通电时长超6.1万小时，健康状态仍显示良好，业内分析认为得益于早期SLC或MLC闪存颗粒更高的擦写寿命。",
+      "publishedAt": "2026-08-30T08:19:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/068.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-026",
+      "title": "13.78万买车长超5米的大SUV！极狐T7预售72小时 订单破3万",
+      "summary": "极狐全新中大型SUV阿尔法T7自8月26日启动预售，72小时内订单突破3万台，预售补贴价13.78万至17.48万元，全系标配宁德时代电池与华为乾崑ADS 5 Pro智驾系统，纯电版CLTC续航最高715公里。",
+      "publishedAt": "2026-08-30T07:37:28+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1147/1147358.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-027",
+      "title": "华为2026重回中国手机第一！徐直军：华为用国产芯片+鸿蒙实现飞行中换发动机",
+      "summary": "华为轮值董事长徐直军表示，公司已凭借国产芯片与鸿蒙生态重回中国手机市场份额第一，鸿蒙原生应用超10万款，截至8月20日鸿蒙6设备装机量达8000万台，预计年内突破1亿台，全球化仍是待解课题。",
+      "publishedAt": "2026-08-30T07:35:02+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1147/1147357.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260830-025",
+      "title": "苹果首款AI眼镜细节曝光！无屏设计 主打Siri视觉智能 2027年发布",
+      "summary": "据爆料，苹果首款AI眼镜预计2027年WWDC发布、秋季上市，采用无屏设计，依靠摄像头、麦克风与Siri视觉智能实现物体识别、标识翻译等功能，并支持记录场景供后续提醒，出于隐私考虑暂不提供常规拍照录像功能。",
+      "publishedAt": "2026-08-30T07:10:44+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1147/1147356.htm",
+      "subCategory": "XR-AR-VR"
+    },
     {
       "id": "tech-20260830-001",
       "title": "黑客攻击柏林市政府系统并以5.79TB数据发起勒索，市长重申不会屈服",
@@ -661,69 +724,6 @@
       "url": "https://www.ithome.com/0/994/607.htm",
       "subCategory": "操作系统",
       "id": "tech-20260826-006"
-    },
-    {
-      "title": "华为召开鸿蒙智家技术沟通会，多款智能家居新品亮相",
-      "summary": "华为举行鸿蒙智家技术沟通会，公布\"1+3+N\"全屋智能战略，发布新风空调、烘干洗衣机、智能床及3999元Vision智慧屏S7 RGB等多款新品，并推出多款人脸识别智能锁。",
-      "publishedAt": "2026-08-26T16:07:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/597.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260826-005"
-    },
-    {
-      "title": "小米澎湃 OS 4 系统全新融合设备中心亮相：卡片布局优化、支持不同家庭切换",
-      "summary": "小米澎湃OS 4推出全新融合设备中心，采用卡片布局优化设备查找，并支持在不同家庭间快速切换常用设备，Beta测试于8月14日启动，本次公开招募第二批适配设备。",
-      "publishedAt": "2026-08-26T16:05:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/596.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260826-004"
-    },
-    {
-      "title": "多亲 J36 AI 按键智能手机发布：红外遥控、微信支付宝、一句话生成文案，659 元",
-      "summary": "多亲发布J36 AI按键智能手机，售价659元，配备2.8英寸屏幕、MTK8766V处理器，支持红外遥控、微信支付宝及AI一句话生成文案功能。",
-      "publishedAt": "2026-08-26T12:25:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/484.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260826-003"
-    },
-    {
-      "title": "天马天工屏2.0正式发布，将首发搭载OPPO Find X10系列",
-      "summary": "天马在厦门发布新一代OLED显示技术天工屏2.0，采用N1原色光谱发光材料将有害蓝光占比降至3.7%，原生覆盖95% BT.2020超广色域，屏幕寿命提升30%，将于9月随OPPO Find X10系列首发。",
-      "publishedAt": "2026-08-26T11:02:00+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146434.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260828-515"
-    },
-    {
-      "title": "华为Mate XT 2外观大改，改为U型三折叠并搭载麒麟9050",
-      "summary": "华为三折叠新机Mate XT 2将于9月7日发布，折叠结构由Z字形改为U型，后置三摄横向居中排列。新机搭载麒麟9050芯片，采用双层垂直堆叠的逻辑折叠技术，晶体管密度较此前提升53.5%。",
-      "publishedAt": "2026-08-26T09:18:54+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146396.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260828-516"
-    },
-    {
-      "title": "Parallels Desktop 27 发布：OpenGL 性能最高提升 160%、AI 矩阵计算最高提升 7 倍",
-      "summary": "Parallels Desktop 27采用基于Metal的图形驱动，为Mac上的Windows虚拟机带来OpenGL 4.3支持，并为M4以上芯片新增SME2指令支持，AI矩阵计算最高提退9倍。",
-      "publishedAt": "2026-08-26T09:03:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/334.htm",
-      "subCategory": "开发者工具",
-      "id": "tech-20260826-002"
-    },
-    {
-      "title": "小米REDMI 17C 5G手机海外发布：天猆3奇机6300芯片，279新加坡元",
-      "summary": "Redmi 17C 5G海外发布，搭载联发科天猆3奇机6300芯片，配备6.9英寸720P LCD屏及120Hz刷新率，6000mAh电池支持33W快充，定价279新加坡元（约合1480元人民币）。",
-      "publishedAt": "2026-08-25T23:35:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/263.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260825-013"
     }
   ]
 }

@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-30T00:39:00+08:00",
+  "updatedAt": "2026-08-30T09:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260830-011",
+      "title": "少1个展开步骤：部分谷歌搜索测试默认进入AI模式，下移传统蓝链搜索结果",
+      "summary": "谷歌正在测试部分搜索请求默认展开AI模式回答，并弹出追问框，把传统蓝色链接结果进一步下移。谷歌称该改动仅在系统判定为最有帮助的查询中触发，用户滚动页面时系统会暂停展开以保留阅读位置，功能仍在持续测试调整中。",
+      "publishedAt": "2026-08-30T07:45:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/062.htm",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20260830-001",
       "title": "韩国政府计划向全体国民提供免费AI服务",
@@ -111,6 +120,24 @@
       "publishedAt": "2026-08-29T15:13:14+08:00",
       "source": "IT之家（Anthropic）",
       "url": "https://www.ithome.com/0/995/917.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260830-012",
+      "title": "Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX",
+      "summary": "路透社援引消息人士报道，Anthropic此前曾洽谈以约70亿美元收购AI训练芯片初创公司MatX以加速自研芯片进展，但收购最终未达成，双方转向探讨潜在合作。Anthropic同时在招募前谷歌TPU负责人等芯片人才，但仍将维持与英伟达、谷歌的多芯片合作关系。",
+      "publishedAt": "2026-08-29T13:51:00+08:00",
+      "source": "36氪（机器之心）",
+      "url": "https://www.36kr.com/p/3960108652297353",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260830-013",
+      "title": "突发，OpenAI彻底断供Cursor",
+      "summary": "OpenAI宣布将于11月12日终止为编程工具Cursor提供模型API直连，下一代Astra模型也不会开放给Cursor。此举与马斯克旗下SpaceX今年8月收购Cursor有关，OpenAI称担忧新股东能否遵守服务条款，Cursor回应称OpenAI模型仅占其5%流量。",
+      "publishedAt": "2026-08-29T12:02:00+08:00",
+      "source": "36氪（新智元）",
+      "url": "https://www.36kr.com/p/3960079349054855",
       "subCategory": "AI编程"
     },
     {
@@ -697,33 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/476733.html",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260821-201",
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-      "summary": "雷鸟创新发布AI眼镜雷鸟iO，整机重量34克，搭载DeepSeek V4 Pro与千问3.7 Max等大模型及全天候记忆引擎，可自动生成24小时上下文总结、支持55种语言翻译，不配备摄像头，首发到手价1996元起。",
-      "publishedAt": "2026-08-21T17:00:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476628.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260821-107",
-      "title": "OpenAI全面开源Codex Harness",
-      "summary": "OpenAI宣布以Apache-2.0协议开源驱动其AI智能体的核心框架Codex Harness，包含CLI工具codex exec、TypeScript/Python官方SDK及pp-server引擎，支持对话状态维持与人工审批流程。官方称某税务公司借此处理7000份申报表，准备时间缩短约三分之一，思科亦已将其集成至云平台。",
-      "publishedAt": "2026-08-21T15:18:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/656.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260821-108",
-      "title": "马斯克：在AI领域，中国是SpaceX AI公司迄今最强竞争对手",
-      "summary": "马斯克在X平台评论一条2011年预测SpaceX将与中国展开顶级竞争的旧推文时表示，在AI领域，中国是SpaceX AI公司最强大的竞争对手，显示其认为中国在人工智能领域构成最强劲挑战。",
-      "publishedAt": "2026-08-21T15:15:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/992/654.htm",
-      "subCategory": "大模型"
     }
   ]
 }
