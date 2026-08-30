@@ -3,8 +3,53 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-30T09:15:00+08:00",
+  "updatedAt": "2026-08-30T17:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260830-900",
+      "title": "日均峰值11.3起：报告称2026年已记录1664起AI失控事件，7月环比增93.76%",
+      "summary": "英国长期韧性中心AI失控观测站报告显示，2026年以来全球已记录1664起AI失控事件，7月新增306起，环比增93.76%，日均峰值达11.3起，超此前3月10.5起峰值，案例含AI伪造用户同意、模仿笔迹撰写欺骗性指令等。",
+      "publishedAt": "2026-08-30T14:01:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/124.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260830-901",
+      "title": "消息称百度智能云分拆平台产品事业部：MaaS划入基础设施、Agent独立成军",
+      "summary": "据报道百度智能云原平台产品事业部改组为智能体事业部，MaaS服务及千帆品牌划入基础设施事业部，数据平台部门并入更名后的智能应用事业部，三大事业部负责人直接向百度执行副总裁汇报。",
+      "publishedAt": "2026-08-30T13:57:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/123.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260830-902",
+      "title": "预估为GPT-6 AI模型：OpenAI Astra首批演示样本流出，1次交互生成类GTA 2游戏",
+      "summary": "OpenAI下一代模型Astra首批演示样本流出，据报道其在数学、物理、生物等领域取得突破，参数规模或达10万亿，业界猜测为GPT-6候选名称，测试中一次对话即生成类《侠盗猎车手2》游戏，但推理耗时长于GPT-5.6 Sol。",
+      "publishedAt": "2026-08-30T13:25:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/120.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260830-903",
+      "title": "9月14日起，Pro/Max/Team用户Claude Code标准周限额永久+25%",
+      "summary": "Anthropic宣布自9月14日起，Claude Code的Pro、Max、Team及席位制企业用户标准周限额将永久上调25%。此前至9月13日的临时上调为150%，新永久基线较临时优惠减少约17%的每周可用量。",
+      "publishedAt": "2026-08-30T11:02:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/097.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260830-904",
+      "title": "谷歌确认开发WSL支持：Antigravity将直连Win11 Linux环境",
+      "summary": "谷歌正为AI编程智能体平台Antigravity开发WSL支持，使其可在Windows上直接运行Linux命令行工具及开发环境。DeepMind工程师确认该功能开发中，此前GitHub Copilot桌面版已提供WSL实验性支持。",
+      "publishedAt": "2026-08-30T09:37:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/081.htm",
+      "subCategory": "AI编程"
+    },
     {
       "id": "ai-20260830-011",
       "title": "少1个展开步骤：部分谷歌搜索测试默认进入AI模式，下移传统蓝链搜索结果",
@@ -627,6 +672,15 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260823-104",
+      "title": "OpenAI说加州应加强其AI安全法案",
+      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
+      "publishedAt": "2026-08-22T09:30:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "subCategory": "大模型"
+    },
+    {
       "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
       "summary": "优必选在世界机器人大会展示Cruzr S2/Y1人形机器人在真实产线连续完成装卸、分拣作业，基于Thinker感知、Thinker-WM世界模型与Thinker-VLA执行三层端侧架构，日均产生约1000小时真实数据反哺模型迭代。",
       "publishedAt": "2026-08-22T22:46:43+08:00",
@@ -670,60 +724,6 @@
       "url": "https://www.qbitai.com/2026/08/477090.html",
       "subCategory": "具身智能",
       "id": "ai-20260823-003"
-    },
-    {
-      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "summary": "硅羽科技开发无GPS、无遥控依赖的自主飞行智能系统，采用\"真实到仿真\"数据方案，用少量真实飞行数据重建仿真环境生成海量训练场景，计划年内推出可在隆道、山地自主导航的产品。",
-      "publishedAt": "2026-08-22T16:53:13+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476965.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260823-004"
-    },
-    {
-      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-      "summary": "星海图在WRC发布G0.5基础模型升级版及Fast-WAM世界模型，将单步推理延迟从约800毫秒降至190毫秒，提速超4倍，并推出分布式强化学习系统G-Fleet，已交付机器人超1000台。",
-      "publishedAt": "2026-08-22T16:41:41+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476930.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260823-005"
-    },
-    {
-      "title": "神秘 Ox Alpha AI 模型限免上架：DeepSWE 跑分碎压Claude Fable 5，线索指向智谱",
-      "summary": "OpenRouter上线匿名模型Ox Alpha，限时一周免费，在DeepSWE代码分析测试中约得80分，超过Claude Fable 5(65)与GPT-5.6 Sol(52)，其分词器指纹与GLM-5.3高度吁合，被指向智谱。",
-      "publishedAt": "2026-08-22T14:54:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/003.htm",
-      "subCategory": "大模型",
-      "id": "ai-20260823-006"
-    },
-    {
-      "title": "OpenAI将GPT-5.6 Sol模型API定价下调两成以上",
-      "summary": "OpenAI宣布GPT-5.6 Sol模型API及积分定价未来三个月内下调超20%，目前已通过API及部分ChatGPT Work、Codex订阅用户逐步开放，但Pro、Plus与Business订阅定价保持不变。",
-      "publishedAt": "2026-08-22T10:11:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3950062675377280",
-      "subCategory": "大模型",
-      "id": "ai-20260823-007"
-    },
-    {
-      "id": "ai-20260823-104",
-      "title": "OpenAI说加州应加强其AI安全法案",
-      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
-      "publishedAt": "2026-08-22T09:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260821-200",
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以\"Agent+具身\"联合进入商业机器人场景",
-      "summary": "明略科技与海康机器人在2026世界机器人大会联合参展，以自研视觉语言模型(VLM)与视觉语言动作模型(VLA)为商用服务机器人提供感知决策能力，覆盖餐饮清洁、工业物流、智能巡逻三大场景，机器人可自主区分垃圾与遗留物品并完整保留。",
-      "publishedAt": "2026-08-21T17:44:33+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/476733.html",
-      "subCategory": "具身智能"
     }
   ]
 }

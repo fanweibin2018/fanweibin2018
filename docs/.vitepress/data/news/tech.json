@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-30T09:15:00+08:00",
+  "updatedAt": "2026-08-30T17:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260830-900",
+      "title": "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
+      "summary": "英国电信业高管警告，若5G网络升级持续滞后于其他国家，英国可能在全球AI竞赛中掉队。报道援引Which?消费者报告称，英国移动网络覆盖落后于27个欧盟成员国及G7国家，网络性能全球排名第57位。Vodafone Three网络总监称基础设施不足可能成为英国竞争力的\"变革性挑战\"。",
+      "publishedAt": "2026-08-30T16:39:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/190.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260830-901",
+      "title": "特斯拉 Cybercab 车头 RGB 灯带可显示不同颜色，避免乘客上错车",
+      "summary": "特斯拉Cybercab无人驾驶出租车采用车头RGB灯带识别系统，每辆车分配独一无二的颜色标识并与Robotaxi应用同步，方便乘客在多车聚集时准确辨认车辆。文章指出该方案对视障或色盲用户不够友好。Cybercab将于9月3日起在奥斯汀向公众开放载客服务。",
+      "publishedAt": "2026-08-30T16:35:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/189.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-902",
+      "title": "机械革命翼龙 15 Air 2026 笔记本锐龙 7 H 449 版发布：RTX 5060，国补到手价 9999 元",
+      "summary": "机械革命发布翼龙15 Air 2026笔记本锐龙7 H 449版，搭载RTX 5060显卡、15.3英寸2.5K 240Hz OLED屏、24GB内存及1TB存储，机身厚18.75mm、重约1.6kg。新机9月4日开启预售，9月10日正式发售，官方指导价13999元，国补到手价9999元。",
+      "publishedAt": "2026-08-30T16:18:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/186.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260830-903",
+      "title": "华擎发布 B550M Pro-A WiFi 6E 主板：AMD AM4 平台、8 相供电",
+      "summary": "华擎推出B550M Pro-A WiFi 6E主板，是原版B550M Pro-A的升级款，主要变化为新增WiFi 6E无线连接。该主板兼容锐龙3000/4000G/5000/5000G系列处理器，采用micro-ATX板型、8相供电，配四条DDR4插槽，官方零售价尚未公布。",
+      "publishedAt": "2026-08-30T16:12:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/185.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-904",
+      "title": "特斯拉欧洲入门版 Model 3 更换新轮胎，续航提升 38 公里至 572 公里",
+      "summary": "特斯拉为欧洲入门版Model 3后驱车型更换18英寸新款轮毂与低滚阻轮胎，未改动电池、电机或软件，WLTP续航里程从534公里提升至572公里，增幅约7.1%。该升级适用于德国、法国等左舵欧洲市场，英国、爱尔兰等右舵市场暂未跟进。",
+      "publishedAt": "2026-08-30T16:03:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/181.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-905",
+      "title": "全球仅 3 家能铸：马斯克 SpaceX 突破 AI 供电瓶颈，自产涡轮叶片提前 18 个月投运",
+      "summary": "马斯克透露SpaceX计划在得州巴斯特罗普自建铸造厂生产燃气轮机叶片，称全球仅3家企业能生产大型燃气轮机热端叶片，订单已排至2030年。自产叶片有望将建设周期提前最多18个月，缓解AI数据中心供电瓶颈。SpaceX与特斯拉还计划各自建设约100GW年产能的太阳能产线。",
+      "publishedAt": "2026-08-30T15:53:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/179.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260830-906",
+      "title": "因缺少 MTE 安全功能，GrapheneOS 当前阶段放弃适配谷歌 Pixel 11 系列手机",
+      "summary": "GrapheneOS团队宣布放弃为谷歌Pixel 11系列适配系统，原因是该机型在软件、固件及硬件层面均缺失MTE内存标记扩展功能，团队认为谷歌此举是为降低成本。MTE自Pixel 8起被GrapheneOS全系统集成，用于增强对内核及系统进程的漏洞防护，官方建议用户改购Pixel 8/9/10。",
+      "publishedAt": "2026-08-30T15:48:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/177.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260830-907",
+      "title": "蔚来浙江省第 500 座换电站上线，已覆盖全省高速换电网络",
+      "summary": "蔚来在浙江温州上线第500座换电站，实现浙江全省高速公路及县域换电网络覆盖，浙江也成为蔚来销量首个突破20万辆的省级行政区。目前蔚来全国换电站达4058座，覆盖9纵11横高速换电网络，服务16个城市群，计划2026年内建成超百条风景区换电走廊。",
+      "publishedAt": "2026-08-30T15:28:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/168.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-908",
+      "title": "日企 Links 推出 LC7530 迷你主机：锐龙 5 7530U 芯片、16GB LPDDR4 内存",
+      "summary": "日本企业Links推出LC7530迷你主机，搭载2023年发布的AMD锐龙5 7530U处理器（Zen 3架构，6核12线程，最高睿频4.5GHz），配备不可升级的16GB LPDDR4-3200内存及Radeon RX Vega 7核显、512GB固态硬盘，机身仅12.8×12.8×4.13厘米，售价约合人民币4008元。",
+      "publishedAt": "2026-08-30T15:25:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/167.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-909",
+      "title": "大众纯电 ID. Tiguan 曝光，将接替 ID.4/ID.5",
+      "summary": "大众全新纯电SUV ID. Tiguan曝光，将基于升级版MEB+平台打造，用于接替现款ID.4与ID.5车型，电池容量及直流快充性能有望提升但具体参数未公布。外观采用更挺拔的传统SUV造型，前脸配贯穿式LED灯带与独立日行灯，尾部改为带两组矩形灯组的棱角化尾灯设计。",
+      "publishedAt": "2026-08-30T15:24:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/166.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260830-910",
+      "title": "2026开源创新生态大会在苏州成功举办 江苏开源生态体系建设加速推进",
+      "summary": "2026开源创新生态大会8月28日在苏州举行，逾200位政产学研及开源社区代表参会，紫金开源区发布OPC孵化行动计划，采用苏州、南京双中心模式，首批孵化16个涵盖AI、具身智能等领域的项目。会上还成立总规模10亿元的紫金开源OPC创新投资联盟，并遴选30个开源项目予以培育支持。",
+      "publishedAt": "2026-08-30T15:20:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/164.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260830-911",
+      "title": "酷冷至尊龙影二代 Pro 黑金限量款 360 一体式水冷散热器开售：限量 1999 台，1299 元",
+      "summary": "酷冷至尊推出龙影二代Pro黑金限量款360一体式水冷散热器，全球限量1999台，每台附带专属编号铭牌，售价1299元。产品采用双腔水泵设计，噪音25分贝，搭载三枚预装铝制风扇，支持磁吸更换的三种外观顶盖，并针对AMD X3D平台CCD发热点位偏移设计进行了散热优化。",
+      "publishedAt": "2026-08-30T15:18:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/160.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260830-912",
+      "title": "徐直军谈鸿蒙生态临界点：突破 1 亿用户就如同核裂变的\"临界质量\"或者飞机起飞的\"离地速度\"",
+      "summary": "华为轮值CEO徐直军在2026鸿蒙生态大会上表示，鸿蒙生态用户突破1亿是关键节点，如同核裂变的\"临界质量\"或飞机起飞的\"离地速度\"。他称100万用户可验证系统可用性，1000万用户能快速发现并优化问题，1亿用户才能让开发者建立商业可持续性。全球化拓展与AI时代终端智能竞争力仍是两大挑战。",
+      "publishedAt": "2026-08-30T15:14:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/155.htm",
+      "subCategory": "操作系统"
+    },
     {
       "id": "tech-20260830-021",
       "title": "Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地",
@@ -607,123 +724,6 @@
       "url": "https://news.mydrivers.com/1/1146/1146722.htm",
       "subCategory": "芯片硬件",
       "id": "tech-20260828-514"
-    },
-    {
-      "id": "tech-20260827-101",
-      "title": "英伟达推出 NVHBM 定制高带宽内存：相比 HBM4e 带宽提升 30%、功耗降低 15%",
-      "summary": "英伟达面向NVLink Fusion合作伙伴推出定制高带宽内存NVHBM，相比标准HBM4e单堆栈带宽最高提升30%、功耗降低15%，并通过将内存控制器迁移至HBM堆栈基础裸片释放最多30%额外算力空间，简化先进封装布线。亚马逊Annapurna实验室成为首个合作伙伴，计划将其用于未来AWS基础设施及Trainium 4芯片。",
-      "publishedAt": "2026-08-27T08:07:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/806.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260827-102",
-      "title": "高通 6G Leadership Day 今日举办，马德嘉主题演讲并\"剧透\"6G 商用进度",
-      "summary": "高通8月26日在圣迪戈总部举剢6G Leadership Day，高级副总裁马德嘉发表主题演讲，提出6G围绕极致连接、广域感知、高性能计算三大支柱：6至8GHz频段可实现400MHz信道带宽，并展示无需额外传感器、依托蜂窝网络实现雷达探测的ISAC集成感知通信原型。公司预聡2028年完成6G标准验证与预商用测试，2029年正式商用部署。",
-      "publishedAt": "2026-08-27T07:58:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/804.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260827-001",
-      "title": "开启 iPhone 18 Pro / Ultra 系列新篇章，苹果发布会官宣定档 9 月 10 日",
-      "summary": "苹果宣布秋季发布会定于9月10日（北京时间）举行，主题为\"Surprise and shine\"，预计发布iPhone 18 Pro/Max及首款折叠屏Ultra机型，这是新任CEO约翰·特纳斯的首场发布会。",
-      "publishedAt": "2026-08-27T00:06:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/787.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260827-002",
-      "title": "微软 Win11 新功能曝光：未来将支持手机远程操控关机、重启电脑",
-      "summary": "Windows Latest发现Link to Windows应用代码显示，微软正开发远程电源控制功能，未来可用手机远程关机、重启或休眠PC，该功能目前处于测试禁用状态。",
-      "publishedAt": "2026-08-26T23:59:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/785.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260827-003",
-      "title": "Waymo：我们的无人驾驶出租车严重事故发生率仅有人驾的 1/16",
-      "summary": "Waymo宣布进军德国慕尼黑市场，并公布数据称其自动驾驶车辆严重伤害事故发生率仅为人类司机的1/16、行人伤害事故率为1/14，计划明年下半年开始商业化运营。",
-      "publishedAt": "2026-08-26T23:50:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/784.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260827-004",
-      "title": "英特尔 18A-P 工艺详解：0.5V 低电压频率跃升 30%，Diamond Rapids 与 Nova Lake 率先搭载",
-      "summary": "英特尔在Hot Chips 2026大会上公布18A-P工艺细节，称0.5V低电压下频率提升30%，同等功耗下性能提升覅9%，Diamond Rapids与Nova Lake处理器将率先采用，2027年商用。",
-      "publishedAt": "2026-08-26T23:41:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/781.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260827-005",
-      "title": "沃尔沃在欧美上线危险预警功能，车辆之间可相互分享道路施工、交通事故信息",
-      "summary": "沃尔沃在欧洲、美国和加拿大为EX90、ES90、EX60等车型上线危险预警功能，车辆可通过云端相互分享道路施工、行人及交通事故信息，目前已有百万辆联网车辆具备该能力。",
-      "publishedAt": "2026-08-26T23:39:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/780.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260827-006",
-      "title": "360骑行记录仪V6小魔方发布：耐摧防雨 机身仅4厘米",
-      "summary": "360发布V6小魔方骑行记录仪，售价349元，机身仅4厘米，支持2K录制、四层防水及碰撞自动录制，采用超级电容供电，无需内置电池，适用于电动车与摩托车。",
-      "publishedAt": "2026-08-26T22:27:32+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146645.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260827-007",
-      "title": "超越V4 Flash 千问Qwen3.8-Flash大模型开源：提前用上下代Qwen4架构",
-      "summary": "阿里通义千问开源Qwen3.8-Flash大模型，提前采用下一代Qwen4架构，为125B参数MoE模型，单次激数6B参数，原生支持262K上下文，输入价格为每百万token 0.16美元。",
-      "publishedAt": "2026-08-26T21:39:44+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146643.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260827-008",
-      "title": "苹果真良心！网友未发货Mac mini M4免费升级M6新款：价格不变",
-      "summary": "苹果发布搭载M6及M5 Pro芯片的新款Mac mini，起售价6999元，此前购买未发货M4机型的用户可免费升级至M6版本且价格不变，M6为苹果首款采用台积电2nm工艺的芯片。",
-      "publishedAt": "2026-08-26T21:33:10+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1146/1146642.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "三星电子发布 P9、P7 移动固态硬盘，配备 USB4 接口",
-      "summary": "三星在gamescom 2026发布P9、P7两款移动固态硬盘，P9顺序读写速率最高达4000MB/s和3800MB/s，容量覆盖1TB至8TB，将于8月31日起在全球开售。",
-      "publishedAt": "2026-08-26T16:36:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/625.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260826-008"
-    },
-    {
-      "title": "小鹏 G9L 首发搭载第二代 VLA 全新版本，X-Foresight 世界预测模型可推演未来 6 秒环境运动轨迹",
-      "summary": "小鹏G9L首发第二代VLA系统，新增X-Foresight世界预测模型可推演未来6秒环境运动轨迹，决策记忆窗口延长至30秒，响应速度较前代提升300%。",
-      "publishedAt": "2026-08-26T16:28:12+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/610.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260826-007"
-    },
-    {
-      "title": "OPPO ColorOS 17 官宣下月亮相：系统材质升级，全新锁屏效果公开",
-      "summary": "OPPO设计总监陈旭宣布ColorOS 17将于下月发布，系统材质全面升级，在提升透明度的同时保持信息清晰，并公开全新锁屏效果，一加、realme用户可参与内测。",
-      "publishedAt": "2026-08-26T16:17:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/607.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260826-006"
     }
   ]
 }
