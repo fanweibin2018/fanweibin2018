@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-08-30T17:00:00+08:00",
+  "updatedAt": "2026-08-31T00:55:00+08:00",
   "items": [
+    {
+      "id": "trade-20260831-001",
+      "title": "旺季前大清洗！一批卖家已经中招了",
+      "summary": "雨果跨境报道，旺季来临前跨境电商知识产权诉讼集中爆发，K-Pop Demon Hunters、LULU Food、Craftsman工具、肯塔基大学等品牌方发起多起版权商标诉讼及临时禁令，涉及数十名批量铺货、POD及一件代发卖家。",
+      "publishedAt": "2026-08-30T17:31:06+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188588",
+      "subCategory": "平台政策"
+    },
     {
       "id": "trade-20260830-005",
       "title": "中国外贸形势分析及预测（2026年8月更新）",
@@ -715,15 +724,6 @@
       "source": "AMZ123跨境导航",
       "url": "https://www.amz123.com/kx/XRA9ySiv",
       "subCategory": "选品趋势"
-    },
-    {
-      "id": "trade-20260824-111",
-      "title": "泰国洪灾影响物流 Shopee放宽受灾卖家履约时限",
-      "summary": "AMZ123报道，泰国南部洪灾致物流受阻，Shopee泰国本土店将8月19日至23日订单及未揉收存量订单的最晚配送时限延长至8月24日，逸期妃投不计入迟发率，非受灾地区卖家不受影响。",
-      "publishedAt": "2026-08-24T17:38:14+08:00",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/scVIc4yi",
-      "subCategory": "物流仓储"
     }
   ]
 }

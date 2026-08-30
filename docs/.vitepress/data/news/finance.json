@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-08-30T17:00:00+08:00",
+  "updatedAt": "2026-08-31T00:55:00+08:00",
   "items": [
+    {
+      "id": "finance-20260831-001",
+      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
+      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
+      "publishedAt": "2026-08-30T12:24:00-04:00",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260831-002",
+      "title": "A股5550家公司披露中报 合计多赚5794.53亿元",
+      "summary": "东方财富统计显示，已有5550家A股公司披露2026年半年报，合计实现营业收入37.68万亿元，同比增长7.63%；净利润3.58万亿元，同比增长19.40%，较去年同期多赚5794.53亿元。",
+      "publishedAt": "2026-08-30T21:55:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608303859501114.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260831-003",
+      "title": "新五丰上半年营收28.33亿元 净利润同比由盈转亏",
+      "summary": "新五丰发布2026年半年报，报告期内实现营业收入28.33亿元，归属于上市公司股东的净利润同比由盈转亏，公司称正通过管理、生产、采购环节降本增效应对压力。",
+      "publishedAt": "2026-08-30T20:11:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4162760.html",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260831-004",
+      "title": "财通证券上半年净利润19.00亿元 同比增长75.38%",
+      "summary": "财通证券发布2026年半年报，实现营业收入43.47亿元，同比增长46.90%；归母净利润19.00亿元，同比增长75.38%，创上市以来同期历史最高水平。",
+      "publishedAt": "2026-08-30T18:45:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4161832.html",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20260830-900",
       "title": "华峰测控：2026年半年度净利润同比增长112.6%",
@@ -58,6 +94,15 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608303859353849.html",
       "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260831-005",
+      "title": "中国船舶上半年净利润99.54亿元 同比增长163.51%",
+      "summary": "中国船舶发布2026年半年报，实现营业收入915.3亿元，同比增长26.01%；归属于上市公司股东的净利润99.54亿元，同比增长163.51%，拟每10股派4.65元。",
+      "publishedAt": "2026-08-30",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4162766.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260830-906",
@@ -618,6 +663,15 @@
       "subCategory": "一级市场"
     },
     {
+      "title": "WTI、布伦特原有40824日结算价均扢2.35%",
+      "summary": "WTI原有48月24日结算价下扢2.35%至85.01美元/桶，布伦特原油下扢2.35%至92.17美元/桶，单日跌超2美元。美国公布对伊朗新一轮制裁后，市场获利了结，抵消制裁对供应担忧的支撑。",
+      "publishedAt": "2026-08-24",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+      "subCategory": "大宗商品",
+      "id": "finance-20260825-001"
+    },
+    {
       "id": "finance-20260824-101",
       "title": "巴拿马运河宣布减少船舶通行数量 航运或迈入超级景气周期",
       "summary": "因厄尔尼诺导致降雨不足，巴拿马运河管理局宣布自9月起限制每日船舶通行数量，9月3日起甲36艘降至34艘，9月15日起进一步降至32艘。同时红海及霍尔木兹海峽局势推升绕行需求，机构称集装箱及油轮运价持续超预期，行业景气度上升。",
@@ -634,15 +688,6 @@
       "source": "新浪新闻",
       "url": "https://news.sina.com.cn/w/2026-08-24/doc-inipketz0176806.shtml",
       "subCategory": "风险事件"
-    },
-    {
-      "title": "WTI、布伦特原有40824日结算价均扢2.35%",
-      "summary": "WTI原有48月24日结算价下扢2.35%至85.01美元/桶，布伦特原油下扢2.35%至92.17美元/桶，单日跌超2美元。美国公布对伊朗新一轮制裁后，市场获利了结，抵消制裁对供应担忧的支撑。",
-      "publishedAt": "2026-08-24",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
-      "subCategory": "大宗商品",
-      "id": "finance-20260825-001"
     },
     {
       "id": "finance-20260824-003",
@@ -670,60 +715,6 @@
       "source": "36氪",
       "url": "https://www.36kr.com/newsflashes/3951906148072579",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260823-103",
-      "title": "江铃汽车：上半年归母净利润7.39亿元，同比增长0.83%",
-      "summary": "江铃汽车发堃2026年半年报，营业收入193.62亿元，同比增长7.02%；归属于股东净利润7.39亿元，同比增长0.83%，基本每股收益0.86元。",
-      "publishedAt": "2026-08-23T17:13:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3951848624766342",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260823-102",
-      "title": "中航成飞：上半年归母净利润7.09亿元，同比下降22.32%",
-      "summary": "中航成飞发堃2026年半年报，营业收入同比下降26.74%至151.67亿元，归属于股东净利润同比下降22.32%至7.09亿元，基本每股收益0.2654元。",
-      "publishedAt": "2026-08-23T16:41:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3951841769717124",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260823-101",
-      "title": "中国石化：上半年净利润256亿元 同比增长19.3%",
-      "summary": "中国石化发堃2026年半年报，实现营业收入1.4366万亿元，归属于母公司股东净利润256亿元，同比增长19.3%；董事会批准中期每股派息0.105元，现金分红比例49.5%，公司已连续五年实施股份回购以维护企业价值。",
-      "publishedAt": "2026-08-23T16:01:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3951821800324483",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260823-005",
-      "title": "阿里巴巴拟配售800亿港元新股 全部投入AI建设",
-      "summary": "阿里巴巴宣布向美国境外非美国人士配售新股，总额800亿港元，为2019年港股上市以来首次配售，所得款项净额将全部用于全栈AI能力建设及基础设施投入，市场消息称已获超额认购。",
-      "publishedAt": "2026-08-23T13:19:58+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/news/article/L515BP4S0001899O.html",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260823-007",
-      "title": "特朗普6月执仓 操作逸千笔金融交易 频繁买卖股票、债券和ETF",
-      "summary": "据8月22日披露文件，美国总统特朗普6月内完成逸千笔证券交易，涉及股票、债券及ETF买卖，总额介于7810万至2.631亿美元，其间买入伯充哈里、维萨等股份并卖出Meta仓位。白宫回应称资产由信托管理，不存在利益冲突。",
-      "publishedAt": "2026-08-23T09:27:00+08:00",
-      "source": "HK01",
-      "url": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60382729/%E7%89%B9%E6%9C%97%E6%99%AE6%E6%9C%88%E6%89%A7%E4%BB%93-%E6%93%8D%E4%BD%9C%E9%80%BE%E5%8D%83%E7%AC%94%E9%87%91%E8%9E%8D%E4%BA%A4%E6%98%93-%E9%A2%91%E7%B9%81%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8-%E5%80%BA%E5%88%B8%E5%92%8Cetf",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260824-005",
-      "title": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
-      "summary": "据路透社报道，快时尚企业Shein在香港IPO中拟发啀‎2.8亿股，定价区间为每股47.6至49.5港元，对应最高约270亿美元估值，最多募资138.6亿港元，将于8月31日定价、9月1日在港交所挂牌交易。",
-      "publishedAt": "2026-08-23",
-      "source": "Investing.com（路透社）",
-      "url": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
-      "subCategory": "一级市场"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-30T17:00:00+08:00",
+  "updatedAt": "2026-08-31T00:55:00+08:00",
   "items": [
     {
       "id": "ai-20260830-900",
@@ -429,15 +429,6 @@
       "subCategory": "AI应用"
     },
     {
-      "title": "Anthropic统一Claude聊天与Cowork记忆系统",
-      "summary": "Anthropic宣布打通Claude聊天与Claude Cowork的记忆系统，用户在一处提供的信息可在另一处自动生效，支持实时记录、查看编辑删除，默认排除健康记录等敏感信息，已面向Free、Pro、Max全平台开放。",
-      "publishedAt": "2026-08-26T01:50:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "subCategory": "AI应用",
-      "id": "ai-20260826-004"
-    },
-    {
       "id": "ai-20260827-007",
       "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
       "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
@@ -445,6 +436,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
       "subCategory": "具身智能"
+    },
+    {
+      "title": "Anthropic统一Claude聊天与Cowork记忆系统",
+      "summary": "Anthropic宣布打通Claude聊天与Claude Cowork的记忆系统，用户在一处提供的信息可在另一处自动生效，支持实时记录、查看编辑删除，默认排除健康记录等敏感信息，已面向Free、Pro、Max全平台开放。",
+      "publishedAt": "2026-08-26T01:50:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "subCategory": "AI应用",
+      "id": "ai-20260826-004"
     },
     {
       "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
@@ -600,6 +600,24 @@
       "subCategory": "大模型"
     },
     {
+      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
+      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30563",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-002"
+    },
+    {
+      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
+      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30577",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-003"
+    },
+    {
       "id": "ai-20260824-002",
       "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
       "summary": "据Business Insider报道，开源模型托管平台Hugging Face正探索出售事宜，潜在交易估值或达130亿美元以上，公司已与银行合作评估买家意向，此前2023年融资估值为45亿美元。",
@@ -625,24 +643,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478358.html",
       "subCategory": "AI编程"
-    },
-    {
-      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
-      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30563",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-002"
-    },
-    {
-      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
-      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30577",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-003"
     },
     {
       "id": "ai-20260823-201",

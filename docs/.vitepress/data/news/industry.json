@@ -3,8 +3,53 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-30T17:00:00+08:00",
+  "updatedAt": "2026-08-31T00:55:00+08:00",
   "items": [
+    {
+      "id": "industry-20260831-001",
+      "title": "顺丰董事长王卫加入极兔董事会，任非执行董事",
+      "summary": "极兔速递公告，顺丰控股董事长王卫获委任为公司非执行董事，任期至2028年底。今年1月顺丰与极兔达成相互持股协议，6月完成认购交割，双方另订立综合物流服务框架协议。",
+      "publishedAt": "2026-08-30T22:22:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/244.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260831-002",
+      "title": "追觅起诉小红书，案由名誉权纠纷",
+      "summary": "法院开庭信息显示，追觅科技（苏州）有限公司因名誉权纠纷起诉小红书运营主体行吟信息科技，案件将于9月8日在上海市黄浦区人民法院开庭审理。",
+      "publishedAt": "2026-08-30T22:09:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/242.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260831-003",
+      "title": "乘联分会：2026年上半年中国汽车行业利润率3.8%，利润总额1954亿元，同比下降20%",
+      "summary": "乘联分会数据显示，2026年上半年中国汽车行业利润率3.8%，利润总额1954亿元，同比下降20%；行业收入5.19万亿元，同比增1.8%，成本增速达2.8%，行业利润率已连续三年下滑。",
+      "publishedAt": "2026-08-30T19:37:26+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1848800.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260831-004",
+      "title": "新加坡陆路交通局：2026年1-7月比亚迪注册7928辆，纯电市占率40.3%",
+      "summary": "据新加坡陆路交通局数据，2026年1-7月比亚迪在新加坡注册量达7928辆，市场份额24.7%，纯电市场占有率40.3%，已连续19个月蝉联新加坡乘用车品牌销量榜首。",
+      "publishedAt": "2026-08-30T19:36:14+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1848810.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260831-005",
+      "title": "RD观测：2026年7月华为国内手机市场份额20.6%，环比增长0.4%",
+      "summary": "据博主RD观测统计，2026年7月华为国内手机市场份额达20.6%，环比提升0.4个百分点；截至第31周，华为Mate 80系列累计销量约827.84万台。",
+      "publishedAt": "2026-08-30T19:35:45+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1848815.html",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20260829-101",
       "title": "国家数据发展研究院：2025年我国智能体专利授权量超3400件，增速为上一年两倍以上",
@@ -24,21 +69,21 @@
       "subCategory": "企业服务"
     },
     {
-      "id": "industry-20260830-005",
-      "title": "高通HBC方案搅动内存版图，三星与SK海力士卷入HBM之外新赛道",
-      "summary": "报道称高通推出的高带宽连接(HBC)技术正将三星与SK海力士拉入AI基础设施内存领域的新竞争，行业竞争焦点从HBM堆叠容量扩展至内存与计算间的数据传输效率。",
-      "publishedAt": "2026-08-29T06:39:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260829-900",
       "title": "芯片通胀：AI的隐性成本",
       "summary": "报道称，五大AI巨头今年基础设施投入预计超6500亿美元，摩根士丹利研究显示存储芯片价格一年内上涨近六倍，索尼、微软、联想等厂商已上调电脑和游戏主机售价，PC与智能手机2026年出货量预计明显下滑。",
       "publishedAt": "2026-08-29",
       "source": "199IT",
       "url": "http://www.199it.com/archives/1848608.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260830-005",
+      "title": "高通HBC方案搅动内存版图，三星与SK海力士卷入HBM之外新赛道",
+      "summary": "报道称高通推出的高带宽连接(HBC)技术正将三星与SK海力士拉入AI基础设施内存领域的新竞争，行业竞争焦点从HBM堆叠容量扩展至内存与计算间的数据传输效率。",
+      "publishedAt": "2026-08-29T06:39:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html",
       "subCategory": "半导体产业"
     },
     {
@@ -672,15 +717,6 @@
       "id": "industry-20260823-010"
     },
     {
-      "title": "Korean display makers step up OLED patent push as China narrows technology gap",
-      "summary": "韩国面板厂商加强OLED专利授权及跨境维权力度，原因是中国竞争对手自2020年以来技术与市场份额差距持续缩小，竞争压力已延伸至笔记本电脑与显示器等高端产品线。",
-      "publishedAt": "2026-08-21T06:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260820VL213/patent-display-technology-licensing-lg-display.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-007"
-    },
-    {
       "id": "industry-20260824-001",
       "title": "Chip Packaging Experts Flag Heat as AI's Biggest Bottleneck; AI-Driven Design, CPO and STCO May Help",
       "summary": "业内专家指出，随着芯片堆叠密度提升，散热已成为AI芯片扩张的主要瓶颈，英伟达、AMD等AI芯片热设计功耗普遍蠅1千瓦，液冷渗透率预脈2026年升至53%，CPO与STCO被视为潜在缓解方案。",
@@ -688,42 +724,6 @@
       "source": "TrendForce",
       "url": "https://www.trendforce.com/news/2026/08/21/news-chip-packaging-experts-flag-heat-as-ais-biggest-bottleneck-ai-driven-design-cpo-and-stco-may-help/",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260824-004",
-      "title": "Supermicro's internal probe clears senior management in export-control case",
-      "summary": "美超微独立董事主导的内部调查显示，没有证据表明现任高管知悉涉嫌违规出口受管控产品的行为，该调查针对此前有关公司出口合规问题的指控展开。",
-      "publishedAt": "2026-08-21",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL217/supermicro-investigation-sales.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260824-007",
-      "title": "Global Smartphone Market to Fall 14% in 2026 as Samsung is Expected to Retake No. 1 Position",
-      "summary": "Counterpoint预测2026年全球智能手机出货量同比下降14.3%，三星凭借供应链优势逆势增长0.8%重夺第一，苹果预计降2.1%，多数中国厂商跌幅达15%至34%，华为则预计增长8%。",
-      "publishedAt": "2026-08-21",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/global-smartphone-market-to-fall-14-percent-in-2026-as-samsung-to-retake-number-1-position",
-      "subCategory": "行业研报"
-    },
-    {
-      "title": "Intel and Memory: A History of Exits, and a New Bid to Return",
-      "summary": "英特尔CEO陈立武表态公司有意重返存储芯片业务，正探索XBM（跨批次内存）和ZAM（Z角内存）两种新型架构，目栟2030年后实现商用，此前该公司已两次退出内存市场。",
-      "publishedAt": "2026-08-21",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/21/news-intel-and-memory-a-history-of-exits-and-a-new-bid-to-return/",
-      "subCategory": "半导体产业",
-      "id": "industry-20260822-001"
-    },
-    {
-      "title": "Rapidus Scales Up Advanced Packaging, Targets 8-Reticle Interposers With 600mm Panels by 2030",
-      "summary": "日本Rapidus公布先进封装路线图，计划到2030年将中介层规模扩展至8倍光罩尺寸并配套600×600毫米面板级工艺，此前已展示全球首个大尺寸玻璃中介层原型，量产目标为2028年。",
-      "publishedAt": "2026-08-21",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/21/news-rapidus-scales-up-advanced-packaging-targets-8-reticle-interposers-with-600mm-panels-by-2030/",
-      "subCategory": "半导体产业",
-      "id": "industry-20260822-002"
     }
   ]
 }
