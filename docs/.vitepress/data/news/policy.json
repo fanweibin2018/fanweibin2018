@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-08-31T00:55:00+08:00",
+  "updatedAt": "2026-08-31T09:30:00+08:00",
   "items": [
+    {
+      "title": "南京住房公积金异地贷款范围扩大至全国 9月1日起施行",
+      "summary": "南京住房公积金管理中心宣布，自2026年9月1日起，全国范围内住房公积金缴存人在南京购房均可申请异地贷款，此前该政策仅覆盖江苏、安徽两省29个城市，南京市民赴安徽购房也可同步享受异地提取便利。",
+      "publishedAt": "2026-08-30T11:42:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686698.shtml",
+      "subCategory": "产业政策",
+      "id": "policy-20260831-001"
+    },
+    {
+      "title": "海南全岛封关运作后自贸港建设取得四方面进展",
+      "summary": "海南官员介绍，全岛封关运作以来海南通关时效提升20%，今年前7个月出入境旅客达1.818亿人次，同比增长27.1%；\"零关税\"商品清单占比由21%扩大至74%，涵盖逾6600个税目，累计减免税款59.8亿元。",
+      "publishedAt": "2026-08-30T10:17:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686669.shtml",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260831-002"
+    },
     {
       "id": "policy-20260830-004",
       "title": "国家数据局：词元市场需求呈现爆发式增长",
@@ -22,6 +40,24 @@
       "source": "中央网信办（中国互联网协会）",
       "url": "https://www.cac.gov.cn/2026-08/29/c_1789665114197079.htm",
       "subCategory": "数字经济"
+    },
+    {
+      "title": "中国证券业协会、中基协发布证券公司交易信息系统接入管理规范",
+      "summary": "中国证券业协会、中国证券投资基金业协会联合发布《证券公司交易信息系统接入管理规范（试行）》，明确私募基金接入证券公司交易系统的备案要求，禁止场外配资、违规出借交易系统，要求证券公司每季度结束后10个工作日内报送接入情况，自2026年8月28日起实施。",
+      "publishedAt": "2026-08-28T23:44:36+08:00",
+      "source": "每日经济新闻",
+      "url": "https://www.nbd.com.cn/articles/2026-08-28/4565387.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260831-003"
+    },
+    {
+      "title": "财政部等三部门规范个人转让上市公司限售股所得个人所得税政策",
+      "summary": "财政部、税务总局、中国证监会联合公告，明确限售股解禁后产生的送、转股纳入个人所得税征税范围，取消原15%成本扣除规则，证券机构未准确申报成本的按全额转让收入计税，采取新老划断处理，自2026年8月28日起施行。",
+      "publishedAt": "2026-08-28T21:13:09+08:00",
+      "source": "新华网",
+      "url": "https://www.news.cn/20260828/436a4c3f2cec465d92242142c8a8cbce/c.html",
+      "subCategory": "金融监管",
+      "id": "policy-20260831-004"
     },
     {
       "title": "证监会发文支持构建房地产发展新模式",
@@ -69,6 +105,15 @@
       "id": "policy-20260829-003"
     },
     {
+      "title": "商务部回应美301调查：反对针对16个经济体的产能过剩指控",
+      "summary": "商务部对美方拟发起的301调查作出回应，指出该调查针对16个经济体、以产能过剩为由展开，属于保护主义行为，中方对此表示反对。",
+      "publishedAt": "2026-08-28T06:00:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608273856968940.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260828-505"
+    },
+    {
       "id": "policy-20260829-101",
       "title": "国家发展改革委召开全国投资工作推进会议",
       "summary": "国家发展改革委8月28日召开全国投资工作推进会议，主任郑栅洁及多部委负责人参会，会议指出当前投资运行呈现结构优化、提质增效特征，同时坦承存在困难挑战，部署加快政府债券和政策性金融工具资金拨付、推进重大基础设施项目、落实\"六网\"建设规划、简化用地环评审批及强化民间资本参与重大项目等重点任务。",
@@ -103,15 +148,6 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
       "subCategory": "海外政策"
-    },
-    {
-      "title": "商务部回应美301调查：反对针对16个经济体的产能过剩指控",
-      "summary": "商务部对美方拟发起的301调查作出回应，指出该调查针对16个经济体、以产能过剩为由展开，属于保护主义行为，中方对此表示反对。",
-      "publishedAt": "2026-08-28T06:00:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608273856968940.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260828-505"
     },
     {
       "title": "工信部等四部门部署道路机动车辆产品生产一致性和质量提升专项行动",
@@ -688,42 +724,6 @@
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_b8f21e5d0514448ba40e45d89a96579c.html",
       "subCategory": "反垄断"
-    },
-    {
-      "id": "policy-20260818-006",
-      "title": "Statement on FTC Win Blocking Loctite, Liquid Nails Construction Adhesive Merger",
-      "summary": "美国联邦贸易委员会宣布，纽约南区联邦法院经七日审理后签发永久禁令，阻止德国汉高公司以7.25亿美元收购建筑胶粘剂厂商Liquid Nails，认定该交易将消除Loctite与Liquid Nails之间的竞争。",
-      "publishedAt": "2026-08-17",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/statement-ftc-win-blocking-loctite-liquid-nails-construction-adhesive-merger",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260818-007",
-      "title": "Bill Payment Firm Doxo to Pay $2.1 Million to Settle FTC Allegations It Deceived Consumers and Charged Them Add-On Fees",
-      "summary": "美国联邦贸易委员会宣布，账单支付公司Doxo同意支付210万美元，和解其涉嫌通过误导性搜索广告冒充账单方、隐瞒附加费用并在未经明确同意情况下为用户开通订阅服务的指控。",
-      "publishedAt": "2026-08-17",
-      "source": "Federal Trade Commission",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/bill-payment-firm-doxo-pay-21-million-settle-ftc-allegations-it-deceived-consumers-charged-them-add",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260818-008",
-      "title": "Full steam ahead to fast-track more homes near stations",
-      "summary": "英国政府发布新版《国家规划政策框架》，对火车、有轨电车及地铁站步行可达范围内符合条件的住宅项目实行\"默认批准\"，并要求重大项目中无障碍住宅占比不低于40%，以加快住房建设。",
-      "publishedAt": "2026-08-17",
-      "source": "UK Government",
-      "url": "https://www.gov.uk/government/news/full-steam-ahead-to-fast-track-more-homes-near-stations",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260815-002",
-      "title": "证监会发布上市公司2025年年度财务报告会计监管报告",
-      "summary": "中国证监会发布《上市公司2025年年度财务报告会计监管报告》，截至2026年4月30日共5517家公司披露年报，其中214家被出具非标准审计意见，涉及收入、金融工具、资产减值等会计问题。",
-      "publishedAt": "2026-08-14T18:30:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-14/10677789.shtml",
-      "subCategory": "金融监管"
     }
   ]
 }
