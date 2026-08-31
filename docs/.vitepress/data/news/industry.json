@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-31T17:15:00+08:00",
+  "updatedAt": "2026-08-31T23:59:00+08:00",
   "items": [
     {
       "id": "industry-20260831-100",
@@ -58,6 +58,33 @@
       "url": "https://www.199it.com/archives/1838888.html",
       "subCategory": "行业研报",
       "id": "industry-20260831-009"
+    },
+    {
+      "id": "industry-20260831-950",
+      "title": "国家统计局：2026年1—7月集成电路行业利润同比增长18.5倍",
+      "summary": "国家统计局数据显示，2026年1-7月中国集成电路行业利润同比增长18.5倍，算力芯片与存储芯片企业贡献超八成电子行业利润增量，计算机制造利润增长3.3倍，电子材料生产增长226.8%。",
+      "publishedAt": "2026-08-31",
+      "source": "199IT/国家统计局",
+      "url": "http://www.199it.com/archives/1848557.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260831-951",
+      "title": "IDC：2025年中国企业级智能客服市场规模达71.9亿元，同比增长55.3%",
+      "summary": "IDC报告显示，2025年中国企业级智能客服市场规模达71.9亿元，同比增长55.3%，阿里云以13.5%份额连续三年居首，大模型与智能体正推动行业从传统客服向可自主完成业务的智能体演进。",
+      "publishedAt": "2026-08-31",
+      "source": "199IT/IDC",
+      "url": "http://www.199it.com/archives/1848560.html",
+      "subCategory": "企业服务"
+    },
+    {
+      "id": "industry-20260831-952",
+      "title": "2026年上半年国内两轮电动车销量2825.2万台，同比下降12.6%",
+      "summary": "数据显示，2026年上半年中国两轮电动车市场进入饱和阶段，国内销量2825.2万台，同比下降12.6%。雅迪营收下滑5%，标准电动自行车需求萎缩，而电动滑板车销量逆势增长63.7%。",
+      "publishedAt": "2026-08-31",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1848922.html",
+      "subCategory": "制造业"
     },
     {
       "id": "industry-20260831-001",
@@ -123,6 +150,15 @@
       "id": "industry-20260831-011"
     },
     {
+      "id": "industry-20260830-950",
+      "title": "韩华投资证券：2026年上半年韩国国内建筑订单116万亿韩元，同比增长25.8%",
+      "summary": "韩华投资证券报告显示，2026年上半年韩国国内建筑订单达116万亿韩元，同比增长25.8%，创近三年新高，主要受三星、SK海力士半导体厂及数据中心建设需求拉动，非住宅类订单表现突出。",
+      "publishedAt": "2026-08-30",
+      "source": "199IT/韩华投资证券",
+      "url": "http://www.199it.com/archives/1848825.html",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260829-101",
       "title": "国家数据发展研究院：2025年我国智能体专利授权量超3400件，增速为上一年两倍以上",
       "summary": "国家数据发展研究院数据显示，2025年我国智能体相关专利授权量超3400件，增速较上一年翻倍以上；截至2026年年中全国算力规模达240万PFLOPS，半年增速50.9%；2025年数据产业规模达6.78万亿元，同比增长15.7%，其中AI相关软件与token服务贡献4.99万亿元，占比73.6%；日均token调用量从2024年初1000亿次增至2025年末100万亿次，2026年3月进一步升至140万亿次。",
@@ -141,21 +177,21 @@
       "subCategory": "企业服务"
     },
     {
-      "id": "industry-20260830-005",
-      "title": "高通 HBC方案搅动内存版图，三星与SK海力士卷入HBM之外新赛道",
-      "summary": "报道称高通推出的高带宽连接(HBC)技术正将三星与SK海力士拉入AI基础设施内存领域的新竞争，行业竞争焦点从HBM堆叠容量扩展至内存与计算间的数据传输效率。",
-      "publishedAt": "2026-08-29T06:39:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260829-900",
       "title": "芯片通胀：AI的隐性成本",
       "summary": "报道称，五大AI巨头今年基础设施投入预计超6500亿美元，摩根士丹利研究显示存储芯片价格一年内上涨近六倍，索尼、微软、联想等厂商已上调电脑和游戏主机售价，PC与智能手机2026年出货量预计明显下滑。",
       "publishedAt": "2026-08-29",
       "source": "199IT",
       "url": "http://www.199it.com/archives/1848608.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260830-005",
+      "title": "高通 HBC方案搅动内存版图，三星与SK海力士卷入HBM之外新赛道",
+      "summary": "报道称高通推出的高带宽连接(HBC)技术正将三星与SK海力士拉入AI基础设施内存领域的新竞争，行业竞争焦点从HBM堆叠容量扩展至内存与计算间的数据传输效率。",
+      "publishedAt": "2026-08-29T06:39:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html",
       "subCategory": "半导体产业"
     },
     {
@@ -492,6 +528,24 @@
       "subCategory": "企业服务"
     },
     {
+      "id": "industry-20260827-950",
+      "title": "提振消费政策落地 医药行业加速提质升级",
+      "summary": "艾媒咨询数据显示，2026年上半年中国医疗健康行业共发生436起投融资事件，总金额683.09亿元，提振消费政策推动化学药、生物药、中药及医疗器械领域技术创新与设备升级加速。",
+      "publishedAt": "2026-08-27",
+      "source": "艾媒网",
+      "url": "https://www.iimedia.cn/c1100/115168.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260827-951",
+      "title": "乘联分会：2026年1-7月中国汽车行业利润2162亿元，同比下降20%",
+      "summary": "乘联分会数据显示，2026年1-7月中国汽车行业利润同比下降20%至2162亿元，利润率降至3.6%，碳酸锂等原材料成本翻倍推高单车成本，行业利润空间持续承压，中小品牌面临整合压力。",
+      "publishedAt": "2026-08-27",
+      "source": "199IT/乘联分会",
+      "url": "http://www.199it.com/archives/1848464.html",
+      "subCategory": "新能源汽车"
+    },
+    {
       "id": "industry-20260827-001",
       "title": "高盛：中国先进制程晶圆2035年月产能41万片，供需缺口由2025年92%降至34%",
       "summary": "高盛报告预计，中国先进制程晶圆月产能将从当前水平提升到2035年的41万片，供需缺口由2025年92%收窄到34%，产能年复合增速46%，中芯国际先进制程良率有望从2026年23%升至2035年75%。",
@@ -670,60 +724,6 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1847382.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260824-006",
-      "title": "Counterpoint：2026年苹果三大市场逆势增长，其印度销量同比增15%",
-      "summary": "Counterpoint数据显示，印度大盘萄缩14%背景下苹果销量同比增15%；拉美苹果与三星逆势增长；欧洲二季度出货降至3500万部，苹果份额升9个百分点至34%，与三星并列第一。",
-      "publishedAt": "2026-08-23",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1847384.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260823-907",
-      "title": "Counterpoint Research：预计2026年全球智能手机出货量同比下降14.3%",
-      "summary": "Counterpoint Research预测，受存储与芯片成本上涨及需求疲软影响，2026年全球智能手机出货量将同比下降14.3%，2027年再降1.4%，2028年回升4.8%。三星有望以0.8%增长重夺全球第一，苹果预计下攷2.1%，华为逆势增长8%。",
-      "publishedAt": "2026-08-23",
-      "source": "199IT（Counterpoint Research）",
-      "url": "http://www.199it.com/archives/1847389.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260823-908",
-      "title": "韩华证券：2026年Q2长鑫存储营收同比增长716%，DRAM市场份额达6.7%",
-      "summary": "韩华证券研报显示，长鑫存储(CXMT)2026年第二季度营收同比增长716%，为全球增速最快存储厂商，DRAM市场份额升至6.7%，对全球DRAM市场增长贡献率达11.3%。报告预计2026年全球DRAM市场将增长22.4%。",
-      "publishedAt": "2026-08-23",
-      "source": "199IT（韩华证券）",
-      "url": "http://www.199it.com/archives/1847173.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "Automation Taipei 2026: If AI is advancing so fast, why is the factory floor still so hard to automate?",
-      "summary": "DIGITIMES在Automation Taipei 2026现场报道指出，尽管AI技术快速进步，制造现场的物理自动化改造依然进展缓慢，工厂产线智能化落地仍面临现实障碍。",
-      "publishedAt": "2026-08-22T09:08:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL211/taipei-2026-automation-industrial-taiwan.html",
-      "subCategory": "制造业",
-      "id": "industry-20260823-008"
-    },
-    {
-      "title": "Manz Asia says yield is key to glass core mass production",
-      "summary": "DIGITIMES报道，AI芯片需求推动先进封装从圆形晶圆转向方形面板；Manz Asia管理层表示，良率将是玻璃基板（Glass Core）能否实现规模化量产的关键因素。",
-      "publishedAt": "2026-08-22T09:07:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260819PD227/manz-asia-advanced-packaging-equipment-production.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260823-007"
-    },
-    {
-      "title": "途虎养车2026上半年门店近9000家，收入87.8亿同比增11.4%",
-      "summary": "途虎养车披露2026年上半年运营数据，截至6月末门店胂本8825家、上半年净增817家，约65%新店位于低线城市；营收‌87.8亿元同比增11.4%，注册用户达1.75亿人。",
-      "publishedAt": "2026-08-21T20:25:41+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103328984.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260822-010"
     }
   ]
 }

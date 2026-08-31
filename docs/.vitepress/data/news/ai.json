@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-31T17:15:00+08:00",
+  "updatedAt": "2026-08-31T23:59:00+08:00",
   "items": [
+    {
+      "id": "ai-20260831-950",
+      "title": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
+      "summary": "微信支付宣布AI专属卡新增接入DeepSeek Harness和OpenClaw两款智能体平台，授权后可调用逾700项支付技能，实现从对话推荐到下单支付的连续操作，交易仍需在手机端二次确认以保障安全。",
+      "publishedAt": "2026-08-31T21:21:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/655.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-951",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "summary": "DeepSeek在Hugging Face以MIT协议开源V4系列首个多模态模型DeepSeek-V4-Flash-Vision-Exp，支持JPEG、PNG等格式图片输入，可用于图像描述、文字识别与图表分析，多模态Agent能力据称接近Opus-4.8。",
+      "publishedAt": "2026-08-31T19:35:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/637.htm",
+      "subCategory": "多模态"
+    },
     {
       "id": "ai-20260831-101",
       "title": "亚马逊 AWS 加码政府 AI 赛道，OpenAI、Meta、Anthropic 等大模型集体登陆 GovCloud",
@@ -31,6 +49,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/460.htm",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260831-952",
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "summary": "普林斯顿大学、蚂蚁集团与斯坦福大学联合提出自进化量化研究智能体系统AQuA，将因子发现与模型开发拆分为两个相互隔离的子系统，避免数据泄露，使自动化研究得出的回测结果更加可信。",
+      "publishedAt": "2026-08-31T11:01:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "subCategory": "论文进展"
     },
     {
       "title": "上线不足一个月：米哈游AI女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
@@ -483,15 +510,6 @@
       "subCategory": "AI应用"
     },
     {
-      "title": "Anthropic统一Claude聊天与Cowork记忆系统",
-      "summary": "Anthropic宣布打通Claude聊天与Claude Cowork的记忆系统，用户在一处提供的信息可在另一处自动生效，支持实时记录、查看编辑删除，默认排除健康记录等敏感信息，已面向Free、Pro、Max全平台开放。",
-      "publishedAt": "2026-08-26T01:50:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "subCategory": "AI应用",
-      "id": "ai-20260826-004"
-    },
-    {
       "id": "ai-20260827-007",
       "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
       "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
@@ -499,6 +517,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
       "subCategory": "具身智能"
+    },
+    {
+      "title": "Anthropic统一Claude聊天与Cowork记忆系统",
+      "summary": "Anthropic宣布打通Claude聊天与Claude Cowork的记忆系统，用户在一处提供的信息可在另一处自动生效，支持实时记录、查看编辑删除，默认排除健康记录等敏感信息，已面向Free、Pro、Max全平台开放。",
+      "publishedAt": "2026-08-26T01:50:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "subCategory": "AI应用",
+      "id": "ai-20260826-004"
     },
     {
       "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
@@ -654,6 +681,24 @@
       "subCategory": "大模型"
     },
     {
+      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
+      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30563",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-002"
+    },
+    {
+      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
+      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30577",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-003"
+    },
+    {
       "id": "ai-20260824-002",
       "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
       "summary": "据Business Insider报道，开源模型托管平台Hugging Face正探索出售事宜，潜在交易估值或达130亿美元以上，公司已与银行合作评估买家意向，此前2023年融资估值为45亿美元。",
@@ -679,51 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478358.html",
       "subCategory": "AI编程"
-    },
-    {
-      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
-      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30563",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-002"
-    },
-    {
-      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
-      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30577",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-003"
-    },
-    {
-      "id": "ai-20260823-201",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "summary": "OpenAI首席全球事务官Chris Lehane警告，先进AI模型已具备\"规划并发起复杂网络攻击\"的能力，公众与企业需为此做好防御准备。此前一个前沿 AI智能体曾入侵Hugging Face系统，OpenAI已暂停部分前沿模型的开发以加强安全措施，勒汉恩呼吁美国政府立法，要求AI模型在公开发布或部署前证明并保证安全标准。",
-      "publishedAt": "2026-08-23T22:13:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/305.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260823-202",
-      "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
-      "summary": "OpenAI推出面向青少年的ChatGPT版本，具备年龄识别机制以限制部分功能，但多名儿童安全专家对该系统有效性与透明度提出质疑，认为公司尚未公布自动年龄识别的准确率及误判数据，对承诺的一小时内家长通知机制能否切实落地也表示存疑。",
-      "publishedAt": "2026-08-23T21:53:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/301.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260823-101",
-      "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已茅 5000万美元融资，计划扩编至25人。",
-      "publishedAt": "2026-08-23T08:15:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/133.htm",
-      "subCategory": "Agent"
     }
   ]
 }

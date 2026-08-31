@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-08-31T17:15:00+08:00",
+  "updatedAt": "2026-08-31T23:59:00+08:00",
   "items": [
+    {
+      "id": "tech-20260831-951",
+      "title": "博通推出 VMware AI 工厂，简化企业私有云 AI 部署",
+      "summary": "博通推出VMware AI Factory软件定义基础设施，基于VMware Cloud Foundation简化企业私有云AI部署，支持GPU资源跨团队共享、统一模型库管理及吞吐量延迟等运行状态监控，兼容思科、戴尔、联想等厂商认证服务器。",
+      "publishedAt": "2026-08-31T23:33:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/680.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260831-955",
+      "title": "整治 AI 虚假账号，Instagram 推出全新 AI 个人资料标签",
+      "summary": "Instagram将原有的\"AI创作者\"标签更换为\"AI生成资料\"标签，用于标注从未主动披露虚拟身份的高度逼真AI生成账号，平台将不再向非关注者推荐未标注的AI生成内容，用户可对误判结果提出申诉。",
+      "publishedAt": "2026-08-31T23:20:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/679.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260831-954",
+      "title": "华硕灵耀 14 骁龙版笔记本首销：骁龙 X 处理器，16GB+512GB 售 6999 元",
+      "summary": "华硕灵耀14骁龙版笔记本开启首销，官方零售价7999元，首销优惠价6999元。该机搭载八核骁龙X处理器，配16GB内存、512GB存储，机身厚13.9mm，重1.1kg，采用14英寸2880×1800分辨率120Hz OLED屏。",
+      "publishedAt": "2026-08-31T23:12:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/673.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260831-952",
+      "title": "特斯拉 FSD 即将迎来重大升级",
+      "summary": "特斯拉CEO马斯克表示，FSD即将新增自动避让坑洼路面功能，该能力已被列入FSD v14更新计划。目前FSD可识别纸箱等障碍物，但对坑洼等路况的识别仍需进一步的数据与算法优化。",
+      "publishedAt": "2026-08-31T23:11:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/672.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260831-953",
+      "title": "创维推出 G24 GT3 显示器：23.8 英寸 FHD 310Hz FastIPS，首发补贴价 599 元",
+      "summary": "创维在京东上架G24 GT3电竞显示器，首发补贴价599元。该产品为23.8英寸FastIPS面板，分辨率1920×1080，最高刷新率310Hz，支持HDR400，峰值亮度550尼特，色域覆盖93% DCI-P3。",
+      "publishedAt": "2026-08-31T23:07:47+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/671.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260831-950",
+      "title": "消息称长鑫存储开始试产 HBM3E 内存，有望数周内大规模量产",
+      "summary": "据报道，长鑫存储已启动HBM3E内存芯片风险试产，年底前月产能目标达35万片晶圆。该产品符合JEDEC标准，8层堆叠单颗容量24GB，凭借建厂效率优势有望数周内进入大规模量产阶段。",
+      "publishedAt": "2026-08-31T22:57:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/670.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260831-100",
       "title": "首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展",
@@ -13,6 +67,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/553.htm",
       "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260831-956",
+      "title": "2027年7月实施！L3/L4自动驾驶强制国标发布：以后车企不能随便吹智驾了",
+      "summary": "中国发布L3/L4级自动驾驶强制性国家标准GB 44721-2026，将于2027年7月1日起实施，对驾驶接管监测、安全带与驾驶员在位检测、人机交互提示等作出规定，要求系统安全水平不低于专注合格驾驶员。",
+      "publishedAt": "2026-08-31T16:20:44+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1147/1147611.htm",
+      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260831-101",
@@ -69,6 +132,24 @@
       "id": "tech-20260831-022"
     },
     {
+      "title": "小米\"米家冰箱 Pro 600L 十字自动制冰\"发售",
+      "summary": "小米米家推出600L十字自动制冰冰箱，售价4469元，冷藏375升、冷冻225升，配备全域离子净化系统，除菌率达99.9999%，内置自动制冰模块最大储冰约130块，支持手机与语音控制，压缩机十年包修。",
+      "publishedAt": "2026-08-31",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/260.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260831-028"
+    },
+    {
+      "title": "微软修改 Win11 OneDrive 弹窗机制，允许用户永久禁用备份提示",
+      "summary": "微软调整Windows 11中OneDrive备份提示弹窗，新增\"放弃备份\"按钮，用户点击后可永久关闭该提示，不再每3天反复弹出提醒。此前用户只能选择继续启用或3天后再提醒，改动回应了长期以来的用户抱怨。",
+      "publishedAt": "2026-08-31",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/263.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260831-029"
+    },
+    {
       "title": "网易CC直播今日正式停运：产品服务器、官网将同步关闭",
       "summary": "网易CC直播已于8月31日15时正式停止运营，原因为\"产品开发运营策略调整\"。平台已关闭下载入口及充值注册，未使用的C券、金锭将按100:100:1比例转换为点数，可继续用于网易旗下其他游戏。",
       "publishedAt": "2026-08-31T07:53:27+08:00",
@@ -112,24 +193,6 @@
       "url": "https://news.mydrivers.com/1/1147/1147438.htm",
       "subCategory": "消费电子",
       "id": "tech-20260831-027"
-    },
-    {
-      "title": "小米\"米家冰箱 Pro 600L 十字自动制冰\"发售",
-      "summary": "小米米家推出600L十字自动制冰冰箱，售价4469元，冷藏375升、冷冻225升，配备全域离子净化系统，除菌率达99.9999%，内置自动制冰模块最大储冰约130块，支持手机与语音控制，压缩机十年包修。",
-      "publishedAt": "2026-08-31",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/260.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260831-028"
-    },
-    {
-      "title": "微软修改 Win11 OneDrive 弹窗机制，允许用户永久禁用备份提示",
-      "summary": "微软调整Windows 11中OneDrive备份提示弹窗，新增\"放弃备份\"按钮，用户点击后可永久关闭该提示，不再每3天反复弹出提醒。此前用户只能选择继续启用或3天后再提醒，改动回应了长期以来的用户抱怨。",
-      "publishedAt": "2026-08-31",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/263.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260831-029"
     },
     {
       "id": "tech-20260831-001",
@@ -661,69 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/995/958.htm",
       "subCategory": "XR-AR-VR"
-    },
-    {
-      "title": "Meta为Quest头显推出XR Operator开发者工具，利用AI智能体快速测试VR游戏",
-      "summary": "Meta为Quest头显推出实验性开发者工具XR Operator，集成于Meta XR SDK v205，可让AI智能体自动启动项目、截图、定位问题并验证修复，但目前无法处理音频，官方建议用于静态、确定性的测试场景。",
-      "publishedAt": "2026-08-29T08:39:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/854.htm",
-      "subCategory": "XR-AR-VR",
-      "id": "tech-20260829-002"
-    },
-    {
-      "title": "长鑫科技自研LPDDR6芯片性能较上代LPDDR5X全面跃升，已向关键客户送样验证",
-      "summary": "长鑫科技称自研LPDDR6内存芯片性能较上一代LPDDR5X实现全面跃升，峰值速率达12800Mbps，已向关键客户送样验证，正加速推进量产，预计应用于手机、服务器及智能汽车领域。",
-      "publishedAt": "2026-08-29T08:33:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/852.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260829-001"
-    },
-    {
-      "title": "阿里云巴西节点开服，Qwen系列开源模型全球下载量突破30亿次",
-      "summary": "阿里云宣布巴西节点正式开服，包含两个可用区，为其在拉美的第二个区域节点；同时透露开源大模型Qwen系列全球下载量已突破30亿次，衍生模型超30万个，全球基础设施达到31个地域106个可用区。",
-      "publishedAt": "2026-08-29T08:11:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/847.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260829-003"
-    },
-    {
-      "title": "泄露文件催生民间开发，英伟达DLSS 5成功移植至RTX 40系列显卡",
-      "summary": "《NBA 2K27》泄露的DLSS 5文件被开发者\"Uncle Burrito\"修改，替换其中不兼容的CUDA二进制代码，使原本仅限RTX 50系列的神经渲染功能可在RTX 4080等Ada架构显卡上运行。",
-      "publishedAt": "2026-08-29T00:02:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/821.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260828-504"
-    },
-    {
-      "title": "长鑫存储开通微博首个关注小米手机，此前被曝为玄戒O3 LPDDR6内存核心合作伙伴",
-      "summary": "长鑫存储官方微博上线，首个关注对象为小米手机账号。此前有消息称该公司是小米玄戒O3处理器LPDDR6内存的核心合作伙伴，系国产LPDDR6芯片首次应用于旗舰处理器。",
-      "publishedAt": "2026-08-28T23:48:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/817.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260828-502"
-    },
-    {
-      "title": "华为鸿蒙HarmonyOS 7.0.0.105版本开始推送，覆盖Mate 80、Pura 80等机型",
-      "summary": "该版本优化桌面天气卡片时间显示效果，提升图库部分场景照片浏览流畅度，并改进WLAN连接、控制中心、通知管理及小艺助手体验，新增全景智能记事跨设备协同功能。",
-      "publishedAt": "2026-08-28T23:37:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/815.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260828-501"
-    },
-    {
-      "title": "全国算力互联互通区域节点名单出炉，北京上海等17省市入围",
-      "summary": "工信部公布全国算力互联互通区域节点名单，北京、上海、河北、山西等17个省区市入选，采用\"1+M+N\"三级架构，中国移动、中国电信、中国联通牵头建设相关基础设施。",
-      "publishedAt": "2026-08-28T23:34:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/995/814.htm",
-      "subCategory": "云计算",
-      "id": "tech-20260828-503"
     }
   ]
 }
