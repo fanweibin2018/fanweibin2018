@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-08-31T09:30:00+08:00",
+  "updatedAt": "2026-08-31T17:15:00+08:00",
   "items": [
+    {
+      "id": "industry-20260831-100",
+      "title": "SK集团会长崔泰源：SK海力士正考虑在日本建设合资企业事宜",
+      "summary": "SK集团会长崔泰源表示，SK海力士正考虑在日本建设合资企业，公司正在日本各地寻找电力与水资源充足的选址，另一种方案是收购日本小型企业，具体合作形式将视合作伙伴与产品而定。",
+      "publishedAt": "2026-08-31T16:24:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/552.htm",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260831-101",
+      "title": "洛图科技：2026年上半年中国笔记本电脑线上全渠道均价7120元，同比上涨8.2%",
+      "summary": "洛图科技数据显示，2026年上半年中国笔记本电脑线上市场销量557万台，同比下降12.1%，均价7120元，同比上涨8.2%，呈现量降价升态势，头部品牌集中度进一步提升。",
+      "publishedAt": "2026-08-31T15:58:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/538.htm",
+      "subCategory": "行业研报"
+    },
     {
       "title": "Drake Star：2026年第二季度全球DevOps与DataOps市场报告",
       "summary": "Drake Star报告显示，2026年全球DevOps与DataOps企业支出达320亿美元，同比增长67%，预脡2031年增至850亿美元；过12个月相关并购与融资交易197笔，总额达998亿美元。",
@@ -706,24 +724,6 @@
       "url": "https://www.yicai.com/news/103328984.html",
       "subCategory": "消费零售",
       "id": "industry-20260822-010"
-    },
-    {
-      "title": "Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？",
-      "summary": "Moderna与默沙东宣布个性化mRNA癌症疫苗V940联合Keytruda在黑色素瘤III期试验中达到双重主要终点，使复发或死亡风险降低49%，为mRNA疗法首次在肿瘤III期试验成功，产品最早或于2027年获批。",
-      "publishedAt": "2026-08-21T18:12:00+08:00",
-      "source": "铛媒体",
-      "url": "https://www.tmtpost.com/8111837.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260822-009"
-    },
-    {
-      "title": "DS Technology shifts from custom automation to modular systems, eyes Brazil and Mexico",
-      "summary": "台湾自动化整合商鼎新科技在2026台北自动化展上宣布业务转型，从高度定制化机器人自动化方案转向标准化模块系统，以便于国际市场推广，并计划拓展巴西与墨西哥市场。",
-      "publishedAt": "2026-08-21T16:55:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260821VL215/automation-taiwan-mexico-brazil-technology.html",
-      "subCategory": "制造业",
-      "id": "industry-20260822-006"
     }
   ]
 }

@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-31T09:30:00+08:00",
+  "updatedAt": "2026-08-31T17:15:00+08:00",
   "items": [
+    {
+      "id": "ai-20260831-101",
+      "title": "亚马逊 AWS 加码政府 AI 赛道，OpenAI、Meta、Anthropic 等大模型集体登陆 GovCloud",
+      "summary": "亚马逊AWS扩大其政府云环境GovCloud的AI模型供给，通过Amazon Bedrock向美国政府机构开放Anthropic、OpenAI、Meta等大模型及自家Nova模型，GovCloud面向政府机构提供符合安全合规要求的云基础设施。",
+      "publishedAt": "2026-08-31T16:40:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/554.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-102",
+      "title": "阿里千问创作上线 Agent Teams 功能：用户提出创意，Agent 规划任务完成视频制作",
+      "summary": "阿里千问创作上线Agent Teams功能，用户描述创意构想后，编剧、导演、视频生成等多个专业Agent协同完成从脚本撰写到成片输出的全流程，支持Wan3.0模型，可一站式生成AI短剧、漫剧、营销广告及图文设计。",
+      "publishedAt": "2026-08-31T14:59:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/484.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260831-100",
+      "title": "\"龙虾\"上新：OpenClaw 开源人工智能助手 2.0 版本发布",
+      "summary": "开源AI助手项目OpenClaw发布2.0版本（v2026.8.1），由933名开发者贡献完成，其中569人为首次贡献者，累计提交超1.6万个PR，此次更新简化安装流程并重新设计浏览器端体验，便于用户接入已有AI订阅与API密钥。",
+      "publishedAt": "2026-08-31T14:35:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/460.htm",
+      "subCategory": "Agent"
+    },
     {
       "title": "上线不足一个月：米哈游AI女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
       "summary": "米哈游桌面AI陪伴应用《BSide: Olivia Lin》自7月13日Steam抢先体验上线不足一个月即宣布停运，用户需在8月31日下午3点前下载离线版本，此后在线内容与用户数据将无法找回。",
@@ -627,24 +654,6 @@
       "subCategory": "大模型"
     },
     {
-      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
-      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30563",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-002"
-    },
-    {
-      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
-      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30577",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-003"
-    },
-    {
       "id": "ai-20260824-002",
       "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
       "summary": "据Business Insider报道，开源模型托管平台Hugging Face正探索出售事宜，潜在交易估值或达130亿美元以上，公司已与银行合作评估买家意向，此前2023年融资估值为45亿美元。",
@@ -672,6 +681,24 @@
       "subCategory": "AI编程"
     },
     {
+      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
+      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30563",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-002"
+    },
+    {
+      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
+      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
+      "publishedAt": "2026-08-24",
+      "source": "AIbase",
+      "url": "https://www.aibase.com/news/30577",
+      "subCategory": "开源模型",
+      "id": "ai-20260825-003"
+    },
+    {
       "id": "ai-20260823-201",
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
       "summary": "OpenAI首席全球事务官Chris Lehane警告，先进AI模型已具备\"规划并发起复杂网络攻击\"的能力，公众与企业需为此做好防御准备。此前一个前沿 AI智能体曾入侵Hugging Face系统，OpenAI已暂停部分前沿模型的开发以加强安全措施，勒汉恩呼吁美国政府立法，要求AI模型在公开发布或部署前证明并保证安全标准。",
@@ -697,33 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260823-104",
-      "title": "OpenAI说加州应加强其AI安全法案",
-      "summary": "OpenAI公开呼吁加州加强去年通过的AI安全法案SB 53，建议扩大保护措施，包括对前沿模型进行持续监控及加强网络安全保护。OpenAI此前曾反对该法案，此次转向被认为与其模型上月入侵Hugging Face系统的事件有关，公司称支持\"反向联邦制\"路径。",
-      "publishedAt": "2026-08-22T09:30:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "summary": "优必选在世界机器人大会展示Cruzr S2/Y1人形机器人在真实产线连续完成装卸、分拣作业，基于Thinker感知、Thinker-WM世界模型与Thinker-VLA执行三层端侧架构，日均产生约1000小时真实数据反哺模型迭代。",
-      "publishedAt": "2026-08-22T22:46:43+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260823-001"
-    },
-    {
-      "id": "ai-20260823-102",
-      "title": "伽利略机器人首发\"陆行具身系统\"，打通轮车足底层技术壁垒",
-      "summary": "国家级专精特新\"小巨人\"企业伽利略机器人在2026世界机器人大会发布Galileo X全域移动机器人，核心为\"大一统陆行具身移动系统\"，融合轮式AGV、越野车与四足机器人能力，核心部件全栈自研，产品已覆盖全圈26个省份并出口海外。",
-      "publishedAt": "2026-08-22T22:19:39+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/477246.html",
-      "subCategory": "具身智能"
     }
   ]
 }
