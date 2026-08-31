@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-08-31T00:55:00+08:00",
+  "updatedAt": "2026-08-31T09:30:00+08:00",
   "items": [
+    {
+      "title": "上线不足一个月：米哈游AI女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
+      "summary": "米哈游桌面AI陪伴应用《BSide: Olivia Lin》自7月13日Steam抢先体验上线不足一个月即宣布停运，用户需在8月31日下午3点前下载离线版本，此后在线内容与用户数据将无法找回。",
+      "publishedAt": "2026-08-31T07:55:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/273.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260831-001"
+    },
+    {
+      "title": "国内首部AIGC长剧《后西游记》今日开播，首部\"边审边播\"剧集",
+      "summary": "国内首部AIGC生成长剧《后西游记》8月31日开播，关30集每集40分钟，首性5集登陆苒果TV与湖南卫视黄金档，是首部采用\"边审边播\"模式的作品，可依据反馈动态调整剧情。",
+      "publishedAt": "2026-08-31T07:28:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/265.htm",
+      "subCategory": "AI视频",
+      "id": "ai-20260831-002"
+    },
+    {
+      "title": "消息称字节跳动豆包大模型2.2将推迟发布，原计划8月推出",
+      "summary": "字节跳动豆包Seed大模型2.2版本原定8月发布，现推迟以延长预训练与后训练周期，重点强化编程、工具调用与Agent能力。字节跳动坚持自研不蒸馏路线，目标是年底编程能力对齐GLM-5.2、Kimi-K3等竞品。",
+      "publishedAt": "2026-08-30T21:42:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/239.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260831-003"
+    },
     {
       "id": "ai-20260830-900",
       "title": "日均峰值11.3起：报告称2026年已记录1664起AI失控事件，7月环比增93.76%",
@@ -53,7 +80,7 @@
     {
       "id": "ai-20260830-011",
       "title": "少1个展开步骤：部分谷歌搜索测试默认进入AI模式，下移传统蓝链搜索结果",
-      "summary": "谷歌正在测试部分搜索请求默认展开AI模式回答，并弹出追问框，把传统蓝色链接结果进一步下移。谷歌称该改动仅在系统判定为最有帮助的查询中触发，用户滚动页面时系统会暂停展开以保留阅读位置，功能仍在持续测试调整中。",
+      "summary": "谷歌正在测试部分搜索请求默认展开AI模式回答，并弹出追问框，把传统蓝色链接结果进一步下移。谷歌称该改动仅在系统判定为最有帮助的查询中触发，用户滚动页面时系统会暂停展开以保留阅读位置，功能仍在持续测试调整。",
       "publishedAt": "2026-08-30T07:45:10+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/062.htm",
@@ -70,7 +97,7 @@
     },
     {
       "id": "ai-20260830-002",
-      "title": "英伟达\"看中\"Hugging Face，开放权重AI模型成硅谷热门收购目标",
+      "title": "英伟达\"看中\"Hugging Face，开放权重AI模型成确谷热门收购目标",
       "summary": "报道称英伟达正接近完成对开放权重模型平台Hugging Face的收购，此举被视为其减少对云厂商与头部AI实验室依赖、直接布局模型市场的举措，将扩大其硬件在开发者中的采用率。",
       "publishedAt": "2026-08-29T21:39:19+08:00",
       "source": "IT之家",
@@ -80,7 +107,7 @@
     {
       "id": "ai-20260830-003",
       "title": "Anthropic揭示\"AI训练AI\"新方法，成本低于人类研究员",
-      "summary": "Anthropic发布自动化对齐研究员（AAR）系统研究，在10项行为对齐问题测试中取得改进，最佳方法平均仅需6小时即超过资深人类研究员方案，每小时成本约4美元，人类研究员约150美元。",
+      "summary": "Anthropic发布自动化对齐研究员（AAR）系统研究，在10项行为对齐问题测试中取得改进，最佳方法平均仅阀6小时即超过资深人类研究员方案，每小时成本约4美元，人类研究员约150美元。",
       "publishedAt": "2026-08-29T21:25:27+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/038.htm",
@@ -116,7 +143,7 @@
     {
       "id": "ai-20260830-009",
       "title": "阿里Qoder推出桌面版，支持自然对话式编程",
-      "summary": "阿里AI编程工具Qoder推出带交互界面的桌面版本，可让非程序员通过自然对话搭建应用，也能在理解现有代码库基础上进行功能修改，目前支持超40个连接器、70余款插件与2000余项技能，新用户可连续5天每日领取500个Credits。",
+      "summary": "阿里AI编程工具Qoder推出带交互界面的桌面版本，可让非程序员通过自然对话搭建应用，也能在理解现有代码库基础上进行功能修改，目前支持超40个连接器、70余款插件与2000余项技能，新用户可连盭5天每日领取500个Credits。",
       "publishedAt": "2026-08-29T20:11:37+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/480940.html",
@@ -125,7 +152,7 @@
     {
       "id": "ai-20260830-010",
       "title": "OpenClaw关注度骤降，创始人转投OpenAI开发智能体基础设施",
-      "summary": "开源智能体项目OpenClaw曾获3800万以上GitHub星标，掀起\"个人贾维斯\"热潮，但近月关注度大幅下滑，逐渐被Claude Code、Codex取代，高token消耗与安全隐患是其主要限制，创始人已加入OpenAI参与下一代智能体基础设施开发。",
+      "summary": "开源智能体项目OpenClaw曾获3800万以上GitHub星标，掌起\"个人贾维斯\"热潮，但近月关注度大幅下滑，逐渐被Claude Code、Codex取代，高token消耗与安全隐患是其主要限制，创始人已加入OpenAI参与下一代智能体基础设施开发。",
       "publishedAt": "2026-08-29T20:00:51+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/480855.html",
@@ -142,8 +169,8 @@
     },
     {
       "id": "ai-20260830-006",
-      "title": "推广Claude遭网友抵制，加拿大博主称使用AI正成为社交禁忌",
-      "summary": "加拿大内容创作者Emma Orhun在播客中透露，其此前发布推广Claude的内容后收到大量尖锐负面评论，她观察到今年7月OpenAI邀请创作者参与纽约活动后同样有博主因发布相关内容遭遇网友抵制。",
+      "title": "推广Claude遵网友抄制，加拿大博主称使用AI正成为社交禁忌",
+      "summary": "加拿大内容创作者Emma Orhun在播客中透露，其此前发布推广Claude的内容后收到大量尖锐负面评论，她观察到今年7月OpenAI邀请创作者参与纽约活动后同样有博主因发布相关内容遭遇网友抄制。",
       "publishedAt": "2026-08-29T17:35:02+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/995/969.htm",
@@ -170,7 +197,7 @@
     {
       "id": "ai-20260830-012",
       "title": "Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX",
-      "summary": "路透社援引消息人士报道，Anthropic此前曾洽谈以约70亿美元收购AI训练芯片初创公司MatX以加速自研芯片进展，但收购最终未达成，双方转向探讨潜在合作。Anthropic同时在招募前谷歌TPU负责人等芯片人才，但仍将维持与英伟达、谷歌的多芯片合作关系。",
+      "summary": "路透社转引消息人士报道，Anthropic此前曾洽谈以约70亿美元收购AI训练芯片初创公司MatX以加速自研芯片进展，但收购最终未达成，双方转向探讨潜在合作。Anthropic同时在招募前谷歌TPU负责人等芯片人才，但仍将维持与英伟达、谷歌的多芯片合作关系。",
       "publishedAt": "2026-08-29T13:51:00+08:00",
       "source": "36氪（机器之心）",
       "url": "https://www.36kr.com/p/3960108652297353",
@@ -222,7 +249,7 @@
       "id": "ai-20260828-501"
     },
     {
-      "title": "腾讯WorkBuddy接入混元Hy4preview，海内外版本同步限时免费",
+      "title": "腾讯 WorkBuddy接入混元Hy4preview，海内外版本同步限时免费",
       "summary": "腾讯办公产品WorkBuddy宣布接入混元最新开源模型Hy4preview，国内外版本同步上线，新模型两周内免费试用，上一代Hy3免费使用期限延长至9月30日，主要面向编程与办公场景。",
       "publishedAt": "2026-08-28",
       "source": "aibase.com",
@@ -259,7 +286,7 @@
     },
     {
       "title": "小鹏第二代VLA大模型迎来首次重大升级，安全能力提升20倍",
-      "summary": "小鹏汽车公布第二代VLA大模型首次重大升级，端侧模型参数扩大3.5倍，采用Infini-VLA架构实现30秒驾驶记忆，流式推理使端到端响应速度提升300%，新增可预判6秒后事件的X-Foresight模型，综合安全能力提升20倍。",
+      "summary": "小鹏汽车公布第二代VLA大模型首次重大升级，端侧模型参数扩大3.5倍，采用Infini-VLA架构实现30秒驾驶记忆，流式推理使端到端响应速度提升300%，新增可预判䁘秒后事件的X-Foresight模型，综合安全能力提升20倍。",
       "publishedAt": "2026-08-28",
       "source": "aibase.com",
       "url": "https://www.aibase.com/news/30689",
@@ -296,7 +323,7 @@
     {
       "id": "ai-20260827-153",
       "title": "Adobe Photoshop推出AI辅助编辑器测试版",
-      "summary": "Adobe为Photoshop新增AI Assisted Editor测试功能，支持基于自然语言提示词的图像编辑，包括提示词编辑、AI标记、蒙版编辑、背景移除和生成式填充等操作。同时上线非破坏性图层光线调整、动态文字扩展及覅9亿素材的Adobe Stock面板，并接入FLUX 2 Pro、Gemini等多种生成模型。",
+      "summary": "Adobe为Photoshop新增AI Assisted Editor测试功能，支持基于自然语言提示词的图像编辑，包括提示词编辑、AI标记、蒙版编辑、背景移除和生成式填充等操作。同时上线非破坏性图层光线调整、动态文字扩展及视6亿素材的Adobe Stock面板，并接入FLUX 2 Pro、Gemini等多种生成模型。",
       "publishedAt": "2026-08-27T22:01:17+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/995/305.htm",
@@ -368,7 +395,7 @@
     {
       "id": "ai-20260827-003",
       "title": "阿里通义开源Qwen3.8-Flash（Next），125B参数MoE模型",
-      "summary": "阿里通义开源Qwen3.8-Flash（Next），主参数125B加51B N-gram Embedding，单token激数6B，原生支持26.2万token上下文，训练成本约为前代的1/9，API定价每百万输入token 1元、输出3元。",
+      "summary": "阿里通义开源Qwen3.8-Flash（Next），主参数125B加51B N-gram Embedding，单token激数 6B，原生支持26.2万token上下文，训练成本约为前代的1/9，API定价每百万输入token 1元、输出3元。",
       "publishedAt": "2026-08-26T20:39:50+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/994/735.htm",
@@ -429,15 +456,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260827-007",
-      "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
-      "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
-      "publishedAt": "2026-08-26",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "subCategory": "具身智能"
-    },
-    {
       "title": "Anthropic统一Claude聊天与Cowork记忆系统",
       "summary": "Anthropic宣布打通Claude聊天与Claude Cowork的记忆系统，用户在一处提供的信息可在另一处自动生效，支持实时记录、查看编辑删除，默认排除健康记录等敏感信息，已面向Free、Pro、Max全平台开放。",
       "publishedAt": "2026-08-26T01:50:00+08:00",
@@ -445,6 +463,15 @@
       "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "subCategory": "AI应用",
       "id": "ai-20260826-004"
+    },
+    {
+      "id": "ai-20260827-007",
+      "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
+      "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
+      "publishedAt": "2026-08-26",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "subCategory": "具身智能"
     },
     {
       "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
@@ -457,7 +484,7 @@
     },
     {
       "title": "紫东太初推出AutoProject引擎，AI4S从做Task走向做Project",
-      "summary": "紫东太初ScienceClaw平台发布AutoProject引擎，包含Project2Task任务拆解、TaskExecutor自主执行、EviGraph证据验证三大能力，使AI能独立承担完整科研项目，EviGraph在ARCBenchML测评中茷0.865综合得分。",
+      "summary": "紫东太初ScienceClaw平台发布AutoProject引擎，包含Project2Task任务拆解、TaskExecutor自主执行、EviGraph证据验证三大能力，使AI能独立承担完整科研项目，EviGraph在ARCBenchML测评中茆 0.865综合得分。",
       "publishedAt": "2026-08-25T13:48:00+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/479096.html",
@@ -511,7 +538,7 @@
     },
     {
       "title": "美国音乐人 Dr. Dre公开支持AI音乐，将其类比鼓机、合成器",
-      "summary": "说唱制作人Dr. Dre公开承认在音乐创作中使用AI工具，称其为\"全新的创意工具\"，并将其类比曾遂抵制、如今已被广泛接受的鼓机与合成器等制作技术。报道同时提到Tidal拒绝向纯AI生成音乐支付版税，Spotify则推出AI标签以标识非人类创作者。",
+      "summary": "说唱制作人 Dr. Dre公开承认在音乐创作中使用AI工具，称其为\"全新的创意工具\"，并将其类比曾遂抵制、如今已被广泛接受的鼓机与合成器等制作技术。报道同时提到Tidal拒绝向纯AI生成音乐支付版税，Spotify则推出AI标签以标识非人类创作者。",
       "publishedAt": "2026-08-24T22:34:21+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/745.htm",
@@ -556,8 +583,8 @@
     },
     {
       "id": "ai-20260824-101",
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "summary": "阿里达摩院联合医疗机构推出肝癌AI诊断模型DAMO LiON，可通过CT影像识别约1厘米微小肝脏肿瘤，两个月临床试验中发现15例此前漏诊的恶性病灾。辅助诊断使阅片时间缩短27%，恶性肿瘤识别敏感度提升11.5%，相关研究发表于《自然-医学》。",
+      "title": "阿里达摩院推出肝癌 AI 模型，精准识别1厘米微小肿瘤",
+      "summary": "阿里达摩院联合医疗机构推出肝癌AI诊断模型DAMO LiON，可通过CT影像识别约1厘米微小肝脏肿瘤，两个月临床试验中发现15例此前漏诊的恶性病灾。辅助诊断使阅片时间缩级27%，恶性肿瘤识别敏感度提升11.5%，相关研究发表于《自然-医学》。",
       "publishedAt": "2026-08-24T16:07:59+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478473.html",
@@ -566,7 +593,7 @@
     {
       "id": "ai-20260824-104",
       "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "summary": "国产芯片企业中诚华隆发布新一代HL200推理芯片及配套超节点智算集群方案，芯片FP16/BF16算力达0.5P、FP8达2P、FP4达4P，能效比5.12 TFLOPS/W，支持单节点最領1024卡纵向堆叠、横向扩展至10240卡，已在DeepSeek V4等主流大模型上完成测试。",
+      "summary": "国产芯片企业中诚华隆发布新一代HL200推理芯片及配套超节点智算集群方案，芯片FP16/BF16算力达0.5P、FP8达2P、FP4达4P，能效比5.12 TFLOPS/W，支持单节点最领 1024卡纵向堆叠、横向扩展至10240卡，已在DeepSeek V4等主流大模型上完成测试。",
       "publishedAt": "2026-08-24T15:04:36+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478469.html",
@@ -584,7 +611,7 @@
     {
       "id": "ai-20260824-105",
       "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涿发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench测评中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
+      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涳发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench测评中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
       "publishedAt": "2026-08-24T13:04:52+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478421.html",
@@ -647,7 +674,7 @@
     {
       "id": "ai-20260823-201",
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "summary": "OpenAI首席全球事务官Chris Lehane警告，先进AI模型已具备\"规划并发起复杂网络攻击\"的能力，公众与企业需为此做好防御准备。此前一个前沿AI智能体曾入侵Hugging Face系统，OpenAI已暂停部分前沿模型的开发以加强安全措施，勒汉恩呼吁美国政府立法，要求AI模型在公开发布或部署前证明并保证安全标准。",
+      "summary": "OpenAI首席全球事务官Chris Lehane警告，先进AI模型已具备\"规划并发起复杂网络攻击\"的能力，公众与企业需为此做好防御准备。此前一个前沿 AI智能体曾入侵Hugging Face系统，OpenAI已暂停部分前沿模型的开发以加强安全措施，勒汉恩呼吁美国政府立法，要求AI模型在公开发布或部署前证明并保证安全标准。",
       "publishedAt": "2026-08-23T22:13:31+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/305.htm",
@@ -665,7 +692,7 @@
     {
       "id": "ai-20260823-101",
       "title": "Inherent 推出小参数 AI 智能体 Faraday，科研复现能力超越 GPT-5.5 与 Claude Opus 4.8",
-      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已茅5000万美元融资，计划扩编至25人。",
+      "summary": "伦敦AI初创公司Inherent发布小参数智能体Faraday，基于270亿参数的Qwen 3.6模型，在科研论文复现任务中超越GPT-5.5和Claude Opus 4.8。该系统通过强化学习训练，能评估实验价值并设计方案，公司已茅 5000万美元融资，计划扩编至25人。",
       "publishedAt": "2026-08-23T08:15:10+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/993/133.htm",
@@ -692,38 +719,11 @@
     {
       "id": "ai-20260823-102",
       "title": "伽利略机器人首发\"陆行具身系统\"，打通轮车足底层技术壁垒",
-      "summary": "国家级专精特新\"小巨人\"企业伽利略机器人在2026世界机器人大会发布Galileo X全域移动机器人，核心为\"大一统陆行具身移动系统\"，融合轮式AGV、越野车与四足机器人能力，核心部件全栈自研，产品已覆盖全国26个省份并出口海外。",
+      "summary": "国家级专精特新\"小巨人\"企业伽利略机器人在2026世界机器人大会发布Galileo X全域移动机器人，核心为\"大一统陆行具身移动系统\"，融合轮式AGV、越野车与四足机器人能力，核心部件全栈自研，产品已覆盖全圈26个省份并出口海外。",
       "publishedAt": "2026-08-22T22:19:39+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/477246.html",
       "subCategory": "具身智能"
-    },
-    {
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "summary": "魔法原子在WRC展示Magic-VLA K02通用具身大模型驱动的多形态机器人协同作业，涵盖轮式人形MagicBot D1与新品四足MagicDog T1，覆盖工业制造、物流与公共安全场景，模型跨设备适配率达100%。",
-      "publishedAt": "2026-08-22T22:11:20+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/477155.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260823-002"
-    },
-    {
-      "id": "ai-20260823-103",
-      "title": "00后清华博士生创业\"神经接口\"：把人类肌肉反应炼成Token",
-      "summary": "2001年出生的清华在读博士生秦深涛创立具身数据公司OriginFlow（渊澈太初），截至今年5月累计融资超5亿元。公司NeuroScale技术通过16通道肌电腻带采集表面肌电信号，结合视觉与IMU数据生成\"Human Tokens\"，用于填补物理AI具身训练所需的高质量物理交互数据空白。",
-      "publishedAt": "2026-08-22T21:56:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/477094.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "title": "Eon用LIF\"上传\"果蚌脑，中国团队直接上精细神经元和跨身体平台",
-      "summary": "文章对比Eon Systems约14万神经元的果蚌脑虚拟仿真与中国团队DeepSoma平台，后者采用精细生物物理神经元建模、真实场景4D重建，统一世界模型、脑仿真与跨身体智能体部署，指向物理AI新范式。",
-      "publishedAt": "2026-08-22T20:21:07+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/477090.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260823-003"
     }
   ]
 }
