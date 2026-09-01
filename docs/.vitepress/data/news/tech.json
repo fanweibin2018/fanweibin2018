@@ -3,8 +3,125 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-01T08:30:00+08:00",
+  "updatedAt": "2026-09-01T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260901-013",
+      "title": "美国得州启动 Watershed 250 项目，提升水务基础设施网络安全性",
+      "summary": "得州州长阿博特宣布启动 Watershed 250 网络安全项目，因 CISA 此前发现针对百余家联网水务及污水处理企业的恶意网络活动，联邦、企业与地方合作为得州水务单位免费提供网络安全防御资源。",
+      "publishedAt": "2026-09-01T16:35:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/028.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260901-014",
+      "title": "腾讯张军：在职老师和高校大学生完成身份认证，可领取 WorkBuddy 1000 开学专属积分",
+      "summary": "腾讯公关总监张军宣布，全国普通高校在读大学生及通过\"中国教师\"小程序认证的在职教师完成身份认证后，可领取腾讯云桌面智能体工具 WorkBuddy 1000 点开学专属积分，该工具可用自然语言指令处理文件、生成文档等。",
+      "publishedAt": "2026-09-01T16:33:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/027.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260901-015",
+      "title": "知情人士回应抖音突发算法推荐错乱：原因为服务器异常",
+      "summary": "9月1日抖音出现推荐内容与用户偏好不符、相同视频反复出现、播放卡顿加载报错等异常，知情人士回应称原因系平台服务器异常，客服称已收到大量反馈并称为\"系统优化\"所致，未给出具体恢复时间。",
+      "publishedAt": "2026-09-01T16:30:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/025.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260901-016",
+      "title": "汉王 Clear6 Pro 二代黑白墨水屏电纸书将于 9 月 9 日上市：全贴合纯平设计、搭载 3000mAh 电池",
+      "summary": "汉王发布 Clear6 Pro 二代黑白墨水屏电纸书，9月9日上市，采用超薄全贴合纯平设计，提供三种配色，配备6英寸300PPI屏幕、冷暖双色前光及3000mAh电池，是2024年6月上市初代的升级款。",
+      "publishedAt": "2026-09-01T16:28:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/024.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260901-017",
+      "title": "LG gram Book AI 2026 笔记本海外发布：gram 系列首款 14 英寸机型，英特尔 WCL 平台",
+      "summary": "LG在韩国发布gram Book AI 2026笔记本，为gram系列首款14英寸机型，搭载英特尔Wildcat Lake平台与2026款酷睿处理器，机身重1.29kg、厚14.9mm，配61.2Wh电池续航达30.5小时，9月7日发售，约合人民币7089元。",
+      "publishedAt": "2026-09-01T16:25:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/022.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260901-018",
+      "title": "中国电信旗下天翼云盘：9 月 27 日起调整数据迁移规则，迁移至新号码将回收原号码福利空间",
+      "summary": "中国电信天翼云盘宣布自9月27日起调整号码迁移规则，用户数据迁移至新号码后原号码福利空间将被回收，新号码需已注册、90天内未迁移过数据且总空间不低于原号码，迁移后原分享链接将失效。",
+      "publishedAt": "2026-09-01T16:15:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/019.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260901-019",
+      "title": "日企 Newtech 推出 Ness4300 四盘位 NAS，搭载专有 RAID 控制器",
+      "summary": "日本企业Newtech发布四盘位NAS设备Ness4300，配3.5英寸SATA硬盘位及240GB M.2 PCIe NVMe固态盘运行Windows Server IoT 2025，搭载名为Condor的专有硬件RAID控制器以降低处理器负载，标配奔腾金牌G7400处理器，可选至强E-2436。",
+      "publishedAt": "2026-09-01T16:08:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/017.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260901-020",
+      "title": "英伟达 GPU 帧插值支持并入 FFmpeg，用户可使用帧生成提高视频帧率",
+      "summary": "开源项目FFmpeg通过Vulkan API集成英伟达GPU帧插值功能，可利用RTX 30/40/50系列显卡光流加速器预测生成中间帧，实现如30FPS转60FPS效果，Vulkan方案消除了此前阻碍该功能并入开源项目的专有软件依赖。",
+      "publishedAt": "2026-09-01T16:07:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/015.htm",
+      "subCategory": "开源生态"
+    },
+    {
+      "id": "tech-20260901-021",
+      "title": "很少用快充，一辆特斯拉 Model Y 三年跑 18 万公里后电池衰减 23%",
+      "summary": "一名YouTube博主购入行驶超18万公里的二手特斯拉Model Y，发现其电池容量三年内衰减约23%，此前充电多来自交流慢充及动能回收而非超充。研究称快充未产生预期负面影响，前车主每日超百英里通勤及沙漠高温或为主因。",
+      "publishedAt": "2026-09-01T16:05:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/013.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260901-024",
+      "title": "罗兰推出内置 Wi-Fi 数码钢琴 FP-40，可联动教学应用实时反馈",
+      "summary": "罗兰推出新款数码钢琴FP-40，内置Wi-Fi并与教学应用Piano Sphere联动，提供实时反馈与曲库课程，相比蓝牙速度更快、延迟更低，钢琴与应用均支持固件自动更新，售价750美元，提供黑白两色。",
+      "publishedAt": "2026-09-01T03:00:00-05:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2247836/roland-new-digital-piano-has-built-in-wi-fi-that-integrates-with-a-teaching-app/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260901-022",
+      "title": "微软首次细化 Linux 版 Edge 浏览器支持的发行版，比谷歌 Chrome 晚约 7 年",
+      "summary": "微软更新文档首次明确列出经测试验证支持Edge浏览器的Linux发行版，包括Ubuntu 18.04、Debian 10、openSUSE 15.5及Fedora Linux 39及以上版本，距谷歌2019年8月公布Chrome的Linux支持列表已晚约七年。",
+      "publishedAt": "2026-09-01T15:53:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/992.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260901-025",
+      "title": "Google TV Streamer 涨价 50%，售价升至 150 美元",
+      "summary": "谷歌将Google TV Streamer售价上调至150美元，较2024年发布时的100美元上涨50%，官方未公开说明原因，报道称或与AI公司大量采购内存推高内存价格有关，该设备配32GB存储、4GB内存，支持4K 60fps及杜比全景声。",
+      "publishedAt": "2026-09-01T02:31:00-05:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248329/google-tv-streamer-150-50-percent-price-hike/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260901-023",
+      "title": "消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整",
+      "summary": "据分析师郭明錤消息，英伟达重启代号\"Rubin CPX\"的AI推理预填充加速芯片项目并大幅调整设计，新版算力接近标准Rubin GPU，配备168GB HBM4显存（原为128GB GDDR7），预计2027年一季度量产，建议与标准Rubin按1:1搭配部署。",
+      "publishedAt": "2026-09-01T09:42:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/759.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260901-001",
       "title": "苹果今秋 iPhone 18 Pro / Max 发布会预估下架 11 款设备，iPhone 16 去留存悬念",
@@ -40,6 +157,15 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1147/1147733.htm",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260831-957",
+      "title": "苹果向法院提交新证据，指控前员工窃取商业机密协助OpenAI研发硬件",
+      "summary": "苹果在诉前员工Chang Liu侵占商业机密案中提交新证据，指控其利用认证漏洞在离职后仍保留内部系统访问权限，并使用苹果机密电路原理图及仿冒工程应用为OpenAI硬件项目工作，苹果正申请初步禁令并要求加速证据开示。",
+      "publishedAt": "2026-08-31T17:13:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260901-005",
@@ -330,6 +456,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260831-004",
+      "title": "黑客组织FulcrumSec宣称入侵曼彻斯特机场集团，窃取86GB数据",
+      "summary": "勒索组织FulcrumSec宣称通过泄露的Iterable API密钥入侵曼彻斯特机场集团，窃取约870万名客户的预订信息等86GB数据，机场集团已拒绝支付赎金并通知受影响客户。",
+      "publishedAt": "2026-08-30T11:00:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260831-005",
       "title": "古尔曼：Apple Watch Series 12与Ultra 4将支持全天候心率监测",
       "summary": "据古尔曼报道，苹果正为Apple Watch Series 12和Ultra 4开发全天候心率监测等健康功能，并测试白色、深灰色陶瓷表壳及新表带配色。",
@@ -348,6 +483,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260831-007",
+      "title": "Anthropic警告信息窃取恶意软件正劫持Claude会话消耗额度",
+      "summary": "Anthropic通知受影响用户，Vidar、LummaC2等信息窃取恶意软件窃取了Claude账号的登录会话，使攻击者得以登录消耗使用额度，公司已强制登出相关账号并退款。",
+      "publishedAt": "2026-08-30T10:30:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260831-008",
       "title": "微软为SwiftKey输入法iOS版新增液态玻璃效果，用户反馈不佳",
       "summary": "微软将iOS版SwiftKey输入法更新至4.3.5版本，加入匹配iOS 26风格的液态玻璃设计，但用户反馈按键间距异常、部分按键消失及应用崩溃等问题。",
@@ -355,6 +499,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/243.htm",
       "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260831-009",
+      "title": "研究人员发现Chrome/Edge扩展程序窃取加密货币与浏览器数据",
+      "summary": "安全公司Socket发现16个恶意模块通过Chrome及Edge浏览器扩展窃取加密货币、浏览器数据与账号凭证，该恶意框架可能自2024年初已开始活动，建议受影响用户立即更换密码。",
+      "publishedAt": "2026-08-30T10:17:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260831-010",
@@ -409,6 +562,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/222.htm",
       "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260831-016",
+      "title": "NASA南希·格雷斯·罗曼空间望远镜由猎鹰重型火箭成功发射",
+      "summary": "NASA南希·格雷斯·罗曼空间望远镜于美国东部时间7时26分由SpaceX猎鹰重型火箭发射升空，将历时三个月飞往日地L2点，用于研究暗物质、暗能量及系外行星。",
+      "publishedAt": "2026-08-30T07:26:00-04:00",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-launches/",
+      "subCategory": "航空航天"
     },
     {
       "id": "tech-20260831-017",
@@ -546,33 +708,6 @@
       "subCategory": "操作系统"
     },
     {
-      "id": "tech-20260831-004",
-      "title": "黑客组织FulcrumSec宣称入侵曼彻斯特机场集团，窃取86GB数据",
-      "summary": "勒索组织FulcrumSec宣称通过泄露的Iterable API密钥入侵曼彻斯特机场集团，窃取约870万名客户的预订信息等86GB数据，机场集团已拒绝支付赎金并通知受影响客户。",
-      "publishedAt": "2026-08-30T11:00:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-007",
-      "title": "Anthropic警告信息窃取恶意软件正劫持Claude会话消耗额度",
-      "summary": "Anthropic通知受影响用户，Vidar、LummaC2等信息窃取恶意软件窃取了Claude账号的登录会话，使攻击者得以登录消耗使用额度，公司已强制登出相关账号并退款。",
-      "publishedAt": "2026-08-30T10:30:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-009",
-      "title": "研究人员发现Chrome/Edge扩展程序窃取加密货币与浏览器数据",
-      "summary": "安全公司Socket发现16个恶意模块通过Chrome及Edge浏览器扩展窃取加密货币、浏览器数据与账号凭证，该恶意框架可能自2024年初已开始活动，建议受影响用户立即更换密码。",
-      "publishedAt": "2026-08-30T10:17:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260830-021",
       "title": "Digitimes 称 M6 是苹果 2nm 探路先锋，服务 A20 Pro 芯片量产落地",
       "summary": "据Digitimes报道，苹果M6芯片是其首款2纳米工艺产品，先以小批量验证台积电2nm制程良率，为搭载A20 Pro芯片的iPhone 18 Pro量产铺路，台积电2nm相关WMCM封装产能预计2026年底达每月60万片，2027年超120万片。",
@@ -589,141 +724,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1147/1147360.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260830-022",
-      "title": "广汽埃安 i60 今日推送全新 OTA 更新：支持原生 Apple CarPlay 互联、自定义充电上限",
-      "summary": "广汽埃安为i60车型推送新一轮OTA升级，新增倒车紧急刹车辅助、原生Apple CarPlay互联、可自定义80%至90%充电上限，并优化能量回收、增加分车型续航显示，支持App查看充电记录及自定义场景联动。",
-      "publishedAt": "2026-08-30T08:23:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/069.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260830-023",
-      "title": "SSD 耐久个案：64GB 闪迪固态硬盘 16 年累计写入超 9PB，通电超 6.1 万小时",
-      "summary": "有用户晒出一块使用16年的64GB闪迪SATA固态硬盘监控数据，累计写入超9PB、写入次数逾14万次，通电时长超6.1万小时，健康状态仍显示良好，业内分析认为得益于早期SLC或MLC闪存颗粒更高的擦写寿命。",
-      "publishedAt": "2026-08-30T08:19:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/068.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260830-026",
-      "title": "13.78万买车长超5米的大SUV！极狐T7预售72小时 订单破3万",
-      "summary": "极狐全新中大型SUV阿尔法T7自8月26日启动预售，72小时内订单突破3万台，预售补贴价13.78万至17.48万元，全系标配宁德时代电池与华为乾崑ADS 5 Pro智驾系统，纯电版CLTC续航最高715公里。",
-      "publishedAt": "2026-08-30T07:37:28+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1147/1147358.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260830-027",
-      "title": "华为2026重回中国手机第一！徐直军：华为用国产芯片+鸿蒙实现飞行中换发动机",
-      "summary": "华为轮值董事长徐直军表示，公司已凭借国产芯片与鸿蒙生态重回中国手机市场份额第一，鸿蒙原生应用超10万款，截至8月20日鸿蒙6设备装机量达8000万台，预计年内突破1亿台，全球化仍是待解课题。",
-      "publishedAt": "2026-08-30T07:35:02+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1147/1147357.htm",
-      "subCategory": "操作系统"
-    },
-    {
-      "id": "tech-20260831-016",
-      "title": "NASA南希·格雷斯·罗曼空间望远镜由猎鹰重型火箭成功发射",
-      "summary": "NASA南希·格雷斯·罗曼空间望远镜于美国东部时间7时26分由SpaceX猎鹰重型火箭发射升空，将历时三个月飞往日地L2点，用于研究暗物质、暗能量及系外行星。",
-      "publishedAt": "2026-08-30T07:26:00-04:00",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-launches/",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260830-025",
-      "title": "苹果首款AI眼镜细节曝光！无屏设计 主打Siri视觉智能 2027年发布",
-      "summary": "据爆料，苹果首款AI眼镜预计2027年WWDC发布、秋季上市，采用无屏设计，依靠摄像头、麦克风与Siri视觉智能实现物体识别、标识翻译等功能，并支持记录场景供后续提醒，出于隐私考虑暂不提供常规拍照录像功能。",
-      "publishedAt": "2026-08-30T07:10:44+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1147/1147356.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260830-001",
-      "title": "黑客攻击柏林市政府系统并以5.79TB数据发起勒索，市长重申不会屈服",
-      "summary": "Rhysida黑客组织于8月7日至12日入侵柏林市政府系统，窃取约5.79TB数据，要求30枚比特币赎金，柏林市长凯·维格纳表示柏林不会屈服于勒索，部分线上服务已暂停。",
-      "publishedAt": "2026-08-29T23:15:33+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/051.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260830-002",
-      "title": "印度消费电子品牌Mivi跨界进军手机市场，首款产品9月发布",
-      "summary": "印度消费电子品牌Mivi宣布进军智能手机市场，首款5G手机将于9月发布，售价低于1.5万卢比（约合1055元人民币），搭载骁龙芯片，此前该品牌主营蓝牙音箱、耳机等音频产品。",
-      "publishedAt": "2026-08-29T23:02:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/049.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260830-003",
-      "title": "绿联推出新款二合一折叠无线充：支持25W Qi2.2，59美元",
-      "summary": "绿联在美国上市新款二合一折叠无线充电器，设计类似苹果已停产的MagSafe Duo，支持25W Qi2.2磁吸充电，另一充电位为AirPods提供5W功率，折叠后约6×7.26×2.67厘米，售价59.99美元。",
-      "publishedAt": "2026-08-29T22:44:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/048.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260830-004",
-      "title": "英伟达RTX 5090显卡供电接口熔毁怎么避免？超频团队直接将电源线焊在PCB上",
-      "summary": "巴西超频团队TecLab将RTX 5090显卡16-pin供电接口直接焊接在PCB走线上以绕开接口熔毁问题，在Inno3D HOF OC LAB双16-pin版本上验证可行，理论供电能力超1200W，但该改装将使质保失效。",
-      "publishedAt": "2026-08-29T22:12:54+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/045.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260830-005",
-      "title": "国家数据局：截至7月底，我国智算总规模达到245万PFLOPS",
-      "summary": "国家数据局公布数据，截至今年7月底，我国智能算力总规模达到245万PFLOPS（FP16），八大国家算力枢纽及三大协同发展区占全国智算规模超85%，约145万PFLOPS已接入国家级监测调度平台。",
-      "publishedAt": "2026-08-29T22:08:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/044.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260830-006",
-      "title": "一用户宏碁游戏本因14900HX过热送修后，免费升级至U9 275HX + RTX 5070 Ti最新款",
-      "summary": "一名宏碁掠夺者Helios 16用户因酷睿i9-14900HX处理器过热送修，因原主板缺货，宏碁免费更换为搭载酷睿Ultra 9 275HX、RTX 5070 Ti及240Hz OLED屏的最新款机型，但用户反映机身改为塑料材质。",
-      "publishedAt": "2026-08-29T21:56:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/043.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260830-007",
-      "title": "微软Win11原生WinUI框架现已开源",
-      "summary": "微软宣布完成WinUI开源工作，将该项目主线开发迁移至GitHub仓库microsoft/microsoft-ui-xaml，WinUI是Windows 11操作系统的原生UI框架，目前提交的PR均来自微软内部开发者。",
-      "publishedAt": "2026-08-29T21:50:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/042.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260830-008",
-      "title": "距地球1万光年：韦布太空望远镜拍下狮子星云迄今最清晰图像",
-      "summary": "NASA公布詹姆斯·韦布太空望远镜拍摄的NGC 2392（狮子星云）迄今最清晰图像，该星云位于双子座、距地球约1万光年，中心白矮星表面温度约20万摄氏度，天文学家预计其形态将在约1万年后消散。",
-      "publishedAt": "2026-08-29T21:38:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/040.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260830-009",
-      "title": "\"开源Windows\"ReactOS 0.4.16发布：全新图形安装程序、提升硬件支持",
-      "summary": "开源操作系统项目ReactOS发布0.4.16版本，新增全新图形化安装程序，可在启动盘及Live CD中直接安装系统，另加入类似Windows Server Core的服务器核心安装模式，并改进多显示器支持及显卡驱动。",
-      "publishedAt": "2026-08-29T21:29:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/039.htm",
-      "subCategory": "开源生态"
     }
   ]
 }
