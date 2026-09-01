@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-01T08:30:00+08:00",
+  "updatedAt": "2026-09-01T16:45:00+08:00",
   "items": [
+    {
+      "id": "policy-20260901-005",
+      "title": "三部门发布《汽车行业境外竞争行为与合规建设指引》",
+      "summary": "商务部、工业和信息化部、市场监管总局联合发布《汽车行业境外竞争行为与合规建设指引》，要求车企出海坚持成本导向定价、避免频繁大幅调价扰乱市场，并对质量管理、数据安全、绿色供应链等合规事项作出规范。",
+      "publishedAt": "2026-09-01T15:06:00+08:00",
+      "source": "商务部（中国新闻网）",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687917.shtml",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20260901-001",
       "title": "李强主持召开国务院常务会议",
@@ -465,6 +474,15 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260823-004",
+      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
+      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
+      "publishedAt": "2026-08-21T10:42:00-04:00",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
+      "subCategory": "反垄断"
+    },
+    {
       "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
       "summary": "财政部、央行和金融监管总局8月21日宣布优化财政金融协同促内需政策工具，将经营性贷款、信用卡分期（含购车、家装）纳入贴息范围，服务银行由约100家扩大至400家，小微企业贷款贴息上限由5000万元提高到7500万元，个人消费贴息上限由3000元提高到5000元，下半年还将推出更多财政金融协同措施。",
       "publishedAt": "2026-08-21T19:52:00+08:00",
@@ -589,15 +607,6 @@
       "url": "https://www.gov.uk/government/news/beacon-fen-energy-park-development-consent-decision-announced",
       "subCategory": "新能源政策",
       "id": "policy-20260823-003"
-    },
-    {
-      "id": "policy-20260823-004",
-      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
-      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
-      "publishedAt": "2026-08-21T10:42:00-04:00",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
-      "subCategory": "反垄断"
     },
     {
       "title": "商务部电子商务司负责人介绍2026年1-7月我国电子商务发展情况",
