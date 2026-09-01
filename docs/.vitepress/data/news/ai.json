@@ -366,6 +366,87 @@
       "id": "ai-20260828-511"
     },
     {
+      "title": "腾讯混元开源旗舰模型Hy4preview，770B参数支持百万token上下文",
+      "summary": "腾讯混元发布新一代开源旗舰模型Hy4preview，总参数770B、激活49B，上下文长度达100万token。据官方披露的163名专家、203项工程任务测试，其平均得分2.99，高于GLM-5.3的2.92与Kimi K3的2.94，已同步上线HuggingFace、GitHub、ModelScope等平台。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30698",
+      "subCategory": "开源模型",
+      "id": "ai-20260828-501"
+    },
+    {
+      "title": "腾讯 WorkBuddy接入混元Hy4preview，海内外版本同步限时免费",
+      "summary": "腾讯办公产品WorkBuddy宣布接入混元最新开源模型Hy4preview，国内外版本同步上线，新模型两周内免费试用，上一代Hy3免费使用期限延长至9月30日，主要面向编程与办公场景。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30699",
+      "subCategory": "AI应用",
+      "id": "ai-20260828-502"
+    },
+    {
+      "title": "蚂蚁集团联合中金公司发布金融增强大模型Ling-3.0-flash-Fin",
+      "summary": "蚂蚁集团与中金公司联合推出金融增强大模型Ling-3.0-flash-Fin，通过金融专业数据训练强化研究与投研能力，双方还联合开发金融检索基准FinFIRST并计划开源。模型可通过OpenRouter免费调用一个月，权重下周开源。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30695",
+      "subCategory": "大模型",
+      "id": "ai-20260828-503"
+    },
+    {
+      "title": "谷歌发布Gemini Omni 1.1 Flash视频模型，支持生成4K成片",
+      "summary": "谷歌推出视频生成模型Gemini Omni 1.1 Flash，最高可输出4K分辨率视频，此前版本为720p。新模型支持以10秒为单位延长已有片段、指定首尾帧生成过渡镜头，并可参考最长3秒视频片段保持角色一致性，按分辨率分级计费。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30682",
+      "subCategory": "AI视频",
+      "id": "ai-20260828-504"
+    },
+    {
+      "title": "阿里通义Qoder升级为智能体工作台，面向全体用户开放",
+      "summary": "阿里巴巴将编程工具Qoder升级为以编程能力为核心、面向所有人的智能体工作台，用户可用自然语言描述目标，由系统理解上下文、制定策略、调用工具并完成任务。Qoder自去年8月国际化以来已积累超600万用户和超10万家企业客户。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30691",
+      "subCategory": "Agent",
+      "id": "ai-20260828-505"
+    },
+    {
+      "title": "小鹏第二代VLA大模型迎来首次重大升级，安全能力提升20倍",
+      "summary": "小鹏汽车公布第二代VLA大模型首次重大升级，端侧模型参数扩大3.5倍，采用Infini-VLA架构实现30秒驾驶记忆，流式推理使端到端响应速度提升300%，新增可预判䁘秒后事件的X-Foresight模型，综合安全能力提升20倍。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30689",
+      "subCategory": "具身智能",
+      "id": "ai-20260828-506"
+    },
+    {
+      "title": "国内首个量子增强大模型\"玄冥\"正式发布",
+      "summary": "国光量子AI团队发布量子增强大模型家族\"玄冥\"，将量子计算技术引入模型核心推理与决策环节，在科普问答、任务路由、智能体决策等场景具备复杂逻辑推理和专业判断优势，旨在缩短复杂场景下的决策处理时间。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30688",
+      "subCategory": "大模型",
+      "id": "ai-20260828-507"
+    },
+    {
+      "title": "谷歌AI模式升级，支持跨300余家平台查航班订酒店",
+      "summary": "谷歌为对话式搜索功能AI模式增加旅行规划能力，接入300余家航空公司与旅游网站实时价格，可跨180多个国家生成行程并设置价格提醒；酒店预订接入Booking.com、Expedia、万豪、希尔顿等渠道，并支持自然语言查询里程与积分兑换价值。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30687",
+      "subCategory": "Agent",
+      "id": "ai-20260828-508"
+    },
+    {
+      "title": "Midjourney上线V8.2图像编辑模型，支持指令微调与画布扩展",
+      "summary": "Midjourney推出首个公开测试的V8.2图像编辑模型，从纯文本生图扩展到图像编辑，支持基于文本指令修改现有图片、最多四张图参考生成、局部重绘与画布扩展，并兼容个性化风格参考，可通过拖拽、编辑按钮或Discord指令使用。",
+      "publishedAt": "2026-08-28",
+      "source": "aibase.com",
+      "url": "https://www.aibase.com/news/30690",
+      "subCategory": "多模态",
+      "id": "ai-20260828-509"
+    },
+    {
       "title": "高德发布万帧级流式3D重建模型ABot-Recon，仅需12帧完成重建",
       "summary": "高德发布无长程依赖的流式3D重建模型ABot-Recon，通过局部位姿预测与残差优化，仅用12帧连续画面即可重建万帧级3D场景。该模型在Oxford Spires基准上轨迹误差降低40.6%，KITTI-02测试达24.45FPS，显存峰值约6.71GB，仅需单目RGB视频输入。",
       "publishedAt": "2026-08-28T11:45:45+08:00",
@@ -501,15 +582,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260827-102",
-      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
-      "summary": "蚂蚁国际发布时间序列预测模型Falcon TST 2.0，平均绝对缩放误差(MASE)为0.666，超越多家大厂同类模型，聚焦跨境支付外汇风险管理场景，预测准确率稳定在93%以上；巴克莱、花旗、德意志银行、渣打等机构已将其用于现金流与外汇管理，一家航空客户据称对冲成本降低约30%。",
-      "publishedAt": "2026-08-26T11:25:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479631.html",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260827-007",
       "title": "前Meta研究员创业公司发布工业视觉模型Isaac 0.5",
       "summary": "前Meta AI研究员创立的Perceptron发布通用视觉模型Isaac 0.5，面向仓库、工厂等场景，使机器人具备感知、推理、行动能力，可完成读标签、判断空间关系、规划抓取等任务，基于约100万小时视频及机器人轨迹数据训练，开放权重发布。",
@@ -517,6 +589,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260827-102",
+      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+      "summary": "蚂蚁国际发布时间序列预测模型Falcon TST 2.0，平均绝对缩放误差(MASE)为0.666，超越多家大厂同类模型，聚焦跨境支付外汇风险管理场景，预测准确率稳定在93%以上；巴克莱、花旗、德意志银行、渣打等机构已将其用于现金流与外汇管理，一家航空客户据称对冲成本降低约30%。",
+      "publishedAt": "2026-08-26T11:25:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/479631.html",
+      "subCategory": "AI应用"
     },
     {
       "title": "Anthropic统一Claude聊天与Cowork记忆系统",
@@ -643,87 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/478473.html",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260824-104",
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "summary": "国产芯片企业中诚华隆发布新一代HL200推理芯片及配套超节点智算集群方案，芯片FP16/BF16算力达0.5P、FP8达2P、FP4达4P，能效比5.12 TFLOPS/W，支持单节点最领 1024卡纵向堆叠、横向扩展至10240卡，已在DeepSeek V4等主流大模型上完成测试。",
-      "publishedAt": "2026-08-24T15:04:36+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478469.html",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260824-106",
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价\"稳定、真实、有质感\"",
-      "summary": "阿里巴巴8月24日正式上线视频生成大模型Wan3.0，可生成30秒视频，并新增对DOC、XLS、PPT、PDF、MD等文档格式的支持，在人物、道具、声音、空间及风格一致性上有所提升。该模型已上线阿里云百炼、通义千问等平台，8月24日至9月23日提供限时优惠。",
-      "publishedAt": "2026-08-24T13:09:27+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478427.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260824-105",
-      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
-      "summary": "2026世界机器人大会上，智象未来（HiDream.ai）创始人兼CEO梅涳发表演讲，提出高智商不等于物理世界行动能力，并介绍其自研UiT架构模型HiDream-O1-World，该模型在WBench测评中排名第一，支持文本、图像及交互控制输入，可为机器人训练生成合成数据。",
-      "publishedAt": "2026-08-24T13:04:52+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478421.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260824-001",
-      "title": "OpenAI CEO 奥尔特曼：担心人工智能会被少数强势主体掌控",
-      "summary": "OpenAI首席执行官奥尔特曼在采访中表示，担忧人工智能权力被少数强势主体垄断，认为过度强调安全限制反而可能导致权力集中，并对比OpenAI支持开源权重与Anthropic倾向加强监管的不同立场。",
-      "publishedAt": "2026-08-24T08:01:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/333.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "title": "Kimi K2.5将于本月底退役，月之暗面首个万亿参数多模态模型谢幕",
-      "summary": "月之暗面宣布首个万亿参数多模态模型Kimi K2.5将于本月底停止服务，该模型2026年1月上线，支持图文对话与Agent任务。公司将全面转向Kimi K3，后者含2.8万亿参数，采用KDA混合线性注意力机制，上下文窗口达100万token，为全球最大规模开源模型。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30563",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-002"
-    },
-    {
-      "title": "中国开源模型出海：法律AI独角兽Harvey基于Kimi K3推出Tenet",
-      "summary": "估值110亿美元的美国法律AI公司Harvey基于月之暗面开源模型Kimi K3后训练推出法律专用模型Harvey Tenet，服务超2400家机构、20万名律师，此前主要依赖OpenAI、Anthropic闭源模型。公司正以约155亿美元估值融资，年化收入约3.5亿美元。",
-      "publishedAt": "2026-08-24",
-      "source": "AIbase",
-      "url": "https://www.aibase.com/news/30577",
-      "subCategory": "开源模型",
-      "id": "ai-20260825-003"
-    },
-    {
-      "id": "ai-20260824-002",
-      "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
-      "summary": "据Business Insider报道，开源模型托管平台Hugging Face正探索出售事宜，潜在交易估值或达130亿美元以上，公司已与银行合作评估买家意向，此前2023年融资估值为45亿美元。",
-      "publishedAt": "2026-08-24T07:28:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/329.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260824-003",
-      "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
-      "summary": "主播Warren Pandiscia对Twitch及母公司亚马逊提起集体诉讼，指控其未经同意将主播直播、剪辑及聊天记录用于生成式AI模型训练，该功能默认开启且仅按频道设置退出选项。",
-      "publishedAt": "2026-08-24T07:19:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/993/326.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260824-004",
-      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-      "summary": "TRAE AI创意大赛吸引3.7万人参赛、提交1.4万个项目，前保安与高中生等非程序员借助AI编程工具完成健康游戏、运动教练应用等作品，冠军作品实现从AI硬件设计到PCB自动化生产的全流程。",
-      "publishedAt": "2026-08-24T07:19:06+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/478358.html",
-      "subCategory": "AI编程"
     }
   ]
 }
