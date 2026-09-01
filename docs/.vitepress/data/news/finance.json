@@ -3,8 +3,80 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-01T16:45:00+08:00",
+  "updatedAt": "2026-09-02T00:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260901-702",
+      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
+      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
+      "publishedAt": "2026-09-01T19:38:09Z",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10859323",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260901-700",
+      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
+      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
+      "publishedAt": "2026-09-01T10:54:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-705",
+      "title": "Shein港股上市首日平淡收官 收盘价低于发行价",
+      "summary": "希音（Shein）9月1日在港交所挂牌，首日收报48.50港元，低于48.56港元的发行价，盘中一度跌至43.80港元；公司市值约2630亿美元，较2022年峰值缩水约75%，投资人关注欧美小额包裹免税取消及监管调查等风险。",
+      "publishedAt": "2026-09-01T23:33:00+08:00",
+      "source": "Epoch Times（大纪元）",
+      "url": "https://www.epochtimes.com/gb/26/9/1/n14840852.htm",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260901-704",
+      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
+      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
+      "publishedAt": "2026-09-01T10:02:00-04:00",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260901-703",
+      "title": "美联储理事巴尔：通胀未降温应果断加息 9月加息概率升至66%",
+      "summary": "美联储理事迈克尔·巴尔9月1日表示，若通胀未能充分回落，美联储应在9月15日至16日议息会议上或会后果断加息；受此表态影响，市场对9月加息的预期概率由8月28日的略高于30%大幅升至66%。",
+      "publishedAt": "2026-09-01T21:35:00+08:00",
+      "source": "Investing.com",
+      "url": "https://cn.investing.com/news/economy-news/article-3547171",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260901-701",
+      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
+      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
+      "publishedAt": "2026-09-01T09:14:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260901-707",
+      "title": "9月1日晚间沪深上市公司重大事项公告集锦",
+      "summary": "东方财富网9月1日晚间公告汇总：华虹宏力拟增资子公司建设12英寸特色工艺晶圆产线，月产能约5.5万片；国民技术拟出资6000万元收购南京友存科技8.33%股权；国投电力旗下745兆瓦燃气机组完成168小时试运行并正式商业发电。",
+      "publishedAt": "2026-09-01T19:32:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609013861643112.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260901-706",
+      "title": "全球债市抛售加剧 油价突破91美元 加息押注升温",
+      "summary": "9月1日布伦特原油报91.15美元/桶，较前一日90.49美元续涨；日本10年期国债收益率升至3.0%，为1996年以来最高；美国核心PCE同比达3.3%，市场因美伊冲突及通胀担忧加大对美联储与日本央行加息的押注。",
+      "publishedAt": "2026-09-01T17:22:00+08:00",
+      "source": "IBTimes Singapore",
+      "url": "https://www.ibtimes.sg/global-bond-selloff-deepens-oil-tops-91-rate-hike-bets-surge-93156",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20260901-006",
       "title": "A股收评：超3300只个股飘红，三大指数集体收跌，科创50大跌",
@@ -652,78 +724,6 @@
       "url": "https://www.fx168news.com/article/1081467",
       "subCategory": "港股",
       "id": "finance-20260826-001"
-    },
-    {
-      "title": "8月25日A股收评：沪指探底回升涨0.19%，两市成交额缩至1.83万亿元",
-      "summary": "8月25日A股收盘，上证指数涨0.19%报3889.44点，深证成指跌0.35%报13745.87点，创业板指跌1%报3397.52点，两市成交额1.83万亿元；创新药、农业板块走强，贵金属、锂矿股回调。",
-      "publishedAt": "2026-08-25T15:14:00+08:00",
-      "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202608253852761471.html",
-      "subCategory": "A股",
-      "id": "finance-20260825-005"
-    },
-    {
-      "title": "零跑上半年每卖一辆车只赚589元 下调全年盈利目标 确认布局机器人业务",
-      "summary": "零跑汽车发布2026年上半年业绩，营收381.1亿元同比增57.2%，净利润2.1亿元同比增600%，交付35.65万辆；受原材料成本上升影响，公司将全年净利润目标由约50亿元下调至30亿元。",
-      "publishedAt": "2026-08-25T14:58:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608253852750738.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260826-005"
-    },
-    {
-      "title": "现货黄金冲击4700美元",
-      "summary": "8月25日现货黄金盘中最高触及4755美元/盎司后回落，日内涨约0.5%至4674.76美元/盎司，续创四个月新高；美国财政部回购操作及美债收益率下行为金价提供支撑，多家投行上调金价目标位。",
-      "publishedAt": "2026-08-25T09:37:44+08:00",
-      "source": "同花顺财经",
-      "url": "https://news.10jqka.com.cn/20260825/c679252566.shtml",
-      "subCategory": "大宗商品",
-      "id": "finance-20260826-004"
-    },
-    {
-      "title": "8月25日央行开展3860亿元7天期逆回购操作",
-      "summary": "中国人民银行8月25日以固定利率、数量招标方式开展3860亿元7天期逆回购操作，操作利率维持1.40%不变，全额满足了一级交易商需求。",
-      "publishedAt": "2026-08-25T09:37:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683601.shtml",
-      "subCategory": "政策利率",
-      "id": "finance-20260826-003"
-    },
-    {
-      "id": "finance-20260824-111",
-      "title": "Wall Street drifts ahead of a big week that could swing stocks and bonds",
-      "summary": "美联社报道，8月24日美股早盘标普500指数跌0.4%，纳斯达克综合指数跌0.7%，道指涨0.1%；英伟达跌2.6%，美光科技跌7.2%；10年期美债收益率降至4.70%，布伦特原油跌1.9%至90.95美元/桶。",
-      "publishedAt": "2026-08-24T23:28:00+08:00",
-      "source": "Associated Press",
-      "url": "https://www.actionnewsjax.com/news/business/world-shares-decline/KPL76AQRR4ZXZC2XIRKI2ZKZEM/",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260824-110",
-      "title": "Gold Price Hits 15-Week High As Late-Summer Rally Extends",
-      "summary": "Forbes报道，8月24日美股盘中现货黄金一度上涨约1.5%至4679美元/盎司，黄金期货涨超1%至4738.50美元，均创5月中旬以来新高，主因美国财政部增加长期国债回购推动美元走弱。",
-      "publishedAt": "2026-08-24T23:03:00+08:00",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/conormurray/2026/08/24/gold-price-hits-15-week-high-as-late-summer-rally-extends/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "title": "诺诚健华中报扭亏为盈但指引保守，股价大跌近7%",
-      "summary": "诺诚健华8月24日发布2026年中报，上半年营收1.37亿元同比增55.5%，净利润2.4亿元实现扭亏（上年同期亏损3600万元），因公司维持全年销售指引未上调，股价当日大跌6.96%至27.54美元。",
-      "publishedAt": "2026-08-24T22:06:00+08:00",
-      "source": "Investing.com中文站",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3532967",
-      "subCategory": "公司财报",
-      "id": "finance-20260825-004"
-    },
-    {
-      "title": "央行公告8月25日开展5000亿元MLF操作并加码隔夜逆回购",
-      "summary": "央行8月24日晚间公告，将于8月25日开展5000亿元1年期MLF操作，并在8月27日至9月1日每日开展不超过6000亿元隔夜逆回购操作，以维护月末银行体系流动性。",
-      "publishedAt": "2026-08-24T20:47:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2462742",
-      "subCategory": "政策利率",
-      "id": "finance-20260825-003"
     }
   ]
 }

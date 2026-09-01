@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-01T16:45:00+08:00",
+  "updatedAt": "2026-09-02T00:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260901-700",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "summary": "MiniMax与fal联合发布视频生成模型H3 Max，可将5秒768p视频生成时间压缩至3秒内，快于播放速度，支持实时直播、互动叙事等应用；开源版H3已衍生300余个社区模型，累计下载2400万次，摩根士丹利维持“增持”评级后其港股股价上涨16.18%。",
+      "publishedAt": "2026-09-01T20:02:39+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "subCategory": "AI视频"
+    },
     {
       "id": "ai-20260901-011",
       "title": "GitHub最热架构图Agent，兼容Claude Code、Codex、Cursor等编程Agent",
@@ -49,6 +58,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/482300.html",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-701",
+      "title": "vLLM-Omni系统级优化MiniMax H3，结合FastVideo FastH3实现超实时视频推理服务",
+      "summary": "vLLM团队发布技术博客，介绍对MiniMax H3视频模型的系统级推理优化，含长序列注意力、算子融合与并行VAE解码，较Diffusers基线提速30.8%；结合FastVideo蒸馏模型FastH3（去噪步数从49降至4），在8张B300 GPU上实现10.125秒视频仅需8.7秒左右完成的生成服务。",
+      "publishedAt": "2026-09-01",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-01-minimax-h3-production-serving",
+      "subCategory": "推理框架"
     },
     {
       "id": "ai-20260901-018",
@@ -706,24 +724,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/479631.html",
       "subCategory": "AI应用"
-    },
-    {
-      "title": "Anthropic统一Claude聊天与Cowork记忆系统",
-      "summary": "Anthropic宣布打通Claude聊天与Claude Cowork的记忆系统，用户在一处提供的信息可在另一处自动生效，支持实时记录、查看编辑删除，默认排除健康记录等敏感信息，已面向Free、Pro、Max全平台开放。",
-      "publishedAt": "2026-08-26T01:50:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "subCategory": "AI应用",
-      "id": "ai-20260826-004"
-    },
-    {
-      "title": "范式联合优必选等十余家具身巨头发布PhanthyMotus新计划，从开源走向共建",
-      "summary": "范式发布具身智能体框架PhanthyMotus生态共建计划，联合宇树科技等十余家机器人企业推动平台从开源转向多方共建，已积累超60万行代码，适配15款以上机器人型号，标准化200余种硬件驱动接口。",
-      "publishedAt": "2026-08-25T17:31:16+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479314.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260825-008"
     }
   ]
 }
