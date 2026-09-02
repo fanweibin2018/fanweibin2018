@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-02T09:10:00+08:00",
+  "updatedAt": "2026-09-02T17:00:00+08:00",
   "items": [
+    {
+      "id": "policy-20260902-901",
+      "title": "市场监管总局公布九起养老服务领域不正当竞争典型案例",
+      "summary": "市场监管总局公布九起养老服务领域不正当竞争典型案例，涉及虚假宣传保健品、医疗器械具有治疗肿瘤、关节炎等疾病功效等违法行为，处罚金额从3000元至40万元不等，剑指“坑老骗老”营销乱象。",
+      "publishedAt": "2026-09-02T15:30:00+08:00",
+      "source": "中国新闻网（转市场监管总局）",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688717.shtml",
+      "subCategory": "反垄断"
+    },
+    {
+      "id": "policy-20260902-900",
+      "title": "中央网信办深入开展“清朗·整治AI应用乱象”专项行动第二阶段工作",
+      "summary": "中央网信办启动“清朗·整治AI应用乱象”专项行动第二阶段，聚焦AI生成虚假信息、暴力低俗内容、假冒仿冒、侵害未成年人权益、AI“托管”网络水军等七类问题，此前累计清理违规信息561万余条、查处账号4.9万余个。",
+      "publishedAt": "2026-09-02T10:44:45+08:00",
+      "source": "新华网（转中央网信办）",
+      "url": "https://www.news.cn/politics/20260902/564dc9a913c94b22996f783a02abcaf2/c.html",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20260902-800",
       "title": "市场监管总局召开传统工艺市场\"打假清源\"联合执法行动新闻发布会",
@@ -87,6 +105,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260831-952",
+      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
+      "summary": "国家市场监督管理总局发布强制性国家标准《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》，为雷达、摄像头等智能网联部件放宽局部凸出尺寸限制，并将新能源商用车单侧单轮轴荷上限由7000公斤提高至8000公斤，标准自2027年7月1日起实施。",
+      "publishedAt": "2026-08-31T11:02:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260831-950",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "summary": "欧盟委员会宣布依据《数字服务法》将ChatGPT认定为超大型在线搜索引擎，Reddit和Roblox认定为超大型在线平台，三者月活跃用户均超4500万，需在四个月内履行系统性风险评估等额外合规义务。",
@@ -121,15 +148,6 @@
       "source": "美国证券交易委员会（SEC）",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260831-952",
-      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
-      "summary": "国家市场监督管理总局发布强制性国家标准《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》，为雷达、摄像头等智能网联部件放宽局部凸出尺寸限制，并将新能源商用车单侧单轮轴荷上限由7000公斤提高至8000公斤，标准自2027年7月1日起实施。",
-      "publishedAt": "2026-08-31T11:02:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
-      "subCategory": "产业政策"
     },
     {
       "title": "南京住房公积金异地贷款范围扩大至全国 9月1日起施行",
@@ -213,6 +231,33 @@
       "id": "policy-20260828-502"
     },
     {
+      "id": "policy-20260828-001",
+      "title": "八部门发布多式联运五年攻坚方案，千个货运节点将迎升级",
+      "summary": "交通运输部等八部门联合印发《实施多式联运攻坚 打通堵点卡点行动方案（2026—2030年）》，明确推动约1000个主要货运节点升级多式联运功能，目标实现多式联运1小时换装率超90%、沿海港口多式联运港区铁路进港率达80%、长江干线主要港口铁路进港率100%。",
+      "publishedAt": "2026-08-28T11:52:48+08:00",
+      "source": "交通运输部等（出海网）",
+      "url": "https://www.chwang.com/news/209318499862",
+      "subCategory": "产业政策"
+    },
+    {
+      "title": "商务部：上半年服务进出口总额3.8万亿元 同比增长8.3%",
+      "summary": "国新办举行发布会，商务部副部长鄢东介绍，上半年中国服务进出口总额3.8万亿元，同比增长8.3%，其中服务出口增长17.6%，知识产权使用费等生产性服务出口领涨；会上并通报2026年中国国际服务贸易交易会筹备进展。",
+      "publishedAt": "2026-08-28T10:33:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685658.shtml",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260829-003"
+    },
+    {
+      "title": "商务部回应美301调查：反对针对16个经济体的产能过剩指控",
+      "summary": "商务部对美方拟发起的301调查作出回应，指出该调查针对16个经济体、以产能过剩为由展开，属于保护主义行为，中方对此表示反对。",
+      "publishedAt": "2026-08-28T06:00:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608273856968940.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260828-505"
+    },
+    {
       "id": "policy-20260829-101",
       "title": "国家发展改革委召开全国投资工作推进会议",
       "summary": "国家发展改革委8月28日召开全国投资工作推进会议，主任郑栅洁及多部委负责人参会，会议指出当前投资运行呈现结构优化、提质增效特征，同时坦承存在困难挑战，部署加快政府债券和政策性金融工具资金拨付、推进重大基础设施项目、落实\"六网\"建设规划、简化用地环评审批及强化民间资本参与重大项目等重点任务。",
@@ -247,33 +292,6 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
       "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260828-001",
-      "title": "八部门发布多式联运五年攻坚方案，千个货运节点将迎升级",
-      "summary": "交通运输部等八部门联合印发《实施多式联运攻坚 打通堵点卡点行动方案（2026—2030年）》，明确推动约1000个主要货运节点升级多式联运功能，目标实现多式联运1小时换装率超90%、沿海港口多式联运港区铁路进港率达80%、长江干线主要港口铁路进港率100%。",
-      "publishedAt": "2026-08-28T11:52:48+08:00",
-      "source": "交通运输部等（出海网）",
-      "url": "https://www.chwang.com/news/209318499862",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "商务部：上半年服务进出口总额3.8万亿元 同比增长8.3%",
-      "summary": "国新办举行发布会，商务部副部长鄢东介绍，上半年中国服务进出口总额3.8万亿元，同比增长8.3%，其中服务出口增长17.6%，知识产权使用费等生产性服务出口领涨；会上并通报2026年中国国际服务贸易交易会筹备进展。",
-      "publishedAt": "2026-08-28T10:33:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-28/10685658.shtml",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260829-003"
-    },
-    {
-      "title": "商务部回应美301调查：反对针对16个经济体的产能过剩指控",
-      "summary": "商务部对美方拟发起的301调查作出回应，指出该调查针对16个经济体、以产能过剩为由展开，属于保护主义行为，中方对此表示反对。",
-      "publishedAt": "2026-08-28T06:00:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608273856968940.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260828-505"
     },
     {
       "title": "工信部等四部门部署道路机动车辆产品生产一致性和质量提升专项行动",
@@ -330,6 +348,15 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260826-006",
+      "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
+      "summary": "国新办举行\"开局起步'十五五'\"系列主题新闻发布会，工业和信息化部介绍将着力优化产业结构，加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，并推动量子科技、生物制造、脑机接口、具身智能、第六代移动通信等未来产业发展。",
+      "publishedAt": "2026-08-26T10:07:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684321.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260826-005",
       "title": "国家数据局与约旦数字经济与创业部签署数字经济合作谅解备忘录",
       "summary": "国家数据局与约旦数字经济与创业部在中约两国元首共同见证下签署关于加强数字经济合作的谅解备忘录，协议签署于8月24日、8月26日对外发布。双方承诺在数字经济领域开展务实合作，通过丰富合作载体、挖掘新增长点推动两国数字经济合作提质升级。",
@@ -366,15 +393,6 @@
       "id": "policy-20260828-504"
     },
     {
-      "id": "policy-20260826-006",
-      "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
-      "summary": "国新办举行\"开局起步'十五五'\"系列主题新闻发布会，工业和信息化部介绍将着力优化产业结构，加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，并推动量子科技、生物制造、脑机接口、具身智能、第六代移动通信等未来产业发展。",
-      "publishedAt": "2026-08-26T10:07:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684321.shtml",
-      "subCategory": "产业政策"
-    },
-    {
       "title": "工业和信息化部绿色低碳标准化技术委员会成立",
       "summary": "工业和信息化部绿色低碳标准化技术委员会正式成立，首届委员会由71名委员组成，秘书处设在中国电子技术标准化研究院，将承担工信部绿色低碳领域综合性、基础性行业标准制修订工作。",
       "publishedAt": "2026-08-25T20:09:58+08:00",
@@ -391,6 +409,15 @@
       "url": "https://www.stdaily.com/web/gdxw/2026-08/25/content_569413.html",
       "subCategory": "产业政策",
       "id": "policy-20260826-002"
+    },
+    {
+      "title": "中国—加纳经贸联委会第五次会议在阿克拉召开",
+      "summary": "商务部部长助理张力与加纳财政部部长福森8月24日共同主持中国—加纳经贸联委会第五次会议，双方签署会议纪要，商定深化产供链、绿色能源等领域投资合作，推动双边贸易投资合作提质升级。",
+      "publishedAt": "2026-08-25T08:56:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/brief/103331905.html",
+      "subCategory": "跨境贸易",
+      "id": "policy-20260825-010"
     },
     {
       "title": "FTC Approves Final Consent Order in Ascension Health-AmSurg Deal",
@@ -420,13 +447,13 @@
       "subCategory": "产业政策"
     },
     {
-      "title": "中国—加纳经贸联委会第五次会议在阿克拉召开",
-      "summary": "商务部部长助理张力与加纳财政部部长福森8月24日共同主持中国—加纳经贸联委会第五次会议，双方签署会议纪要，商定深化产供链、绿色能源等领域投资合作，推动双边贸易投资合作提质升级。",
-      "publishedAt": "2026-08-25T08:56:00+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/brief/103331905.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260825-010"
+      "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
+      "summary": "中央网信办通报\"清朗·网络娱乐团播乱象整治\"专项行动进展，已处置违规团播直播间7200余个，严惩违规账号2200余个，指导平台清退一批问题严重的团播MCN机构，累计发布治理公告17期。",
+      "publishedAt": "2026-08-24T10:20:38+08:00",
+      "source": "央视网",
+      "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
+      "subCategory": "数字经济",
+      "id": "policy-20260825-003"
     },
     {
       "title": "New partnership set to see the UK and Ukraine develop battle winning technology as Britain secures access to Ukraine's Avengers AI Labs",
@@ -492,15 +519,6 @@
       "subCategory": "反垄断"
     },
     {
-      "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
-      "summary": "中央网信办通报\"清朗·网络娱乐团播乱象整治\"专项行动进展，已处置违规团播直播间7200余个，严惩违规账号2200余个，指导平台清退一批问题严重的团播MCN机构，累计发布治理公告17期。",
-      "publishedAt": "2026-08-24T10:20:38+08:00",
-      "source": "央视网",
-      "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
-      "subCategory": "数字经济",
-      "id": "policy-20260825-003"
-    },
-    {
       "id": "policy-20260823-005",
       "title": "Mayors given powers to green light developments",
       "summary": "英国政府宣布赋予英格兰地方市长规划\"叫停\"权，可对150套以上住宅、1.5万平方米以上商业空间或30米以上建筑等重大开发项目直接作出审批决定，已有十位市长表态支持。",
@@ -517,15 +535,6 @@
       "source": "国家广播电视总局（IT之家）",
       "url": "https://www.ithome.com/0/993/116.htm",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260823-004",
-      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
-      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
-      "publishedAt": "2026-08-21T10:42:00-04:00",
-      "source": "美国联邦贸易委员会（FTC）",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
-      "subCategory": "反垄断"
     },
     {
       "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
@@ -598,6 +607,15 @@
       "source": "财政部（IT之家）",
       "url": "https://www.ithome.com/0/992/633.htm",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260823-004",
+      "title": "FTC Files Amicus Brief to Protect Competition in Biologic Drug Markets",
+      "summary": "美国联邦贸易委员会向第四巡回上诉法院提交法庭之友意见书，认为安进公司收购生物药恩利相关专利申请的交易应受反垄断法审查，诺尔-彭宁顿原则不能豁免此类商业行为。",
+      "publishedAt": "2026-08-21T10:42:00-04:00",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets",
+      "subCategory": "反垄断"
     },
     {
       "id": "policy-20260824-003",
@@ -706,24 +724,6 @@
       "url": "https://cn-sec.com/archives/5397639.html",
       "subCategory": "数据安全",
       "id": "policy-20260820-006"
-    },
-    {
-      "id": "policy-20260822-004",
-      "title": "郑栅洁主任主持召开民营企业座谈会 围绕稳定经济运行促进有效投资听取意见建议",
-      "summary": "国家发展改革委主任郑栅洁8月20日主持召开民营企业座谈会，围绕稳定经济运行、促进有效投资，听取来自电气设备、医药装备、消费服务、智能终端、纺织冶金等行业5家民营企业负责人的意见建议，并表示将适时推出增量政策激发民间投资活力。",
-      "publishedAt": "2026-08-20",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260820_1407120.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "2026年个人信息保护系列专项行动取得阶段性成效",
-      "summary": "中央网信办、工业和信息化部、公安部通报2026年个人信息保护专项行动阶段性成效：累计核查App、SDK超2万款，督促4000余款完成整改，公开通报1100余款违法违规产品，400余款被采取下架等处置。",
-      "publishedAt": "2026-08-19T17:10:31+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-08-19/4546539.html",
-      "subCategory": "数据安全",
-      "id": "policy-20260820-002"
     }
   ]
 }

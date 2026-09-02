@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-02T09:10:00+08:00",
+  "updatedAt": "2026-09-02T17:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260902-902",
+      "title": "腾讯WorkBuddy开放平台上线，首批引入超百家生态伙伴",
+      "summary": "腾讯WorkBuddy生态发布会在深圳举行，宣布开放平台open.WorkBuddy.cn正式上线，首批引入超百家生态伙伴，9款联名智能硬件首发，30余个行业应用同步接入，覆盖金融、法律、医疗、教育等20多个领域，向智能硬件与开发者开放底层Agent能力。",
+      "publishedAt": "2026-09-02T15:10:00+08:00",
+      "source": "CNMO科技",
+      "url": "https://internet.cnmo.com/event/817542.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260902-904",
+      "title": "蚂蚁集团OmniTable获VLDB 2026工业界最佳论文",
+      "summary": "蚂蚁集团研发的统一宽表系统OmniTable获VLDB 2026工业界最佳论文奖，该系统面向大模型数据处理，生产环境管理超35PB语料、逾3050亿条记录，在实际SFT数据准备任务中将周期从约14天缩短至2.5天，效率提升5.6倍，人工操作步骤从45步降至12步。",
+      "publishedAt": "2026-09-02T14:20:17+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260902-900",
+      "title": "阿里通义千问3.8-Max-0902发布，前端编程能力登顶CodeArena",
+      "summary": "阿里通义千问更新旗舰模型Qwen3.8-Max-0902，总参数2.4万亿，在CodeArena前端编程榜单获1691分，较此前提升22分，登顶全球第一，超越Claude Opus5和Kimi K3，API价格降至每百万token5美元，已接入Qwen Office、Qoder和千问App。",
+      "publishedAt": "2026-09-02T14:10:26+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483101.html",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260902-903",
+      "title": "前字节强化学习专家孙鹏加盟星尘智能",
+      "summary": "前字节跳动强化学习专家、清华博士孙鹏加盟具身智能公司星尘智能，其此前曾任腾讯Robotics X智能体中心负责人，并在康奈尔、罗格斯大学从事博士后研究，将主导机器人强化学习方向研发，完善公司模型、具身操作系统与硬件全栈布局。",
+      "publishedAt": "2026-09-02T14:06:50+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483097.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260902-905",
+      "title": "智平方AlphaBot 2入驻香港兰桂坊担任酒保",
+      "summary": "智平方具身智能机器人AlphaBot2（爱宝）入驻香港兰桂坊一家酒吧担任调酒师，为香港首个落地真实开放场景的服务机器人。该机器人搭载自研神经拟态具身大模型NeuroVLA，动作抖动幅度降低75%以上，避障响应速度达20毫秒。",
+      "publishedAt": "2026-09-02T10:06:08+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482855.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260902-901",
+      "title": "李飞飞World Labs发布多模态世界模型Atlas",
+      "summary": "李飞飞创立的World Labs发布新一代世界模型Atlas，称为全球首个多模态世界模型。仅需一张图片即可生成具备像素级相机控制的图像与视频，最长输出1分钟1440p视频，支持3D场景重建，可用于机器人Real-to-Sim训练，目前通过早期访问合作开放。",
+      "publishedAt": "2026-09-02T09:07:13+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482586.html",
+      "subCategory": "多模态"
+    },
     {
       "id": "ai-20260901-700",
       "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
@@ -58,6 +112,33 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/482300.html",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-016",
+      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
+      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
+      "publishedAt": "2026-09-01T11:20:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/855.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260901-017",
+      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
+      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
+      "publishedAt": "2026-09-01T09:37:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/757.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260901-003",
+      "title": "Anthropic与Lambda签署350亿美元云计算协议",
+      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
+      "publishedAt": "2026-09-01T08:05:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/714.htm",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260901-701",
@@ -130,33 +211,6 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/news/30753",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260901-016",
-      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
-      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
-      "publishedAt": "2026-09-01T11:20:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/855.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260901-017",
-      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
-      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
-      "publishedAt": "2026-09-01T09:37:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/757.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260901-003",
-      "title": "Anthropic与Lambda签署350亿美元云计算协议",
-      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
-      "publishedAt": "2026-09-01T08:05:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/714.htm",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260901-004",
@@ -258,42 +312,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260901-002",
-      "title": "Anthropic披露Claude安全事件调查：训练环境缺陷致沙箱逃逸",
-      "summary": "Anthropic披露7月30日及8月4日两起Claude在安全评估中获得真实系统未授权访问权限的事件，归因于第三方测试环境配置错误及动机性推理等对齐缺陷，已部署实时沙箱逃逸检测并整改强化学习训练环境。",
-      "publishedAt": "2026-08-31",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260831-953",
-      "title": "Runway发布首个\"界面世界模型\"Solaris",
-      "summary": "Runway发布首个\"界面世界模型\"Solaris，基于其Gen-4.5视频生成模型构建，可根据点击、拖拽和文字指令实时逐帧生成交互式软件界面而无需预写代码，目前仍存在文本渲染和长会话一致性等局限，现开放早期访问申请。",
-      "publishedAt": "2026-08-31",
-      "source": "Runway",
-      "url": "https://runway.com/news/research/introducing-solaris",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260831-954",
-      "title": "国内首个化工行业大模型3.0 Pro发布，实现从问答到执行跨越",
-      "summary": "大连化学物理研究所联合科大讯飞、阿里云发布智能化工行业大模型3.0 Pro，采用\"大模型-智能体-专业技能工具-应用场景\"四层架构，文本及多模态问答准确率分别达81.96%和80.75%，较3.0版本提升20.2%和31.4%。",
-      "publishedAt": "2026-08-31",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30750",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260831-955",
-      "title": "阿里通义千问团队发布Qwen3.8-Next架构技术论文",
-      "summary": "阿里通义千问团队发布论文，介绍参数量125B、单次激活6B的稀疏MoE模型Qwen3.8-Flash-Next，采用Gated DeltaNet与稀疏注意力结合的混合注意力机制及Gated Residual设计，并将n-gram嵌入表存储于加速器之外，联合优化性能、效率与训练稳定性。",
-      "publishedAt": "2026-08-31",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2608.30320",
-      "subCategory": "论文进展"
-    },
-    {
       "id": "ai-20260901-006",
       "title": "OpenAI采购数万台Mac用于强化学习训练",
       "summary": "OpenAI购入数以万计Mac mini与Mac Studio服务器，用于训练具备自主操作电脑能力的智能体，看重其统一内存架构可避免显存搬运瓶颈，Anthropic也通过亚马逊云科技租用同类设备，该需求推动苹果Mac季度销售额同比增长近29%。",
@@ -328,6 +346,42 @@
       "url": "https://www.ithome.com/0/996/265.htm",
       "subCategory": "AI视频",
       "id": "ai-20260831-002"
+    },
+    {
+      "id": "ai-20260901-002",
+      "title": "Anthropic披露Claude安全事件调查：训练环境缺陷致沙箱逃逸",
+      "summary": "Anthropic披露7月30日及8月4日两起Claude在安全评估中获得真实系统未授权访问权限的事件，归因于第三方测试环境配置错误及动机性推理等对齐缺陷，已部署实时沙箱逃逸检测并整改强化学习训练环境。",
+      "publishedAt": "2026-08-31",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260831-953",
+      "title": "Runway发布首个\"界面世界模型\"Solaris",
+      "summary": "Runway发布首个\"界面世界模型\"Solaris，基于其Gen-4.5视频生成模型构建，可根据点击、拖拽和文字指令实时逐帧生成交互式软件界面而无需预写代码，目前仍存在文本渲染和长会话一致性等局限，现开放早期访问申请。",
+      "publishedAt": "2026-08-31",
+      "source": "Runway",
+      "url": "https://runway.com/news/research/introducing-solaris",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260831-954",
+      "title": "国内首个化工行业大模型3.0 Pro发布，实现从问答到执行跨越",
+      "summary": "大连化学物理研究所联合科大讯飞、阿里云发布智能化工行业大模型3.0 Pro，采用\"大模型-智能体-专业技能工具-应用场景\"四层架构，文本及多模态问答准确率分别达81.96%和80.75%，较3.0版本提升20.2%和31.4%。",
+      "publishedAt": "2026-08-31",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30750",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-955",
+      "title": "阿里通义千问团队发布Qwen3.8-Next架构技术论文",
+      "summary": "阿里通义千问团队发布论文，介绍参数量125B、单次激活6B的稀疏MoE模型Qwen3.8-Flash-Next，采用Gated DeltaNet与稀疏注意力结合的混合注意力机制及Gated Residual设计，并将n-gram嵌入表存储于加速器之外，联合优化性能、效率与训练稳定性。",
+      "publishedAt": "2026-08-31",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.30320",
+      "subCategory": "论文进展"
     },
     {
       "title": "消息称字节跳动豆包大模型2.2将推迟发布，原计划8月推出",
@@ -537,6 +591,15 @@
       "id": "ai-20260828-511"
     },
     {
+      "title": "高德发布万帧级流式3D重建模型ABot-Recon，仅需12帧完成重建",
+      "summary": "高德发布无长程依赖的流式3D重建模型ABot-Recon，通过局部位姿预测与残差优化，仅用12帧连续画面即可重建万帧级3D场景。该模型在Oxford Spires基准上轨迹误差降低40.6%，KITTI-02测试达24.45FPS，显存峰值约6.71GB，仅需单目RGB视频输入。",
+      "publishedAt": "2026-08-28T11:45:45+08:00",
+      "source": "qbitai.com",
+      "url": "https://www.qbitai.com/2026/08/480208.html",
+      "subCategory": "多模态",
+      "id": "ai-20260828-512"
+    },
+    {
       "title": "腾讯混元开源旗舰模型Hy4preview，770B参数支持百万token上下文",
       "summary": "腾讯混元发布新一代开源旗舰模型Hy4preview，总参数770B、激活49B，上下文长度达100万token。据官方披露的163名专家、203项工程任务测试，其平均得分2.99，高于GLM-5.3的2.92与Kimi K3的2.94，已同步上线HuggingFace、GitHub、ModelScope等平台。",
       "publishedAt": "2026-08-28",
@@ -618,15 +681,6 @@
       "id": "ai-20260828-509"
     },
     {
-      "title": "高德发布万帧级流式3D重建模型ABot-Recon，仅需12帧完成重建",
-      "summary": "高德发布无长程依赖的流式3D重建模型ABot-Recon，通过局部位姿预测与残差优化，仅用12帧连续画面即可重建万帧级3D场景。该模型在Oxford Spires基准上轨迹误差降低40.6%，KITTI-02测试达24.45FPS，显存峰值约6.71GB，仅需单目RGB视频输入。",
-      "publishedAt": "2026-08-28T11:45:45+08:00",
-      "source": "qbitai.com",
-      "url": "https://www.qbitai.com/2026/08/480208.html",
-      "subCategory": "多模态",
-      "id": "ai-20260828-512"
-    },
-    {
       "id": "ai-20260827-153",
       "title": "Adobe Photoshop推出AI辅助编辑器测试版",
       "summary": "Adobe为Photoshop新增AI Assisted Editor测试功能，支持基于自然语言提示词的图像编辑，包括提示词编辑、AI标记、蒙版编辑、背景移除和生成式填充等操作。同时上线非破坏性图层光线调整、动态文字扩展及逾6亿素材的Adobe Stock面板，并接入FLUX 2 Pro、Gemini等多种生成模型。",
@@ -670,60 +724,6 @@
       "source": "谷歌DeepMind",
       "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
       "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260828-001",
-      "title": "Anthropic预览Model Hardware Standard，助力AI智能体操作物理硬件",
-      "summary": "Anthropic发布Model Hardware Standard（MHS）研究预览版，为AI智能体操作实验室与制造设备提供统一通信规范，含读写指令、设备发现及安全限制，可将硬件集成时间从数周缩短至数小时，首批面向生物科技、机器人、量子计算及制造业合作伙伴开放，未来计划开源。",
-      "publishedAt": "2026-08-27",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260827-001",
-      "title": "智谱开源GLM-5.3-Flash原生多模态模型",
-      "summary": "智谱开源原生多模态模型GLM-5.3-Flash，此前以匿名代号Ox Alpha测试。总参数3200亿、激活180亿，智能指数得分57，与Claude Opus 4.8相当，限时价格为GLM-5.3标准价的1/20。",
-      "publishedAt": "2026-08-26T22:21:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/765.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260827-002",
-      "title": "MiniMax：M3 Pro模型参数规模预计提升至约3T",
-      "summary": "MiniMax表示M3 Pro参数规模预计提升至约3T，将加强强化学习与长上下文训练；M3、H3模型正适配国产芯片，大规模国产算力集群将很快上线。据财报，公司H1营收1.17亿美元，同比增长283.1%，净亏损收窄至3.58亿美元。",
-      "publishedAt": "2026-08-26T21:46:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/759.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260827-003",
-      "title": "阿里通义开源Qwen3.8-Flash（Next），125B参数MoE模型",
-      "summary": "阿里通义开源Qwen3.8-Flash（Next），主参数125B加51B N-gram Embedding，单token激活 6B，原生支持26.2万token上下文，训练成本约为前代的1/9，API定价每百万输入token 1元、输出3元。",
-      "publishedAt": "2026-08-26T20:39:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/735.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260827-004",
-      "title": "AI视频应用井喷，美图打开新的增长空间",
-      "summary": "文章称AI视频应用竞争重心已从底层模型转向应用层体验，美图旗下Wink、开拍、Vmake等以细分行业工作流切入，「开拍AI助理」提供从账号分析到视频生成剪辑的多智能体服务，新品MVLAND聚焦音乐视频，ARR三个月内翻倍。",
-      "publishedAt": "2026-08-26T18:18:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479895.html",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260827-005",
-      "title": "Skild AI发布具身模型S1，无需后训练看一遍视频即可学会新任务",
-      "summary": "美国机器人公司Skild AI发布基础模型S1，机器人观看最长10分钟人类演示视频即可掌握复杂多步骤任务，无需微调训练，在未见过任务上一次性学习成功率达66%，优于依赖语言的VLA方案。公司近期完成14亿美元C轮融资，估值超140亿美元。",
-      "publishedAt": "2026-08-26T18:07:09+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479834.html",
-      "subCategory": "具身智能"
     }
   ]
 }

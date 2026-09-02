@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-02T09:10:00+08:00",
+  "updatedAt": "2026-09-02T17:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260902-907",
+      "title": "长城 H10 上市首月交付 10178 辆，限时换新价 20.18 万元起",
+      "summary": "长城H10于8月5日上市，首月交付10178辆，限时换新价20.18万元起，零售价区间20.98万至23.18万元。车型搭载1.5T增程/Hi4混动系统，纯电续航232公里，综合续航达1404公里，全系配备27个传感器及激光雷达的Coffee Pilot 3辅助驾驶系统。",
+      "publishedAt": "2026-09-02T16:34:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/522.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260902-900",
+      "title": "消息称台积电先进封装 CoWoS 明年产能配额已全被预订，部分客户转向英特尔 EMIB-T",
+      "summary": "消息称台积电CoWoS先进封装明年产能配额已被预订一空，难以释放额外产能；联发科、博通、Meta、谷歌、英伟达等客户开始评估或采用英特尔EMIB-T技术作为替代，SK海力士也在考虑英特尔EMIB基板以分散对台积电的依赖。",
+      "publishedAt": "2026-09-02T16:24:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/518.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260902-901",
+      "title": "三星 Galaxy Z Fold 8 折叠屏手机大获成功，引发关键零部件供应紧张",
+      "summary": "三星Galaxy Z Fold 8折叠屏手机热销引发显示驱动芯片（DDI）供应紧张，该芯片由三星System LSI设计、联电以22纳米工艺代工。三星请联电加急生产未获满足，只能挪用原定明年的库存应对当前生产需求。",
+      "publishedAt": "2026-09-02T16:11:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/511.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260902-902",
+      "title": "消息称三星电子计划在韩国等地投放 Exynos 2700 版 Galaxy S27 Ultra 智能手机",
+      "summary": "据韩媒MoneyToday报道，三星电子近日已订购基于自研Exynos 2700芯片的Galaxy S27 Ultra主板，计划先在韩国等市场投放。若消息属实，这将是Exynos芯片时隔五年再度用于三星Ultra旗舰机型。",
+      "publishedAt": "2026-09-02T16:08:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/510.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260902-906",
+      "title": "路虎纯电揽胜正式发布：双电机 +120 度电池，15.4 万英镑起售",
+      "summary": "路虎纯电揽胜正式发布，搭载双电机与120度电池组，最大功率对应542马力、峰值扭矩850牛·米，WLTP续航约599公里，明年上市，英国起售价15.407万英镑（约合140万元人民币）。",
+      "publishedAt": "2026-09-02T16:06:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/509.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260902-903",
+      "title": "豆包工作功能上新：支持多 Agents 并行与 Mac 操作电脑",
+      "summary": "字节跳动豆包工作产品上线新功能，支持召唤不同子Agent在同一任务下并行执行不同模块；新增Mac系统操作电脑能力，可在没有MCP、API、插件和CLI的情况下看懂界面并完成相应操作。",
+      "publishedAt": "2026-09-02T15:52:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/506.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260902-905",
+      "title": "谷歌副总裁 Amin Vahdat 谈 AI 泡沫：技术变革和市场需求确实存在",
+      "summary": "谷歌高级副总裁兼首席技术专家Amin Vahdat表示，AI带来的技术变革与市场需求是真实存在的，并非纯粹投机。他提到谷歌搜索上季度营收同比增长18%，谷歌云也在持续扩张基础设施，并将当前局面与2001年互联网泡沫作类比。",
+      "publishedAt": "2026-09-02T15:44:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/501.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260902-904",
+      "title": "Meta 强力打击智能眼镜偷拍行为：你敢破坏指示灯，我就永久禁止摄像头",
+      "summary": "Meta发现部分用户钻掉或遮住Ray-Ban智能眼镜的录制指示灯以偷拍，已对数千副涉事设备禁用摄像头功能，占累计销量不足0.1%。若指示灯被物理破坏，摄像头将永久失效；若仅贴纸遮挡，撕除后可恢复使用。",
+      "publishedAt": "2026-09-02T15:41:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/500.htm",
+      "subCategory": "XR-AR-VR"
+    },
     {
       "id": "tech-20260902-805",
       "title": "吉利银河 TT 车型 9 月 10 日上市：定位中大型纯电轿跑，预售 14.59 万元起",
@@ -67,15 +139,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/185.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260902-810",
-      "title": "Microsoft 365 outage drags on, but things are improving",
-      "summary": "微软365服务多日中断持续，故障源于核心身份验证配置错误，波及Exchange Online、SharePoint、Teams、Copilot等服务。微软自周一起修复，周一晚邮件收发逐步恢复，周二凌晨搜索改善，仍处于延长监测阶段。",
-      "publishedAt": "2026-09-01T08:23:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-      "subCategory": "云计算"
     },
     {
       "id": "tech-20260901-701",
@@ -294,15 +357,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260901-024",
-      "title": "罗兰推出内置 Wi-Fi 数码钢琴 FP-40，可联动教学应用实时反馈",
-      "summary": "罗兰推出新款数码钢琴FP-40，内置Wi-Fi并与教学应用Piano Sphere联动，提供实时反馈与曲库课程，相比蓝牙速度更快、延迟更低，钢琴与应用均支持固件自动更新，售价750美元，提供黑白两色。",
-      "publishedAt": "2026-09-01T03:00:00-05:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2247836/roland-new-digital-piano-has-built-in-wi-fi-that-integrates-with-a-teaching-app/",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260901-022",
       "title": "微软首次细化 Linux 版 Edge 浏览器支持的发行版，比谷歌 Chrome 晚约 7 年",
       "summary": "微软更新文档首次明确列出经测试验证支持Edge浏览器的Linux发行版，包括Ubuntu 18.04、Debian 10、openSUSE 15.5及Fedora Linux 39及以上版本，距谷歌2019年8月公布Chrome的Linux支持列表已晚约七年。",
@@ -310,15 +364,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/992.htm",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260901-025",
-      "title": "Google TV Streamer 涨价 50%，售价升至 150 美元",
-      "summary": "谷歌将Google TV Streamer售价上调至150美元，较2024年发布时的100美元上涨50%，官方未公开说明原因，报道称或与AI公司大量采购内存推高内存价格有关，该设备配32GB存储、4GB内存，支持4K 60fps及杜比全景声。",
-      "publishedAt": "2026-09-01T02:31:00-05:00",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2248329/google-tv-streamer-150-50-percent-price-hike/",
-      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260901-023",
@@ -337,6 +382,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/717.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260902-810",
+      "title": "Microsoft 365 outage drags on, but things are improving",
+      "summary": "微软365服务多日中断持续，故障源于核心身份验证配置错误，波及Exchange Online、SharePoint、Teams、Copilot等服务。微软自周一起修复，周一晚邮件收发逐步恢复，周二凌晨搜索改善，仍处于延长监测阶段。",
+      "publishedAt": "2026-09-01T08:23:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+      "subCategory": "云计算"
     },
     {
       "id": "tech-20260901-002",
@@ -364,15 +418,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1147/1147733.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260831-957",
-      "title": "苹果向法院提交新证据，指控前员工窃取商业机密协助OpenAI研发硬件",
-      "summary": "苹果在诉前员工Chang Liu侵占商业机密案中提交新证据，指控其利用认证漏洞在离职后仍保留内部系统访问权限，并使用苹果机密电路原理图及仿冒工程应用为OpenAI硬件项目工作，苹果正申请初步禁令并要求加速证据开示。",
-      "publishedAt": "2026-08-31T17:13:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260901-005",
@@ -447,6 +492,24 @@
       "subCategory": "操作系统"
     },
     {
+      "id": "tech-20260901-024",
+      "title": "罗兰推出内置 Wi-Fi 数码钢琴 FP-40，可联动教学应用实时反馈",
+      "summary": "罗兰推出新款数码钢琴FP-40，内置Wi-Fi并与教学应用Piano Sphere联动，提供实时反馈与曲库课程，相比蓝牙速度更快、延迟更低，钢琴与应用均支持固件自动更新，售价750美元，提供黑白两色。",
+      "publishedAt": "2026-09-01T03:00:00-05:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2247836/roland-new-digital-piano-has-built-in-wi-fi-that-integrates-with-a-teaching-app/",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260901-025",
+      "title": "Google TV Streamer 涨价 50%，售价升至 150 美元",
+      "summary": "谷歌将Google TV Streamer售价上调至150美元，较2024年发布时的100美元上涨50%，官方未公开说明原因，报道称或与AI公司大量采购内存推高内存价格有关，该设备配32GB存储、4GB内存，支持4K 60fps及杜比全景声。",
+      "publishedAt": "2026-09-01T02:31:00-05:00",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2248329/google-tv-streamer-150-50-percent-price-hike/",
+      "subCategory": "消费电子"
+    },
+    {
       "id": "tech-20260831-951",
       "title": "博通推出 VMware AI 工厂，简化企业私有云 AI 部署",
       "summary": "博通推出VMware AI Factory软件定义基础设施，基于VMware Cloud Foundation简化企业私有云AI部署，支持GPU资源跨团队共享、统一模型库管理及吞吐量延迟等运行状态监控，兼容思科、戴尔、联想等厂商认证服务器。",
@@ -501,6 +564,15 @@
       "subCategory": "芯片硬件"
     },
     {
+      "id": "tech-20260831-957",
+      "title": "苹果向法院提交新证据，指控前员工窃取商业机密协助OpenAI研发硬件",
+      "summary": "苹果在诉前员工Chang Liu侵占商业机密案中提交新证据，指控其利用认证漏洞在离职后仍保留内部系统访问权限，并使用苹果机密电路原理图及仿冒工程应用为OpenAI硬件项目工作，苹果正申请初步禁令并要求加速证据开示。",
+      "publishedAt": "2026-08-31T17:13:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260831-100",
       "title": "首次海外亮相：小米机器人 CyberOne 将现身 IFA 国际消费电子展",
       "summary": "小米宣布将以逾3300平方米展位参展9月4日至8日举行的IFA展会，展出近400款产品，其中人形机器人CyberOne将首次海外公开亮相，该机型已于今年4月正式发布。",
@@ -535,24 +607,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/545.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "title": "小米\"米家冰箱 Pro 600L 十字自动制冰\"发售",
-      "summary": "小米米家推出600L十字自动制冰冰箱，售价4469元，冷藏375升、冷冻225升，配备全域离子净化系统，除菌率达99.9999%，内置自动制冰模块最大储冰约130块，支持手机与语音控制，压缩机十年包修。",
-      "publishedAt": "2026-08-31",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/260.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260831-028"
-    },
-    {
-      "title": "微软修改 Win11 OneDrive 弹窗机制，允许用户永久禁用备份提示",
-      "summary": "微软调整Windows 11中OneDrive备份提示弹窗，新增\"放弃备份\"按钮，用户点击后可永久关闭该提示，不再每3天反复弹出提醒。此前用户只能选择继续启用或3天后再提醒，改动回应了长期以来的用户抱怨。",
-      "publishedAt": "2026-08-31",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/263.htm",
-      "subCategory": "操作系统",
-      "id": "tech-20260831-029"
     },
     {
       "title": "无人快递车顶上趴着俩人\"搭便车\"，新石器客服回应",
@@ -636,6 +690,24 @@
       "id": "tech-20260831-027"
     },
     {
+      "title": "小米\"米家冰箱 Pro 600L 十字自动制冰\"发售",
+      "summary": "小米米家推出600L十字自动制冰冰箱，售价4469元，冷藏375升、冷冻225升，配备全域离子净化系统，除菌率达99.9999%，内置自动制冰模块最大储冰约130块，支持手机与语音控制，压缩机十年包修。",
+      "publishedAt": "2026-08-31",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/260.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260831-028"
+    },
+    {
+      "title": "微软修改 Win11 OneDrive 弹窗机制，允许用户永久禁用备份提示",
+      "summary": "微软调整Windows 11中OneDrive备份提示弹窗，新增\"放弃备份\"按钮，用户点击后可永久关闭该提示，不再每3天反复弹出提醒。此前用户只能选择继续启用或3天后再提醒，改动回应了长期以来的用户抱怨。",
+      "publishedAt": "2026-08-31",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/263.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260831-029"
+    },
+    {
       "id": "tech-20260831-001",
       "title": "古尔曼：苹果AirPods 5最早9月发布，OLED版iPad mini预计10月推出",
       "summary": "彭博社记者古尔曼报道，苹果计划9月发布AirPods 5耳机，并于10月底前推出配备OLED屏幕的新款iPad mini，两款新品有望与iPhone 18系列同期亮相。",
@@ -652,78 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/250.htm",
       "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260831-003",
-      "title": "苹果与康宁在美国肯塔基州设立创新中心，研发新型玻璃材料",
-      "summary": "苹果与康宁合作在肯塔基州建立创新中心研发新型玻璃材料，康宁哈罗兹堡工厂将改造为全球最大智能手机玻璃生产线，生产iPhone及Apple Watch屏幕玻璃，新增约200个长期岗位。",
-      "publishedAt": "2026-08-30T23:06:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/249.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-004",
-      "title": "黑客组织FulcrumSec宣称入侵曼彻斯特机场集团，窃取86GB数据",
-      "summary": "勒索组织FulcrumSec宣称通过泄露的Iterable API密钥入侵曼彻斯特机场集团，窃取约870万名客户的预订信息等86GB数据，机场集团已拒绝支付赎金并通知受影响客户。",
-      "publishedAt": "2026-08-30T11:00:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-005",
-      "title": "古尔曼：Apple Watch Series 12与Ultra 4将支持全天候心率监测",
-      "summary": "据古尔曼报道，苹果正为Apple Watch Series 12和Ultra 4开发全天候心率监测等健康功能，并测试白色、深灰色陶瓷表壳及新表带配色。",
-      "publishedAt": "2026-08-30T22:38:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/247.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-006",
-      "title": "消息称苹果曾测试折叠屏iPhone触控笔，可磁吸机身侧面但恐无缘量产",
-      "summary": "据彭博社报道，苹果曾为折叠屏iPhone测试可磁吸于机身侧面的短款触控笔，但因需展开前取下、可能划伤内屏等问题，首代折叠屏iPhone预计不会支持该功能。",
-      "publishedAt": "2026-08-30T22:36:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/246.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-007",
-      "title": "Anthropic警告信息窃取恶意软件正劫持Claude会话消耗额度",
-      "summary": "Anthropic通知受影响用户，Vidar、LummaC2等信息窃取恶意软件窃取了Claude账号的登录会话，使攻击者得以登录消耗使用额度，公司已强制登出相关账号并退款。",
-      "publishedAt": "2026-08-30T10:30:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-008",
-      "title": "微软为SwiftKey输入法iOS版新增液态玻璃效果，用户反馈不佳",
-      "summary": "微软将iOS版SwiftKey输入法更新至4.3.5版本，加入匹配iOS 26风格的液态玻璃设计，但用户反馈按键间距异常、部分按键消失及应用崩溃等问题。",
-      "publishedAt": "2026-08-30T22:21:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/243.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260831-009",
-      "title": "研究人员发现Chrome/Edge扩展程序窃取加密货币与浏览器数据",
-      "summary": "安全公司Socket发现16个恶意模块通过Chrome及Edge浏览器扩展窃取加密货币、浏览器数据与账号凭证，该恶意框架可能自2024年初已开始活动，建议受影响用户立即更换密码。",
-      "publishedAt": "2026-08-30T10:17:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-010",
-      "title": "V社12TB游戏开发数据泄露，含《传送门2》早期版本等内容",
-      "summary": "Valve公司12TB游戏开发数据遭泄露，时间跨度2003至2013年，内容含《传送门2》与《求生之路2》测试版及《半衰期2：第三章》相关线索，数据源自其曾用的Steam2分发系统。",
-      "publishedAt": "2026-08-30T22:05:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/241.htm",
-      "subCategory": "安全漏洞"
     }
   ]
 }

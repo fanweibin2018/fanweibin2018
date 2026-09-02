@@ -3,8 +3,62 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-02T09:10:00+08:00",
+  "updatedAt": "2026-09-02T17:00:00+08:00",
   "items": [
+    {
+      "id": "finance-20260902-905",
+      "title": "港股收评：恒生指数跌0.07%，恒生科技指数跌0.74%",
+      "summary": "9月2日，港股收盘，恒生指数跌0.07%，恒生科技指数跌0.74%。个股方面，中科闻歌跌超10%，白鸽在线跌近10%，智谱跌超5%，比亚迪电子跌逾3%，万科企业、百度集团跌超1%。",
+      "publishedAt": "2026-09-02T16:10:03+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15046043.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260902-904",
+      "title": "A股收评：沪指跌0.97%，创业板指跌2.39%",
+      "summary": "9月2日，A股三大指数集体收跌：上证指数跌0.97%，深证成指跌1.88%，创业板指跌2.39%，北证50逆势涨2.5%。沪深两市成交额约1.79万亿元，较上一交易日缩量约2422亿元。",
+      "publishedAt": "2026-09-02T15:02:37+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15045485.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260902-903",
+      "title": "碧澄能源完成数亿元C1轮融资",
+      "summary": "9月2日，新型电力系统投资管理和运营服务商碧澄能源宣布完成数亿元C1轮融资，由中海基金领投，成都交通投资集团、兖矿资本跟投。",
+      "publishedAt": "2026-09-02T13:57:30+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15045131.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260902-902",
+      "title": "现货黄金跌破4300美元，创三周多新低",
+      "summary": "9月2日，现货黄金一度跌破4300美元关口，较8月4697.07美元高点回落约5.8%，全球长债收益率普遍走高压制金价，美国10年期国债收益率触及4.78%，为2025年1月以来最高。",
+      "publishedAt": "2026-09-02T11:00:00+08:00",
+      "source": "英为财情(Investing.com)",
+      "url": "https://cn.investing.com/news/commodities-news/article-3547947",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260902-900",
+      "title": "央行9月2日7天期逆回购操作量为零",
+      "summary": "9月2日，央行开展7天期逆回购操作，中标量为零，即当日未通过公开市场逆回购工具净投放流动性，操作规模依一级交易商实际需求确定。",
+      "publishedAt": "2026-09-02T09:37:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688431.shtml",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260902-901",
+      "title": "9月2日人民币对美元中间价报6.7829",
+      "summary": "中国外汇交易中心公布，9月2日银行间外汇市场人民币对美元汇率中间价报6.7829，较上一交易日下调20个基点，人民币汇率小幅走弱。",
+      "publishedAt": "2026-09-02T09:23:05+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688420.shtml",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20260902-810",
       "title": "两市融资余额增加14.19亿元",
@@ -69,15 +123,6 @@
       "subCategory": "美股"
     },
     {
-      "id": "finance-20260902-802",
-      "title": "U.S. futures muted as markets parse rate jitters, more Iran strikes",
-      "summary": "9月1日美股盘后，标普500指数期货持平于7646点。美国对伊朗革命卫队目标发动新一轮打击后油价走高，美债收益率升至多年高位，CME数据显示市场对9月加息25个基点的预期升至67.9%，道指、标普500、纳指当日分别收跌0.79%、0.71%、1%。",
-      "publishedAt": "2026-09-01T20:14:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260902-801",
       "title": "智通ADR统计 | 9月2日",
       "summary": "智通财经统计显示，9月2日恒生指数ADR报25419.74点，较香港收市水平上涨0.36%；汇丰控股上涨0.97%至162.150港元，腾讯控股下跌0.36%至439.796港元，同期美股三大指数集体收跌。",
@@ -85,15 +130,6 @@
       "source": "智通财经",
       "url": "https://cn.investing.com/news/stock-market-news/article-3547655",
       "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260902-803",
-      "title": "Oil extends gains as Trump threatens further Iran strikes",
-      "summary": "受美国打击伊朗伊斯兰革命卫队目标、霍尔木兹海峡局势持续紧张影响，WTI原油期货结算价报90.68美元/桶，为6月11日以来最高水平，布伦特原油报95.05美元/桶，市场对中东供应中断的担忧持续升温。",
-      "publishedAt": "2026-09-01T17:37:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260902-800",
@@ -105,24 +141,6 @@
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260901-702",
-      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
-      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
-      "publishedAt": "2026-09-01T19:38:09Z",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10859323",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260901-700",
-      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
-      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
-      "publishedAt": "2026-09-01T10:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260901-705",
       "title": "Shein港股上市首日平淡收官 收盘价低于发行价",
       "summary": "希音（Shein）9月1日在港交所挂牌，首日收报48.50港元，低于48.56港元的发行价，盘中一度跌至43.80港元；公司市值约2630亿美元，较2022年峰值缩水约75%，投资人关注欧美小额包裹免税取消及监管调查等风险。",
@@ -130,15 +148,6 @@
       "source": "Epoch Times（大纪元）",
       "url": "https://www.epochtimes.com/gb/26/9/1/n14840852.htm",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260901-704",
-      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
-      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
-      "publishedAt": "2026-09-01T10:02:00-04:00",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
-      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260901-703",
@@ -150,13 +159,22 @@
       "subCategory": "政策利率"
     },
     {
-      "id": "finance-20260901-701",
-      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
-      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
-      "publishedAt": "2026-09-01T09:14:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
-      "subCategory": "大宗商品"
+      "id": "finance-20260902-802",
+      "title": "U.S. futures muted as markets parse rate jitters, more Iran strikes",
+      "summary": "9月1日美股盘后，标普500指数期货持平于7646点。美国对伊朗革命卫队目标发动新一轮打击后油价走高，美债收益率升至多年高位，CME数据显示市场对9月加息25个基点的预期升至67.9%，道指、标普500、纳指当日分别收跌0.79%、0.71%、1%。",
+      "publishedAt": "2026-09-01T20:14:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-702",
+      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
+      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
+      "publishedAt": "2026-09-01T19:38:09Z",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10859323",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260901-707",
@@ -166,6 +184,15 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609013861643112.html",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260902-803",
+      "title": "Oil extends gains as Trump threatens further Iran strikes",
+      "summary": "受美国打击伊朗伊斯兰革命卫队目标、霍尔木兹海峡局势持续紧张影响，WTI原油期货结算价报90.68美元/桶，为6月11日以来最高水平，布伦特原油报95.05美元/桶，市场对中东供应中断的担忧持续升温。",
+      "publishedAt": "2026-09-01T17:37:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
+      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260901-706",
@@ -186,13 +213,22 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260901-008",
-      "title": "港股收评：恒生指数跌0.93%，恒生科技指数跌1.49%",
-      "summary": "9月1日港股收盘，恒生指数跌0.93%，恒生科技指数跌1.49%，科网股普遍走弱，京东、阿里巴巴跌逾3%，腾讯、美团、哔哩哔哩、百度跌逾2%，内房股同步下挫，越秀地产跌超7%。",
-      "publishedAt": "2026-09-01",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15040708.html",
-      "subCategory": "港股"
+      "id": "finance-20260901-700",
+      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
+      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
+      "publishedAt": "2026-09-01T10:54:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-704",
+      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
+      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
+      "publishedAt": "2026-09-01T10:02:00-04:00",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
+      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260901-007",
@@ -204,6 +240,15 @@
       "subCategory": "宏观经济"
     },
     {
+      "id": "finance-20260901-701",
+      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
+      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
+      "publishedAt": "2026-09-01T09:14:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
+      "subCategory": "大宗商品"
+    },
+    {
       "id": "finance-20260901-002",
       "title": "美股收盘：三大指数集体下跌，道指跌0.7%",
       "summary": "8月31日美股收盘，道琼斯指数跌0.7%报53185.9点，标普500指数跌0.33%报7686.14点，纳斯达克指数跌0.12%报26370.89点；半导体存储板块多数上涨，闪迪涨超5%，美光涨超2%，国际油价大涨，金银价格下跌。",
@@ -211,6 +256,15 @@
       "source": "网易财经",
       "url": "https://www.163.com/dy/article/L5NI3HJV0519C6T9.html",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-008",
+      "title": "港股收评：恒生指数跌0.93%，恒生科技指数跌1.49%",
+      "summary": "9月1日港股收盘，恒生指数跌0.93%，恒生科技指数跌1.49%，科网股普遍走弱，京东、阿里巴巴跌逾3%，腾讯、美团、哔哩哔哩、百度跌逾2%，内房股同步下挫，越秀地产跌超7%。",
+      "publishedAt": "2026-09-01",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15040708.html",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260831-953",
@@ -285,15 +339,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260901-005",
-      "title": "*ST闻泰名下资产遭法院冻结",
-      "summary": "*ST闻泰8月31日晚间公告，法院裁定查封、扣押、冻结被申请人安世有限公司、安泰可有限公司名下价值约21.39亿元人民币等额财产，冻结期限自2026年8月25日至2029年8月24日，系知识产权纠纷案件所致。",
-      "publishedAt": "2026-08-31",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103341238.html",
-      "subCategory": "风险事件"
-    },
-    {
       "id": "finance-20260831-952",
       "title": "（2026年8月31日）今日布伦特原油期货价格最新行情走势",
       "summary": "8月31日，伦敦洲际交易所布伦特原油期货报90.31美元/桶，较前一交易日上涨2.29%，盘中最高90.61美元，最低89.03美元；国内成品油零售价预计9月11日下调约80元/吨。",
@@ -330,13 +375,13 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260831-001",
-      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
-      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
-      "publishedAt": "2026-08-30T12:24:00-04:00",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
-      "subCategory": "美股"
+      "id": "finance-20260901-005",
+      "title": "*ST闻泰名下资产遭法院冻结",
+      "summary": "*ST闻泰8月31日晚间公告，法院裁定查封、扣押、冻结被申请人安世有限公司、安泰可有限公司名下价值约21.39亿元人民币等额财产，冻结期限自2026年8月25日至2029年8月24日，系知识产权纠纷案件所致。",
+      "publishedAt": "2026-08-31",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103341238.html",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260831-002",
@@ -411,6 +456,15 @@
       "subCategory": "公司财报"
     },
     {
+      "id": "finance-20260831-001",
+      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
+      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
+      "publishedAt": "2026-08-30T12:24:00-04:00",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260830-905",
       "title": "周末要闻汇总：多箭齐发！房地产迎来政策\"组合拳\"",
       "summary": "8月28日住建部、央行、金融监管总局、证监会等多部门连发多份文件，涉及商品房销售制度、房企信用管理及资本市场融资渠道；证监会明确支持房地产开发企业通过股票、债券、ABS、REITs等合理融资。",
@@ -418,15 +472,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608303859353849.html",
       "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260831-005",
-      "title": "中国船舶上半年净利润99.54亿元 同比增长163.51%",
-      "summary": "中国船舶发布2026年半年报，实现营业收入915.3亿元，同比增长26.01%；归属于上市公司股东的净利润99.54亿元，同比增长163.51%，拟每10股派4.65元。",
-      "publishedAt": "2026-08-30",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4162766.html",
-      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260830-906",
@@ -445,6 +490,15 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608303859339716.html",
       "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260831-005",
+      "title": "中国船舶上半年净利润99.54亿元 同比增长163.51%",
+      "summary": "中国船舶发布2026年半年报，实现营业收入915.3亿元，同比增长26.01%；归属于上市公司股东的净利润99.54亿元，同比增长163.51%，拟每10股派4.65元。",
+      "publishedAt": "2026-08-30",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4162766.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260829-908",
@@ -499,15 +553,6 @@
       "url": "https://www.mrjjxw.com/articles/2026-08-29/4565565.html",
       "subCategory": "政策利率",
       "id": "finance-20260829-002"
-    },
-    {
-      "title": "美联储主席沃什杰克逊霍尔首秀讲话偏鹰，美股三大指数涨跌互现",
-      "summary": "美东时间8月28日，美联储主席沃什在杰克逊霍尔全球央行年会发表就任以来首场主题演讲，称通胀仍高于2%目标、政策应聚焦物价稳定；市场解读为温和鹰派，2年期美债收益率上行约8个基点，标普500跌0.19%，纳指跌0.44%，道指基本持平。",
-      "publishedAt": "2026-08-28T11:36:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
-      "subCategory": "政策利率",
-      "id": "finance-20260828-501"
     },
     {
       "title": "优必选上半年营收12.7亿元，全尺寸人形机器人收入暴增14倍",
@@ -580,6 +625,15 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/209321702000",
       "subCategory": "公司财报"
+    },
+    {
+      "title": "美联储主席沃什杰克逊霍尔首秀讲话偏鹰，美股三大指数涨跌互现",
+      "summary": "美东时间8月28日，美联储主席沃什在杰克逊霍尔全球央行年会发表就任以来首场主题演讲，称通胀仍高于2%目标、政策应聚焦物价稳定；市场解读为温和鹰派，2年期美债收益率上行约8个基点，标普500跌0.19%，纳指跌0.44%，道指基本持平。",
+      "publishedAt": "2026-08-28T11:36:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+      "subCategory": "政策利率",
+      "id": "finance-20260828-501"
     },
     {
       "id": "finance-20260830-004",
@@ -670,60 +724,6 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/aigc/jjjlgd/2026-08-27/doc-iniptxkt9007980.shtml",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260827-152",
-      "title": "A股罕见！英伟达炸裂财报引爆科技股，成交额前50仅2股下跌",
-      "summary": "英伟达2027财年二季度营收962亿美元，同比增长106%，数据中心收入890亿美元；受此影响8月27日A股半日成交额前50股中除阳光电源、宁德时代外全部上涨，全市场半日成交额13611亿元，超3000只个股上涨，65股涨停。",
-      "publishedAt": "2026-08-27T13:20:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-08-27/doc-inipttca0912613.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260827-103",
-      "title": "全球央行政策分化美联储偏鹰派",
-      "summary": "美联储官员表示通胀压力下需提高利率，韩国央行加息至3%，澳大利亚央行利率维持4.35%，巴西政策利率维持14%，各国货币政策分化加剧。",
-      "publishedAt": "2026-08-27T11:58:26+08:00",
-      "source": "RIO Times Online",
-      "url": "https://www.riotimesonline.com/global-economy-briefing-august-27-2026/",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260827-102",
-      "title": "星宇股份向应届生道歉并提供补偿",
-      "summary": "星宇股份向107位被劝退应届生致歉，承诺即时发放3个月求职补贴，若三月内未就业给予6个月工资补偿，公司人力资源总监已停职。",
-      "publishedAt": "2026-08-27T09:44:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-08-27/doc-inipthnu0405583.shtml",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260827-101",
-      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-      "summary": "英伟达预计2028财年营收同比增长70%，CEO黄仁勋称实际市场需求远超这一数字。二季度营收962.2亿美元，同比增106%，为连续第13个季度创纪录；数据中心业务收入890亿美元，占比92%；三季度营收指引1080亿美元，公司将于2027至2028年间向AWS额外供应200万颗GPU。",
-      "publishedAt": "2026-08-27T08:20:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/807.htm",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260827-154",
-      "title": "重返4600美元！美债波动引爆金价，这波行情还能走多远？",
-      "summary": "8月27日伦敦金现货价格冲破4600美元/盎司，逼近4700美元关口；30年期美债收益率盘中一度触及5.335%，创2007年6月以来新高，美国财政部干预后收益率回落约9个基点。全球最大黄金ETF持仓较8月初增逾41吨，美国债务突破40万亿美元。",
-      "publishedAt": "2026-08-27T07:29:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-27/doc-iniptaff5814247.shtml",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260827-006",
-      "title": "2026年8月26日现货黄金晚盘行情预测",
-      "summary": "8月26日欧市盘中现货黄金报约4627美元/盎司，日内跌约0.6%，日高4673.33，日低4621.50，4700美元附近遇强阻力。市场关注当晚20:30公布的美国7月PCE物价数据，将决定金价短线方向。",
-      "publishedAt": "2026-08-26T18:10:59+08:00",
-      "source": "同花顺",
-      "url": "https://news.10jqka.com.cn/20260826/c679311232.shtml",
-      "subCategory": "大宗商品"
     }
   ]
 }
