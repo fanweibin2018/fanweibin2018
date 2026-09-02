@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-02T09:10:00+08:00",
+  "updatedAt": "2026-09-02T23:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260902-809",
+      "title": "大众汽车重组计划曝光：\"激进\"而\"痛苦\"，4 家德国工厂、数万名员工或危在旦夕",
+      "summary": "德国《经济周刊》披露大众汽车监事会147页内部文件，计划关闭德国境内埃姆登、茨维考、汉诺威及奥迪内卡苏尔姆四座工厂，2031年至2034年间陆续停产，涉及数万名员工，大众CEO奥博穆称无法确认这些工厂本世纪30年代具备竞争力，工会预计将强烈抵制。",
+      "publishedAt": "2026-09-02T23:42:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/703.htm",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20260902-806",
       "title": "9月1日 多家车企公布2026年8月份销量",
@@ -39,15 +48,6 @@
       "publishedAt": "2026-09-01T12:19:00+08:00",
       "source": "新浪汽车",
       "url": "https://auto.sina.com.cn/news/2026-09-01/detail-iniqhwna1577677.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260902-801",
-      "title": "蔚来：8月交付35836辆 同比增14.5%",
-      "summary": "蔚来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蔚来品牌21174辆、乐道8810辆、萤火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
-      "publishedAt": "2026-09-01",
-      "source": "GPLP",
-      "url": "https://www.gplp.cn/archives/156913",
       "subCategory": "新能源汽车"
     },
     {
@@ -96,6 +96,15 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260902-801",
+      "title": "蔚来：8月交付35836辆 同比增14.5%",
+      "summary": "蔚来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蔚来品牌21174辆、乐道8810辆、萤火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
+      "publishedAt": "2026-09-01",
+      "source": "GPLP",
+      "url": "https://www.gplp.cn/archives/156913",
+      "subCategory": "新能源汽车"
+    },
+    {
       "id": "industry-20260831-100",
       "title": "SK集团会长崔泰源：SK海力士正考虑在日本建设合资企业事宜",
       "summary": "SK集团会长崔泰源表示，SK海力士正考虑在日本建设合资企业，公司正在日本各地寻找电力与水资源充足的选址，另一种方案是收购日本小型企业，具体合作形式将视合作伙伴与产品而定。",
@@ -112,6 +121,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/538.htm",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260901-001",
+      "title": "Omdia：2026年Q2全球电视出货量同比增长3.6%，中国市场下降15.1%",
+      "summary": "Omdia数据显示，2026年第二季度全球电视出货量4880万台，同比增长3.6%，受世界杯及促销活动带动；中国市场因刺激政策退出下降15.1%，Mini LED占比升至13%。",
+      "publishedAt": "2026-08-31T10:11:00+08:00",
+      "source": "IT之家（Omdia）",
+      "url": "https://www.ithome.com/0/996/330.htm",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260831-701",
+      "title": "DIGITIMES周报：美国向韩国施压半导体投资、联发科拿下谷歌TPU订单、苹果发布2纳米M6芯片",
+      "summary": "DIGITIMES周报称，联发科凭借CPU/GPU/NPU整合能力及高速I/O、先进制程设计经验拿下谷歌TPU项目订单；苹果新款Mac mini搭载台积电2纳米制程M6芯片，被视为验证2纳米设计的过渡产品；美方对韩国半导体集群投资计划的落地进度表达不满。",
+      "publishedAt": "2026-08-31T09:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260831-700",
@@ -213,24 +240,6 @@
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260901-001",
-      "title": "Omdia：2026年Q2全球电视出货量同比增长3.6%，中国市场下降15.1%",
-      "summary": "Omdia数据显示，2026年第二季度全球电视出货量4880万台，同比增长3.6%，受世界杯及促销活动带动；中国市场因刺激政策退出下降15.1%，Mini LED占比升至13%。",
-      "publishedAt": "2026-08-31T10:11:00+08:00",
-      "source": "IT之家（Omdia）",
-      "url": "https://www.ithome.com/0/996/330.htm",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260831-701",
-      "title": "DIGITIMES周报：美国向韩国施压半导体投资、联发科拿下谷歌TPU订单、苹果发布2纳米M6芯片",
-      "summary": "DIGITIMES周报称，联发科凭借CPU/GPU/NPU整合能力及高速I/O、先进制程设计经验拿下谷歌TPU项目订单；苹果新款Mac mini搭载台积电2纳米制程M6芯片，被视为验证2纳米设计的过渡产品；美方对韩国半导体集群投资计划的落地进度表达不满。",
-      "publishedAt": "2026-08-31T09:27:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260831-001",
       "title": "顺丰董事长王卫加入极免董事会，任非执行董事",
       "summary": "极免速递公告，顺丰控股董事长王卫获委任为公司非执行董事，任期至2028年底。今年1月顺丰与极免达成相互持股协议，6月完成认购交割，双方另订立综合物流服务框架协议。",
@@ -321,21 +330,21 @@
       "subCategory": "企业服务"
     },
     {
-      "id": "industry-20260829-900",
-      "title": "芯片通胀：AI的隐性成本",
-      "summary": "报道称，五大AI巨头今年基础设施投入预计超6500亿美元，摩根士丹利研究显示存储芯片价格一年内上涨近六倍，索尼、微软、联想等厂商已上调电脑和游戏主机售价，PC与智能手机2026年出货量预计明显下滑。",
-      "publishedAt": "2026-08-29",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1848608.html",
-      "subCategory": "半导体产业"
-    },
-    {
       "id": "industry-20260830-005",
       "title": "高通 HBC方案搅动内存版图，三星与SK海力士卷入HBM之外新赛道",
       "summary": "报道称高通推出的高带宽连接(HBC)技术正将三星与SK海力士拉入AI基础设施内存领域的新竞争，行业竞争焦点从HBM堆叠容量扩展至内存与计算间的数据传输效率。",
       "publishedAt": "2026-08-29T06:39:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260829-900",
+      "title": "芯片通胀：AI的隐性成本",
+      "summary": "报道称，五大AI巨头今年基础设施投入预计超6500亿美元，摩根士丹利研究显示存储芯片价格一年内上涨近六倍，索尼、微软、联想等厂商已上调电脑和游戏主机售价，PC与智能手机2026年出货量预计明显下滑。",
+      "publishedAt": "2026-08-29",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1848608.html",
       "subCategory": "半导体产业"
     },
     {
@@ -400,6 +409,24 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260828PD207/huawei-ascend-nvidia-chips-china-2026.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260828-001",
+      "title": "Samsung eyes zHBM products from 2029 as heat remains key hurdle",
+      "summary": "三星电子在Future of Memory and Storage 2026大会上公布zHBM三维堆叠内存概念，首代zHBM相关产品预计2029年后面市，散热仍是该技术工程化的关键挑战。",
+      "publishedAt": "2026-08-28T11:45:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260828VL208/samsung-bandwidth-packaging-3d-president.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260830-007",
+      "title": "中国人形机器人热潮遭遇新瓶颈：可测量性、互操作性与安全性待解",
+      "summary": "报道称随着政策激励从成熟的新能源汽车领域转向机器人产业，资本持续涌入中国人形机器人赛道，但行业面临性能可测量、系统互操作及安全标准缺失等瓶颈，成为规模化商用的关键挑战。",
+      "publishedAt": "2026-08-28T08:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL218.html?chid=10",
+      "subCategory": "制造业"
     },
     {
       "id": "industry-20260828-701",
@@ -483,24 +510,6 @@
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260828-001",
-      "title": "Samsung eyes zHBM products from 2029 as heat remains key hurdle",
-      "summary": "三星电子在Future of Memory and Storage 2026大会上公布zHBM三维堆叠内存概念，首代zHBM相关产品预计2029年后面市，散热仍是该技术工程化的关键挑战。",
-      "publishedAt": "2026-08-28T11:45:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260828VL208/samsung-bandwidth-packaging-3d-president.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260830-007",
-      "title": "中国人形机器人热潮遭遇新瓶颈：可测量性、互操作性与安全性待解",
-      "summary": "报道称随着政策激励从成熟的新能源汽车领域转向机器人产业，资本持续涌入中国人形机器人赛道，但行业面临性能可测量、系统互操作及安全标准缺失等瓶颈，成为规模化商用的关键挑战。",
-      "publishedAt": "2026-08-28T08:27:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827VL218.html?chid=10",
-      "subCategory": "制造业"
-    },
-    {
       "id": "industry-20260827-153",
       "title": "Malaysia's charging shortfall opens the door for Chinese hardware players",
       "summary": "报告称东南亚电动车市场规模预计到2031年达235.8亿美元，2026至2031年复合增长率约31.55%；马来西亚充电基础设施建设进度落后于官方目标，缺口为中国充电设备厂商进入当地市场创造机会。",
@@ -526,6 +535,87 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260827VL216/",
       "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260827-151",
+      "title": "Nvidia H200 China sales stall, with US$400M inventory charge",
+      "summary": "英伟达在2027财年第二季度财报中披露，上季度已向中国客户少量出货H200 AI芯片，这是此前约6000万美元芯片出货后的最新恢复性销售；公司同时因H200中国相关库存计提约4亿美元减值费用。",
+      "publishedAt": "2026-08-27T11:46:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD224/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "China's AI software strategy gains scale as OpenHarmony ecosystem tops 1.35 billion devices",
+      "summary": "华为主导的开源系统OpenHarmony及HarmonyOS平台设备接入量已突破13.5亿台，中国正通过开源生态强化本土软件与工业软件能力，推动制造业数字化转型。",
+      "publishedAt": "2026-08-27T11:20:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL210/software-industrial-openharmony-harmonyos-manufacturing.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260828-503"
+    },
+    {
+      "title": "CXMT DDR5 closes in on SK Hynix at 8,000 MT/s, benchmark gap falls below 1%",
+      "summary": "中国长鑫存储CXMT新款DDR5内存芯片可在8000 MT/s频率下稳定运行，实测性能与SK海力士M-die产品差距已缩小至1%以内，成为继三星、SK海力士后又一高端DDR5供应商。",
+      "publishedAt": "2026-08-27T11:15:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827VL209/cxmt-ddr5-sk-hynix-memory-chips-performance.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-502"
+    },
+    {
+      "id": "industry-20260830-002",
+      "title": "谷歌与联发科加码先进封装多元化，TPU采用英特尔EMIB方案",
+      "summary": "报道称谷歌TPU已采用英特尔嵌入式多芯粒互连桥(EMIB)封装方案，联发科同步布局多元封装路线，反映AI芯片产业正从依赖单一封装方案转向多元化选择。",
+      "publishedAt": "2026-08-27T10:17:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-102",
+      "title": "Analysis: Smartwatch demand set to outpace broader hardware market in 2026",
+      "summary": "2026年智能手表出货增速将超越整体硬件市场增速，增长快于智能手机和笔记本电脑等传统消费设备，高端运动手表和无屏可穿戴设备需求增加驱动增长。",
+      "publishedAt": "2026-08-27T09:45:00+08:00",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827PD210/shipments-2026-demand-hardware-market.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260827-103",
+      "title": "AI data center boom lifts Weltrend fan-control chip sales 64%",
+      "summary": "韦尔半导体上半年收入同比增长28%创历史新高，AI数据中心散热解决方案驱动其整体增长，其中风扇控制芯片销售增幅达到64%。",
+      "publishedAt": "2026-08-27T09:39:00+08:00",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260826PD234/weltrend-data-center-sales-2026-revenue.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260827-104",
+      "title": "Supply shortages, price hikes fail to slow new phone wave",
+      "summary": "尽管面临元器件供应链短缺和生产成本上升双重压力，全球手机市场新品发布节奏持续推进，终端厂商和消费者需求继续驱动产业运转。",
+      "publishedAt": "2026-08-27T09:28:00+08:00",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260827PD206/sales-price-market-samsung-google.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "title": "Honor Robot Phone enters mass production, making robotics central to its premium AI strategy",
+      "summary": "荣耀历时一年多内部讨论后，其Robot Phone机器人手机已从概念阶段进入量产商用，董事长James Li称公司正将机器人业务作为高端AI战略核心。",
+      "publishedAt": "2026-08-27T08:32:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD228/honor-robotics-smartphone-commercial.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260828-505"
+    },
+    {
+      "title": "IntelliEPI says Japan substrate outage hit 2Q26 revenue",
+      "summary": "台湾磊晶厂IntelliEPI表示，日本磷化铟In P）基板供应商因黄金周停工近三周，导致公司2026年第二季营收受压，公司正加大依赖日本供应商并协助德国厂商加速量产InP基板。",
+      "publishedAt": "2026-08-27T08:29:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260827PD232/revenue-substrate-intelliepi-inp-demand.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260828-504"
     },
     {
       "id": "industry-20260827-154",
@@ -634,96 +724,6 @@
       "source": "艾媒网",
       "url": "https://www.iimedia.cn/c1100/115168.html",
       "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260827-951",
-      "title": "乘联分会：2026年1-7月中国汽车行业利润2162亿元，同比下降20%",
-      "summary": "乘联分会数据显示，2026年1-7月中国汽车行业利润同比下降20%至2162亿元，利润率降至3.6%，碳酸锂等原材料成本翻倍推高单车成本，行业利润空间持续承压，中小品牌面临整合压力。",
-      "publishedAt": "2026-08-27",
-      "source": "199IT/乘联分会",
-      "url": "http://www.199it.com/archives/1848464.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260827-151",
-      "title": "Nvidia H200 China sales stall, with US$400M inventory charge",
-      "summary": "英伟达在2027财年第二季度财报中披露，上季度已向中国客户少量出货H200 AI芯片，这是此前约6000万美元芯片出货后的最新恢复性销售；公司同时因H200中国相关库存计提约4亿美元减值费用。",
-      "publishedAt": "2026-08-27T11:46:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD224/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "China's AI software strategy gains scale as OpenHarmony ecosystem tops 1.35 billion devices",
-      "summary": "华为主导的开源系统OpenHarmony及HarmonyOS平台设备接入量已突破13.5亿台，中国正通过开源生态强化本土软件与工业软件能力，推动制造业数字化转型。",
-      "publishedAt": "2026-08-27T11:20:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827VL210/software-industrial-openharmony-harmonyos-manufacturing.html",
-      "subCategory": "公司动态",
-      "id": "industry-20260828-503"
-    },
-    {
-      "title": "CXMT DDR5 closes in on SK Hynix at 8,000 MT/s, benchmark gap falls below 1%",
-      "summary": "中国长鑫存储CXMT新款DDR5内存芯片可在8000 MT/s频率下稳定运行，实测性能与SK海力士M-die产品差距已缩小至1%以内，成为继三星、SK海力士后又一高端DDR5供应商。",
-      "publishedAt": "2026-08-27T11:15:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827VL209/cxmt-ddr5-sk-hynix-memory-chips-performance.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260828-502"
-    },
-    {
-      "id": "industry-20260830-002",
-      "title": "谷歌与联发科加码先进封装多元化，TPU采用英特尔EMIB方案",
-      "summary": "报道称谷歌TPU已采用英特尔嵌入式多芯粒互连桥(EMIB)封装方案，联发科同步布局多元封装路线，反映AI芯片产业正从依赖单一封装方案转向多元化选择。",
-      "publishedAt": "2026-08-27T10:17:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD212/google-mediatek-packaging-intel-tpu.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-102",
-      "title": "Analysis: Smartwatch demand set to outpace broader hardware market in 2026",
-      "summary": "2026年智能手表出货增速将超越整体硬件市场增速，增长快于智能手机和笔记本电脑等传统消费设备，高端运动手表和无屏可穿戴设备需求增加驱动增长。",
-      "publishedAt": "2026-08-27T09:45:00+08:00",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260827PD210/shipments-2026-demand-hardware-market.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260827-103",
-      "title": "AI data center boom lifts Weltrend fan-control chip sales 64%",
-      "summary": "韦尔半导体上半年收入同比增长28%创历史新高，AI数据中心散热解决方案驱动其整体增长，其中风扇控制芯片销售增幅达到64%。",
-      "publishedAt": "2026-08-27T09:39:00+08:00",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260826PD234/weltrend-data-center-sales-2026-revenue.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-104",
-      "title": "Supply shortages, price hikes fail to slow new phone wave",
-      "summary": "尽管面临元器件供应链短缺和生产成本上升双重压力，全球手机市场新品发布节奏持续推进，终端厂商和消费者需求继续驱动产业运转。",
-      "publishedAt": "2026-08-27T09:28:00+08:00",
-      "source": "DigiTimes",
-      "url": "https://www.digitimes.com/news/a20260827PD206/sales-price-market-samsung-google.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "title": "Honor Robot Phone enters mass production, making robotics central to its premium AI strategy",
-      "summary": "荣耀历时一年多内部讨论后，其Robot Phone机器人手机已从概念阶段进入量产商用，董事长James Li称公司正将机器人业务作为高端AI战略核心。",
-      "publishedAt": "2026-08-27T08:32:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD228/honor-robotics-smartphone-commercial.html",
-      "subCategory": "公司动态",
-      "id": "industry-20260828-505"
-    },
-    {
-      "title": "IntelliEPI says Japan substrate outage hit 2Q26 revenue",
-      "summary": "台湾磊晶厂IntelliEPI表示，日本磷化铟In P）基板供应商因黄金周停工近三周，导致公司2026年第二季营收受压，公司正加大依赖日本供应商并协助德国厂商加速量产InP基板。",
-      "publishedAt": "2026-08-27T08:29:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD232/revenue-substrate-intelliepi-inp-demand.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260828-504"
     }
   ]
 }
