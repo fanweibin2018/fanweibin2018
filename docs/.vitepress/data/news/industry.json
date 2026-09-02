@@ -3,8 +3,71 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-02T00:20:00+08:00",
+  "updatedAt": "2026-09-02T09:10:00+08:00",
   "items": [
+    {
+      "id": "industry-20260902-806",
+      "title": "9月1日 多家车企公布2026年8月份销量",
+      "summary": "据多家车企公告，2026年8月比亚迪销量44.0293万辆、上汽集团35.7万辆、奇瑞集团约28万辆、吉利汽车27.0194万辆（同比增8%）、上汽通用五菱13.087万辆，各车企陆续公布8月成绩单。",
+      "publishedAt": "2026-09-01T19:50:00+08:00",
+      "source": "汽车之家",
+      "url": "https://chejiahao.autohome.com.cn/info/26358355",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-807",
+      "title": "3D IC封装一年一代 台积电何军：软件、载板缺口比硬件更难解",
+      "summary": "3D IC先进封装制造大联盟9月1日举行全球高峰论坛，联盟共同主席、台积电资深副总经理何军表示先进封装技术几乎一年推进一个世代，软件与载板供给缺口比硬件更难解决，需产业链全面转向并行开发模式。",
+      "publishedAt": "2026-09-01T19:17:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767040_F4O1NHQX3V0K8R1B8UAUK",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260902-800",
+      "title": "小鹏汽车：在2026年8月交付了39107辆汽车",
+      "summary": "小鹏汽车官方微博公告，2026年8月交付新车39107辆，在造车新势力车企中交付量暂列首位，同期蔚来交付35836辆、理想交付37679辆。",
+      "publishedAt": "2026-09-01T12:33:45+08:00",
+      "source": "每经网",
+      "url": "https://www.nbd.com.cn/articles/2026-09-01/4568508.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-802",
+      "title": "多家车企公布8月销量：理想汽车8月交付37679辆",
+      "summary": "理想汽车官方数据显示，2026年8月交付新车37679辆，公司历史累计交付量达1801834辆；理想i6连续七个月位居30万元以上车型交付前三。",
+      "publishedAt": "2026-09-01T12:19:00+08:00",
+      "source": "新浪汽车",
+      "url": "https://auto.sina.com.cn/news/2026-09-01/detail-iniqhwna1577677.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-801",
+      "title": "蔚来：8月交付35836辆 同比增14.5%",
+      "summary": "蔚来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蔚来品牌21174辆、乐道8810辆、萤火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
+      "publishedAt": "2026-09-01",
+      "source": "GPLP",
+      "url": "https://www.gplp.cn/archives/156913",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-804",
+      "title": "零跑汽车8月交付超10万辆：全球新能源品牌第四名",
+      "summary": "零跑汽车官方数据显示，2026年8月全球交付新车103129辆，同比增长超80.7%，为连续第二个月交付量突破10万辆，跻身全球新能源乘用车品牌交付量前四、中国新能源市场前三。",
+      "publishedAt": "2026-09-01T11:28:00+08:00",
+      "source": "CNMO科技",
+      "url": "https://internet.cnmo.com/event/817382.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-803",
+      "title": "极氪：8月交付新车36981辆 同比增长109.8%",
+      "summary": "极氪汽车公告，2026年8月交付新车36981辆，同比增长约109.8%；1-8月累计交付25.1万辆，同比增长100.4%，为今年以来单月交付高点之一。",
+      "publishedAt": "2026-09-01T11:14:00+08:00",
+      "source": "每经网",
+      "url": "https://www.nbd.com.cn/articles/2026-09-01/4568442.html",
+      "subCategory": "新能源汽车"
+    },
     {
       "id": "industry-20260901-700",
       "title": "零跑汽车8月交付量再破10万辆，同比增长80.7%",
@@ -13,6 +76,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/834.htm",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-805",
+      "title": "小米汽车：2026年8月交付量超3万台，正全力为澎程上市交付做准备",
+      "summary": "小米汽车公告，2026年8月交付量超过3万台，为连续第5个月单月交付维持在3万台以上；SU7、YU7两款车型累计交付已突破70万辆，公司正为小米澎程上市交付做准备。",
+      "publishedAt": "2026-09-01T09:04:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/727.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260902-808",
+      "title": "毕马威：2026年全球科技报告",
+      "summary": "毕马威发布《2026年全球科技报告》显示，全球仅11%企业达到最高技术成熟度，74%企业已从AI项目中获得业务价值但仅24%实现规模化ROI，88%企业正在构建智能体系统，53%企业面临数字人才短缺。",
+      "publishedAt": "2026-09-01T05:22:00+08:00",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhfqh4800964.shtml",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260831-100",
@@ -643,87 +724,6 @@
       "url": "https://www.digitimes.com/news/a20260827PD232/revenue-substrate-intelliepi-inp-demand.html",
       "subCategory": "半导体产业",
       "id": "industry-20260828-504"
-    },
-    {
-      "id": "industry-20260826-701",
-      "title": "Salesforce公布2027财年第二季度创纪录业绩",
-      "summary": "Salesforce发布2027财年第二季度财报，营收113亿美元，同比增长约11%；非GAAP每股收益5.90美元，同比增长103%；上调全年营收指引至461亿至464亿美元；Agentforce与Data 360合计年化经常性收入近39亿美元，同比增长超210%。",
-      "publishedAt": "2026-08-26T15:01:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-delivers-record-second-quarter-200100684.html",
-      "subCategory": "SaaS"
-    },
-    {
-      "id": "industry-20260827-001",
-      "title": "高盛：中国先进制程晶圆2035年月产能41万片，供需缺口由2025年92%降至34%",
-      "summary": "高盛报告预计，中国先进制程晶圆月产能将从当前水平提升到2035年的41万片，供需缺口由2025年92%收窄到34%，产能年复合增速46%，中芯国际先进制程良率有望从2026年23%升至2035年75%。",
-      "publishedAt": "2026-08-26T20:30:05+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1847888.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-003",
-      "title": "DeepSeek：2026年前7个月营收 4.75亿元，较2025全年增长9倍",
-      "summary": "DeepSeek披露2026年前7个月营收 4.75亿元，较2025全年增长约9倍，同期净亏损 7.15亿元，整体毛利率44.6%、API业务毛利率82.9%，公司拟启动新一轮融资，目标估值5000亿元。",
-      "publishedAt": "2026-08-26T20:29:41+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848236.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260827-006",
-      "title": "TrendForce：2026年全球CSP资本支出同比增长98%，2027年存储占比68%",
-      "summary": "TrendForce预计 2026年全球云服务商资本支出同比增长98%、2027年再增50%，DRAM与NAND合计占CSP资本支出比重将从2026年47%升至2027年68%，服务器DRAM合同价2026年估计累计上涨约270%。",
-      "publishedAt": "2026-08-26T20:27:48+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848247.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260827-007",
-      "title": "工信部：2026年上半年国内手机总出货量1.33亿部，超98%支持北斗定位",
-      "summary": "工信部数据显示，2026年上半年国内市场手机总出货量1.33亿部，超98%支持北斗定位；39个试点城市北斗终端累计超1200万台，其中消费应用720万台，北斗短报文用户累计达 5500万。",
-      "publishedAt": "2026-08-26T20:27:40+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848250.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260827-005",
-      "title": "SAG：2026H1人形机器人出货约19100台，中国占97%以上，同比增长近两倍",
-      "summary": "行业数据显示，2026年上半年全球人形机器人出货约1.91万台，同比增长近两倍，中国占比超97%；电机、电池、传感器等零部件供应成为规模化主要瓶颈，全年出货量预计约6万台。",
-      "publishedAt": "2026-08-26T20:27:10+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848255.html",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260827-002",
-      "title": "OpenAI Debuts Jalapeño AI Inference Chip, with Samsung Reportedly Supplying HBM4",
-      "summary": "OpenAI发布首款自研推理芯片Jalapeño，采用台积电3纳米工艺，单封装集成六颗HBM4合计216GiB，带宽15.4TB/s，由三星供应HBM4、博通担任ASIC合作伙伴，性能测试显示优于英伟达GB200/GB300机架系统。",
-      "publishedAt": "2026-08-26T10:11:36Z",
-      "source": "TrendForce",
-      "url": "https://www.trendforce.com/news/2026/08/26/news-openai-debuts-jalapeno-ai-inference-chip-with-samsung-reportedly-supplying-hbm4/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-008",
-      "title": "YMTC targets global NAND lead by 2027 as parent seeks US$5 billion IPO",
-      "summary": "长江存储目标在2027年底前成为全球最大NAND闪存供应商，母公司拟在上海募资近50亿美元用于产能升级与研发；今年二季度公司全球NAND位出货份额约14%，落后三星25%和SK海力士22%。",
-      "publishedAt": "2026-08-26T17:53:01+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260826VL222/ymtc-nand-2027-ipo-shipments.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-004",
-      "title": "Foxconn shifts China manufacturing from expansion to upgrade",
-      "summary": "富士康表示将在华产能布局重心从规模扩张转向设备更新与精密制造升级，同时加快全球产能地域分散化以应对AI服务器需求增长，预计 2026年资本支出同比增长超过30%。",
-      "publishedAt": "2026-08-26T16:45:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260826PD231/foxconn-manufacturing-expansion-investment-equipment.html",
-      "subCategory": "公司动态"
     }
   ]
 }

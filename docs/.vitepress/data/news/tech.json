@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-02T00:20:00+08:00",
+  "updatedAt": "2026-09-02T09:10:00+08:00",
   "items": [
+    {
+      "id": "tech-20260902-805",
+      "title": "吉利银河 TT 车型 9 月 10 日上市：定位中大型纯电轿跑，预售 14.59 万元起",
+      "summary": "吉利银河旗下中大型纯电轿跑银河TT将于9月10日在杭州上市，此前预售价14.59万至16.99万元起，小订已破2万台。新车长4999毫米、风阻系数0.22Cd，提供后驱与四驱版本，综合功率最高425千瓦，CLTC续航540至725公里。",
+      "publishedAt": "2026-09-02T08:13:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/215.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260902-802",
+      "title": "雷蛇灵猫 Razer Prio 可折叠游戏手柄发布：支持 7 英寸内手机，国行 799 元",
+      "summary": "雷蛇发布可折叠手游手柄Prio（灵猫），国行售价799元，海外99.99美元。折叠后约107×67×23毫米、重101克，最大兼容7英寸内手机，提供全尺寸按键布局，兼容Xbox云游戏、Steam Link等远程串流服务。",
+      "publishedAt": "2026-09-02T07:58:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/209.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260902-808",
+      "title": "我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果",
+      "summary": "北京理工大学团队在《科学》杂志发表片上光谱计算成果，实现高光谱相机从图像采集到数据分析全流程芯片化。团队负责人边麓恒表示，数据无需再传回地面处理，卫星可直接实时输出分析结果，为遥感卫星等场景提供技术基础。",
+      "publishedAt": "2026-09-02T07:26:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/204.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260902-807",
+      "title": "地平线征程 6M 官宣大规模量产上车，城区 NOA 延伸至 10 万级主流汽车市场",
+      "summary": "地平线宣布征程6M芯片实现大规模量产上车，截至8月已落地20余家车企超70款车型，其中7个品牌实现城区辅助驾驶平台化上车。该芯片算力128TOPS，支持单芯片覆盖高速、城区、泊车场景，并可风冷适配燃油车，将智驾下探至10万级市场。",
+      "publishedAt": "2026-09-02T07:22:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/203.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260902-809",
+      "title": "全球首例苹果 Vision Pro 辅助髋关节镜手术完成，医生无需频繁扭头看屏幕",
+      "summary": "史赛克宣布杜克大学医学中心用其SportSuite Vision应用与苹果Vision Pro完成全球首例髋关节镜辅助手术。主刀医生称空间计算可按个人习惯排布信息，减少术中反复扭头看屏幕，该应用2024年7月已获FDA认证。",
+      "publishedAt": "2026-09-02T07:13:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/202.htm",
+      "subCategory": "XR-AR-VR"
+    },
     {
       "id": "tech-20260902-700",
       "title": "长安汽车8月交付21.88万辆，海外市场9.24万辆连续7个月同比大涨",
@@ -24,6 +69,15 @@
       "subCategory": "芯片硬件"
     },
     {
+      "id": "tech-20260902-810",
+      "title": "Microsoft 365 outage drags on, but things are improving",
+      "summary": "微软365服务多日中断持续，故障源于核心身份验证配置错误，波及Exchange Online、SharePoint、Teams、Copilot等服务。微软自周一起修复，周一晚邮件收发逐步恢复，周二凌晨搜索改善，仍处于延长监测阶段。",
+      "publishedAt": "2026-09-01T08:23:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260901-701",
       "title": "消息称SpaceX数据中心出现工程、稳定性问题，马斯克为此换掉多名建设团队高管",
       "summary": "据The Information报道，埃隆·马斯克近期调整了SpaceX数据中心建设团队，撤换多名负责该业务的高管，原因与旗下田纳西州、密西西比州数据中心持续出现的工程及稳定性问题有关，部分设施建成数月仍未配备备用冷却与供电系统，公司扩大数据中心规模的时间表因此更趋不确定。",
@@ -31,6 +85,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/184.htm",
       "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260902-803",
+      "title": "驰为推出 NeoBook 笔记本：酷睿 3 100U 处理器，内存硬盘可升级",
+      "summary": "驰为在海外推出NeoBook笔记本，定位MacBook Neo平替，售价409美元或499美元。采用14英寸1920×1200屏幕、酷睿3 100U处理器，厚16.4毫米、重约1.2千克，配双DDR4内存插槽与双M.2硬盘位，支持自行升级。",
+      "publishedAt": "2026-09-01T23:13:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/183.htm",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260901-702",
@@ -51,6 +114,15 @@
       "subCategory": "互联网产品"
     },
     {
+      "id": "tech-20260902-806",
+      "title": "日产全新入门级纯电汽车\"Wave\"首曝，预计明年登场",
+      "summary": "日产正研发入门级纯电车型\"Wave\"，对标海外市场的零跑T03、比亚迪海鸥。新车基于AmpR Small平台，搭载27.5千瓦时磷酸铁锂电池与约60千瓦单电机，WLTP续航约263公里，预计2027年上半年上市，起售价低于2万欧元。",
+      "publishedAt": "2026-09-01T22:55:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/172.htm",
+      "subCategory": "智能汽车"
+    },
+    {
       "id": "tech-20260901-704",
       "title": "安全人员Nightmare Eclipse公开卡巴斯基及Avast防病毒软件提权零日漏洞",
       "summary": "安全研究员Nightmare Eclipse相继公开了卡巴斯基Endpoint Security与Avast防病毒软件的提权零日漏洞，相关概念验证代码可使攻击者获取系统完全权限。卡巴斯基方面表示相关问题已通过自动更新修复；Avast漏洞可能同样影响AVG、诺顿等同源产品，此前该研究员8月已公开微软Defender的ShieldBreak零日漏洞。",
@@ -58,6 +130,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/169.htm",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260902-804",
+      "title": "Sonos 一口气推出两款全新硬件：Beam Ultra 回音壁、Ace Ultra 头戴式耳机",
+      "summary": "Sonos发布Ace Ultra头戴耳机与Beam Ultra回音壁，并推出新系统Sonos 27。Ace Ultra售价449美元，续航35小时，降噪提升；Beam Ultra售价699美元，升级7.1.2声道，两款均计划9月29日发售。",
+      "publishedAt": "2026-09-01T22:23:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/168.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260902-800",
+      "title": "三星已锁定约70%存储芯片产能至2031年，HBM长协价仅为现货五分之一",
+      "summary": "据韩媒报道，三星已通过长期供应协议锁定约70%存储芯片产能至2031年，客户包括微软、英伟达和谷歌。36GB HBM3E模组现货价约287万韩元，长协价仅50万至70万韩元，价差约五倍，反映AI需求推高存储紧缺行情。",
+      "publishedAt": "2026-09-01T22:11:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/167.htm",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260901-709",
@@ -85,6 +175,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/154.htm",
       "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260902-801",
+      "title": "NVIDIA DLSS 5 Available September 3rd: 3D-Guided Neural Rendering Debuts In NBA 2K27",
+      "summary": "NVIDIA宣布DLSS 5将于9月3日随《NBA 2K27》登陆全部RTX 50系显卡及GeForce NOW，采用\"3D引导神经渲染\"技术生成光照与材质细节。官方称性能较3月演示提升5倍，RTX 5090在4K加光追下最高达370帧。",
+      "publishedAt": "2026-09-01T21:00:00+08:00",
+      "source": "NVIDIA",
+      "url": "https://www.nvidia.com/en-us/geforce/news/dlss-5-3d-guided-neural-rendering/",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260901-707",
@@ -625,105 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/241.htm",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-011",
-      "title": "特斯拉在香港、澳门推出更平价版Model 3，续航达572公里",
-      "summary": "特斯拉在香港、澳门推出配置简化的Model 3后驱版本，香港起售价20.5万港元，较前代降低8.5%，采用单电机后驱与织布座椅，续航提升至572公里。",
-      "publishedAt": "2026-08-30T21:48:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/240.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260831-012",
-      "title": "RTX 30系列显卡通过Mod成功运行DLSS 5多帧生成",
-      "summary": "通过RenoDX 4.5 Mod替换文件，原本仅限RTX 50系列的DLSS 5多帧生成功能已可在安培架构的RTX 30系显卡上运行，但因缺乏原生FP8支持，性能表现仍待验证。",
-      "publishedAt": "2026-08-30T21:19:08+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1147/1147420.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260831-013",
-      "title": "联想ThinkTab 11S平板上架：天玑6300芯片，首发价1799元",
-      "summary": "联想ThinkTab 11S平板电脑搭载天玑6300处理器、8GB内存、128GB存储及11英寸2.5K屏幕，内置7040mAh电池，8月31日10点开售，首发价1799元。",
-      "publishedAt": "2026-08-30T20:22:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/227.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-014",
-      "title": "Intel官方确认下代CPU换用LGA1954新接口，未来三代不变",
-      "summary": "Intel通过设计合作伙伴商店的验证工具确认，新一代Nova Lake-S桌面处理器将采用LGA1954接口取代LGA1851，并将连续三代处理器沿用该接口。",
-      "publishedAt": "2026-08-30T20:02:48+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1147/1147417.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260831-015",
-      "title": "消息称Meta正测试数据中心机器人，可完成插拔线缆等运维工作",
-      "summary": "据报道，Meta正在测试多家厂商的机器人，用于数据中心插拔线缆、重启服务器等运维任务，但目前机器人存在速度慢、续航差等限制，尚未成为完全可靠方案。",
-      "publishedAt": "2026-08-30T19:26:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/222.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260831-016",
-      "title": "NASA南希·格雷斯·罗曼空间望远镜由猎鹰重型火箭成功发射",
-      "summary": "NASA南希·格雷斯·罗曼空间望远镜于美国东部时间7时26分由SpaceX猎鹰重型火箭发射升空，将历时三个月飞往日地L2点，用于研究暗物质、暗能量及系外行星。",
-      "publishedAt": "2026-08-30T07:26:00-04:00",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-launches/",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260831-017",
-      "title": "传音推出Tecno Megapad SE2平板：9.7寸90Hz屏，支持4G网络",
-      "summary": "传音在菲律宾推出中低端平板Tecno Megapad SE2，搭载联发科Helio G88芯片，配备9.7英寸2048×1280分辨率90Hz屏幕、7000mAh电池，支持4G LTE网络。",
-      "publishedAt": "2026-08-30T19:18:08+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/221.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-018",
-      "title": "华为Mate XT2三折叠手机核心配置曝光，有望首发麒麟9050 Pro",
-      "summary": "爆料称华为Mate XT2三折叠手机将采用展翼三折叠设计，搭载麒麟9050 Pro处理器与6000mAh电池，支持100W有线快充及无线充电，配备潜望长焦等多摄组合。",
-      "publishedAt": "2026-08-30T19:07:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/219.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260830-900",
-      "title": "英国电信行业高管警告：5G 升级太慢，英国可能输掉 AI 竞赛",
-      "summary": "英国电信业高管警告，若5G网络升级持续滞后于其他国家，英国可能在全球AI竞赛中掉队。报道援引Which?消费者报告称，英国移动网络覆盖落后于27个欧盟成员国及G7国家，网络性能全球排名第57位。Vodafone Three网络总监称基础设施不足可能成为英国竞争力的\"变革性挑战\"。",
-      "publishedAt": "2026-08-30T16:39:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/190.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260830-901",
-      "title": "特斯拉 Cybercab 车头 RGB 灯带可显示不同颜色，避免乘客上错车",
-      "summary": "特斯拉Cybercab无人驾驶出租车采用车头RGB灯带识别系统，每辆车分配独一无二的颜色标识并与Robotaxi应用同步，方便乘客在多车聚集时准确辨认车辆。文章指出该方案对视障或色盲用户不够友好。Cybercab将于9月3日起在奥斯汀向公众开放载客服务。",
-      "publishedAt": "2026-08-30T16:35:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/189.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260830-902",
-      "title": "机械革命翼龙 15 Air 2026 笔记本锐龙 7 H 449 版发布：RTX 5060，国补到手价 9999 元",
-      "summary": "机械革命发布翼龙15 Air 2026笔记本锐龙7 H 449版，搭载RTX 5060显卡、15.3英寸2.5K 240Hz OLED屏、24GB内存及1TB存储，机身厚18.75mm、重约1.6kg。新机9月4日开启预售，9月10日正式发售，官方指导价13999元，国补到手价9999元。",
-      "publishedAt": "2026-08-30T16:18:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/186.htm",
-      "subCategory": "消费电子"
     }
   ]
 }
