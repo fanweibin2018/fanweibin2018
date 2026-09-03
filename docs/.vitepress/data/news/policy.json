@@ -1,1 +1,8 @@
-REPLACED_BELOW
+{
+  "$schema": "./schema.json",
+  "slug": "policy",
+  "title": "政策信息",
+  "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
+  "updatedAt": "2026-09-03T09:10:00+08:00",
+  "items": []
+}
