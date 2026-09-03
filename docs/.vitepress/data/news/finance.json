@@ -204,15 +204,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260901-700",
-      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
-      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
-      "publishedAt": "2026-09-01T10:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260901-007",
       "title": "9月1日人民币对美元中间价报6.7809 上调19个基点",
       "summary": "中国外汇交易中心受权公布，2026年9月1日人民币对美元汇率中间价报6.7809元，较上一交易日上调19个基点，人民币汇率延续小幅升值态势。",
@@ -697,6 +688,60 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/wm/2026-08-27/doc-inipthnu0405583.shtml",
       "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260902-800",
+      "title": "戴尔大涨！全年指引超预期上调，Q2营收创历史新高，AI服务器需求爆发",
+      "summary": "戴尔公布2027财年第二季度财报，营收470亿美元，同比增长58%，非GAAP每股收益7.04美元；AI服务器收入164亿美元同比翻倍，订单积压达950亿美元，全年营收指引上调至1920亿美元，盘后股价一度涨超10%。",
+      "publishedAt": "2026-09-02T04:22:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://www.wallstreetcn.com/articles/3780858",
+      "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260902-801",
+      "title": "智通ADR统计 | 9月2日",
+      "summary": "智通财经统计显示，9月2日恒生指数ADR报25419.74点，较香港收市水平上涨0.36%；汇丰控股上涨0.97%至162.150港元，腾讯控股下跌0.36%至439.796港元，同期美股三大指数集体收跌。",
+      "publishedAt": "2026-09-02T06:33:00+08:00",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3547655",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260902-803",
+      "title": "Oil extends gains as Trump threatens further Iran strikes",
+      "summary": "受美国打击伊朗伊斯兰革命卫队目标、霍尔木兹海峡局势持续紧张影响，WTI原油期货结算价报90.68美元/桶，为6月11日以来最高水平，布伦特原油报95.05美元/桶，市场对中东供应中断的担忧持续升温。",
+      "publishedAt": "2026-09-01T17:37:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260830-905",
+      "title": "周末要闻汇总：多箭齐发！房地产迎来政策\"组合拳\"",
+      "summary": "8月28日住建部、央行、金融监管总局、证监会等多部门连发多份文件，涉及商品房销售制度、房企信用管理及资本市场融资渠道；证监会明确支持房地产开发企业通过股票、债券、ABS、REITs等合理融资。",
+      "publishedAt": "2026-08-30T12:00:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608303859353849.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260830-906",
+      "title": "500亿半导体大牛股筹划重大资产重组 明起停牌",
+      "summary": "有研硅（688432）公告拟通过发行股份及支付现金方式，收购山东有研艾斯半导体71.89%股权及山东有研半导体14.98%股权，交易完成后两家标的将成为全资子公司；股票自8月31日起停牌，预计不超过5个交易日。",
+      "publishedAt": "2026-08-30T07:31:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608303859340222.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260830-907",
+      "title": "霍尔木兹海峡最新消息：伊朗称已完全关闭，英国拟对石油公司征暴利税",
+      "summary": "伊朗副外长称霍尔木兹海峡目前已完全关闭，船只通行须经伊方协调许可；国际油价一度突破126美元/桶，现回落至约88美元/桶，较冲突前上涨逾20%，海峡日均通行商船由130至140艘降至个位数。",
+      "publishedAt": "2026-08-30T07:25:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202608303859339716.html",
+      "subCategory": "大宗商品"
     }
   ]
 }
