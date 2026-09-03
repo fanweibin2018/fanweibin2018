@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-02T23:50:00+08:00",
+  "updatedAt": "2026-09-03T09:10:00+08:00",
   "items": [
+    {
+      "id": "tech-20260903-001",
+      "title": "美国宇航局火星直升机旋翼突破1.08马赫，升力提高30%",
+      "summary": "美国宇航局喷气推进实验室完成新一代火星直升机137次旋翼测试，桨叶尖端速度约达每小时869公里，较\"机智号\"提升约30%升力。该项目代号SkyFall，预计不早于2028年发射，将搭载三架直升机及一架备用机随\"自由号\"空间反应堆任务登陆火星，独立配备相机、大气传感器及探地雷达搜寻地下冰层。",
+      "publishedAt": "2026-09-03T08:36:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/741.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260903-002",
+      "title": "鸿蒙智行问界M9 Ultimate旗舰SUV新功能首曝",
+      "summary": "华为常务董事余承东亲自体验鸿蒙智行问界M9 Ultimate新功能，包括车外语音交互（识别行人并摆动车身回应挥手）、第二排投影观看\"5D电影\"、车身随剧情摆动、自动开关门、座椅旋转及隐私模式，另有隐藏功能支持互动游戏，驾驶方向盘与油门操作时底盘会同步响应。",
+      "publishedAt": "2026-09-03T08:34:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/740.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260903-003",
+      "title": "波音交付最后3颗O3b mPOWER卫星，完成首批13颗卫星星座",
+      "summary": "波音宣布已向卫星通信运营商SES交付最后3颗O3b mPOWER卫星，完成首批13颗卫星星座建设，卫星计划本月从美国佛罗里达州太空海岸发射，预计2027年完成变轨与初始化后投入运营。该中地球轨道星座采用波音702X平台及软件定义载荷技术，支持动态带宽路由与容量调整，此前10颗在轨卫星已验证架构有效性。",
+      "publishedAt": "2026-09-03T08:27:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/739.htm",
+      "subCategory": "航空航天"
+    },
     {
       "id": "tech-20260902-812",
       "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
@@ -76,6 +103,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/188.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260903-004",
+      "title": "GitHub企业级托管设置支持自定义任意默认模型",
+      "summary": "GitHub扩展企业级托管设置功能，管理员现可为GitHub Copilot新对话按团队指定任意默认模型，通过在team-mappings.json配置文件中将model字段设为overridable实现，不同团队可选择各自偏好的默认模型，其余用户则沿用企业默认设置。该功能已在Copilot Business与Enterprise版本的GitHub Copilot应用、Copilot CLI及Visual Studio Code中正式可用。",
+      "publishedAt": "2026-09-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260901-700",
@@ -688,42 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/247.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-006",
-      "title": "消息称苹果曾测试折叠屏iPhone触控笔，可磁吸机身侧面但恐无缘量产",
-      "summary": "据彭博社报道，苹果曾为折叠屏iPhone测试可磁吸于机身侧面的短款触控笔，但因需展开前取下、可能划伤内屏等问题，首代折叠屏iPhone预计不会支持该功能。",
-      "publishedAt": "2026-08-30T22:36:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/246.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260831-008",
-      "title": "微软为SwiftKey输入法iOS版新增液态玻璃效果，用户反馈不佳",
-      "summary": "微软将iOS版SwiftKey输入法更新至4.3.5版本，加入匹配iOS 26风格的液态玻璃设计，但用户反馈按键间距异常、部分按键消失及应用崩溃等问题。",
-      "publishedAt": "2026-08-30T22:21:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/243.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260831-010",
-      "title": "V社12TB游戏开发数据泄露，含《传送门2》早期版本等内容",
-      "summary": "Valve公司12TB游戏开发数据遭泄露，时间跨度2003至2013年，内容含《传送门2》与《求生之路2》测试版及《半衰期2：第三章》相关线索，数据源自其曾用的Steam2分发系统。",
-      "publishedAt": "2026-08-30T22:05:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/241.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260831-004",
-      "title": "黑客组织FulcrumSec宣称入侵曼彻斯特机场集团，窃取86GB数据",
-      "summary": "勒索组织FulcrumSec宣称通过泄露的Iterable API密钥入侵曼彻斯特机场集团，窃取约870万名客户的预订信息等86GB数据，机场集团已拒绝支付赎金并通知受影响客户。",
-      "publishedAt": "2026-08-30T11:00:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "subCategory": "安全漏洞"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-02T23:50:00+08:00",
+  "updatedAt": "2026-09-03T09:10:00+08:00",
   "items": [
     {
       "id": "industry-20260902-809",
@@ -13,6 +13,24 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/703.htm",
       "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260903-001",
+      "title": "Micron says tightly coupled DRAM could deliver more than 10x HBM bandwidth",
+      "summary": "美光科技正研发紧耦合DRAM技术，据称带宽有望达到HBM的10倍以上，同时单比特能耗大幅降低。公司希望借助这一新型存储架构缓解处理器与存储系统之间日益扩大的性能差距，原文完整技术细节因设置付费门槛未完全披露。",
+      "publishedAt": "2026-09-02T17:41:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260902VL223/micron-dram-hbm-bandwidth-nand.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260903-002",
+      "title": "Lam Research exec says automated preventive maintenance key to fabs of the future",
+      "summary": "泛林集团(Lam Research)高管表示，晶圆厂制造业未来发展方向并非完全依靠自动化取代人工，而是将协作机器人与AI驱动的预测性维护系统结合，这一混合模式将成为晶圆厂运营下一阶段的重大进步，原文详细内容因设置付费门槛未完全披露。",
+      "publishedAt": "2026-09-02T17:03:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260902VL222/lam-research-fab-manufacturing-data.html",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260902-806",
@@ -706,24 +724,6 @@
       "url": "https://www.engineering.com/renesas-opens-physical-ai-and-robotics-lab-in-beijing/",
       "subCategory": "半导体产业",
       "id": "industry-20260829-002"
-    },
-    {
-      "id": "industry-20260827-903",
-      "title": "Gartner Forecasts the Market for Securing AI Will Reach $4.8 Billion in 2027",
-      "summary": "Gartner预测，AI安全市场规模将从2026年的28.35亿美元增至2027年的48亿美元，增至68.7%，2028年将接近77亿美元。其中AI应用安全为最大细分领域，2027年规模达8.51亿美元，AI使用控制年增速达73%。",
-      "publishedAt": "2026-08-27",
-      "source": "Gartner（转载via itbrief）",
-      "url": "https://itbrief.co.nz/story/gartner-sees-securing-ai-market-hit-usd-4-8bn-in-2027",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260827-950",
-      "title": "提振消费政策落地 医药行业加速提质升级",
-      "summary": "艾媒咨询数据显示，2026年上半年中国医疗健康行业共发生436起投融资事件，总金额683.09亿元，提振消费政策推动化学药、生物药、中药及医疗器械领域技术创新与设备升级加速。",
-      "publishedAt": "2026-08-27",
-      "source": "艾媒网",
-      "url": "https://www.iimedia.cn/c1100/115168.html",
-      "subCategory": "医疗健康"
     }
   ]
 }

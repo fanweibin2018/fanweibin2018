@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-02T23:50:00+08:00",
+  "updatedAt": "2026-09-03T09:10:00+08:00",
   "items": [
+    {
+      "id": "ai-20260903-003",
+      "title": "探索太阳风暴早期预警：AI提前9.24小时捕捉太阳活动区信号",
+      "summary": "美国新泽西理工学院团队开发基于Transformer架构的机器学习模型EarlyDetect，利用NASA太阳动力学天文台的声波振动与磁场数据预测太阳活动区形成，平均可提前9.24小时发出预警。模型以45秒间隔连续处理太阳观测数据，声波功率通常先于连续谱强度和磁场变化出现改变，该成果尚处实验阶段，暂未投入实际运行。",
+      "publishedAt": "2026-09-03T08:08:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/737.htm",
+      "subCategory": "论文进展"
+    },
     {
       "id": "ai-20260902-805",
       "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
@@ -12,6 +21,15 @@
       "publishedAt": "2026-09-02T23:31:06+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/702.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260903-002",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "谷歌发布Gemini 3.8 Flash通用升级版及面向网络安全场景的Gemini 3.8 Flash Cyber模型。前者在DeepSWE v1.1软件工程基准上超越多数更大规模前沿模型，定价维持每百万输入token 0.75美元不变；后者具备前沿级自主漏洞发现与补丁生成能力，仅通过谷歌Fairwind计划向可信防御方开放，并限制攻击性用途。",
+      "publishedAt": "2026-09-02",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "subCategory": "大模型"
     },
     {
@@ -166,6 +184,24 @@
       "source": "AIBase",
       "url": "https://news.aibase.com/news/30753",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260903-001",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Anthropic推出企业前沿防护方案(EFS)，结合零数据留存隐私保护与滥用检测能力，客户数据存储于自身云基础设施而非Anthropic系统，并由客户自行管理加密密钥；该方案面向金融、医疗、制造等逾100家企业客户需求开发，可跨会话与账号识别复杂滥用模式，2026年秋季起分阶段上线，覆盖Claude Code、Claude Enterprise及亚马逊云科技、谷歌云、微软Azure平台，Anthropic不额外收费。",
+      "publishedAt": "2026-09-01",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260903-004",
+      "title": "Copilot code review can now approve pull requests",
+      "summary": "GitHub扩展Copilot代码审查能力，新增批准拉取请求功能，Copilot可在审查评论中标注请求是否可以合并；该权限默认关闭，需管理员显式授权，并可在企业、组织或单个仓库三个层级配置，管理员还能限定Copilot可批准的文件路径范围。该功能目前在Copilot Pro、Pro+、Max、Business及Enterprise版本中开放公开预览，若批准后有新提交推送，批准状态将自动撤销。",
+      "publishedAt": "2026-09-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260901-004",
@@ -688,42 +724,6 @@
       "source": "Anthropic",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260827-001",
-      "title": "智谱开源GLM-5.3-Flash原生多模态模型",
-      "summary": "智谱开源原生多模态模型GLM-5.3-Flash，此前以匿名代号Ox Alpha测试。总参数3200亿、激活180亿，智能指数得分57，与Claude Opus 4.8相当，限时价格为GLM-5.3标准价的1/20。",
-      "publishedAt": "2026-08-26T22:21:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/765.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260827-002",
-      "title": "MiniMax：M3 Pro模型参数规模预计提升至约3T",
-      "summary": "MiniMax表示M3 Pro参数规模预计提升至约3T，将加强强化学习与长上下文训练；M3、H3模型正适配国产芯片，大规模国产算力集群将很快上线。据财报，公司H1营收1.17亿美元，同比增长283.1%，净亏损收窄至3.58亿美元。",
-      "publishedAt": "2026-08-26T21:46:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/759.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260827-003",
-      "title": "阿里通义开源Qwen3.8-Flash（Next），125B参数MoE模型",
-      "summary": "阿里通义开源Qwen3.8-Flash（Next），主参数125B加51B N-gram Embedding，单token激活 6B，原生支持26.2万token上下文，训练成本约为前代的1/9，API定价每百万输入token 1元、输出3元。",
-      "publishedAt": "2026-08-26T20:39:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/994/735.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260827-004",
-      "title": "AI视频应用井喷，美图打开新的增长空间",
-      "summary": "文章称AI视频应用竞争重心已从底层模型转向应用层体验，美图旗下Wink、开拍、Vmake等以细分行业工作流切入，「开拍AI助理」提供从账号分析到视频生成剪辑的多智能体服务，新品MVLAND聚焦音乐视频，ARR三个月内翻倍。",
-      "publishedAt": "2026-08-26T18:18:10+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/479895.html",
-      "subCategory": "AI应用"
     }
   ]
 }
