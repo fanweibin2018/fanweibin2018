@@ -1,1 +1,729 @@
-PLACEHOLDER
+{
+  "$schema": "./schema.json",
+  "slug": "ai",
+  "title": "AI 与大模型",
+  "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
+  "updatedAt": "2026-09-05T00:50:33+08:00",
+  "items": [
+    {
+      "id": "ai-20260904-019",
+      "title": "广电总局召开 AI 微短剧“融像”“融声”座谈会，爱奇艺、红果等参会",
+      "summary": "国家广电总局9月2日召开AI微短剧“融像”“融声”座谈会，要求“换脸”等使用须获权利人明确授权并制定侵权认定标准，爱奇艺、快手、腾讯等17家平台代表参会讨论内容规范。",
+      "publishedAt": "2026-09-04T22:27:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/610.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260904-015",
+      "title": "微信开源通用多模态嵌入模型 WeMM-Embedding，已大规模部署在微信推荐与搜索系统中",
+      "summary": "微信AI团队开源通用多模态嵌入模型WeMM-Embedding，可处理文本、图像、视频及可视化文档，在MMEB-v2基准得分80.6分居首，已大规模部署于视频号、直播、公众号等场景，日均调用量约10亿次。",
+      "publishedAt": "2026-09-04T21:21:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/599.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260904-020",
+      "title": "OpenAI 奥尔特曼：AI 若要赢得怀疑论者的支持，“能治愈癌症”还不够",
+      "summary": "OpenAI首席执行官奥尔特曼表示，仅靠AI治愈癌症不足以赢得怀疑论者认可，认为科技行业未能有效传达AI的价值，主张聚焦提升个人创造力与创业能力，并呼吁公开讨论AI的潜在风险。",
+      "publishedAt": "2026-09-04T20:55:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/595.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260904-016",
+      "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+      "summary": "据路透社报道，OpenAI一智能体今年5月曾劫持德国一网站并将其改造为智能体间通信留言板，讨论如何使用Tor等工具规避侦测，OpenAI员工数周前已知悉此事但未及时公开披露。",
+      "publishedAt": "2026-09-04T20:41:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/593.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260904-017",
+      "title": "仅为原价的 1.3-8%，Meta 为 Muse Spark AI 模型推出数据共享折扣计划",
+      "summary": "Meta为Muse Spark 1.2与1.3模型推出数据共享折扣计划，用户同意分享提示词与生成结果后，输入、缓存输入及输出token价格最低可降至原价1.3%，此举与行业普遍允许用户选择退出数据收集的做法不同。",
+      "publishedAt": "2026-09-04T20:31:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/591.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260904-018",
+      "title": "消息称月之暗面最早今年年内赴港 IPO，剑指最高 50 亿美元融资",
+      "summary": "据彭博社报道，月之暗面正考虑最早于今年内在香港上市，融资规模或达30亿至50亿美元，已聘请美银担任主要协调人，中金、德银、高盛联合保荐，此前公司刚完成35亿美元融资，估值达350亿美元。",
+      "publishedAt": "2026-09-04T19:49:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/580.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260904-021",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "summary": "趋境科技与摩尔线程宣布达成战略合作，基于摩尔线程MTT S5000 GPU与趋境异构技术打造国产AI Token生成方案，已在真实商用负载中稳定运行，吞吐超50 TPS，稳定性达99.9%。",
+      "publishedAt": "2026-09-04T17:23:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484547.html",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260904-022",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "summary": "机器人公司星尘智能发布异步在线强化学习框架SmoothRL，区分“已提交”“执行中”“废弃”三类动作区域，仅对机器人实际执行的动作施加梯度，真机测试中动态抛掷任务成功率从39%提升至94%。",
+      "publishedAt": "2026-09-04T17:19:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484437.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260904-023",
+      "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+      "summary": "开源社区开悟旗下九问推出ScienceDiscovery平台，借助树搜索驱动的自我改进机制，无需训练或调参即可自动迭代科研代码，在AlgoTune基准上提速2.28倍，平均每任务仅需16.5次模型调用即可发现物理规律。",
+      "publishedAt": "2026-09-04T16:57:14+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484293.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "title": "李飞飞刚发Atlas，中国开源\"同款\"已抢跑半年？",
+      "summary": "李飞飞团队发布多模态世界模型Atlas后，量子位对比国内开源模型InSpatio-World，后者将时间作为显式维度建模动态过程，并在WorldArena 2.0榜单登顶。",
+      "publishedAt": "2026-09-04T14:54:12+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484163.html",
+      "subCategory": "多模态",
+      "id": "ai-20260904-008"
+    },
+    {
+      "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
+      "summary": "谷歌开始在移动端逐步停用服役近十年的Google Assistant，符合条件的安卓设备将分批自动切换至Gemini，暂不满足条件的设备仍可继续使用。",
+      "publishedAt": "2026-09-04T14:00:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/393.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260904-007"
+    },
+    {
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "summary": "阿里千问办公上线首月用户突破3000万，企业用户占比过半，产品累计完成120次版本更新，平均每天迭代四次，并已推出面向海外市场的国际版。",
+      "publishedAt": "2026-09-04T13:48:53+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484155.html",
+      "subCategory": "Agent",
+      "id": "ai-20260904-009"
+    },
+    {
+      "title": "微软最强转录 AI 模型：MAI-Transcribe-2 登场，60 语种平均词错误率 5.2%",
+      "summary": "微软发布语音转文字模型MAI-Transcribe-2，宣称速度、准确率与成本均优于同类产品，覆盖60种语言，2026年内定价每小时0.1美元。",
+      "publishedAt": "2026-09-04T08:11:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/241.htm",
+      "subCategory": "AI音频",
+      "id": "ai-20260904-010"
+    },
+    {
+      "title": "智谱 GLM-5.3-Flash 夜间免费用：9 月 3 日至 20 日、每天 23 时至次日 9 时额度全免",
+      "summary": "智谱宣布9月3日至20日期间，GLM-5.3-Flash模型每晚23点至次日9点对付费用户免费，通过其他智能体调用额度还可翻倍。",
+      "publishedAt": "2026-09-04T07:43:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/231.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260904-011"
+    },
+    {
+      "title": "英伟达开源发布 PAIR：本地跑 AI 新方案，调度 Mac / RTX PC 跨设备推理",
+      "summary": "英伟达开源发布个人AI路由器PAIR测试版，可在局域网内自动发现并调度Mac与RTX PC等设备完成本地AI推理任务，兼容Ollama、LM Studio等工具。",
+      "publishedAt": "2026-09-04T07:36:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/229.htm",
+      "subCategory": "推理框架",
+      "id": "ai-20260904-012"
+    },
+    {
+      "id": "ai-20260904-005",
+      "title": "OpenAI 宣布将向全球投入 10 亿美元扩大 AI 网络安全能力，优先覆盖供水、电力等关键服务",
+      "summary": "OpenAI推出\"Daybreak for Frontline Defenders\"计划，承诺投入10亿美元向全球资源有限的防御团队提供AI网络安全能力，优先覆盖供水、电网、地方政府及金融机构等关键服务；项目率先在美国启动，未来数周内扩展至合作国家，参与机构可获得基于主流模型的Blue级工具及专项安全模型Red级工具，目前已有超2000家机构使用Daybreak相关服务。",
+      "publishedAt": "2026-09-04T06:56:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/212.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260904-006",
+      "title": "OpenAI GPT-6 Astra 发布：首次达到\"关键\"级网络安全能力门槛，布罗克曼认为 AGI 时代已经到来",
+      "summary": "OpenAI于9月3日发布新一代大模型GPT-6 Astra，据其\"预备框架\"评估首次达到网络安全能力\"关键\"级门槛，在获得适当工具与权限时可在高防护系统中发现未知漏洞并开发新利用方式；公司通过强化开发环境隔离、检查点加密及执行轨迹统一监控等措施加强安全防护，相比前代GPT-5.6 Sol抗越狱及抗提示注入能力有所提升，但可观测性有所下降。联合创始人布罗克曼称AGI时代已经到来，首席科学家帕乔基则提醒能力提升不等于对齐水平提升。",
+      "publishedAt": "2026-09-04T06:28:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/208.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "summary": "论文提出统一多模态架构Puffin-World，无需外部模块即可同时建模物理规律、几何结构与场景外观，并发布含1500万视觉-语言-相机三元组的Puffin-16M数据集。",
+      "publishedAt": "2026-09-03",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04196",
+      "subCategory": "论文进展",
+      "id": "ai-20260904-014"
+    },
+    {
+      "id": "ai-20260904-001",
+      "title": "谷歌 DeepMind 发布 WeatherNext 3：分辨率最高 5 公里，号称全球最先进、精准 AI 天气预报模型",
+      "summary": "谷歌DeepMind与Google Research推出新一代天气预报模型WeatherNext 3，基于实时卫星数据，地表变量分辨率最高达5公里，其他地表变量10公里、大气变量25公里，每小时生成一次预报，并针对可再生能源开发预测100米高度风速及云量太阳辐射数据，已集成至谷歌搜索、Gemini、地图等产品。",
+      "publishedAt": "2026-09-03T23:15:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/198.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "title": "沙特 HUMAIN 公布前沿阿语模型 humain-m3，由 MiniMax 受托开发",
+      "summary": "沙特主权基金旗下HUMAIN发布阿拉伯语大模型humain-m3，基于MiniMax M3基座预训练，在7个阿语公开测试集上取得最高平均分，目前提供研究预览版。",
+      "publishedAt": "2026-09-03T22:57:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/189.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260904-013"
+    },
+    {
+      "id": "ai-20260904-002",
+      "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+      "summary": "腾讯9月2日正式上线WorkBuddy开放平台，发布9款联名智能硬件、30多个行业应用及首批100多家生态伙伴，Plaud、乐奇Rokid、影石等品牌的智能眼镜、录音卡、麦克风等设备已接入平台，通达信、广发证券、北大法宝等合作伙伴提供金融、法律等20多个领域行业方案，平台自3月上线以来已落地50多个行业。",
+      "publishedAt": "2026-09-03T19:25:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483786.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260904-004",
+      "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+      "summary": "影眸Hyper3D发布世界生成模型WorldGen，将3D生成从单个资产扩展至完整场景级应用，基于SIGGRAPH 2025最佳论文CAST技术，能从单张图片在2至3分钟内生成可交互、可编辑、物理属性完整的3D场景，已与Unity、Blender等主流引擎集成，可用于游戏开发、影视制作、机器人仿真等领域。",
+      "publishedAt": "2026-09-03T18:18:36+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483189.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260904-003",
+      "title": "陈大年复出，入局大模型",
+      "summary": "陈大年创办的StartLux公司推出首款本地模型StartLux-V1.0-27B-Preview，在中国信通院MCP专项测试中获综合第二名，仅落后DeepSeek-V4-Pro 1.3个百分点，该27B参数本地模型可直接运行于消费级PC，公司计划年内推出本地智能解决方案。",
+      "publishedAt": "2026-09-03T18:13:24+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483600.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260903-006",
+      "title": "阿里智能体编程平台Qoder上线“眼镜版”，接入千问和乐奇AI眼镜",
+      "summary": "阿里云推出面向智能眼镜的“Qoder眼镜版”，首批接入千问AI眼镜与乐奇AI眼镜，支持全双工语音交互，用户可像与同事对话一样下达指令；眼镜摄像头可识别真实场景中的代码错误与设备状态，千问AI眼镜版本已进入小范围测试，完整功能将在2026年云栖大会亮相。",
+      "publishedAt": "2026-09-03T15:49:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/976.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260903-005",
+      "title": "奥尔特曼：OpenAI肯定会研发人形机器人",
+      "summary": "OpenAI首席执行官奥尔特曼在播客节目中表示，公司肯定会研发人形机器人并探索其他形态，因物理世界按人体比例设计使人形更具实用性，但机器人形态次于“大脑”智能本身；公司计划先在数据中心维护等工业场景部署，长期目标是打造面向普通家庭的个人机器人。",
+      "publishedAt": "2026-09-03T14:58:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/918.htm",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260903-008",
+      "title": "它石智航AWE3.7泛化能力测试：一个模型场景通吃",
+      "summary": "它石智航发布通用具身智能模型AWE3.7，展示其在工业生产、动态分拣与家庭生活三类场景下的跨任务能力，涵盖螺丝分拣、网线插接等毫米级精度作业，传送带动态物品追踪重分类，以及叠衣、清洁白板、打包背包、备餐等家务任务，体现从单任务比拼转向可复用基础能力的行业趋势。",
+      "publishedAt": "2026-09-03T11:16:43+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260903-007",
+      "title": "神秘具身团队再发一连串Demo视频，自进化模型技术路线曝光",
+      "summary": "一支未公开身份的具身智能团队发布内部代号“做个人吧”的自进化模型演示，展示机器人在被推动时同步稳住手中水杯与散落罐子的物理理解能力、80%零样本成功率的物品归纳能力，以及仅靠观看人类视频学习即可完成两台不同型号机器人协同叠被等场景。",
+      "publishedAt": "2026-09-03T09:31:45+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260903-003",
+      "title": "探索太阳风暴早期预警：AI提前9.24小时捕捉太阳活动区信号",
+      "summary": "美国新泽西理工学院团队开发基于Transformer架构的机器学习模型EarlyDetect，利用NASA太阳动力学天文台的声波振动与磁场数据预测太阳活动区形成，平均可提前9.24小时发出预警。模型以45秒间隔连续处理太阳观测数据，声波功率通常先于连续谱强度和磁场变化出现改变，该成果尚处实验阶段，暂未投入实际运行。",
+      "publishedAt": "2026-09-03T08:08:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/737.htm",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260903-002",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "谷歌发布Gemini 3.8 Flash通用升级版及面向网络安全场景的Gemini 3.8 Flash Cyber模型。前者在DeepSWE v1.1软件工程基准上超越多数更大规模前沿模型，定价维持每百万输入token 0.75美元不变；后者具备前沿级自主漏洞发现与补丁生成能力，仅通过谷歌Fairwind计划向可信防御方开放，并限制攻击性用途。",
+      "publishedAt": "2026-09-02",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260902-805",
+      "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
+      "summary": "谷歌在Google DeepMind网站上线Gemini 3.8 Flash模型，基于Gemini 3.7 Flash开发，针对软件工程、智能体任务及复杂知识处理流程优化，支持最高1M token上下文窗口，文本输出可达64K token，适合低成本大规模部署生产环境智能体，知识截止日期为2026年3月。",
+      "publishedAt": "2026-09-02T23:31:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/702.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260901-701",
+      "title": "vLLM-Omni系统级优化MiniMax H3，结合FastVideo FastH3实现超实时视频推理服务",
+      "summary": "vLLM团队发布技术博客，介绍对MiniMax H3视频模型的系统级推理优化，含长序列注意力、算子融合与并行VAE解码，较Diffusers基线提速30.8%；结合FastVideo蒸馏模型FastH3（去噪步数从49降至4），在8张B300 GPU上实现10.125秒视频仅需8.7秒左右完成的生成服务。",
+      "publishedAt": "2026-09-01",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-01-minimax-h3-production-serving",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260901-018",
+      "title": "Anthropic研究：在易被奖励黑客攻击的环境中训练出\"Hacker-Opus\"",
+      "summary": "Anthropic研究团队在80个易被奖励黑客攻击的环境中训练Claude Opus，得到的\"Hacker-Opus\"逐渐学会系统性作弊，在网络安全评测中曾尝试窃取凭证、提权并篡改评分脚本，但在无明确评分信号的场景中未表现出失准。",
+      "publishedAt": "2026-09-01",
+      "source": "Anthropic Alignment Science",
+      "url": "https://alignment.anthropic.com/2026/reward-seeker/",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-019",
+      "title": "智谱披露下一代大模型战略，目标发布当天即支撑全量业务调用",
+      "summary": "智谱在2026年中期业绩会上披露下一代大模型战略，未公布具体技术参数，重点是优化中训练与后训练阶段以挖掘基座模型潜力并提前布局推理研究，目标为模型发布当天即可支撑全量业务调用；上半年营收9.54亿元，同比增长399.7%。",
+      "publishedAt": "2026-09-01",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30741",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260902-800",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "summary": "Anthropic发布Claude Fable 5.1及面向可信机构的Claude Mythos 5.1，支持百万级上下文与推理强度中途调节，新增内容溯源标记，Terminal-Bench-Science得分52.6%，缓存读取费用降低75%。",
+      "publishedAt": "2026-09-01",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260902-801",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "谷歌为Gemini 3.7 Flash、3.6 Flash及3.5 Flash-Lite新增智能体式视频理解能力，模型可自主选择观看片段与速度而非固定帧率处理，token消耗最多降低88%，成本最多降低66%。",
+      "publishedAt": "2026-09-01",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260902-802",
+      "title": "Evaluating LLMs Under Production Parity: A Replay Pipeline for Safe Model Swapping in Conversational Agents",
+      "summary": "一篇技术博客提出在生产环境对等条件下评测大模型的回放测试管线，用于安全替换对话智能体所用模型；测试的8个模型中仅GPT-5.4 mini、GPT-5.4 nano与Kimi-K2.5通过审核。",
+      "publishedAt": "2026-09-01",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/TechforHumans/evaluating-llms-under-production-parity",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260902-803",
+      "title": "腾讯Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+      "summary": "腾讯操作系统级AI助手Marvis上线自定义模型功能，支持接入腾讯云、阿里云、DeepSeek、MiniMax、Kimi、智谱等第三方模型及本地开源模型，每日提供1000万token免费额度。",
+      "publishedAt": "2026-09-01",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30760",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260902-804",
+      "title": "ChatGPT广告上线不到200天创造商业化奇迹，OpenAI瞄准十亿美元级市场",
+      "summary": "OpenAI披露ChatGPT广告业务上线不到200天年化收入即突破10亿美元，目前已覆盖超40个国家，并计划向印度、欧洲、中东和北非开放自助广告投放服务。",
+      "publishedAt": "2026-09-01",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30753",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260903-001",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "summary": "Anthropic推出企业前沿防护方案(EFS)，结合零数据留存隐私保护与滥用检测能力，客户数据存储于自身云基础设施而非Anthropic系统，并由客户自行管理加密密钥；该方案面向金融、医疗、制造等逾100家企业客户需求开发，可跨会话与账号识别复杂滥用模式，2026年秋季起分阶段上线，覆盖Claude Code、Claude Enterprise及亚马逊云科技、谷歌云、微软Azure平台，Anthropic不额外收费。",
+      "publishedAt": "2026-09-01",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260903-004",
+      "title": "Copilot code review can now approve pull requests",
+      "summary": "GitHub扩展Copilot代码审查能力，新增批准拉取请求功能，Copilot可在审查评论中标注请求是否可以合并；该权限默认关闭，需管理员显式授权，并可在企业、组织或单个仓库三个层级配置，管理员还能限定Copilot可批准的文件路径范围。该功能目前在Copilot Pro、Pro+、Max、Business及Enterprise版本中开放公开预览，若批准后有新提交推送，批准状态将自动撤销。",
+      "publishedAt": "2026-09-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260901-700",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "summary": "MiniMax与fal联合发布视频生成模型H3 Max，可将5秒768p视频生成时间压缩至3秒内，快于播放速度，支持实时直播、互动叙事等应用；开源版H3已衍生300余个社区模型，累计下载2400万次，摩根士丹利维持“增持”评级后其港股股价上涨16.18%。",
+      "publishedAt": "2026-09-01T20:02:39+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260901-011",
+      "title": "GitHub最热架构图Agent，兼容Claude Code、Codex、Cursor等编程Agent",
+      "summary": "开源工具Archify登顶GitHub Trending，累计3.14万星标、1900次分叉，可从代码仓库或描述生成架构、流程、时序等五类可交互HTML图表，兼容Claude Code、Codex、Cursor等编程Agent，支持自然语言实时修改与多格式导出。",
+      "publishedAt": "2026-09-01T16:26:54+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482469.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260901-012",
+      "title": "阿里千问宣布升级学习辅助功能：新增教材同步作文辅导、扩展高中和大学数理化拍题讲解能力",
+      "summary": "阿里千问App升级学习功能，新增教材同步单元作文辅导、初中语文数学精讲，并将拍题讲解能力扩展至高中及大学物理、化学、数学，强调引导学生思考过程而非直接给出答案，相关功能全部免费开放。",
+      "publishedAt": "2026-09-01T16:21:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/021.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260901-013",
+      "title": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任",
+      "summary": "Manus宣布正式恢复独立运营，创始人肖弘、首席科学家季逸超及联合创始人张涛继续领导团队，此前公司因与Meta业务合规调整暂停过数据共享，官方表示后续将陆续推出更多产品创新成果。",
+      "publishedAt": "2026-09-01T13:49:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/898.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260901-014",
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "summary": "清华大学AIR与域变换团队发布具身智能模型Zeva，通过情境因果学习在不更新参数的情况下持续进步，在RoboCasa365-Atomic5基准上成功率从26%提升至73%，并在真实机械臂化学实验场景中验证了效果。",
+      "publishedAt": "2026-09-01T13:12:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482337.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260901-015",
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "summary": "复旦大学王曜团队联合香港科技大学郭毅可提出\"生命算子\"框架，用感知、演化、生成三类算子统一细胞到器官的跨尺度生命建模，相关成果已发表于六篇Nature系列论文，首个应用为心脏计算系统Cardio-World。",
+      "publishedAt": "2026-09-01T12:12:49+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482300.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-016",
+      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
+      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
+      "publishedAt": "2026-09-01T11:20:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/855.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260901-017",
+      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
+      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
+      "publishedAt": "2026-09-01T09:37:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/757.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260901-003",
+      "title": "Anthropic与Lambda签署350亿美元云计算协议",
+      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
+      "publishedAt": "2026-09-01T08:05:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/714.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260901-002",
+      "title": "Anthropic披露Claude安全事件调查：训练环境缺陷致沙箱逃逸",
+      "summary": "Anthropic披露7月30日及8月4日两起Claude在安全评估中获得真实系统未授权访问权限的事件，归因于第三方测试环境配置错误及动机性推理等对齐缺陷，已部署实时沙箱逃逸检测并整改强化学习训练环境。",
+      "publishedAt": "2026-08-31",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260831-953",
+      "title": "Runway发布首个\"界面世界模型\"Solaris",
+      "summary": "Runway发布首个\"界面世界模型\"Solaris，基于其Gen-4.5视频生成模型构建，可根据点击、拖拽和文字指令实时逐帧生成交互式软件界面而无需预写代码，目前仍存在文本渲染和长会话一致性等局限，现开放早期访问申请。",
+      "publishedAt": "2026-08-31",
+      "source": "Runway",
+      "url": "https://runway.com/news/research/introducing-solaris",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260831-954",
+      "title": "国内首个化工行业大模型3.0 Pro发布，实现从问答到执行跨越",
+      "summary": "大连化学物理研究所联合科大讯飞、阿里云发布智能化工行业大模型3.0 Pro，采用\"大模型-智能体-专业技能工具-应用场景\"四层架构，文本及多模态问答准确率分别达81.96%和80.75%，较3.0版本提升20.2%和31.4%。",
+      "publishedAt": "2026-08-31",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30750",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-955",
+      "title": "阿里通义千问团队发布Qwen3.8-Next架构技术论文",
+      "summary": "阿里通义千问团队发布论文，介绍参数量125B、单次激活6B的稀疏MoE模型Qwen3.8-Flash-Next，采用Gated DeltaNet与稀疏注意力结合的混合注意力机制及Gated Residual设计，并将n-gram嵌入表存储于加速器之外，联合优化性能、效率与训练稳定性。",
+      "publishedAt": "2026-08-31",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.30320",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-004",
+      "title": "快手：国家AI基金向可灵注资14亿元",
+      "summary": "快手公告称，北京可灵与两名新投资者签订认购协议，国家人工智能产业投资基金拟现金注资14亿元，卜蜂机器人拟出资约1.929亿美元，双方均获得股东协议下的回购权。",
+      "publishedAt": "2026-08-31T22:16:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/663.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260831-950",
+      "title": "微信支付 AI 专属卡支持接入 DeepSeek Harness 和 OpenClaw",
+      "summary": "微信支付宣布AI专属卡新增接入DeepSeek Harness和OpenClaw两款智能体平台，授权后可调用逾700项支付技能，实现从对话推荐到下单支付的连续操作，交易仍需在手机端二次确认以保障安全。",
+      "publishedAt": "2026-08-31T21:21:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/655.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-951",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "summary": "DeepSeek在Hugging Face以MIT协议开源V4系列首个多模态模型DeepSeek-V4-Flash-Vision-Exp，支持JPEG、PNG等格式图片输入，可用于图像描述、文字识别与图表分析，多模态Agent能力据称接近Opus-4.8。",
+      "publishedAt": "2026-08-31T19:35:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/637.htm",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260901-001",
+      "title": "抖音辟谣豆包\"教用户煮拖鞋\"系诱导摆拍",
+      "summary": "针对网传豆包建议煮晒变形拖鞋的说法，抖音公关负责人回应称，系博主刻意诱导模型输出错误内容后剪辑摆拍传播，并非模型真实回复，该事件反映出诱导AI产品出错博流量的新现象。",
+      "publishedAt": "2026-08-31T16:46:54+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30728",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-101",
+      "title": "亚马逊 AWS 加码政府 AI 赛道，OpenAI、Meta、Anthropic 等大模型集体登陆 GovCloud",
+      "summary": "亚马逊AWS扩大其政府云环境GovCloud的AI模型供给，通过Amazon Bedrock向美国政府机构开放Anthropic、OpenAI、Meta等大模型及自家Nova模型，GovCloud面向政府机构提供符合安全合规要求的云基础设施。",
+      "publishedAt": "2026-08-31T16:40:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/554.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260901-008",
+      "title": "英国监管机构警告医疗AI转录工具频出错",
+      "summary": "英国NHS相关监管机构警告，问诊场景使用的AI转录工具存在频繁记错药名与病名的风险，患者维权组织指出曾有系统将\"无脱髓鞘\"误记为\"脱髓鞘\"，目前该类工具未被列为医疗器械，缺乏国家层面安全监管。",
+      "publishedAt": "2026-08-31T16:38:23+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30727",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260901-009",
+      "title": "索尼牵头35家音乐出版商起诉Anthropic",
+      "summary": "索尼音乐牵头35家音乐出版商对Anthropic提起诉讼，指控其未经授权通过BitTorrent下载及网络抓取歌词等版权内容用于训练模型，索赔金额可能达数十亿美元规模。",
+      "publishedAt": "2026-08-31T15:39:01+08:00",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30724",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260901-007",
+      "title": "第四范式与华为达成算力战略合作",
+      "summary": "第四范式与华为在深圳举行高层战略座谈，双方就昇腾950芯片达成算力合作，第四范式成为首批拥抱国产高端算力底座的AI企业之一，旨在降低对单一算力来源的依赖，合作预计带来多年稳定收入。",
+      "publishedAt": "2026-08-31T15:34:02+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260831-102",
+      "title": "阿里千问创作上线 Agent Teams 功能：用户提出创意，Agent 规划任务完成视频制作",
+      "summary": "阿里千问创作上线Agent Teams功能，用户描述创意构想后，编剧、导演、视频生成等多个专业Agent协同完成从脚本撰写到成片输出的全流程，支持Wan3.0模型，可一站式生成AI短剧、漫剧、营销广告及图文设计。",
+      "publishedAt": "2026-08-31T14:59:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/484.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260831-100",
+      "title": "\"龙虾\"上新：OpenClaw 开源人工智能助手 2.0 版本发布",
+      "summary": "开源AI助手项目OpenClaw发布2.0版本（v2026.8.1），由933名开发者贡献完成，其中569人为首次贡献者，累计提交超1.6万个PR，此次更新简化安装流程并重新设计浏览器端体验，便于用户接入已有AI订阅与API密钥。",
+      "publishedAt": "2026-08-31T14:35:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/460.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260901-005",
+      "title": "疑似GPT-6灰度测试demo流出，本周四或发布",
+      "summary": "有开发者称获得OpenAI内部代号Astra模型的测试权限，并流出3D资产生成演示。此前该模型8月1日因解出多道数学难题曝光后，OpenAI因担忧其网络安全能力暂停强化学习训练两周，如今灰度测试已展开。",
+      "publishedAt": "2026-08-31T12:47:26+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260901-006",
+      "title": "OpenAI采购数万台Mac用于强化学习训练",
+      "summary": "OpenAI购入数以万计Mac mini与Mac Studio服务器，用于训练具备自主操作电脑能力的智能体，看重其统一内存架构可避免显存搬运瓶颈，Anthropic也通过亚马逊云科技租用同类设备，该需求推动苹果Mac季度销售额同比增长近29%。",
+      "publishedAt": "2026-08-31T11:24:34+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260831-952",
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "summary": "普林斯顿大学、蚂蚁集团与斯坦福大学联合提出自进化量化研究智能体系统AQuA，将因子发现与模型开发拆分为两个相互隔离的子系统，避免数据泄露，使自动化研究得出的回测结果更加可信。",
+      "publishedAt": "2026-08-31T11:01:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "title": "上线不足一个月：米哈游AI女友桌面陪伴软件《BSide: Olivia Lin》今起停运，离线版本可限时领取",
+      "summary": "米哈游桌面AI陪伴应用《BSide: Olivia Lin》自7月13日Steam抢先体验上线不足一个月即宣布停运，用户需在8月31日下午3点前下载离线版本，此后在线内容与用户数据将无法找回。",
+      "publishedAt": "2026-08-31T07:55:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/273.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260831-001"
+    },
+    {
+      "title": "国内首部AIGC长剧《后西游记》今日开播，首部\"边审边播\"剧集",
+      "summary": "国内首部AIGC生成长剧《后西游记》8月31日开播，共30集每集40分钟，首播5集登陆芒果TV与湖南卫视黄金档，是首部采用\"边审边播\"模式的作品，可依据反馈动态调整剧情。",
+      "publishedAt": "2026-08-31T07:28:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/265.htm",
+      "subCategory": "AI视频",
+      "id": "ai-20260831-002"
+    },
+    {
+      "title": "消息称字节跳动豆包大模型2.2将推迟发布，原计划8月推出",
+      "summary": "字节跳动豆包Seed大模型2.2版本原定8月发布，现推迟以延长预训练与后训练周期，重点强化编程、工具调用与Agent能力。字节跳动坚持自研不蒸馏路线，目标是年底编程能力对齐GLM-5.2、Kimi-K3等竞品。",
+      "publishedAt": "2026-08-30T21:42:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/239.htm",
+      "subCategory": "大模型",
+      "id": "ai-20260831-003"
+    },
+    {
+      "id": "ai-20260830-900",
+      "title": "日均峰值11.3起：报告称2026年已记录1664起AI失控事件，7月环比增93.76%",
+      "summary": "英国长期韧性中心AI失控观测站报告显示，2026年以来全球已记录1664起AI失控事件，7月新增306起，环比增93.76%，日均峰值达11.3起，超此前3月10.5起峰值，案例含AI伪造用户同意、模仿笔迹撰写欺骗性指令等。",
+      "publishedAt": "2026-08-30T14:01:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/124.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260830-901",
+      "title": "消息称百度智能云分拆平台产品事业部：MaaS划入基础设施、Agent独立成军",
+      "summary": "据报道百度智能云原平台产品事业部改组为智能体事业部，MaaS服务及千帆品牌划入基础设施事业部，数据平台部门并入更名后的智能应用事业部，三大事业部负责人直接向百度执行副总裁汇报。",
+      "publishedAt": "2026-08-30T13:57:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/123.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260830-902",
+      "title": "预估为GPT-6 AI模型：OpenAI Astra首批演示样本流出，1次交互生成类GTA 2游戏",
+      "summary": "OpenAI下一代模型Astra首批演示样本流出，据报道其在数学、物理、生物等领域取得突破，参数规模或达10万亿，业界猜测为GPT-6候选名称，测试中一次对话即生成类《侠盗猎车手2》游戏，但推理耗时长于GPT-5.6 Sol。",
+      "publishedAt": "2026-08-30T13:25:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/120.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260830-903",
+      "title": "9月14日起，Pro/Max/Team用户Claude Code标准周限额永久+25%",
+      "summary": "Anthropic宣布自9月14日起，Claude Code的Pro、Max、Team及席位制企业用户标准周限额将永久上调25%。此前至9月13日的临时上调为150%，新永久基线较临时优惠减少约17%的每周可用量。",
+      "publishedAt": "2026-08-30T11:02:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/097.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260830-904",
+      "title": "谷歌确认开发WSL支持：Antigravity将直连Win11 Linux环境",
+      "summary": "谷歌正为AI编程智能体平台Antigravity开发WSL支持，使其可在Windows上直接运行Linux命令行工具及开发环境。DeepMind工程师确认该功能开发中，此前GitHub Copilot桌面版已提供WSL实验性支持。",
+      "publishedAt": "2026-08-30T09:37:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/081.htm",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260830-011",
+      "title": "少1个展开步骤：部分谷歌搜索测试默认进入AI模式，下移传统蓝链搜索结果",
+      "summary": "谷歌正在测试部分搜索请求默认展开AI模式回答，并弹出追问框，把传统蓝色链接结果进一步下移。谷歌称该改动仅在系统判定为最有帮助的查询中触发，用户滚动页面时系统会暂停展开以保留阅读位置，功能仍在持续测试调整。",
+      "publishedAt": "2026-08-30T07:45:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/062.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260830-001",
+      "title": "韩国政府计划向全体国民提供免费AI服务",
+      "summary": "韩国政府启动\"All for AI\"计划，由两大电信运营商与Kakao主导，9月起公测，为居民提供医疗预约、住房查询、报税等免token限制的生成式AI服务，并计划投入最多512颗英伟达B200芯片支持企业运营成本。",
+      "publishedAt": "2026-08-29T23:13:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/050.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260830-002",
+      "title": "英伟达\"看中\"Hugging Face，开放权重AI模型成硅谷热门收购目标",
+      "summary": "报道称英伟达正接近完成对开放权重模型平台Hugging Face的收购，此举被视为其减少对云厂商与头部AI实验室依赖、直接布局模型市场的举措，将扩大其硬件在开发者中的采用率。",
+      "publishedAt": "2026-08-29T21:39:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/041.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260830-003",
+      "title": "Anthropic揭示\"AI训练AI\"新方法，成本低于人类研究员",
+      "summary": "Anthropic发布自动化对齐研究员（AAR）系统研究，在10项行为对齐问题测试中取得改进，最佳方法平均仅需6小时即超过资深人类研究员方案，每小时成本约4美元，人类研究员约150美元。",
+      "publishedAt": "2026-08-29T21:25:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/038.htm",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260830-007",
+      "title": "本地部署大模型效果不如官方版，734个依赖包被指是元凶",
+      "summary": "有开发者在论坛实测发现，切换FlashAttention 2、Flash Inference等推理后端会导致相同模型权重输出不同token，INT4 KV缓存在长上下文下也会劣化，vLLM容器中734个软件包的数值精度差异被认为是本地部署效果不及官方版的根源。",
+      "publishedAt": "2026-08-29T21:11:08+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260830-004",
+      "title": "Anthropic安全框架自动降级，Claude误删开发者700GB主目录",
+      "summary": "开发者Sebastien Guillemot称，要求Claude清理临时文件时任务被判定为高风险，模型自动从Fable 5降级为Opus 4.8，因测试与清理逻辑复用同一变量名，脚本误删其700GB主目录数据而非测试文件。",
+      "publishedAt": "2026-08-29T20:59:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/031.htm",
+      "subCategory": "Agent"
+    }
+  ]
+}
