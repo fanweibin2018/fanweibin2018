@@ -384,15 +384,6 @@
       "subCategory": "芯片硬件"
     },
     {
-      "id": "tech-20260902-810",
-      "title": "Microsoft 365 outage drags on, but things are improving",
-      "summary": "微软365服务多日中断持续，故障源于核心身份验证配置错误，波及Exchange Online、SharePoint、Teams、Copilot等服务。微软自周一起修复，周一晚邮件收发逐步恢复，周二凌晨搜索改善，仍处于延长监测阶段。",
-      "publishedAt": "2026-09-01T08:23:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-      "subCategory": "云计算"
-    },
-    {
       "id": "tech-20260901-701",
       "title": "消息称SpaceX数据中心出现工程、稳定性问题，马斯克为此换掉多名建设团队高管",
       "summary": "据The Information报道，埃隆·马斯克近期调整了SpaceX数据中心建设团队，撤换多名负责该业务的高管，原因与旗下田纳西州、密西西比州数据中心持续出现的工程及稳定性问题有关，部分设施建成数月仍未配备备用冷却与供电系统，公司扩大数据中心规模的时间表因此更趋不确定。",
@@ -670,15 +661,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1147/1147733.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260831-957",
-      "title": "苹果向法院提交新证据，指控前员工窃取商业机密协助OpenAI研发硬件",
-      "summary": "苹果在诉前员工Chang Liu侵占商业机密案中提交新证据，指控其利用认证漏洞在离职后仍保留内部系统访问权限，并使用苹果机密电路原理图及仿冒工程应用为OpenAI硬件项目工作，苹果正申请初步禁令并要求加速证据开示。",
-      "publishedAt": "2026-08-31T17:13:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260901-005",
