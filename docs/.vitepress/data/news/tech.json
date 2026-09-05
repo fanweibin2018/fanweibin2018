@@ -3,8 +3,80 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-05T00:50:33+08:00",
+  "updatedAt": "2026-09-05T09:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260905-011",
+      "title": "神舟战神 S8 游戏本新增 16+500GB 存储配置：酷睿 i7-13620H + RTX 5060，首发价 8699 元",
+      "summary": "神舟通过京东自营店推出战神S8游戏本新配置，搭载酷睿i7-13620H处理器与RTX 5060显卡，16GB DDR5内存及500GB PCIe 4.0固态硬盘，15.6英寸165Hz屏幕，首发价8699元。",
+      "publishedAt": "2026-09-05T08:37:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/660.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-010",
+      "title": "全球首款上市的 Wi-Fi 8 消费级路由器：华硕 ROG Rapture GT-BN98 率先在加拿大开售，四频设计 + 双万兆网口、总吞吐量达 30Gbps",
+      "summary": "华硕推出全球首款正式上市的Wi-Fi 8消费级路由器ROG Rapture GT-BN98，已在加拿大开启预售，售价1299.99加元，采用四频设计与双万兆网口，总吞吐量达30Gbps，预计10月起陆续在全球上市。",
+      "publishedAt": "2026-09-05T08:20:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/655.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-009",
+      "title": "华硕无畏 14 新增 24+512GB 存储配置：酷睿 Ultra 5 325 处理器，6499 元",
+      "summary": "华硕推出无畏14笔记本新配置，搭载18A工艺的酷睿Ultra 5 325处理器（4性能核+4能效核），配24GB内存及512GB存储，14英寸2.5K屏支持30-144Hz可变刷新率，售价6499元，9月10日开售。",
+      "publishedAt": "2026-09-05T08:09:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/653.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-008",
+      "title": "传音 MegaBook T15 360 系列笔记本发布：搭触控屏支持手写笔、至高搭载酷睿 Ultra 9 185H 处理器",
+      "summary": "传音在IFA 2026发布MegaBook T15 360系列笔记本，标准版售价899欧元、Pro版1099欧元，均支持360度旋转触控屏与MPP 2.0手写笔，Pro版配备2560×1440 120Hz屏幕，预计今年四季度登陆欧洲市场。",
+      "publishedAt": "2026-09-05T07:48:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/646.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-007",
+      "title": "AMD 锐龙 5 7500 处理器曝光，6 核 12 线程规格与 7500F 看齐",
+      "summary": "据爆料者Roland Quandt消息，AMD计划为AM5平台推出锐龙5 7500处理器，6核12线程，基础频率3.7GHz，最高加速5.0GHz，总缓存38MB，热设计功耗65W，预测售价约230欧元，高于现有R5 7500F。",
+      "publishedAt": "2026-09-05T07:46:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/645.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260905-005",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "专为通用机器人训练采集真实遥操作数据的初创公司XDOF正洽谈由8VC领投、估值约12亿美元的B轮融资，公司年化营收已近5000万美元，并与加州大学伯克利分校合作发布迄今规模最大的机器人训练数据集ABC。",
+      "publishedAt": "2026-09-05T07:36:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260905-002",
+      "title": "消息称苹果首款折叠屏 iPhone 可能被命名为“iPhone Duo”",
+      "summary": "据外媒报道，苹果首款折叠屏iPhone内部代号为iPhone Ultra，但正式名称可能改为iPhone Duo，苹果历史上曾以Duo命名PowerBook Duo笔记本和MagSafe Duo充电器，最终名称将于发布会公布。",
+      "publishedAt": "2026-09-05T06:59:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/632.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-004",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "英国AI算力企业Nscale计划在9月IPO前融资35亿美元，其中15亿美元为可转债、20亿美元来自英伟达追加投资，公司已与Anthropic签下450亿美元合约，据已签客户租约预测营收约1030亿美元。",
+      "publishedAt": "2026-09-05T05:12:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "subCategory": "云计算"
+    },
     {
       "id": "tech-20260905-001",
       "title": "599元 安克发布10合1拓展坞：三屏异显 所有外设一台搞定",
@@ -13,33 +85,6 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1148/1148867.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260904-001",
-      "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
-      "summary": "英伟达宣布RTX Spark紧凑型Windows PC将于10月上市，搭载20核Grace CPU、最高128GB统一内存及RTX Blackwell GPU，算力达1 Petaflop，宏碁、联想等6家OEM厂商将推出相应产品；英伟达同时发布免费开源的Personal AI Router技术，用于在本地网络多台设备间智能分配AI推理任务。",
-      "publishedAt": "2026-09-04",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/202.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260904-035",
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "summary": "谷歌发布Chrome 152.0.7977.82/.83版本，修复一个正遭在野利用的V8引擎高危零日漏洞CVE-2026-85046，该漏洞为类型混淆缺陷，攻击者可构造恶意网页触发内存破坏并执行远程代码，此次更新还一并修复了11个其他漏洞。",
-      "publishedAt": "2026-09-04",
-      "source": "Bleeping Computer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260904-036",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "summary": "安全研究员Nightmare Eclipse披露CrowdStrike Falcon存在名为FalconFlank的零日提权漏洞，影响已完全更新的Windows 11 25H2及Windows Server 2025系统，攻击者可利用其宏文件威胁处置功能获取SYSTEM权限命令行，CrowdStrike建议客户暂时禁用相关宏处置策略。",
-      "publishedAt": "2026-09-04",
-      "source": "Bleeping Computer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260904-026",
@@ -114,6 +159,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260905-006",
+      "title": "US military disabled ad tracking on troops' devices following reports of targeted attacks",
+      "summary": "美国国防部已在陆海空军、海军陆战队及特种作战司令部的政府配发设备上关闭广告追踪功能，覆盖iPhone、安卓及Windows设备，旨在防止外国势力利用位置数据在中东等地针对美军人员发动定位攻击。",
+      "publishedAt": "2026-09-04T21:21:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+      "subCategory": "网络基础设施"
+    },
+    {
       "id": "tech-20260904-034",
       "title": "4699元起！三星Galaxy S26 FE开售：Exynos 2500、首发预装One UI 9",
       "summary": "三星Galaxy S26 FE正式开售，起售价约4699元，是S26系列首款预装One UI 9（基于Android 17）机型，可获七年系统更新。机身搭载3nm工艺Exynos 2500处理器、6.7英寸120Hz屏幕及4900mAh电池，支持45W有线快充，防护等级IP68。",
@@ -121,6 +175,15 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1148/1148853.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-003",
+      "title": "Feds launch investigation into Tesla's Cybercab deployment",
+      "summary": "美国国家公路交通安全管理局在特斯拉于奥斯汀街头投运无方向盘、无踏板的Cybercab数小时后即宣布立案调查，审查特斯拉自我认证该车符合联邦机动车安全标准所依据的流程与技术数据。",
+      "publishedAt": "2026-09-04T20:01:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "subCategory": "智能汽车"
     },
     {
       "title": "爱奇艺、网易云音乐、WPS 等多款软件适配小米 18 Fold，官方发文致谢",
@@ -312,6 +375,33 @@
       "subCategory": "智能汽车"
     },
     {
+      "id": "tech-20260904-001",
+      "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
+      "summary": "英伟达宣布RTX Spark紧凑型Windows PC将于10月上市，搭载20核Grace CPU、最高128GB统一内存及RTX Blackwell GPU，算力达1 Petaflop，宏碁、联想等6家OEM厂商将推出相应产品；英伟达同时发布免费开源的Personal AI Router技术，用于在本地网络多台设备间智能分配AI推理任务。",
+      "publishedAt": "2026-09-04",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/202.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260904-035",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "summary": "谷歌发布Chrome 152.0.7977.82/.83版本，修复一个正遭在野利用的V8引擎高危零日漏洞CVE-2026-85046，该漏洞为类型混淆缺陷，攻击者可构造恶意网页触发内存破坏并执行远程代码，此次更新还一并修复了11个其他漏洞。",
+      "publishedAt": "2026-09-04",
+      "source": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260904-036",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "summary": "安全研究员Nightmare Eclipse披露CrowdStrike Falcon存在名为FalconFlank的零日提权漏洞，影响已完全更新的Windows 11 25H2及Windows Server 2025系统，攻击者可利用其宏文件威胁处置功能获取SYSTEM权限命令行，CrowdStrike建议客户暂时禁用相关宏处置策略。",
+      "publishedAt": "2026-09-04",
+      "source": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260904-003",
       "title": "徕卡发布 Summicron-M 66mm f/2 镜头：1.09 万美元，全球限量 660 枚",
       "summary": "徕卡发布Summicron-M 66mm f/2镜头，为20世纪60年代Elcan 66mm f/2经典镜头复刻版，全球限量660枚，售价1.09万美元；原版Elcan镜头为美国海军设计，仅生产200枚。新镜头采用5组6片光学结构，光圈范围f/2至f/16，配9片光圈叶片，重456克，光圈环旋转方向与标准M口镜头相反。",
@@ -402,15 +492,6 @@
       "subCategory": "航空航天"
     },
     {
-      "id": "tech-20260903-004",
-      "title": "GitHub企业级托管设置支持自定义任意默认模型",
-      "summary": "GitHub扩展企业级托管设置功能，管理员现可为GitHub Copilot新对话按团队指定任意默认模型，通过在team-mappings.json配置文件中将model字段设为overridable实现，不同团队可选择各自偏好的默认模型，其余用户则沿用企业默认设置。该功能已在Copilot Business与Enterprise版本的GitHub Copilot应用、Copilot CLI及Visual Studio Code中正式可用。",
-      "publishedAt": "2026-09-02",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "subCategory": "开发者工具"
-    },
-    {
       "id": "tech-20260902-812",
       "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
       "summary": "安全研究组织发现黑客在暗网平台Nexus上出售超过1.53亿份美国驾驶证扫描件，泄露数据还包括逾千万份身份证件、300万份旅行证件及57.9万张医疗卡，其中美国国防部部长的驾照也在其中，源头疑与身份验证公司IDScan.net相关，FBI已展开调查。",
@@ -481,6 +562,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/188.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260903-004",
+      "title": "GitHub企业级托管设置支持自定义任意默认模型",
+      "summary": "GitHub扩展企业级托管设置功能，管理员现可为GitHub Copilot新对话按团队指定任意默认模型，通过在team-mappings.json配置文件中将model字段设为overridable实现，不同团队可选择各自偏好的默认模型，其余用户则沿用企业默认设置。该功能已在Copilot Business与Enterprise版本的GitHub Copilot应用、Copilot CLI及Visual Studio Code中正式可用。",
+      "publishedAt": "2026-09-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260901-700",
@@ -634,96 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/028.htm",
       "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260901-014",
-      "title": "腾讯张军：在职老师和高校大学生完成身份认证，可领取 WorkBuddy 1000 开学专属积分",
-      "summary": "腾讯公关总监张军宣布，全国普通高校在读大学生及通过\"中国教师\"小程序认证的在职教师完成身份认证后，可领取腾讯云桌面智能体工具 WorkBuddy 1000 点开学专属积分，该工具可用自然语言指令处理文件、生成文档等。",
-      "publishedAt": "2026-09-01T16:33:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/027.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260901-015",
-      "title": "知情人士回应抖音突发算法推荐错乱：原因为服务器异常",
-      "summary": "9月1日抖音出现推荐内容与用户偏好不符、相同视频反复出现、播放卡顿加载报错等异常，知情人士回应称原因系平台服务器异常，客服称已收到大量反馈并称为\"系统优化\"所致，未给出具体恢复时间。",
-      "publishedAt": "2026-09-01T16:30:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/025.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260901-016",
-      "title": "汉王 Clear6 Pro 二代黑白墨水屏电纸书将于 9 月 9 日上市：全贴合纯平设计、搭载 3000mAh 电池",
-      "summary": "汉王发布 Clear6 Pro 二代黑白墨水屏电纸书，9月9日上市，采用超薄全贴合纯平设计，提供三种配色，配备6英寸300PPI屏幕、冷暖双色前光及3000mAh电池，是2024年6月上市初代的升级款。",
-      "publishedAt": "2026-09-01T16:28:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/024.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260901-017",
-      "title": "LG gram Book AI 2026 笔记本海外发布：gram 系列首款 14 英寸机型，英特尔 WCL 平台",
-      "summary": "LG在韩国发布gram Book AI 2026笔记本，为gram系列首款14英寸机型，搭载英特尔Wildcat Lake平台与2026款酷睿处理器，机身重1.29kg、厚14.9mm，配61.2Wh电池续航达30.5小时，9月7日发售，约合人民币7089元。",
-      "publishedAt": "2026-09-01T16:25:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/022.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260901-018",
-      "title": "中国电信旗下天翼云盘：9 月 27 日起调整数据迁移规则，迁移至新号码将回收原号码福利空间",
-      "summary": "中国电信天翼云盘宣布自9月27日起调整号码迁移规则，用户数据迁移至新号码后原号码福利空间将被回收，新号码需已注册、90天内未迁移过数据且总空间不低于原号码，迁移后原分享链接将失效。",
-      "publishedAt": "2026-09-01T16:15:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/019.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260901-019",
-      "title": "日企 Newtech 推出 Ness4300 四盘位 NAS，搭载专有 RAID 控制器",
-      "summary": "日本企业Newtech发布四盘位NAS设备Ness4300，配3.5英寸SATA硬盘位及240GB M.2 PCIe NVMe固态盘运行Windows Server IoT 2025，搭载名为Condor的专有硬件RAID控制器以降低处理器负载，标配奔腾金牌G7400处理器，可选至强E-2436。",
-      "publishedAt": "2026-09-01T16:08:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/017.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260901-020",
-      "title": "英伟达 GPU 帧插值支持并入 FFmpeg，用户可使用帧生成提高视频帧率",
-      "summary": "开源项目FFmpeg通过Vulkan API集成英伟达GPU帧插值功能，可利用RTX 30/40/50系列显卡光流加速器预测生成中间帧，实现如30FPS转60FPS效果，Vulkan方案消除了此前阻碍该功能并入开源项目的专有软件依赖。",
-      "publishedAt": "2026-09-01T16:07:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/015.htm",
-      "subCategory": "开源生态"
-    },
-    {
-      "id": "tech-20260901-021",
-      "title": "很少用快充，一辆特斯拉 Model Y 三年跑 18 万公里后电池衰减 23%",
-      "summary": "一名YouTube博主购入行驶超18万公里的二手特斯拉Model Y，发现其电池容量三年内衰减约23%，此前充电多来自交流慢充及动能回收而非超充。研究称快充未产生预期负面影响，前车主每日超百英里通勤及沙漠高温或为主因。",
-      "publishedAt": "2026-09-01T16:05:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/013.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260901-022",
-      "title": "微软首次细化 Linux 版 Edge 浏览器支持的发行版，比谷歌 Chrome 晚约 7 年",
-      "summary": "微软更新文档首次明确列出经测试验证支持Edge浏览器的Linux发行版，包括Ubuntu 18.04、Debian 10、openSUSE 15.5及Fedora Linux 39及以上版本，距谷歌2019年8月公布Chrome的Linux支持列表已晚约七年。",
-      "publishedAt": "2026-09-01T15:53:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/992.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260901-023",
-      "title": "消息称英伟达重启推理预填充优化芯片 Rubin CPX 项目，设计大幅调整",
-      "summary": "据分析师郭明錤消息，英伟达重启代号\"Rubin CPX\"的AI推理预填充加速芯片项目并大幅调整设计，新版算力接近标准Rubin GPU，配备168GB HBM4显存（原为128GB GDDR7），预计2027年一季度量产，建议与标准Rubin按1:1搭配部署。",
-      "publishedAt": "2026-09-01T09:42:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/759.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }

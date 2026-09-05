@@ -3,8 +3,53 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-05T00:50:33+08:00",
+  "updatedAt": "2026-09-05T09:00:00+08:00",
   "items": [
+    {
+      "id": "industry-20260905-001",
+      "title": "Semicon Taiwan 2026：荷兰厂商ITEC推出新型固晶架构，称产能提升至三倍",
+      "summary": "据DIGITIMES报道，荷兰设备商ITEC在Semicon Taiwan展会上展示新型固晶(die-bonding)架构，称通过消除芯片贴装中的空跑回程动作，将产能提升至此前设计的三倍。文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-05T07:58:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260904VL220/dutch-wafer-packaging-photonics-semicon-taiwan.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260905-002",
+      "title": "台湾半导体产业产值目标看向新台币8兆元",
+      "summary": "据DIGITIMES报道，在台北南港举行的Semicon Taiwan展会期间，台湾经济部援引多家研究机构预测，台湾半导体产业年产值有望达到新台币8兆元规模。文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-05T07:57:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260904PD237/taiwan-semiconductors-equipment-development-moea-taipei.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260905-003",
+      "title": "硅光及光学镜头需求点燃激光设备竞赛",
+      "summary": "据DIGITIMES报道，硅光子(SiPh)成为2026年台湾国际半导体展的核心议题之一，尽管该领域仍处于早期快速增长阶段，相关产线投资已经启动。文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-05T07:54:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260904PD221/laser-siph-photonics-demand-taiwan.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260905-004",
+      "title": "港交所前8个月IPO集资额同比增153%",
+      "summary": "港交所数据显示，2026年前8个月港股IPO集资额达3424亿元，同比增长153%；总集资额6513亿元，增长76%；新上市公司106家，同比增长80%，日均成交额2825亿元。",
+      "publishedAt": "2026-09-04T22:01:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690673.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260905-005",
+      "title": "翻倍式涨价不存在 内存、闪存下半年涨速崩盘：但先别太高兴",
+      "summary": "报道称内存闪存价格涨幅从一季度近翻倍、二季度50%-60%，收窄至三季度预计10%-20%、四季度不足10%；但绝对价格仍处高位，三星、SK海力士、美光长约已锁定价格至2028年。",
+      "publishedAt": "2026-09-04T18:28:00+08:00",
+      "source": "快科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-04/doc-iniqskus1164680.shtml",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260904-011",
       "title": "TSMC urges HBM makers to design for X-ray inspection as packaging grows more complex",
@@ -87,15 +132,6 @@
       "subCategory": "公司动态"
     },
     {
-      "title": "Omdia：2026年Q2印度iPhone出货量345万部，跃居全球第四",
-      "summary": "Omdia报告显示，2026年第二季度印度iPhone出货量达345万部，占苹果全球出货量6.25%，成为仅次于美国、中国、日本的全球第四大iPhone市场，当地智能手机市场份额达10%。",
-      "publishedAt": "2026-09-03",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1849664.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260904-010"
-    },
-    {
       "id": "industry-20260903-003",
       "title": "乘联分会：初步统计8月全国乘用车市场零售162.6万辆，同比下降19%，新能源渗透率65.7%",
       "summary": "中国乘用车市场信息联席会初步统计，8月全国乘用车市场零售162.6万辆，同比下降19%，批发236.9万辆同比降5%；今年累计零售1179.9万辆同比降20%，新能源零售106.9万辆同比降4%，新能源渗透率65.7%，市场处于底部蓄力修复阶段。",
@@ -159,6 +195,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "title": "Omdia：2026年Q2印度iPhone出货量345万部，跃居全球第四",
+      "summary": "Omdia报告显示，2026年第二季度印度iPhone出货量达345万部，占苹果全球出货量6.25%，成为仅次于美国、中国、日本的全球第四大iPhone市场，当地智能手机市场份额达10%。",
+      "publishedAt": "2026-09-03",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1849664.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260904-010"
+    },
+    {
       "id": "industry-20260902-809",
       "title": "大众汽车重组计划曝光：\"激进\"而\"痛苦\"，4 家德国工厂、数万名员工或危在旦夕",
       "summary": "德国《经济周刊》披露大众汽车监事会147页内部文件，计划关闭德国境内埃姆登、茨维考、汉诺威及奥迪内卡苏尔姆四座工厂，2031年至2034年间陆续停产，涉及数万名员工，大众CEO奥博穆称无法确认这些工厂本世纪30年代具备竞争力，工会预计将强烈抵制。",
@@ -193,15 +238,6 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260902PD209/taiwan-2026-packaging-technology-fab.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260902-801",
-      "title": "蔚来：8月交付35836辆 同比增14.5%",
-      "summary": "蔚来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蔚来品牌21174辆、乐道8810辆、萤火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
-      "publishedAt": "2026-09-01",
-      "source": "GPLP",
-      "url": "https://www.gplp.cn/archives/156913",
-      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260902-806",
@@ -283,6 +319,51 @@
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/tech/roll/2026-09-01/doc-iniqhfqh4800964.shtml",
       "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260902-801",
+      "title": "蔚来：8月交付35836辆 同比增14.5%",
+      "summary": "蔚来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蔚来品牌21174辆、乐道8810辆、萤火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
+      "publishedAt": "2026-09-01",
+      "source": "GPLP",
+      "url": "https://www.gplp.cn/archives/156913",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260831-100",
+      "title": "SK集团会长崔泰源：SK海力士正考虑在日本建设合资企业事宜",
+      "summary": "SK集团会长崔泰源表示，SK海力士正考虑在日本建设合资企业，公司正在日本各地寻找电力与水资源充足的选址，另一种方案是收购日本小型企业，具体合作形式将视合作伙伴与产品而定。",
+      "publishedAt": "2026-08-31T16:24:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/552.htm",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260831-101",
+      "title": "洛图科技：2026年上半年中国笔记本电脑线上全渠道均价7120元，同比上涨8.2%",
+      "summary": "洛图科技数据显示，2026年上半年中国笔记本电脑线上市场销量557万台，同比下降12.1%，均价7120元，同比上涨8.2%，呈现量降价升态势，头部品牌集中度进一步提升。",
+      "publishedAt": "2026-08-31T15:58:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/538.htm",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260901-001",
+      "title": "Omdia：2026年Q2全球电视出货量同比增长3.6%，中国市场下降15.1%",
+      "summary": "Omdia数据显示，2026年第二季度全球电视出货量4880万台，同比增长3.6%，受世界杯及促销活动带动；中国市场因刺激政策退出下降15.1%，Mini LED占比升至13%。",
+      "publishedAt": "2026-08-31T10:11:00+08:00",
+      "source": "IT之家（Omdia）",
+      "url": "https://www.ithome.com/0/996/330.htm",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260831-701",
+      "title": "DIGITIMES周报：美国向韩国施压半导体投资、联发科拿下谷歌TPU订单、苹果发布2纳米M6芯片",
+      "summary": "DIGITIMES周报称，联发科凭借CPU/GPU/NPU整合能力及高速I/O、先进制程设计经验拿下谷歌TPU项目订单；苹果新款Mac mini搭载台积电2纳米制程M6芯片，被视为验证2纳米设计的过渡产品；美方对韩国半导体集群投资计划的落地进度表达不满。",
+      "publishedAt": "2026-08-31T09:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260831-700",
@@ -384,69 +465,6 @@
       "subCategory": "消费零售"
     },
     {
-      "id": "industry-20260831-100",
-      "title": "SK集团会长崔泰源：SK海力士正考虑在日本建设合资企业事宜",
-      "summary": "SK集团会长崔泰源表示，SK海力士正考虑在日本建设合资企业，公司正在日本各地寻找电力与水资源充足的选址，另一种方案是收购日本小型企业，具体合作形式将视合作伙伴与产品而定。",
-      "publishedAt": "2026-08-31T16:24:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/552.htm",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260831-101",
-      "title": "洛图科技：2026年上半年中国笔记本电脑线上全渠道均价7120元，同比上涨8.2%",
-      "summary": "洛图科技数据显示，2026年上半年中国笔记本电脑线上市场销量557万台，同比下降12.1%，均价7120元，同比上涨8.2%，呈现量降价升态势，头部品牌集中度进一步提升。",
-      "publishedAt": "2026-08-31T15:58:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/538.htm",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260901-001",
-      "title": "Omdia：2026年Q2全球电视出货量同比增长3.6%，中国市场下降15.1%",
-      "summary": "Omdia数据显示，2026年第二季度全球电视出货量4880万台，同比增长3.6%，受世界杯及促销活动带动；中国市场因刺激政策退出下降15.1%，Mini LED占比升至13%。",
-      "publishedAt": "2026-08-31T10:11:00+08:00",
-      "source": "IT之家（Omdia）",
-      "url": "https://www.ithome.com/0/996/330.htm",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260831-701",
-      "title": "DIGITIMES周报：美国向韩国施压半导体投资、联发科拿下谷歌TPU订单、苹果发布2纳米M6芯片",
-      "summary": "DIGITIMES周报称，联发科凭借CPU/GPU/NPU整合能力及高速I/O、先进制程设计经验拿下谷歌TPU项目订单；苹果新款Mac mini搭载台积电2纳米制程M6芯片，被视为验证2纳米设计的过渡产品；美方对韩国半导体集群投资计划的落地进度表达不满。",
-      "publishedAt": "2026-08-31T09:27:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%",
-      "summary": "IDC预测2026年全球智能手机出货量仅略高于10亿部，同比下降16.7%，较上季预测扩大2.8个百分点，创历史最大年度跌幅。NAND与DRAM采购成本同比上涨超300%，推高手机均价，抑制换机需求。",
-      "publishedAt": "2026-08-30",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1848437.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260831-010"
-    },
-    {
-      "title": "赛迪顾问：2025年中国分布式存储市场289.4亿元，同比增长46%",
-      "summary": "赛迪顾问报告显示，2025年中国分布式存储市场规模达289.4亿元，同比增长46%，较2022年累计增长177.8%。AI训练、自动驾驶、具身智能等场景正重塑存储市场格局，中科曙光在AI大模型、具身智能等四个细分领域排名第一。",
-      "publishedAt": "2026-08-30",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1848383.html",
-      "subCategory": "企业服务",
-      "id": "industry-20260831-011"
-    },
-    {
-      "id": "industry-20260830-950",
-      "title": "韩华投资证券：2026年上半年韩国国内建筑订单116万亿韩元，同比增长25.8%",
-      "summary": "韩华投资证券报告显示，2026年上半年韩国国内建筑订单达116万亿韩元，同比增长25.8%，创近三年新高，主要受三星、SK海力士半导体厂及数据中心建设需求拉动，非住宅类订单表现突出。",
-      "publishedAt": "2026-08-30",
-      "source": "199IT/韩华投资证券",
-      "url": "http://www.199it.com/archives/1848825.html",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260831-001",
       "title": "顺丰董事长王卫加入极免董事会，任非执行董事",
       "summary": "极免速递公告，顺丰控股董事长王卫获委任为公司非执行董事，任期至2028年底。今年1月顺丰与极免达成相互持股协议，6月完成认购交割，双方另订立综合物流服务框架协议。",
@@ -492,13 +510,31 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260829-900",
-      "title": "芯片通胀：AI的隐性成本",
-      "summary": "报道称，五大AI巨头今年基础设施投入预计超6500亿美元，摩根士丹利研究显示存储芯片价格一年内上涨近六倍，索尼、微软、联想等厂商已上调电脑和游戏主机售价，PC与智能手机2026年出货量预计明显下滑。",
-      "publishedAt": "2026-08-29",
+      "title": "IDC：预计2026年全年全球智能手机出货量仅略高于10亿部，同比下降16.7%",
+      "summary": "IDC预测2026年全球智能手机出货量仅略高于10亿部，同比下降16.7%，较上季预测扩大2.8个百分点，创历史最大年度跌幅。NAND与DRAM采购成本同比上涨超300%，推高手机均价，抑制换机需求。",
+      "publishedAt": "2026-08-30",
       "source": "199IT",
-      "url": "http://www.199it.com/archives/1848608.html",
-      "subCategory": "半导体产业"
+      "url": "http://www.199it.com/archives/1848437.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260831-010"
+    },
+    {
+      "title": "赛迪顾问：2025年中国分布式存储市场289.4亿元，同比增长46%",
+      "summary": "赛迪顾问报告显示，2025年中国分布式存储市场规模达289.4亿元，同比增长46%，较2022年累计增长177.8%。AI训练、自动驾驶、具身智能等场景正重塑存储市场格局，中科曙光在AI大模型、具身智能等四个细分领域排名第一。",
+      "publishedAt": "2026-08-30",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1848383.html",
+      "subCategory": "企业服务",
+      "id": "industry-20260831-011"
+    },
+    {
+      "id": "industry-20260830-950",
+      "title": "韩华投资证券：2026年上半年韩国国内建筑订单116万亿韩元，同比增长25.8%",
+      "summary": "韩华投资证券报告显示，2026年上半年韩国国内建筑订单达116万亿韩元，同比增长25.8%，创近三年新高，主要受三星、SK海力士半导体厂及数据中心建设需求拉动，非住宅类订单表现突出。",
+      "publishedAt": "2026-08-30",
+      "source": "199IT/韩华投资证券",
+      "url": "http://www.199it.com/archives/1848825.html",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260829-101",
@@ -528,85 +564,13 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260828-701",
-      "title": "正泰电器递表港交所",
-      "summary": "据港交所文件，浙江正泰电器股份有限公司8月28日向港交所提交上市申请，拟发行H股在港股主板上市，联席保荐人为中金公司、华泰国际及国泰海通国际，公司主营智能电气产品及绿色能源解决方案两大板块。",
-      "publishedAt": "2026-08-28",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15022829.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260828-003",
-      "title": "United Nations：2026年世界投资报告",
-      "summary": "联合国《2026年世界投资报告》显示，2025年全球外国直接投资同比增长6%至1.624万亿美元，扭转此前两年下滑趋势，主要由AI基础设施、数据中心、半导体及能源领域大型项目拉动，制造业投资则下降13%、可再生能源投资下降5%。",
-      "publishedAt": "2026-08-28",
-      "source": "199IT（联合国贸发会议）",
-      "url": "https://www.199it.com/archives/1839145.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "title": "ACEA：2026年前四个月新注册纯电动汽车占欧盟市场近20%的份额",
-      "summary": "ACEA数据显示，2026年前四个月纯电动汽车占欧盟新车注册量的19.7%，较去年同期15.3%明显提升，注册量达74.69万辆；插电混动占比9.6%，燃油车合计份额降至30.2%，意大利、法国、德国增速领先。",
-      "publishedAt": "2026-08-28",
+      "id": "industry-20260829-900",
+      "title": "芯片通胀：AI的隐性成本",
+      "summary": "报道称，五大AI巨头今年基础设施投入预计超6500亿美元，摩根士丹利研究显示存储芯片价格一年内上涨近六倍，索尼、微软、联想等厂商已上调电脑和游戏主机售价，PC与智能手机2026年出货量预计明显下滑。",
+      "publishedAt": "2026-08-29",
       "source": "199IT",
-      "url": "https://www.199it.com/archives/1832145.html",
-      "subCategory": "新能源汽车",
-      "id": "industry-20260828-509"
-    },
-    {
-      "title": "SK hynix launches Indiana chip packaging hub for first US-made HBM",
-      "summary": "SK海力士8月27日在美国印第安纳州普渡大学研究园为其首座美国高带宽内存封装厂举行奠基仪式，总投资超40亿美元，预计2028年10月完成洁净室建设，2029年第三季度实现HBM4E量产，全面投产后将创造约7000个直接及间接就业岗位。",
-      "publishedAt": "2026-08-28",
-      "source": "Korea Herald",
-      "url": "https://www.koreaherald.com/article/10854795",
-      "subCategory": "半导体产业",
-      "id": "industry-20260829-001"
-    },
-    {
-      "id": "industry-20260830-006",
-      "title": "中国灵巧手厂商崛起，三条技术路线角逐人形机器人赛道",
-      "summary": "报道称中国灵巧手研发企业加速崛起，机械式、腱驱动式与仿生式三条技术路线同台竞争，成为人形机器人产业链中关键的末端执行器细分赛道。",
-      "publishedAt": "2026-08-28",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260828PD206.html?chid=10",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260828-901",
-      "title": "TrendForce集邦咨询：英伟达AI机柜产品世代交替，预估2027年NVL72产值贡献可突破7100亿美元",
-      "summary": "TrendForce指出，GB300机柜为英伟达2026年出货主力，需求将延续至2027年上半年，届时VR200新一代机柜出货占比将成为主流；预估2027年NVL72系统产值贡献将突破7100亿美元，同比增长214%。",
-      "publishedAt": "2026-08-28",
-      "source": "TrendForce集邦咨询",
-      "url": "https://www.trendforce.cn/presscenter/news/20260828-13205.html",
+      "url": "http://www.199it.com/archives/1848608.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260828-902",
-      "title": "艾媒咨询：2026-2027年中国冷冻饮品行业发展现状与消费趋势调查分析报告",
-      "summary": "艾媒咨询报告显示，中国冷冻饮品行业2025年市场规模达1912亿元，同比增长4.19%，预计2030年增至2334亿元；消费者最偏爱雪糕冰淇淋(57.2%)，75.6%消费者愿尝试低糖健康概念产品，但仅能接受5%到20%的溢价。",
-      "publishedAt": "2026-08-28",
-      "source": "艾媒咨询",
-      "url": "https://www.iimedia.cn/c400/115374.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260901-003",
-      "title": "2026年世界杯将为零售、餐饮与体育场馆释放四大商业机遇",
-      "summary": "报告指出，2026年世界杯将从场馆周边客流、赛前预热、游客消费外溢及全国性商业联动四方面为零售、餐饮及体育场馆带来机遇，赛事期间超市、比萨及酒吧客流均明显上升。",
-      "publishedAt": "2026-08-28",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1839146.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260901-004",
-      "title": "SensorTower：2026年全球快餐应用和网络广告报告",
-      "summary": "SensorTower报告显示，全球快餐应用下载量及使用时长持续增长，2026年第一季度三明治与熟食类应用下载量接近翻倍；同期行业数字广告支出同比增长6%，达17亿美元。",
-      "publishedAt": "2026-08-28",
-      "source": "199IT（SensorTower）",
-      "url": "https://www.199it.com/archives/1827303.html",
-      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260828-700",
@@ -690,40 +654,76 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260827-153",
-      "title": "Malaysia's charging shortfall opens the door for Chinese hardware players",
-      "summary": "报告称东南亚电动车市场规模预计到2031年达235.8亿美元，2026至2031年复合增长率约31.55%；马来西亚充电基础设施建设进度落后于官方目标，缺口为中国充电设备厂商进入当地市场创造机会。",
-      "publishedAt": "2026-08-27T16:20:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD227/",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260827-152",
-      "title": "Commentary: YMTC's high-profile IPO masks three long-term hurdles",
-      "summary": "长江存储（YMTC）已启动科创板IPO程序，2026年第一季度营收约人民币470.42亿元。评论指出，尽管业绩亮眼、IPO备受关注，公司仍面临三项尚未化解的长期挑战。",
-      "publishedAt": "2026-08-27T15:45:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD225/",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260827-150",
-      "title": "Foxconn reportedly weighs major India expansion as global manufacturing footprint grows",
-      "summary": "鸿海据报正评估在印度进行较大规模产能扩张，作为其全球制造版图扩张策略的一部分；扩张动作与人工智能基础设施及电子制造需求增长相关，具体投资规模与时间表暂未披露。",
-      "publishedAt": "2026-08-27T12:12:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827VL216/",
+      "id": "industry-20260828-701",
+      "title": "正泰电器递表港交所",
+      "summary": "据港交所文件，浙江正泰电器股份有限公司8月28日向港交所提交上市申请，拟发行H股在港股主板上市，联席保荐人为中金公司、华泰国际及国泰海通国际，公司主营智能电气产品及绿色能源解决方案两大板块。",
+      "publishedAt": "2026-08-28",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15022829.html",
       "subCategory": "公司动态"
     },
     {
-      "id": "industry-20260827-151",
-      "title": "Nvidia H200 China sales stall, with US$400M inventory charge",
-      "summary": "英伟达在2027财年第二季度财报中披露，上季度已向中国客户少量出货H200 AI芯片，这是此前约6000万美元芯片出货后的最新恢复性销售；公司同时因H200中国相关库存计提约4亿美元减值费用。",
-      "publishedAt": "2026-08-27T11:46:00+08:00",
+      "id": "industry-20260828-003",
+      "title": "United Nations：2026年世界投资报告",
+      "summary": "联合国《2026年世界投资报告》显示，2025年全球外国直接投资同比增长6%至1.624万亿美元，扭转此前两年下滑趋势，主要由AI基础设施、数据中心、半导体及能源领域大型项目拉动，制造业投资则下降13%、可再生能源投资下降5%。",
+      "publishedAt": "2026-08-28",
+      "source": "199IT（联合国贸发会议）",
+      "url": "https://www.199it.com/archives/1839145.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "title": "ACEA：2026年前四个月新注册纯电动汽车占欧盟市场近20%的份额",
+      "summary": "ACEA数据显示，2026年前四个月纯电动汽车占欧盟新车注册量的19.7%，较去年同期15.3%明显提升，注册量达74.69万辆；插电混动占比9.6%，燃油车合计份额降至30.2%，意大利、法国、德国增速领先。",
+      "publishedAt": "2026-08-28",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1832145.html",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260828-509"
+    },
+    {
+      "title": "SK hynix launches Indiana chip packaging hub for first US-made HBM",
+      "summary": "SK海力士8月27日在美国印第安纳州普渡大学研究园为其首座美国高带宽内存封装厂举行奠基仪式，总投资超40亿美元，预计2028年10月完成洁净室建设，2029年第三季度实现HBM4E量产，全面投产后将创造约7000个直接及间接就业岗位。",
+      "publishedAt": "2026-08-28",
+      "source": "Korea Herald",
+      "url": "https://www.koreaherald.com/article/10854795",
+      "subCategory": "半导体产业",
+      "id": "industry-20260829-001"
+    },
+    {
+      "id": "industry-20260830-006",
+      "title": "中国灵巧手厂商崛起，三条技术路线角逐人形机器人赛道",
+      "summary": "报道称中国灵巧手研发企业加速崛起，机械式、腱驱动式与仿生式三条技术路线同台竞争，成为人形机器人产业链中关键的末端执行器细分赛道。",
+      "publishedAt": "2026-08-28",
       "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260827PD224/",
+      "url": "https://www.digitimes.com/news/a20260828PD206.html?chid=10",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260828-901",
+      "title": "TrendForce集邦咨询：英伟达AI机柜产品世代交替，预估2027年NVL72产值贡献可突破7100亿美元",
+      "summary": "TrendForce指出，GB300机柜为英伟达2026年出货主力，需求将延续至2027年上半年，届时VR200新一代机柜出货占比将成为主流；预估2027年NVL72系统产值贡献将突破7100亿美元，同比增长214%。",
+      "publishedAt": "2026-08-28",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260828-13205.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260828-902",
+      "title": "艾媒咨询：2026-2027年中国冷冻饮品行业发展现状与消费趋势调查分析报告",
+      "summary": "艾媒咨询报告显示，中国冷冻饮品行业2025年市场规模达1912亿元，同比增长4.19%，预计2030年增至2334亿元；消费者最偏爱雪糕冰淇淋(57.2%)，75.6%消费者愿尝试低糖健康概念产品，但仅能接受5%到20%的溢价。",
+      "publishedAt": "2026-08-28",
+      "source": "艾媒咨询",
+      "url": "https://www.iimedia.cn/c400/115374.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260901-003",
+      "title": "2026年世界杯将为零售、餐饮与体育场馆释放四大商业机遇",
+      "summary": "报告指出，2026年世界杯将从场馆周边客流、赛前预热、游客消费外溢及全国性商业联动四方面为零售、餐饮及体育场馆带来机遇，赛事期间超市、比萨及酒吧客流均明显上升。",
+      "publishedAt": "2026-08-28",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1839146.html",
+      "subCategory": "消费零售"
     }
   ]
 }

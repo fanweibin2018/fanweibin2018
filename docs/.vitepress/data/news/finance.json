@@ -3,34 +3,43 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-05T00:50:33+08:00",
+  "updatedAt": "2026-09-05T09:00:00+08:00",
   "items": [
     {
-      "title": "隔夜欧美·9月4日",
-      "summary": "9月4日隔夜，美股三大指数集体上涨超1%，道指报53686.11点，标普500报7747.71点，纳指报26584.06点；COMEX黄金涨2.39%，WTI原油小幅上涨。",
-      "publishedAt": "2026-09-04",
+      "id": "finance-20260905-007",
+      "title": "非农爆了！9月加息预期升温 特朗普喊话：降息！降息！美联储必须“聪明”起来",
+      "summary": "美国8月非农新增就业16.2万人，远超预期的5.6万人，市场对9月加息预期升温，美股三大指数收跌，道指跌0.51%，纳指跌0.29%；特朗普喊话美联储降息，称高利率使美国处于不公平竞争劣势。",
+      "publishedAt": "2026-09-05T07:52:00+08:00",
       "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202609043864491670.html",
-      "subCategory": "美股",
-      "id": "finance-20260904-008"
+      "url": "https://finance.eastmoney.com/a/202609053865951116.html",
+      "subCategory": "美股"
     },
     {
-      "title": "A股收评：创业板指冲高回落跌0.78%，先进封装、电子化学品、半导体等概念走弱",
-      "summary": "9月4日A股三大指数冲高回落，上证指数跌0.3%，深证成指跌0.79%，创业板指跌0.78%，两市成交额约2.03万亿元，猪肉、饲料等板块领涨，半导体、先进封装等概念走弱。",
-      "publishedAt": "2026-09-04",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15056123.html",
-      "subCategory": "A股",
-      "id": "finance-20260904-009"
+      "id": "finance-20260905-005",
+      "title": "需求回暖 8月大宗商品市场运行向好",
+      "summary": "中国物流与采购联合会发布数据，8月中国大宗商品价格指数为132.3点，环比上涨2.8%，同比上涨18.4%，50种监测商品中27种价格环比上涨，乙二醇、柴油、焦煤领涨。",
+      "publishedAt": "2026-09-05T07:32:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2474847",
+      "subCategory": "大宗商品"
     },
     {
-      "title": "港股終止四連跌 收市升437點",
-      "summary": "9月4日港股恒生指数收报25650点，升437点，终止四连跌，成交额2769亿港元；美团、百度涨约5%，阿里、腾讯涨2%，百威亚太涨4%。",
-      "publishedAt": "2026-09-04",
-      "source": "有線新聞",
-      "url": "https://www.i-cable.com/%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A/501038/%E6%B8%AF%E8%82%A1%E7%B5%82%E6%AD%A2%E5%9B%9B%E9%80%A3%E8%B7%8C-%E6%94%B6%E5%B8%82%E5%8D%87437%E9%BB%9E",
-      "subCategory": "港股",
-      "id": "finance-20260904-010"
+      "id": "finance-20260905-003",
+      "title": "保险法迎大修 险资运用范围扩容",
+      "summary": "金融监管总局9月4日就保险法修订草案公开征求意见，拟将险企最低注册资本提至10亿元，强化股东穿透监管，并扩大险资可投资的股权、资管产品等范围。",
+      "publishedAt": "2026-09-05T07:31:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4173445.html",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260905-008",
+      "title": "超6000次密集调研！财报季私募全力掘金 百亿机构调研方向曝光",
+      "summary": "私募排排网数据显示，8月财报季1072家私募机构合计调研6148次，覆盖599只个股、92个行业，环比增289.61%；半导体、医疗器械、通用设备居调研前三，炬光科技获105次调研居首。",
+      "publishedAt": "2026-09-05T07:28:00+08:00",
+      "source": "券商中国（东方财富网）",
+      "url": "https://finance.eastmoney.com/a/202609053865803661.html",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260904-015",
@@ -40,6 +49,24 @@
       "source": "FX168（Investing.com香港）",
       "url": "https://hk.investing.com/news/commodities-news/article-1643837",
       "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260905-002",
+      "title": "兴业科技被证监会立案调查，曾涉跨界收购7连涨停",
+      "summary": "兴业科技9月4日晚公告收到证监会立案告知书，因涉嫌信息披露违规被调查；公司此前因跨界收购磷化铟相关资产曾连续7个交易日涨停，目前称经营正常。",
+      "publishedAt": "2026-09-04T22:11:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4173399.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260905-006",
+      "title": "港股公告精选｜越秀地产前8月销售额超610亿元 百度被纳入港股通标的",
+      "summary": "越秀地产前8月累计销售612.07亿元，同比降约16.2%；百度集团A类普通股将自2026年9月7日起纳入沪港通标的，成为港股通新增可投资标的。",
+      "publishedAt": "2026-09-04T21:32:00+08:00",
+      "source": "财联社",
+      "url": "https://www.cls.cn/detail/2474718",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260904-014",
@@ -60,6 +87,15 @@
       "subCategory": "政策利率"
     },
     {
+      "id": "finance-20260905-004",
+      "title": "理想汽车26.5亿元增资欣旺达动力，成第二大股东",
+      "summary": "理想汽车向欣旺达动力增资26.5亿元参与其C++轮融资，获得8.79%股权成为第二大股东；双方此前已合资成立电池公司，深化供应链自主布局。",
+      "publishedAt": "2026-09-04T20:42:00+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15058030.html",
+      "subCategory": "一级市场"
+    },
+    {
       "id": "finance-20260904-012",
       "title": "超级大超预期！美国8月非农新增16.2万 失业率维持4.1% 前两月就业累计上修5.5万",
       "summary": "美国劳工部数据显示，8月非农新增就业16.2万人，远超市场预期的5.5万人，失业率维持4.1%；6月、7月数据合计上修5.5万人，休闲餐饮业新增5.9万人领跑，市场对9月加息押注上升。",
@@ -67,6 +103,15 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqskus6030003.shtml",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260905-001",
+      "title": "央行公开市场操作节奏微调，3个月买断式逆回购转为等量续作",
+      "summary": "央行公告9月7日将开展5000亿元3个月期买断式逆回购操作，为等量续作而非此前两个月的加量操作；本周公开市场净回笼超万亿元，旨在维稳资金利率。",
+      "publishedAt": "2026-09-04T20:28:00+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103349723.html",
+      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260904-016",
@@ -112,6 +157,33 @@
       "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690065.shtml",
       "subCategory": "宏观经济",
       "id": "finance-20260904-007"
+    },
+    {
+      "title": "隔夜欧美·9月4日",
+      "summary": "9月4日隔夜，美股三大指数集体上涨超1%，道指报53686.11点，标普500报7747.71点，纳指报26584.06点；COMEX黄金涨2.39%，WTI原油小幅上涨。",
+      "publishedAt": "2026-09-04",
+      "source": "东方财富网",
+      "url": "https://wap.eastmoney.com/a/202609043864491670.html",
+      "subCategory": "美股",
+      "id": "finance-20260904-008"
+    },
+    {
+      "title": "A股收评：创业板指冲高回落跌0.78%，先进封装、电子化学品、半导体等概念走弱",
+      "summary": "9月4日A股三大指数冲高回落，上证指数跌0.3%，深证成指跌0.79%，创业板指跌0.78%，两市成交额约2.03万亿元，猪肉、饲料等板块领涨，半导体、先进封装等概念走弱。",
+      "publishedAt": "2026-09-04",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15056123.html",
+      "subCategory": "A股",
+      "id": "finance-20260904-009"
+    },
+    {
+      "title": "港股終止四連跌 收市升437點",
+      "summary": "9月4日港股恒生指数收报25650点，升437点，终止四连跌，成交额2769亿港元；美团、百度涨约5%，阿里、腾讯涨2%，百威亚太涨4%。",
+      "publishedAt": "2026-09-04",
+      "source": "有線新聞",
+      "url": "https://www.i-cable.com/%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A/501038/%E6%B8%AF%E8%82%A1%E7%B5%82%E6%AD%A2%E5%9B%9B%E9%80%A3%E8%B7%8C-%E6%94%B6%E5%B8%82%E5%8D%87437%E9%BB%9E",
+      "subCategory": "港股",
+      "id": "finance-20260904-010"
     },
     {
       "title": "财联社9月3日电，交易员在美联储理事沃勒\"鸽派\"表态后降低了美联储加息押注，从昨日的63%降至60%",
@@ -258,6 +330,15 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260902-802",
+      "title": "U.S. futures muted as markets parse rate jitters, more Iran strikes",
+      "summary": "9月1日美股盘后，标普500指数期货持平于7646点。美国对伊朗革命卫队目标发动新一轮打击后油价走高，美债收益率升至多年高位，CME数据显示市场对9月加息25个基点的预期升至67.9%，道指、标普500、纳指当日分别收跌0.79%、0.71%、1%。",
+      "publishedAt": "2026-09-01T20:14:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+      "subCategory": "美股"
+    },
+    {
       "id": "finance-20260902-801",
       "title": "智通ADR统计 | 9月2日",
       "summary": "智通财经统计显示，9月2日恒生指数ADR报25419.74点，较香港收市水平上涨0.36%；汇丰控股上涨0.97%至162.150港元，腾讯控股下跌0.36%至439.796港元，同期美股三大指数集体收跌。",
@@ -265,6 +346,15 @@
       "source": "智通财经",
       "url": "https://cn.investing.com/news/stock-market-news/article-3547655",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260902-803",
+      "title": "Oil extends gains as Trump threatens further Iran strikes",
+      "summary": "受美国打击伊朗伊斯兰革命卫队目标、霍尔木兹海峡局势持续紧张影响，WTI原油期货结算价报90.68美元/桶，为6月11日以来最高水平，布伦特原油报95.05美元/桶，市场对中东供应中断的担忧持续升温。",
+      "publishedAt": "2026-09-01T17:37:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
+      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260902-800",
@@ -276,13 +366,22 @@
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260901-008",
-      "title": "港股收评：恒生指数跌0.93%，恒生科技指数跌1.49%",
-      "summary": "9月1日港股收盘，恒生指数跌0.93%，恒生科技指数跌1.49%，科网股普遍走弱，京东、阿里巴巴跌逾3%，腾讯、美团、哔哩哔哩、百度跌逾2%，内房股同步下挫，越秀地产跌超7%。",
-      "publishedAt": "2026-09-01",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15040708.html",
-      "subCategory": "港股"
+      "id": "finance-20260901-702",
+      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
+      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
+      "publishedAt": "2026-09-01T19:38:09Z",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10859323",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260901-700",
+      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
+      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
+      "publishedAt": "2026-09-01T10:54:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260901-705",
@@ -294,6 +393,15 @@
       "subCategory": "一级市场"
     },
     {
+      "id": "finance-20260901-704",
+      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
+      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
+      "publishedAt": "2026-09-01T10:02:00-04:00",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
+      "subCategory": "宏观经济"
+    },
+    {
       "id": "finance-20260901-703",
       "title": "美联储理事巴尔：通胀未降温应果断加息 9月加息概率升至66%",
       "summary": "美联储理事迈克尔·巴尔9月1日表示，若通胀未能充分回落，美联储应在9月15日至16日议息会议上或会后果断加息；受此表态影响，市场对9月加息的预期概率由8月28日的略高于30%大幅升至66%。",
@@ -303,22 +411,13 @@
       "subCategory": "政策利率"
     },
     {
-      "id": "finance-20260902-802",
-      "title": "U.S. futures muted as markets parse rate jitters, more Iran strikes",
-      "summary": "9月1日美股盘后，标普500指数期货持平于7646点。美国对伊朗革命卫队目标发动新一轮打击后油价走高，美债收益率升至多年高位，CME数据显示市场对9月加息25个基点的预期升至67.9%，道指、标普500、纳指当日分别收跌0.79%、0.71%、1%。",
-      "publishedAt": "2026-09-01T20:14:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260901-702",
-      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
-      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
-      "publishedAt": "2026-09-01T19:38:09Z",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10859323",
-      "subCategory": "风险事件"
+      "id": "finance-20260901-701",
+      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
+      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
+      "publishedAt": "2026-09-01T09:14:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
+      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260901-707",
@@ -328,15 +427,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609013861643112.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260902-803",
-      "title": "Oil extends gains as Trump threatens further Iran strikes",
-      "summary": "受美国打击伊朗伊斯兰革命卫队目标、霍尔木兹海峡局势持续紧张影响，WTI原油期货结算价报90.68美元/桶，为6月11日以来最高水平，布伦特原油报95.05美元/桶，市场对中东供应中断的担忧持续升温。",
-      "publishedAt": "2026-09-01T17:37:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260901-706",
@@ -357,24 +447,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260901-700",
-      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
-      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
-      "publishedAt": "2026-09-01T10:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260901-704",
-      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
-      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
-      "publishedAt": "2026-09-01T10:02:00-04:00",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
-      "subCategory": "宏观经济"
-    },
-    {
       "id": "finance-20260901-007",
       "title": "9月1日人民币对美元中间价报6.7809 上调19个基点",
       "summary": "中国外汇交易中心受权公布，2026年9月1日人民币对美元汇率中间价报6.7809元，较上一交易日上调19个基点，人民币汇率延续小幅升值态势。",
@@ -382,15 +454,6 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687652.shtml",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260901-701",
-      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
-      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
-      "publishedAt": "2026-09-01T09:14:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260901-002",
@@ -402,13 +465,13 @@
       "subCategory": "美股"
     },
     {
-      "id": "finance-20260901-005",
-      "title": "*ST闻泰名下资产遭法院冻结",
-      "summary": "*ST闻泰8月31日晚间公告，法院裁定查封、扣押、冻结被申请人安世有限公司、安泰可有限公司名下价值约21.39亿元人民币等额财产，冻结期限自2026年8月25日至2029年8月24日，系知识产权纠纷案件所致。",
-      "publishedAt": "2026-08-31",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103341238.html",
-      "subCategory": "风险事件"
+      "id": "finance-20260901-008",
+      "title": "港股收评：恒生指数跌0.93%，恒生科技指数跌1.49%",
+      "summary": "9月1日港股收盘，恒生指数跌0.93%，恒生科技指数跌1.49%，科网股普遍走弱，京东、阿里巴巴跌逾3%，腾讯、美团、哔哩哔哩、百度跌逾2%，内房股同步下挫，越秀地产跌超7%。",
+      "publishedAt": "2026-09-01",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15040708.html",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260831-953",
@@ -519,13 +582,22 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260831-005",
-      "title": "中国船舶上半年净利润99.54亿元 同比增长163.51%",
-      "summary": "中国船舶发布2026年半年报，实现营业收入915.3亿元，同比增长26.01%；归属于上市公司股东的净利润99.54亿元，同比增长163.51%，拟每10股派4.65元。",
-      "publishedAt": "2026-08-30",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4162766.html",
-      "subCategory": "公司财报"
+      "id": "finance-20260831-001",
+      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
+      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
+      "publishedAt": "2026-08-30T12:24:00-04:00",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-005",
+      "title": "*ST闻泰名下资产遭法院冻结",
+      "summary": "*ST闻泰8月31日晚间公告，法院裁定查封、扣押、冻结被申请人安世有限公司、安泰可有限公司名下价值约21.39亿元人民币等额财产，冻结期限自2026年8月25日至2029年8月24日，系知识产权纠纷案件所致。",
+      "publishedAt": "2026-08-31",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103341238.html",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260831-002",
@@ -600,15 +672,6 @@
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260831-001",
-      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
-      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
-      "publishedAt": "2026-08-30T12:24:00-04:00",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260830-905",
       "title": "周末要闻汇总：多箭齐发！房地产迎来政策\"组合拳\"",
       "summary": "8月28日住建部、央行、金融监管总局、证监会等多部门连发多份文件，涉及商品房销售制度、房企信用管理及资本市场融资渠道；证监会明确支持房地产开发企业通过股票、债券、ABS、REITs等合理融资。",
@@ -636,6 +699,15 @@
       "subCategory": "大宗商品"
     },
     {
+      "id": "finance-20260831-005",
+      "title": "中国船舶上半年净利润99.54亿元 同比增长163.51%",
+      "summary": "中国船舶发布2026年半年报，实现营业收入915.3亿元，同比增长26.01%；归属于上市公司股东的净利润99.54亿元，同比增长163.51%，拟每10股派4.65元。",
+      "publishedAt": "2026-08-30",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4162766.html",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260829-908",
       "title": "沃什Jackson Hole讲话：战术转向鹰派，市场半信半疑",
       "summary": "美联储主席沃什在杰克逊霍尔年会发表任内首场重要演讲，强调通胀需以足够快的速度回到2%目标，措辞较7月更趋鹰派；但市场对其鹰派立场能否持续存疑，讲话后仅计入约半次加息预期。",
@@ -652,78 +724,6 @@
       "source": "The Rio Times",
       "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-august-29-2026/",
       "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260830-006",
-      "title": "长鑫存储起诉美国防部，要求移出涉军黑名单",
-      "summary": "长鑫存储8月28日向美国哥伦比亚特区联邦地区法院提起诉讼，将美国防部及防长赫格塞斯列为被告，要求撤销其“中国军事企业”清单认定。公司称芯片仅用于民用与商用市场，该认定“缺乏事实依据与合理决策基础”，自2025年1月起已造成声誉与业务损失。",
-      "publishedAt": "2026-08-29T15:30:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/roll/2026-08-29/doc-inipymqt5506904.shtml",
-      "subCategory": "风险事件"
-    },
-    {
-      "title": "Trump says U.S. to take control of 65 billion barrels of Venezuelan oil reserves",
-      "summary": "特朗普宣布美国已与委内瑞拉达成协议，获得650亿桶石油储备控制权，由国务卿鲁比奥、防长赫格塞斯与委方过渡总统罗德里格斯谈判达成。此前美国战略石油储备已降至3亿桶以下，较1月减少逾1亿桶。",
-      "publishedAt": "2026-08-29T07:29:00+08:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/28/trump-us-control-65-billion-barrels-venezuelan-oil-reserves/",
-      "subCategory": "大宗商品",
-      "id": "finance-20260829-003"
-    },
-    {
-      "id": "finance-20260830-001",
-      "title": "美股收盘：三大指数集体收跌，费城半导体指数跌超3%，迈威尔科技跌逾10%",
-      "summary": "8月28日美股收盘，道指跌0.02%报53559.99点，标普500跌0.25%报7711.76点，纳指跌0.52%报26402.42点，三大指数本周均录得周涨幅。费城半导体指数跌超3%，迈威尔科技领跌，ARM、应用材料、英特尔、台积电、AMD跌超2%。",
-      "publishedAt": "2026-08-29T06:15:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608293858919725.html",
-      "subCategory": "美股"
-    },
-    {
-      "title": "深夜，利空突袭，黄金直线跳水！美联储主席沃什释放鹰派信号",
-      "summary": "美联储主席沃什在杰克逊霍尔央行年会发表鹰派讲话，称通胀仍显著高于2%目标，若价格压力未缓解可能需上调利率。受此影响，现货黄金跌破4500美元，收于4478.39美元/盎司；据CME数据，9月加息25个基点概率由约30%升至57.4%。",
-      "publishedAt": "2026-08-29T00:59:00+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.mrjjxw.com/articles/2026-08-29/4565565.html",
-      "subCategory": "政策利率",
-      "id": "finance-20260829-002"
-    },
-    {
-      "title": "优必选上半年营收12.7亿元，全尺寸人形机器人收入暴增14倍",
-      "summary": "优必选发布2026年上半年财报，总营收12.7亿元，同比增长104.2%，全尺寸人形机器人收入达5.9亿元，同比增长1445%，人形机器人全年销量16123台，同比增长268.3%，亏损同比收窄约46%。",
-      "publishedAt": "2026-08-28T22:34:28+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1147/1147229.htm",
-      "subCategory": "公司财报",
-      "id": "finance-20260828-506"
-    },
-    {
-      "title": "美的集团：2026年上半年营收2610.5亿元 净利润264.5亿元",
-      "summary": "新浪财经报道，美的集团发布2026年半年报，上半年实现营业总收入2610.5亿元，同比增长3.5%；归属于上市公司股东的净利润264.5亿元，同比增长1.7%，已连续6个半年度实现营收净利双增长。",
-      "publishedAt": "2026-08-28T21:21:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tech/it/2026-08-28/doc-inipwtfm8997475.shtml",
-      "subCategory": "公司财报",
-      "id": "finance-20260828-504"
-    },
-    {
-      "id": "finance-20260829-101",
-      "title": "长鑫科技：上半年归母净利润776.05亿元，同比扭亏为盈",
-      "summary": "长鑫科技发布2026年上半年业绩，营业收入1503.1亿元，同比增长873.64%；归属于股东净利润776.05亿元，上年同期为亏损233.2亿元，实现同比扭亏为盈；基本每股收益1.2893元。公司称受益于全球算力需求激增及DRAM供应短缺推动产品价格大幅上涨，带动DRAM产品销售毛利显著提升。",
-      "publishedAt": "2026-08-28T18:06:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202608283858328281.html",
-      "subCategory": "公司财报"
-    },
-    {
-      "id": "finance-20260830-005",
-      "title": "商品日报：碳酸锂增仓涨近5%，贵金属尾盘拉升",
-      "summary": "8月28日国内商品期货多数上涨，碳酸锂主力合约增仓上涨近4.77%，逼近16万元/吨，系连续第17周去库存所致；钯、银涨超3%-4%，铂涨超2%，黄金逼近1000元/克；SC原油反弹超5%突破600元/桶；集运指数（欧线）领跌，跌1.83%。",
-      "publishedAt": "2026-08-28T17:47:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-28/doc-inipwhrr4546851.shtml",
-      "subCategory": "大宗商品"
     }
   ]
 }

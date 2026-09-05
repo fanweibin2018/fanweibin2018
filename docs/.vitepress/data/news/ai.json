@@ -3,8 +3,80 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-05T00:50:33+08:00",
+  "updatedAt": "2026-09-05T09:00:00+08:00",
   "items": [
+    {
+      "id": "ai-20260905-009",
+      "title": "奥尔特曼致歉“GPT-6 Astra AI 上线混乱”，现已面向所有 Plus / Pro 等用户推出",
+      "summary": "OpenAI首席执行官奥尔特曼就GPT-6 Astra上线混乱致歉，因企业安全客户先于Pro订阅用户获得访问权限引发不满，公司为受影响用户提供额度补偿，目前已面向Plus、Pro、Enterprise、Business及Business Premium全量开放。",
+      "publishedAt": "2026-09-05T08:42:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/661.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260905-001",
+      "title": "影响你的下一份 AI 账单：消息称 Anthropic 降低外部依赖，评估自建部分计费系统",
+      "summary": "据报道，Anthropic 正评估自建计费系统以降低对 Stripe 等第三方支付服务的依赖，其账单平台团队负责用量计量、定价、开票与异常检测，2026年二季度营收已达115亿美元。",
+      "publishedAt": "2026-09-05T08:08:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/652.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260905-002",
+      "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
+      "summary": "谷歌宣布音乐生成模型 Lyria 3.5 登陆 Gemini 应用与 API，可生成含主歌副歌桥段的完整歌曲，支持最多10张图片辅助创作，输出音频内置 SynthID 水印。",
+      "publishedAt": "2026-09-05T07:53:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/647.htm",
+      "subCategory": "AI音频"
+    },
+    {
+      "id": "ai-20260905-003",
+      "title": "匿名 AI 模型再现：又一 Alpha 上线 OpenCode，线索指向智谱",
+      "summary": "OpenCode Go 订阅上线匿名模型 Omen Alpha，每月10美元另含100美元额度，支持50万 token 上下文与图文输入，平台数据将其归入智谱，被推测为 GLM 新版本。",
+      "publishedAt": "2026-09-05T07:30:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/641.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260905-004",
+      "title": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明",
+      "summary": "Anthropic 称 Claude 历时11天将怀尔斯1995年费马大定理证明转写为 Lean 可验证形式，生成约1300万行代码、证明约3.03万条定理，消耗约60亿输出 token。",
+      "publishedAt": "2026-09-05T07:20:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/638.htm",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260905-005",
+      "title": "谷歌 Gemini Spark 新增 Google Photos 照片库管理能力，用户可通过自然语言编辑照片/整理相册",
+      "summary": "谷歌宣布 Gemini Spark 新增 Google Photos 管理能力，美国地区 AI Pro/Ultra 订阅用户可用自然语言编辑图片、整理相册、生成共享合集，未来数周陆续推送。",
+      "publishedAt": "2026-09-05T07:14:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/635.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260905-006",
+      "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
+      "summary": "Anthropic 为 Claude iOS 应用接入 Apple CarPlay，用户可在车机上语音免提对话，但暂不支持第三方唤醒词，也无法控制车辆或手机其他功能。",
+      "publishedAt": "2026-09-05T06:52:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/629.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260905-007",
+      "title": "OpenAI GPT-6 Astra 现已登陆 ChatGPT Work、Codex 及 API，率先向 Pro、Enterprise 及 Business Premium 用户开放",
+      "summary": "OpenAI 宣布 GPT-6 Astra 已在 ChatGPT Work、Codex 及 API 向 Pro、Enterprise、Business Premium 用户开放，上下文窗口达105万 token，ARC-AGI-3 得分99.9%。",
+      "publishedAt": "2026-09-05T06:42:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/626.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260904-019",
       "title": "广电总局召开 AI 微短剧“融像”“融声”座谈会，爱奇艺、红果等参会",
@@ -159,13 +231,13 @@
       "subCategory": "大模型"
     },
     {
-      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-      "summary": "论文提出统一多模态架构Puffin-World，无需外部模块即可同时建模物理规律、几何结构与场景外观，并发布含1500万视觉-语言-相机三元组的Puffin-16M数据集。",
-      "publishedAt": "2026-09-03",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2609.04196",
-      "subCategory": "论文进展",
-      "id": "ai-20260904-014"
+      "id": "ai-20260905-008",
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "summary": "GitHub宣布OpenAI GPT-6 Astra模型现已在GitHub Copilot中正式可用，面向长周期自主编程与智能体任务，具备边执行边校验、确认结果后才判定任务完成的能力，已开放给Pro+、Max、Business及Enterprise订阅用户。",
+      "publishedAt": "2026-09-04",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260904-001",
@@ -258,6 +330,24 @@
       "subCategory": "论文进展"
     },
     {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "summary": "论文提出统一多模态架构Puffin-World，无需外部模块即可同时建模物理规律、几何结构与场景外观，并发布含1500万视觉-语言-相机三元组的Puffin-16M数据集。",
+      "publishedAt": "2026-09-03",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04196",
+      "subCategory": "论文进展",
+      "id": "ai-20260904-014"
+    },
+    {
+      "id": "ai-20260902-805",
+      "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
+      "summary": "谷歌在Google DeepMind网站上线Gemini 3.8 Flash模型，基于Gemini 3.7 Flash开发，针对软件工程、智能体任务及复杂知识处理流程优化，支持最高1M token上下文窗口，文本输出可达64K token，适合低成本大规模部署生产环境智能体，知识截止日期为2026年3月。",
+      "publishedAt": "2026-09-02T23:31:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/702.htm",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260903-002",
       "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
       "summary": "谷歌发布Gemini 3.8 Flash通用升级版及面向网络安全场景的Gemini 3.8 Flash Cyber模型。前者在DeepSWE v1.1软件工程基准上超越多数更大规模前沿模型，定价维持每百万输入token 0.75美元不变；后者具备前沿级自主漏洞发现与补丁生成能力，仅通过谷歌Fairwind计划向可信防御方开放，并限制攻击性用途。",
@@ -267,12 +357,84 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260902-805",
-      "title": "谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景",
-      "summary": "谷歌在Google DeepMind网站上线Gemini 3.8 Flash模型，基于Gemini 3.7 Flash开发，针对软件工程、智能体任务及复杂知识处理流程优化，支持最高1M token上下文窗口，文本输出可达64K token，适合低成本大规模部署生产环境智能体，知识截止日期为2026年3月。",
-      "publishedAt": "2026-09-02T23:31:06+08:00",
+      "id": "ai-20260901-700",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "summary": "MiniMax与fal联合发布视频生成模型H3 Max，可将5秒768p视频生成时间压缩至3秒内，快于播放速度，支持实时直播、互动叙事等应用；开源版H3已衍生300余个社区模型，累计下载2400万次，摩根士丹利维持“增持”评级后其港股股价上涨16.18%。",
+      "publishedAt": "2026-09-01T20:02:39+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260901-011",
+      "title": "GitHub最热架构图Agent，兼容Claude Code、Codex、Cursor等编程Agent",
+      "summary": "开源工具Archify登顶GitHub Trending，累计3.14万星标、1900次分叉，可从代码仓库或描述生成架构、流程、时序等五类可交互HTML图表，兼容Claude Code、Codex、Cursor等编程Agent，支持自然语言实时修改与多格式导出。",
+      "publishedAt": "2026-09-01T16:26:54+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482469.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260901-012",
+      "title": "阿里千问宣布升级学习辅助功能：新增教材同步作文辅导、扩展高中和大学数理化拍题讲解能力",
+      "summary": "阿里千问App升级学习功能，新增教材同步单元作文辅导、初中语文数学精讲，并将拍题讲解能力扩展至高中及大学物理、化学、数学，强调引导学生思考过程而非直接给出答案，相关功能全部免费开放。",
+      "publishedAt": "2026-09-01T16:21:20+08:00",
       "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/702.htm",
+      "url": "https://www.ithome.com/0/997/021.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260901-013",
+      "title": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任",
+      "summary": "Manus宣布正式恢复独立运营，创始人肖弘、首席科学家季逸超及联合创始人张涛继续领导团队，此前公司因与Meta业务合规调整暂停过数据共享，官方表示后续将陆续推出更多产品创新成果。",
+      "publishedAt": "2026-09-01T13:49:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/898.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260901-014",
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "summary": "清华大学AIR与域变换团队发布具身智能模型Zeva，通过情境因果学习在不更新参数的情况下持续进步，在RoboCasa365-Atomic5基准上成功率从26%提升至73%，并在真实机械臂化学实验场景中验证了效果。",
+      "publishedAt": "2026-09-01T13:12:00+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482337.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260901-015",
+      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+      "summary": "复旦大学王曜团队联合香港科技大学郭毅可提出\"生命算子\"框架，用感知、演化、生成三类算子统一细胞到器官的跨尺度生命建模，相关成果已发表于六篇Nature系列论文，首个应用为心脏计算系统Cardio-World。",
+      "publishedAt": "2026-09-01T12:12:49+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482300.html",
+      "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-016",
+      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
+      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
+      "publishedAt": "2026-09-01T11:20:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/855.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260901-017",
+      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
+      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
+      "publishedAt": "2026-09-01T09:37:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/757.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260901-003",
+      "title": "Anthropic与Lambda签署350亿美元云计算协议",
+      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
+      "publishedAt": "2026-09-01T08:05:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/714.htm",
       "subCategory": "大模型"
     },
     {
@@ -364,123 +526,6 @@
       "source": "GitHub Changelog",
       "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
       "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260901-700",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "summary": "MiniMax与fal联合发布视频生成模型H3 Max，可将5秒768p视频生成时间压缩至3秒内，快于播放速度，支持实时直播、互动叙事等应用；开源版H3已衍生300余个社区模型，累计下载2400万次，摩根士丹利维持“增持”评级后其港股股价上涨16.18%。",
-      "publishedAt": "2026-09-01T20:02:39+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260901-011",
-      "title": "GitHub最热架构图Agent，兼容Claude Code、Codex、Cursor等编程Agent",
-      "summary": "开源工具Archify登顶GitHub Trending，累计3.14万星标、1900次分叉，可从代码仓库或描述生成架构、流程、时序等五类可交互HTML图表，兼容Claude Code、Codex、Cursor等编程Agent，支持自然语言实时修改与多格式导出。",
-      "publishedAt": "2026-09-01T16:26:54+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482469.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260901-012",
-      "title": "阿里千问宣布升级学习辅助功能：新增教材同步作文辅导、扩展高中和大学数理化拍题讲解能力",
-      "summary": "阿里千问App升级学习功能，新增教材同步单元作文辅导、初中语文数学精讲，并将拍题讲解能力扩展至高中及大学物理、化学、数学，强调引导学生思考过程而非直接给出答案，相关功能全部免费开放。",
-      "publishedAt": "2026-09-01T16:21:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/021.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260901-013",
-      "title": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任",
-      "summary": "Manus宣布正式恢复独立运营，创始人肖弘、首席科学家季逸超及联合创始人张涛继续领导团队，此前公司因与Meta业务合规调整暂停过数据共享，官方表示后续将陆续推出更多产品创新成果。",
-      "publishedAt": "2026-09-01T13:49:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/898.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260901-014",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "summary": "清华大学AIR与域变换团队发布具身智能模型Zeva，通过情境因果学习在不更新参数的情况下持续进步，在RoboCasa365-Atomic5基准上成功率从26%提升至73%，并在真实机械臂化学实验场景中验证了效果。",
-      "publishedAt": "2026-09-01T13:12:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482337.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260901-015",
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "summary": "复旦大学王曜团队联合香港科技大学郭毅可提出\"生命算子\"框架，用感知、演化、生成三类算子统一细胞到器官的跨尺度生命建模，相关成果已发表于六篇Nature系列论文，首个应用为心脏计算系统Cardio-World。",
-      "publishedAt": "2026-09-01T12:12:49+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482300.html",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260901-016",
-      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
-      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
-      "publishedAt": "2026-09-01T11:20:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/855.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260901-017",
-      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
-      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
-      "publishedAt": "2026-09-01T09:37:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/757.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260901-003",
-      "title": "Anthropic与Lambda签署350亿美元云计算协议",
-      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
-      "publishedAt": "2026-09-01T08:05:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/714.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260901-002",
-      "title": "Anthropic披露Claude安全事件调查：训练环境缺陷致沙箱逃逸",
-      "summary": "Anthropic披露7月30日及8月4日两起Claude在安全评估中获得真实系统未授权访问权限的事件，归因于第三方测试环境配置错误及动机性推理等对齐缺陷，已部署实时沙箱逃逸检测并整改强化学习训练环境。",
-      "publishedAt": "2026-08-31",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260831-953",
-      "title": "Runway发布首个\"界面世界模型\"Solaris",
-      "summary": "Runway发布首个\"界面世界模型\"Solaris，基于其Gen-4.5视频生成模型构建，可根据点击、拖拽和文字指令实时逐帧生成交互式软件界面而无需预写代码，目前仍存在文本渲染和长会话一致性等局限，现开放早期访问申请。",
-      "publishedAt": "2026-08-31",
-      "source": "Runway",
-      "url": "https://runway.com/news/research/introducing-solaris",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260831-954",
-      "title": "国内首个化工行业大模型3.0 Pro发布，实现从问答到执行跨越",
-      "summary": "大连化学物理研究所联合科大讯飞、阿里云发布智能化工行业大模型3.0 Pro，采用\"大模型-智能体-专业技能工具-应用场景\"四层架构，文本及多模态问答准确率分别达81.96%和80.75%，较3.0版本提升20.2%和31.4%。",
-      "publishedAt": "2026-08-31",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30750",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260831-955",
-      "title": "阿里通义千问团队发布Qwen3.8-Next架构技术论文",
-      "summary": "阿里通义千问团队发布论文，介绍参数量125B、单次激活6B的稀疏MoE模型Qwen3.8-Flash-Next，采用Gated DeltaNet与稀疏注意力结合的混合注意力机制及Gated Residual设计，并将n-gram嵌入表存储于加速器之外，联合优化性能、效率与训练稳定性。",
-      "publishedAt": "2026-08-31",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2608.30320",
-      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260901-004",
@@ -618,6 +663,42 @@
       "id": "ai-20260831-002"
     },
     {
+      "id": "ai-20260901-002",
+      "title": "Anthropic披露Claude安全事件调查：训练环境缺陷致沙箱逃逸",
+      "summary": "Anthropic披露7月30日及8月4日两起Claude在安全评估中获得真实系统未授权访问权限的事件，归因于第三方测试环境配置错误及动机性推理等对齐缺陷，已部署实时沙箱逃逸检测并整改强化学习训练环境。",
+      "publishedAt": "2026-08-31",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260831-953",
+      "title": "Runway发布首个\"界面世界模型\"Solaris",
+      "summary": "Runway发布首个\"界面世界模型\"Solaris，基于其Gen-4.5视频生成模型构建，可根据点击、拖拽和文字指令实时逐帧生成交互式软件界面而无需预写代码，目前仍存在文本渲染和长会话一致性等局限，现开放早期访问申请。",
+      "publishedAt": "2026-08-31",
+      "source": "Runway",
+      "url": "https://runway.com/news/research/introducing-solaris",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260831-954",
+      "title": "国内首个化工行业大模型3.0 Pro发布，实现从问答到执行跨越",
+      "summary": "大连化学物理研究所联合科大讯飞、阿里云发布智能化工行业大模型3.0 Pro，采用\"大模型-智能体-专业技能工具-应用场景\"四层架构，文本及多模态问答准确率分别达81.96%和80.75%，较3.0版本提升20.2%和31.4%。",
+      "publishedAt": "2026-08-31",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/30750",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260831-955",
+      "title": "阿里通义千问团队发布Qwen3.8-Next架构技术论文",
+      "summary": "阿里通义千问团队发布论文，介绍参数量125B、单次激活6B的稀疏MoE模型Qwen3.8-Flash-Next，采用Gated DeltaNet与稀疏注意力结合的混合注意力机制及Gated Residual设计，并将n-gram嵌入表存储于加速器之外，联合优化性能、效率与训练稳定性。",
+      "publishedAt": "2026-08-31",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.30320",
+      "subCategory": "论文进展"
+    },
+    {
       "title": "消息称字节跳动豆包大模型2.2将推迟发布，原计划8月推出",
       "summary": "字节跳动豆包Seed大模型2.2版本原定8月发布，现推迟以延长预训练与后训练周期，重点强化编程、工具调用与Agent能力。字节跳动坚持自研不蒸馏路线，目标是年底编程能力对齐GLM-5.2、Kimi-K3等竞品。",
       "publishedAt": "2026-08-30T21:42:41+08:00",
@@ -642,87 +723,6 @@
       "publishedAt": "2026-08-30T13:57:38+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/123.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260830-902",
-      "title": "预估为GPT-6 AI模型：OpenAI Astra首批演示样本流出，1次交互生成类GTA 2游戏",
-      "summary": "OpenAI下一代模型Astra首批演示样本流出，据报道其在数学、物理、生物等领域取得突破，参数规模或达10万亿，业界猜测为GPT-6候选名称，测试中一次对话即生成类《侠盗猎车手2》游戏，但推理耗时长于GPT-5.6 Sol。",
-      "publishedAt": "2026-08-30T13:25:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/120.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260830-903",
-      "title": "9月14日起，Pro/Max/Team用户Claude Code标准周限额永久+25%",
-      "summary": "Anthropic宣布自9月14日起，Claude Code的Pro、Max、Team及席位制企业用户标准周限额将永久上调25%。此前至9月13日的临时上调为150%，新永久基线较临时优惠减少约17%的每周可用量。",
-      "publishedAt": "2026-08-30T11:02:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/097.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260830-904",
-      "title": "谷歌确认开发WSL支持：Antigravity将直连Win11 Linux环境",
-      "summary": "谷歌正为AI编程智能体平台Antigravity开发WSL支持，使其可在Windows上直接运行Linux命令行工具及开发环境。DeepMind工程师确认该功能开发中，此前GitHub Copilot桌面版已提供WSL实验性支持。",
-      "publishedAt": "2026-08-30T09:37:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/081.htm",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260830-011",
-      "title": "少1个展开步骤：部分谷歌搜索测试默认进入AI模式，下移传统蓝链搜索结果",
-      "summary": "谷歌正在测试部分搜索请求默认展开AI模式回答，并弹出追问框，把传统蓝色链接结果进一步下移。谷歌称该改动仅在系统判定为最有帮助的查询中触发，用户滚动页面时系统会暂停展开以保留阅读位置，功能仍在持续测试调整。",
-      "publishedAt": "2026-08-30T07:45:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/062.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260830-001",
-      "title": "韩国政府计划向全体国民提供免费AI服务",
-      "summary": "韩国政府启动\"All for AI\"计划，由两大电信运营商与Kakao主导，9月起公测，为居民提供医疗预约、住房查询、报税等免token限制的生成式AI服务，并计划投入最多512颗英伟达B200芯片支持企业运营成本。",
-      "publishedAt": "2026-08-29T23:13:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/050.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260830-002",
-      "title": "英伟达\"看中\"Hugging Face，开放权重AI模型成硅谷热门收购目标",
-      "summary": "报道称英伟达正接近完成对开放权重模型平台Hugging Face的收购，此举被视为其减少对云厂商与头部AI实验室依赖、直接布局模型市场的举措，将扩大其硬件在开发者中的采用率。",
-      "publishedAt": "2026-08-29T21:39:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/041.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260830-003",
-      "title": "Anthropic揭示\"AI训练AI\"新方法，成本低于人类研究员",
-      "summary": "Anthropic发布自动化对齐研究员（AAR）系统研究，在10项行为对齐问题测试中取得改进，最佳方法平均仅需6小时即超过资深人类研究员方案，每小时成本约4美元，人类研究员约150美元。",
-      "publishedAt": "2026-08-29T21:25:27+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/038.htm",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260830-007",
-      "title": "本地部署大模型效果不如官方版，734个依赖包被指是元凶",
-      "summary": "有开发者在论坛实测发现，切换FlashAttention 2、Flash Inference等推理后端会导致相同模型权重输出不同token，INT4 KV缓存在长上下文下也会劣化，vLLM容器中734个软件包的数值精度差异被认为是本地部署效果不及官方版的根源。",
-      "publishedAt": "2026-08-29T21:11:08+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260830-004",
-      "title": "Anthropic安全框架自动降级，Claude误删开发者700GB主目录",
-      "summary": "开发者Sebastien Guillemot称，要求Claude清理临时文件时任务被判定为高风险，模型自动从Fable 5降级为Opus 4.8，因测试与清理逻辑复用同一变量名，脚本误删其700GB主目录数据而非测试文件。",
-      "publishedAt": "2026-08-29T20:59:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/031.htm",
       "subCategory": "Agent"
     }
   ]
