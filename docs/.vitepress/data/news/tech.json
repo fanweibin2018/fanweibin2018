@@ -724,69 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/165.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260901-705",
-      "title": "安全公司曝光黑客组织Aurora内部信息：利用Cursor AI制定攻击计划、使用Zig语言开发勒索软件",
-      "summary": "安全公司CloudSEK通过侵入黑客组织Aurora配置错误的服务器，获取其内部攻击工具、AI辅助制定的攻击计划记录及勒索谈判后台。报告显示该组织借助Cursor等AI编程助手规划攻击行动，但未用AI开发勒索软件本身，其勒索软件以Zig语言编写，具备Windows及Linux/ESXi版本，经Cloudflare R2存储桶分发，该组织自今年4月活跃至今已攻击9个国家20余家企业。",
-      "publishedAt": "2026-09-01T21:14:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/155.htm",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260901-706",
-      "title": "追觅回应放弃整车量产：汽车业务并入产业研究院，未来主要聚焦通用技术探索研究",
-      "summary": "追觅科技回应汽车业务传闻，确认已放弃整车量产计划，相关业务并入公司产业研究院管理，未来聚焦通用技术的探索研究及相关技术成果的落地转化。此前该公司“星空计划”造车项目员工规模已由高峰期近千人缩减至仅余数十人，主要负责财务、法务等收尾工作。",
-      "publishedAt": "2026-09-01T21:02:46+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/154.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260902-801",
-      "title": "NVIDIA DLSS 5 Available September 3rd: 3D-Guided Neural Rendering Debuts In NBA 2K27",
-      "summary": "NVIDIA宣布DLSS 5将于9月3日随《NBA 2K27》登陆全部RTX 50系显卡及GeForce NOW，采用\"3D引导神经渲染\"技术生成光照与材质细节。官方称性能较3月演示提升5倍，RTX 5090在4K加光追下最高达370帧。",
-      "publishedAt": "2026-09-01T21:00:00+08:00",
-      "source": "NVIDIA",
-      "url": "https://www.nvidia.com/en-us/geforce/news/dlss-5-3d-guided-neural-rendering/",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260901-707",
-      "title": "美国AI数据中心现大量“幽灵用电需求”，多州出手整治",
-      "summary": "路透社对公用事业公司及电网数据的审查显示，美国中西部、中大西洋及南部部分地区超大型用电户（主要为AI数据中心）提出的用电申请总量已超700吉瓦，远超行业估计的全美数据中心实际用电量。得州已成为首个暂停新数据中心接入电网并调查其建设计划的主要枢纽，其他州也在推进类似审查措施。",
-      "publishedAt": "2026-09-01T20:40:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/147.htm",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260901-708",
-      "title": "2026荣耀全球开发者大会定档9月15日举行",
-      "summary": "荣耀宣布2026年全球开发者大会将于9月15日在深圳举行，活动包含MagicOS创想分享·共创嘉年华、HGDC音乐节及MagicOS 11特别展映等环节。公司同期推进MagicOS 11公测，首批机型公测通道将于9月7日重新开放，第二批适配机型公测招募将于9月中旬开启。",
-      "publishedAt": "2026-09-01T20:14:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/138.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260901-703",
-      "title": "古尔曼：苹果Vision Pro团队裁员规模超出此前报道，visionOS等部门受波及",
-      "summary": "彭博社记者马克·古尔曼报道称，苹果Vision Pro团队裁员规模比此前披露的约100人更大，除头显游戏、沉浸式视频团队外，还波及设备安全、音频工程、Siri集成及visionOS等部门；由于苹果在研智能眼镜同样运行visionOS，此次裁员也影响到两条产品线共用的软件开发工作。",
-      "publishedAt": "2026-09-01T20:12:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/137.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260901-013",
-      "title": "美国得州启动 Watershed 250 项目，提升水务基础设施网络安全性",
-      "summary": "得州州长阿博特宣布启动 Watershed 250 网络安全项目，因 CISA 此前发现针对百余家联网水务及污水处理企业的恶意网络活动，联邦、企业与地方合作为得州水务单位免费提供网络安全防御资源。",
-      "publishedAt": "2026-09-01T16:35:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/028.htm",
-      "subCategory": "安全漏洞"
     }
   ]
 }

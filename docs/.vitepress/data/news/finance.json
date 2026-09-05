@@ -366,24 +366,6 @@
       "subCategory": "公司财报"
     },
     {
-      "id": "finance-20260901-702",
-      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
-      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
-      "publishedAt": "2026-09-01T19:38:09Z",
-      "source": "The Korea Herald",
-      "url": "https://www.koreaherald.com/article/10859323",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260901-700",
-      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
-      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
-      "publishedAt": "2026-09-01T10:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260901-705",
       "title": "Shein港股上市首日平淡收官 收盘价低于发行价",
       "summary": "希音（Shein）9月1日在港交所挂牌，首日收报48.50港元，低于48.56港元的发行价，盘中一度跌至43.80港元；公司市值约2630亿美元，较2022年峰值缩水约75%，投资人关注欧美小额包裹免税取消及监管调查等风险。",
@@ -391,15 +373,6 @@
       "source": "Epoch Times（大纪元）",
       "url": "https://www.epochtimes.com/gb/26/9/1/n14840852.htm",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260901-704",
-      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
-      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
-      "publishedAt": "2026-09-01T10:02:00-04:00",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
-      "subCategory": "宏观经济"
     },
     {
       "id": "finance-20260901-703",
@@ -411,13 +384,22 @@
       "subCategory": "政策利率"
     },
     {
-      "id": "finance-20260901-701",
-      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
-      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
-      "publishedAt": "2026-09-01T09:14:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
-      "subCategory": "大宗商品"
+      "id": "finance-20260902-802",
+      "title": "U.S. futures muted as markets parse rate jitters, more Iran strikes",
+      "summary": "9月1日美股盘后，标普500指数期货持平于7646点。美国对伊朗革命卫队目标发动新一轮打击后油价走高，美债收益率升至多年高位，CME数据显示市场对9月加息25个基点的预期升至67.9%，道指、标普500、纳指当日分别收跌0.79%、0.71%、1%。",
+      "publishedAt": "2026-09-01T20:14:00-04:00",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-702",
+      "title": "霍尔木兹海峡两艘油轮遇袭 均载沙特原油",
+      "summary": "当地时间9月1日晚，沙特籍超大型油轮Sidr与利比里亚籍油轮Senegal Prosperity在阿曼哈桑卜附近的霍尔木兹海峡先后遭不明抛射物击中，两船各载约200万桶沙特原油，船员均报平安，事件为美伊冲突持续升级的最新迹象。",
+      "publishedAt": "2026-09-01T19:38:09Z",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10859323",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260901-707",
@@ -456,6 +438,24 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260901-700",
+      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
+      "summary": "美东时间9月1日盘中，标普500跌0.62%报7638.62点，道指跌0.74%报52792.73点，纳指跌0.85%报26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
+      "publishedAt": "2026-09-01T10:54:00-05:00",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260901-704",
+      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
+      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
+      "publishedAt": "2026-09-01T10:02:00-04:00",
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
+      "subCategory": "宏观经济"
+    },
+    {
       "id": "finance-20260901-007",
       "title": "9月1日人民币对美元中间价报6.7809 上调19个基点",
       "summary": "中国外汇交易中心受权公布，2026年9月1日人民币对美元汇率中间价报6.7809元，较上一交易日上调19个基点，人民币汇率延续小幅升值态势。",
@@ -463,6 +463,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687652.shtml",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260901-701",
+      "title": "黄金价格9月1日回落 现货金报4331美元/盎司",
+      "summary": "据Fortune报道，截至9月1日美东时间上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
+      "publishedAt": "2026-09-01T09:14:00-04:00",
+      "source": "Fortune",
+      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
+      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260901-002",
@@ -591,15 +600,6 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260831-001",
-      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
-      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
-      "publishedAt": "2026-08-30T12:24:00-04:00",
-      "source": "Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
-      "subCategory": "美股"
-    },
-    {
       "id": "finance-20260901-005",
       "title": "*ST闻泰名下资产遭法院冻结",
       "summary": "*ST闻泰8月31日晚间公告，法院裁定查封、扣押、冻结被申请人安世有限公司、安泰可有限公司名下价值约21.39亿元人民币等额财产，冻结期限自2026年8月25日至2029年8月24日，系知识产权纠纷案件所致。",
@@ -679,6 +679,15 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202608303859392526.html",
       "subCategory": "公司财报"
+    },
+    {
+      "id": "finance-20260831-001",
+      "title": "Aon据悉接近以约170亿美元收购KKR旗下USI保险",
+      "summary": "据华尔街日报报道，保险经纪商Aon接近达成协议，将以约170亿美元（含债务）收购私募股权公司KKR旗下保险经纪商USI Insurance Services，交易最早可能于本周一宣布。",
+      "publishedAt": "2026-08-30T12:24:00-04:00",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4638063-aon-is-said-to-near-17b-deal-for-usi-insurance-wsj-reports",
+      "subCategory": "美股"
     },
     {
       "id": "finance-20260830-905",
