@@ -1,1 +1,729 @@
-TECH_CONTENT
+{
+  "$schema": "./schema.json",
+  "slug": "tech",
+  "title": "科技新闻",
+  "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
+  "updatedAt": "2026-09-05T21:30:00+08:00",
+  "items": [
+    {
+      "id": "tech-20260905-204",
+      "title": "全球首例：我国完成人工智能超声机器人引导下先天性心脏病封堵术",
+      "summary": "解放军总医院第六医学中心为一名房间隔缺损患者完成全球首例AI超声机器人引导先心病介入封堵手术，系统可自主完成超声扫查、病灶识别与三维心脏建模，实现术前规划与精准导航。",
+      "publishedAt": "2026-09-05T21:11:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/823.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260905-212",
+      "title": "2399 元，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机首销",
+      "summary": "森海塞尔MOMENTUM真无线5代蓝牙耳机今日首销，售价2399元，配备7mm动圈单元，支持aptX Lossless无损传输、杜比全景声头部追踪及混合自适应主动降噪，单次续航12小时，充电盒可提供总计40小时用电。",
+      "publishedAt": "2026-09-05T20:28:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/818.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-201",
+      "title": "国产半导体设备重大突破！北方华创宣布3D DRAM刻蚀突破：没有EUV也能造先进存储",
+      "summary": "北方华创在IEEE期刊发表论文，宣布采用两步循环刻蚀工艺，在64层3D DRAM结构中实现硅锗层刻蚀选择比超过500:1，结构均匀性超95%，为长鑫在无EUV光刻机条件下推进先进存储量产提供技术路径。",
+      "publishedAt": "2026-09-05T19:33:56+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1148/1148956.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260905-209",
+      "title": "蔚来：长三角地区全面实现换电县县通，累计建成 1412 座换电站",
+      "summary": "蔚来能源在安徽黄山祁门新建换电站投入使用，实现长三角地区换电站县县通全覆盖，该区域累计建成1412座换电站，覆盖303个区县，其中289座位于高速公路沿线。",
+      "publishedAt": "2026-09-05T19:22:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/811.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260905-210",
+      "title": "塔塔咨询将在印度海得拉巴建设 1GW AI 数据中心，预计投资 7000 亿卢比",
+      "summary": "塔塔咨询子公司HyperVault在印度海得拉巴收购264英亩土地，计划建设规划容量达1吉瓦的大型AI数据中心园区，用于支持AI模型训练、推理及高性能计算负载，建成后有望成为印度规模最大的AI基础设施之一。",
+      "publishedAt": "2026-09-05T19:07:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/810.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260905-208",
+      "title": "长安汽车：\"天枢领航\"海外高速 NCA 方案计划 2027 年落地",
+      "summary": "长安汽车在9月4日科技生态大会上发布自研智能驾驶辅助方案\"天枢领航\"，涵盖高速NCA、城市NCA及全场景泊车三大功能域，计划明年起在海外市场率先落地高速NCA方案，并在当地建设算力中心。",
+      "publishedAt": "2026-09-05T18:32:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/808.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260905-205",
+      "title": "我国自主研发的危化防爆巡检无人机成功首飞 可毫秒级检测13种危险气体",
+      "summary": "西北工业大学与中科院等机构联合研制的危化防爆巡检无人机在山东某化工厂完成验证飞行，可毫秒级检测13种危险气体，采用四重防爆构造与正压惰性气体密封，泄漏识别准确率达93%，实现全部器件国产化。",
+      "publishedAt": "2026-09-05T18:11:31+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1148/1148942.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260905-207",
+      "title": "我国首台：大视场亚秒级采样 1 米级巡天望远镜\"天语\"首次成像，完整摄下逾百万颗恒星",
+      "summary": "由上海交通大学李政道研究所与中科院上海天文台研制的\"天语\"巡天望远镜在青海冷湖基地完成首光观测，一次曝光即完整摄下天鹅座北美洲星云、鹈鹕星云及周边逾百万颗恒星，单次拍摄覆盖约9平方度天区。",
+      "publishedAt": "2026-09-05T17:27:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/786.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260905-211",
+      "title": "极哲推出 ZIP PRO 三折叠便携投影仪：586g 重、1080P 60Hz，预售到手价 2899 元",
+      "summary": "极哲发布ZIP PRO三折叠便携投影仪，机身重586g、折叠厚度44mm，支持1080P 60Hz分辨率、60-120英寸投影尺寸，内置10000mAh电池及65W PD快充，目前预售到手价2899元。",
+      "publishedAt": "2026-09-05T17:15:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/785.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "title": "得克萨斯州大举兴建数据中心，当地毕业生失业率反而走高",
+      "summary": "达拉斯联邦储备银行研究显示，得克萨斯州数据中心用电申请量已从2023年约48吉瓦增至474吉瓦以上，但AI相关行业招聘岗位不增反减，当地大学毕业生失业率升至异常高水平。",
+      "publishedAt": "2026-09-05T16:53:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/782.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260905-107"
+    },
+    {
+      "title": "狼蛛 G9 头戴式耳机开售：53mm 动圈、换电设计，269 元",
+      "summary": "狼蛛G9头戴式游戏耳机开售，售价269元，配备53mm镀钛动圈单元与C-Media声卡芯片，支持Xear 7.1虚拟环绕音，提供蓝牙6.0、2.4G及3.5mm四种连接方式，内置1500mAh电池并支持换电设计。",
+      "publishedAt": "2026-09-05T16:51:37+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/781.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260905-104"
+    },
+    {
+      "title": "外媒测试英伟达 DLSS 5：显卡越强功耗增幅越大，4K 分辨率 RTX 5090 增幅 34%",
+      "summary": "德国媒体ComputerBase测试英伟达DLSS 5后发现，显卡性能越强功耗增幅越明显，RTX 5090在WQHD分辨率下功耗从299瓦升至500瓦，4K分辨率下增幅34%，主因是DLSS5主要依赖Tensor核心运行AI计算。",
+      "publishedAt": "2026-09-05T16:33:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/778.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260905-106"
+    },
+    {
+      "id": "tech-20260905-203",
+      "title": "余凯：地平线明年目标是要在中国高阶自动驾驶芯片市场超过英伟达",
+      "summary": "地平线创始人余凯在2026阿拉比斯创业者论坛上表示，公司2025年推出560TOPS高性能芯片，目前在中国自动驾驶芯片市场排名第二，仅次于英伟达，目标是明年在高阶自动驾驶芯片市场实现反超。",
+      "publishedAt": "2026-09-05T16:27:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/775.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "title": "远山智行发布国内首款轮足式导盲机器人，室外避障成功率不低于 96%",
+      "summary": "中国兵器集团杭州智元研究院旗下远山智行发布导盲机器人\"小远\"，采用轮足复合构型可平地滑行并爬楼梯，室内避障成功率不低于99%，室外不低于96%，已在杭州西湖区多个公共场景开展试点。",
+      "publishedAt": "2026-09-05T16:00:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/765.htm",
+      "subCategory": "机器人",
+      "id": "tech-20260905-102"
+    },
+    {
+      "title": "传音 TECNO 展示\"0mm 边框\"概念手机：双层玻璃隐藏屏幕黑边",
+      "summary": "传音旗下TECNO在柏林IFA 2026展示\"0mm边框\"概念手机，采用双层玻璃设计遮挡屏幕黑边，屏幕模组改为由背面组装并用定制热熔胶固定外层玻璃，目前仍处于概念展示阶段，未公布量产计划。",
+      "publishedAt": "2026-09-05T15:42:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/756.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260905-103"
+    },
+    {
+      "title": "启境 GX7 预售 18 小时小订突破 2 万台，24.99-31.19 万元",
+      "summary": "广汽与华为联合打造的启境GX7于9月4日晚开启预售，18小时内小订突破2万台，预售价24.99万至31.19万元，全系标配L3级冗余架构和4颗激光雷达，搭载华为乾崑ADS5智驾系统。",
+      "publishedAt": "2026-09-05T14:39:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/743.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260905-101"
+    },
+    {
+      "title": "高通第六代骁龙 8 超级至尊版芯片样品曝光：主频冲至 5068MHz",
+      "summary": "高通第六代骁龙8超级至尊版（SM8975）芯片样品曝光，采用2+3+3八核设计，最高频率达5068MHz，搭载Adreno 850 GPU，早前曝光信息显示该芯片将采用台积电2nm工艺制造。",
+      "publishedAt": "2026-09-05T14:24:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/741.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260905-105"
+    },
+    {
+      "id": "tech-20260905-206",
+      "title": "启元机器人斩获IFA两项官方创新大奖",
+      "summary": "在2026年柏林国际消费电子及家电展（IFA 2026）上，启元机器人凭借相关产品技术获得IFA官方创新奖及创新奖荣誉奖两项奖项，展现其在机器人领域的技术实力。",
+      "publishedAt": "2026-09-05T14:11:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3970116611322118",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260905-011",
+      "title": "神舟战神 S8 游戏本新增 16+500GB 存储配置：酷睿 i7-13620H + RTX 5060，首发价 8699 元",
+      "summary": "神舟通过京东自营店推出战神S8游戏本新配置，搭载酷睿i7-13620H处理器与RTX 5060显卡，16GB DDR5内存及500GB PCIe 4.0固态硬盘，15.6英寸165Hz屏幕，首发价8699元。",
+      "publishedAt": "2026-09-05T08:37:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/660.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-010",
+      "title": "全球首款上市的 Wi-Fi 8 消费级路由器：华硕 ROG Rapture GT-BN98 率先在加拿大开售，四频设计 + 双万兆网口、总吞吐量达 30Gbps",
+      "summary": "华硕推出全球首款正式上市的Wi-Fi 8消费级路由器ROG Rapture GT-BN98，已在加拿大开启预售，售价1299.99加元，采用四频设计与双万兆网口，总吞吐量达30Gbps，预计10月起陆续在全球上市。",
+      "publishedAt": "2026-09-05T08:20:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/655.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-009",
+      "title": "华硕无畏 14 新增 24+512GB 存储配置：酷睿 Ultra 5 325 处理器，6499 元",
+      "summary": "华硕推出无畏14笔记本新配置，搭载18A工艺的酷睿Ultra 5 325处理器（4性能核+4能效核），配24GB内存及512GB存储，14英寸2.5K屏支持30-144Hz可变刷新率，售价6499元，9月10日开售。",
+      "publishedAt": "2026-09-05T08:09:52+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/653.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-008",
+      "title": "传音 MegaBook T15 360 系列笔记本发布：搭触控屏支持手写笔、至高搭载酷睿 Ultra 9 185H 处理器",
+      "summary": "传音在IFA 2026发布MegaBook T15 360系列笔记本，标准版售价899欧元、Pro版1099欧元，均支持360度旋转触控屏与MPP 2.0手写笔，Pro版配备2560×1440 120Hz屏幕，预计今年四季度登陆欧洲市场。",
+      "publishedAt": "2026-09-05T07:48:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/646.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-007",
+      "title": "AMD 锐龙 5 7500 处理器曝光，6 核 12 线程规格与 7500F 看齐",
+      "summary": "据爆料者Roland Quandt消息，AMD计划为AM5平台推出锐龙5 7500处理器，6核12线程，基础频率3.7GHz，最高加速5.0GHz，总缓存38MB，热设计功耗65W，预测售价约230欧元，高于现有R5 7500F。",
+      "publishedAt": "2026-09-05T07:46:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/645.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260905-005",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "专为通用机器人训练采集真实遥操作数据的初创公司XDOF正洽谈由8VC领投、估值约12亿美元的B轮融资，公司年化营收已近5000万美元，并与加州大学伯克利分校合作发布迄今规模最大的机器人训练数据集ABC。",
+      "publishedAt": "2026-09-05T07:36:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260905-002",
+      "title": "消息称苹果首款折叠屏 iPhone 可能被命名为“iPhone Duo”",
+      "summary": "据外媒报道，苹果首款折叠屏iPhone内部代号为iPhone Ultra，但正式名称可能改为iPhone Duo，苹果历史上曾以Duo命名PowerBook Duo笔记本和MagSafe Duo充电器，最终名称将于发布会公布。",
+      "publishedAt": "2026-09-05T06:59:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/632.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-004",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "英国AI算力企业Nscale计划在9月IPO前融资35亿美元，其中15亿美元为可转债、20亿美元来自英伟达追加投资，公司已与Anthropic签下450亿美元合约，据已签客户租约预测营收约1030亿美元。",
+      "publishedAt": "2026-09-05T05:12:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260905-001",
+      "title": "599元 安克发布10合1拓展坞：三屏异显 所有外设一台搞定",
+      "summary": "安克发布10合1扩展坞，9月10日开售，售价599元，配备HDMI 2.1与DisplayPort 1.4接口，单屏最高支持4K 144Hz或2K 240Hz，双屏可同时输出4K 60Hz与2K 240Hz，内置小屏幕显示分辨率与充电状态，最高可为笔记本提供80W供电。",
+      "publishedAt": "2026-09-05T00:09:15+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1148/1148867.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260904-026",
+      "title": "理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线",
+      "summary": "理想汽车与芯联集成签署新一轮战略合作协议，双方共同见证8英寸碳化硅晶圆下线，合作范围由车规级碳化硅电驱系统拓展至热管理系统，芯联集成成为国内首家实现8英寸碳化硅晶圆量产的企业。",
+      "publishedAt": "2026-09-04T23:32:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/624.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260904-027",
+      "title": "阿里入局“千帆星座”，现身垣信卫星股东名单",
+      "summary": "阿里巴巴旗下杭州创业投资公司完成工商变更，成为千帆星座运营主体垣信卫星的股东。千帆星座卫星数量已增至238颗，计划年内达到324颗实现全球覆盖，垣信卫星今年8月完成约70亿元增资，投后估值约5000亿元。",
+      "publishedAt": "2026-09-04T23:23:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/623.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260904-028",
+      "title": "全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7",
+      "summary": "梅赛德斯-奔驰全新长轴距GLE SUV将于9月16日上市，轴距3115毫米，配备中控三联屏及豆包AI助手，后续支持Momenta R7智能驾驶。新车搭载3.0T直六发动机与48V轻混系统，标配四驱及空气悬架，越野模式下离地间隙可达271毫米。",
+      "publishedAt": "2026-09-04T23:18:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/622.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260904-029",
+      "title": "古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划",
+      "summary": "彭博社记者马克·古尔曼披露苹果2026至2029年后产品规划，在新任CEO特努斯带领下将启动公司史上最大规模新品周期，涵盖折叠屏iPhone、iPhone 18 Pro、OLED iPad mini、触控MacBook Pro、智能眼镜及带机械臂的家庭机器人枢纽等产品。",
+      "publishedAt": "2026-09-04T23:14:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/621.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260904-030",
+      "title": "微软推出 Project Zenith，为 Win11 开发者提供开箱即用开发环境",
+      "summary": "微软推出Project Zenith，面向配备至少64GB统一内存、带宽超250GB/s设备的Windows 11开箱即用开发环境，首批产品采用AMD锐龙AI Halo处理器，预置Windows终端与VS Code并集成WSL，桌面默认精简干扰项以聚焦开发场景。",
+      "publishedAt": "2026-09-04T22:29:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/611.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260904-033",
+      "title": "麒麟2026芯片实测！晶体管密度暴涨55% GPU功耗降58%",
+      "summary": "华为半导体负责人何庭波公布新版“陶氏定律”研究，采用LogicFolding技术的麒麟2026芯片实测显示，晶体管密度提升55%的同时，同等性能下GPU功耗降58%、NPU功耗降66%，芯片采用1.5微米混合键合间距、约5000万个垂直互连点。",
+      "publishedAt": "2026-09-04T21:53:53+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1148/1148854.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260904-031",
+      "title": "消息称玛莎拉蒂正与华为、江淮洽谈合作，有望联合开发电动汽车",
+      "summary": "据意大利媒体Milano Finanza报道，玛莎拉蒂正与华为、江淮汽车推进电动车联合开发合作，工业设计已进入早期阶段，目标2027年底前投产，新车在中国市场使用“尊界”品牌、海外保留玛莎拉蒂车标，双方计划2027年前完成正式协议签署。",
+      "publishedAt": "2026-09-04T21:51:50+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/603.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260904-032",
+      "title": "因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部",
+      "summary": "据日经亚洲报道，苹果折叠屏iPhone（暂命名iPhone Ultra）因质量把控严格，截至8月底日产量仅数百台，公司计划年产800万至1000万台并加快爬坡，良率问题集中在屏幕平整度与铰链性能，8月已增加一轮试产验证。",
+      "publishedAt": "2026-09-04T21:28:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/600.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-006",
+      "title": "US military disabled ad tracking on troops' devices following reports of targeted attacks",
+      "summary": "美国国防部已在陆海空军、海军陆战队及特种作战司令部的政府配发设备上关闭广告追踪功能，覆盖iPhone、安卓及Windows设备，旨在防止外国势力利用位置数据在中东等地针对美军人员发动定位攻击。",
+      "publishedAt": "2026-09-04T21:21:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260904-034",
+      "title": "4699元起！三星Galaxy S26 FE开售：Exynos 2500、首发预装One UI 9",
+      "summary": "三星Galaxy S26 FE正式开售，起售价约4699元，是S26系列首款预装One UI 9（基于Android 17）机型，可获七年系统更新。机身搭载3nm工艺Exynos 2500处理器、6.7英寸120Hz屏幕及4900mAh电池，支持45W有线快充，防护等级IP68。",
+      "publishedAt": "2026-09-04T20:56:56+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1148/1148853.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260905-003",
+      "title": "Feds launch investigation into Tesla's Cybercab deployment",
+      "summary": "美国国家公路交通安全管理局在特斯拉于奥斯汀街头投运无方向盘、无踏板的Cybercab数小时后即宣布立案调查，审查特斯拉自我认证该车符合联邦机动车安全标准所依据的流程与技术数据。",
+      "publishedAt": "2026-09-04T20:01:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "title": "爱奇艺、网易云音乐、WPS 等多款软件适配小米 18 Fold，官方发文致谢",
+      "summary": "小米官方致谢爱奇艺、网易云音乐、WPS、剪映、高德等多款软件完成对小米18 Fold折叠屏的适配，该机将于9月7日发布。",
+      "publishedAt": "2026-09-04T16:34:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/449.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260904-007"
+    },
+    {
+      "title": "中国一汽攻克硫化物全固态电池低压力运行重大技术难题，实现 5 兆帕稳定循环",
+      "summary": "中国一汽联合高校在硫化物全固态电池领域取得突破，将电池运行压力从此前普遍20兆帕以上降至5兆帕并实现稳定循环，成果发表于《先进能源材料》期刊。",
+      "publishedAt": "2026-09-04T16:30:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/448.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260904-008"
+    },
+    {
+      "title": "Counterpoint 数据：NAND 价格 2026Q2 上涨 55%，长江存储营收市占维持 14%",
+      "summary": "Counterpoint数据显示，2026年二季度全球NAND闪存价格环比上涨55%，带动行业营收增长70%，三星、SK海力士、美光位列前三，长江存储市占维持14%。",
+      "publishedAt": "2026-09-04T16:14:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/439.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260904-009"
+    },
+    {
+      "title": "印度成功发射其首颗地球同步成像卫星 EOS-05",
+      "summary": "印度空间研究组织使用GSLV-F17火箭成功发射首颗专为地球同步轨道设计的成像卫星EOS-05，为该型火箭第19次飞行，本财年计划完成6次以上发射。",
+      "publishedAt": "2026-09-04T16:11:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/435.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260904-010"
+    },
+    {
+      "title": "小米汽车与中创新航、欣旺达动力达成\"小米龙甲电池\"战略合作",
+      "summary": "小米汽车宣布与中创新航、欣旺达动力就\"小米龙甲电池\"达成战略合作，双方将围绕电池供应链展开合作，以保障小米汽车生产的电池供应。",
+      "publishedAt": "2026-09-04T16:02:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3968801871524356",
+      "subCategory": "智能汽车",
+      "id": "tech-20260904-011"
+    },
+    {
+      "title": "安克 Anker 推出 AeroClip 2 耳夹耳机：获苹果 MFi 认证，到手价 999 元",
+      "summary": "Anker发布AeroClip 2耳夹式耳机，原价1199元、限时到手价999元，称为行业首款获苹果MFi认证的耳夹耳机，支持蓝牙6.0双设备切换，续航32小时。",
+      "publishedAt": "2026-09-04T16:01:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/433.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260904-012"
+    },
+    {
+      "title": "消息称三星电子联合 Arm，研发下一代端侧 AI 芯片",
+      "summary": "有消息称三星电子与Arm联合启动端侧AI芯片研发项目，由Arm提供AI加速器架构及RTL设计技术，三星System LSI负责整合并以2纳米工艺代工。",
+      "publishedAt": "2026-09-04T15:42:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/427.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260904-013"
+    },
+    {
+      "title": "雷克沙发布全球最薄移动固态硬盘 Muse，最厚处 3.8mm",
+      "summary": "雷克沙在IFA 2026发布号称全球最薄的移动固态硬盘Muse，最厚处3.8毫米，采用磁吸式SnapLink接口，提供512GB和1TB版本，预计今年四季度上市。",
+      "publishedAt": "2026-09-04T15:39:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/426.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260904-014"
+    },
+    {
+      "title": "法国交通部长：法国正在测试特斯拉全自动驾驶车辆",
+      "summary": "法国交通部长表示，法国已开始测试特斯拉全自动驾驶技术，以在欧盟10月就该系统审批做出决定前进行评估，此前部长曾与马斯克会面讨论相关事宜。",
+      "publishedAt": "2026-09-04T15:34:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3968782861562370",
+      "subCategory": "智能汽车",
+      "id": "tech-20260904-015"
+    },
+    {
+      "title": "我国北斗基准站服务数据首次向社会共享开放",
+      "summary": "我国卫星导航定位基准站网启动授权运营，首次向社会共享北斗基准站服务数据，全国基准站网已达7569座，可用于自动驾驶、低空经济等领域。",
+      "publishedAt": "2026-09-04T15:26:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/422.htm",
+      "subCategory": "网络基础设施",
+      "id": "tech-20260904-016"
+    },
+    {
+      "title": "华为：开启地震预警服务用户突破 1 亿",
+      "summary": "华为宣布接入国家地震预警网数据一年来，其终端开启地震预警服务的用户数已突破1亿，累计提供预警服务超6000万次。",
+      "publishedAt": "2026-09-04T15:25:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/421.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260904-017"
+    },
+    {
+      "title": "GoPro MISSION 1 PRO ILS 可换镜头摄像机国行上架：1 英寸传感器、M43 卡口，5498 元",
+      "summary": "GoPro MISSION 1 PRO ILS可换镜头相机国行开启预售，售价5498元，9月21日正式发售，配备1英寸传感器和M43卡口，支持8K 60P录制。",
+      "publishedAt": "2026-09-04T15:19:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/418.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260904-018"
+    },
+    {
+      "title": "CPU/DRAM/SSD 成本齐涨：集邦预估 900 美元笔记本 2026Q3 核心部件 BOM 占比 68%",
+      "summary": "集邦咨询预测2026年全球笔电出货量将下滑9.4%，CPU、DRAM、SSD等核心部件成本占900美元笔记本物料清单比例将从2025年一季度的45%升至今年三季度的68%。",
+      "publishedAt": "2026-09-04T15:12:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/415.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260904-019"
+    },
+    {
+      "title": "为大屏\"让路\"：现代新伊兰特、IONIQ 3 入门车型不配备仪表",
+      "summary": "现代汽车新款伊兰特与IONIQ 3入门车型取消驾驶员前方数字仪表盘，改为通过中控大屏显示信息，伊兰特可选装9.9英寸仪表屏，IONIQ 3入门款则无此选项。",
+      "publishedAt": "2026-09-04T15:12:20+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/412.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260904-020"
+    },
+    {
+      "title": "小米推出龙甲电池安心保障计划：因电池质量致自燃报废，补偿同配新车",
+      "summary": "小米推出\"龙甲电池安心保障计划\"，若因电池质量问题导致自燃且车辆报废，将补偿同配置新车；因电池碰撞或托底起火导致报废的也提供终身保障。",
+      "publishedAt": "2026-09-04T15:10:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/410.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260904-021"
+    },
+    {
+      "title": "奇瑞捷豹路虎神行者 8 上市 12 小时大定突破 5000 台，28.99 万元起",
+      "summary": "奇瑞捷豹路虎神行者8于9月3日上市，12小时内大定突破5000台，售价28.99万至37.99万元，标配双电机四驱，零百加速4.6秒，支持800V快充平台。",
+      "publishedAt": "2026-09-04T14:57:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/407.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260904-022"
+    },
+    {
+      "title": "IBM 最快量子芯片：Nighthawk r2 登场，每秒执行逾 10 万个量子线路",
+      "summary": "IBM发布迄今运行速度最快的量子处理器Nighthawk r2，拥有120个可编程量子比特，每秒可执行超10万个量子线路，吞吐量为上代Heron处理器的25倍。",
+      "publishedAt": "2026-09-04T14:50:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/404.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260904-023"
+    },
+    {
+      "title": "工信部：支持国家级人工智能开源社区（AtomGit）发展壮大，鼓励人工智能创业企业积极参与开源生态建设",
+      "summary": "工信部发布人工智能中小企业创业扶持计划，提出三年内培育超万家科技型中小企业，并支持国家级人工智能开源社区AtomGit发展，鼓励企业参与开源生态建设。",
+      "publishedAt": "2026-09-04T14:50:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/403.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260904-024"
+    },
+    {
+      "title": "8 年累计飞行约 100 亿公里：BepiColombo 航天器迈入探索水星最后一段旅程",
+      "summary": "欧空局与日本联合研制的BepiColombo探测器完成转运模块分离，已飞行近8年、累计约100亿公里，预计11月21日进入水星轨道，2027年4月开始科学观测。",
+      "publishedAt": "2026-09-04T14:41:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/401.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260904-025"
+    },
+    {
+      "id": "tech-20260904-005",
+      "title": "中国第二大晶圆代工厂：华虹宏力半导体宣布扩建无锡 12 英寸产线，月增 5.5 万片产能",
+      "summary": "华虹宏力半导体公告将通过增资项目扩建无锡12英寸产线，标的公司注册资本由668万元增至41.7亿美元，项目总投资约69.5亿美元；Fab 9B阶段项目预计月增约5.5万片产能，相当于无锡基地产能提升约30%，新增产能主要面向功率半导体及特种模拟芯片的国内供应缺口。公司披露2026年第二季度产能利用率达102.8%，受嵌入式与独立式非易失性存储业务增长带动，季度营收与利润创历史新高。",
+      "publishedAt": "2026-09-04T08:22:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/246.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260904-006",
+      "title": "特斯拉悄悄为 Model Y 引入 Cybertruck 皮卡同款 Super Manifold V2 热管理技术，散热效果更好",
+      "summary": "特斯拉将Cybertruck皮卡搭载的Super Manifold V2热管理组件悄然引入Model Y车型，用于提升散热效率与高温环境下的座舱制冷表现。车主可通过拍摄前备箱左下方热泵组件上的\"SUPER MANIFOLD V2\"标识，或查询VIN码对应零件目录（新零件编号1735000-00-A，此前为1547595-00-H）加以确认。该组件将15至20个制冷剂与冷却液相关机械部件整合至双层PCB周围的高集成设计，有助于大功率超充等场景下的稳定散热，同时降低零件复杂度与制造成本。",
+      "publishedAt": "2026-09-04T08:17:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/243.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260904-001",
+      "title": "英伟达 RTX Spark 紧凑型 Win PC 主机下月上市，含宏碁、联想等 6 家 OEM 厂商产品",
+      "summary": "英伟达宣布RTX Spark紧凑型Windows PC将于10月上市，搭载20核Grace CPU、最高128GB统一内存及RTX Blackwell GPU，算力达1 Petaflop，宏碁、联想等6家OEM厂商将推出相应产品；英伟达同时发布免费开源的Personal AI Router技术，用于在本地网络多台设备间智能分配AI推理任务。",
+      "publishedAt": "2026-09-04",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/202.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260904-035",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "summary": "谷歌发布Chrome 152.0.7977.82/.83版本，修复一个正遭在野利用的V8引擎高危零日漏洞CVE-2026-85046，该漏洞为类型混淆缺陷，攻击者可构造恶意网页触发内存破坏并执行远程代码，此次更新还一并修复了11个其他漏洞。",
+      "publishedAt": "2026-09-04",
+      "source": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260904-036",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "summary": "安全研究员Nightmare Eclipse披露CrowdStrike Falcon存在名为FalconFlank的零日提权漏洞，影响已完全更新的Windows 11 25H2及Windows Server 2025系统，攻击者可利用其宏文件威胁处置功能获取SYSTEM权限命令行，CrowdStrike建议客户暂时禁用相关宏处置策略。",
+      "publishedAt": "2026-09-04",
+      "source": "Bleeping Computer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260904-003",
+      "title": "徕卡发布 Summicron-M 66mm f/2 镜头：1.09 万美元，全球限量 660 枚",
+      "summary": "徕卡发布Summicron-M 66mm f/2镜头，为20世纪60年代Elcan 66mm f/2经典镜头复刻版，全球限量660枚，售价1.09万美元；原版Elcan镜头为美国海军设计，仅生产200枚。新镜头采用5组6片光学结构，光圈范围f/2至f/16，配9片光圈叶片，重456克，光圈环旋转方向与标准M口镜头相反。",
+      "publishedAt": "2026-09-03T23:53:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/201.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260904-002",
+      "title": "准系统 2399 元：铭凡推出 UM750 Neo 迷你主机，锐龙 Z1 处理器、16GB 板载内存",
+      "summary": "铭凡推出UM750 Neo迷你主机，搭载AMD锐龙Z1处理器，6核心12线程，最高主频4.9GHz，配16GB板载内存及AMD Radeon核显，支持双M.2 2280 PCIe 4.0硬盘位、USB4接口及2.5GbE网口，准系统售价2399元，16GB+500GB版售2999元，16GB+1TB版售3599元，预装Windows 11系统。",
+      "publishedAt": "2026-09-03T23:27:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/200.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260904-004",
+      "title": "AMD 推送肾上腺素驱动 26.9.1 可选更新：支持两款新游戏，修复部分游戏崩溃",
+      "summary": "AMD发布肾上腺素驱动26.9.1可选版本，新增支持《鬼武者：剑之道》和《黎明行者之血》两款游戏，修复了Radeon RX 9000系列显卡运行《星空》和《Apex英雄》时可能出现的间歇性崩溃问题，该驱动在Windows 10系统下存在智能显存访问被自动禁用的已知问题。",
+      "publishedAt": "2026-09-03T23:16:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/199.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260903-006",
+      "title": "吉利正研发1800kW超快充设施，汽车充电时间有望缩短至5分钟",
+      "summary": "吉利英国区总经理杨晓光在EX2车型英国发布会上透露，公司正研发最大功率1800kW的超快充设施，可将充电时间缩短至约5分钟，计划联合充电运营商部署并面向所有电动车开放，固态电池技术预计几个月内将在中国市场落地应用。",
+      "publishedAt": "2026-09-03T16:27:24+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/998.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260903-007",
+      "title": "澜起科技：CXL3.2芯片获三星、SK海力士采用，PCIe Switch年内流片",
+      "summary": "澜起科技披露上半年营业收入33.35亿元，同比增长26.7%，净利润增长72.3%；公司DDR5 RCD芯片已推进至第六代样品，支持9200MT/s速率，CXL 3.2 MXC芯片实现64GT/s速率并获三星、SK海力士下一代产品采用，PCIe Switch芯片计划年内完成工程样片。",
+      "publishedAt": "2026-09-03T15:49:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/975.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260903-008",
+      "title": "消息称iQOO 16手机搭载自研芯片Q4，支持虚拟点光源",
+      "summary": "博主爆料称iQOO 16将搭载自研芯片Q4，支持虚拟点光源结合HDR效果，首次为手机带来主机级画面表现，游戏截图可达8K画质并支持自定义参数；此前爆料显示该机配备6.85英寸2K+165Hz三星屏幕及全新方形影像模组设计。",
+      "publishedAt": "2026-09-03T15:45:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/973.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260903-005",
+      "title": "全国首款仿生医疗机器人发布：优必选联合麦迪科技打造",
+      "summary": "优必选与麦迪科技联合推出面向养老场景的仿生医疗机器人，结合全尺寸双足机器人本体、高精度面部微表情模块与多自由度肢体结构，接入麦迪科技覆盖十大核心维度的老年评估数据库，可用于慢病监测、用药安全与疼痛评估等诊疗环节，提供男/女版本可选。",
+      "publishedAt": "2026-09-03T15:40:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/971.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260903-001",
+      "title": "美国宇航局火星直升机旋翼突破1.08马赫，升力提高30%",
+      "summary": "美国宇航局喷气推进实验室完成新一代火星直升机137次旋翼测试，桨叶尖端速度约达每小时869公里，较\"机智号\"提升约30%升力。该项目代号SkyFall，预计不早于2028年发射，将搭载三架直升机及一架备用机随\"自由号\"空间反应堆任务登陆火星，独立配备相机、大气传感器及探地雷达搜寻地下冰层。",
+      "publishedAt": "2026-09-03T08:36:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/741.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260903-002",
+      "title": "鸿蒙智行问界M9 Ultimate旗舰SUV新功能首曝",
+      "summary": "华为常务董事余承东亲自体验鸿蒙智行问界M9 Ultimate新功能，包括车外语音交互（识别行人并摆动车身回应挥手）、第二排投影观看\"5D电影\"、车身随剧情摆动、自动开关门、座椅旋转及隐私模式，另有隐藏功能支持互动游戏，驾驶方向盘与油门操作时底盘会同步响应。",
+      "publishedAt": "2026-09-03T08:34:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/740.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260903-003",
+      "title": "波音交付最后3颗O3b mPOWER卫星，完成首批13颗卫星星座",
+      "summary": "波音宣布已向卫星通信运营商SES交付最后3颗O3b mPOWER卫星，完成首批13颗卫星星座建设，卫星计划本月从美国佛罗里达州太空海岸发射，预计2027年完成变轨与初始化后投入运营。该中地球轨道星座采用波音702X平台及软件定义载荷技术，支持动态带宽路由与容量调整，此前10颗在轨卫星已验证架构有效性。",
+      "publishedAt": "2026-09-03T08:27:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/739.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260902-812",
+      "title": "黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查",
+      "summary": "安全研究组织发现黑客在暗网平台Nexus上出售超过1.53亿份美国驾驶证扫描件，泄露数据还包括逾千万份身份证件、300万份旅行证件及57.9万张医疗卡，其中美国国防部部长的驾照也在其中，源头疑与身份验证公司IDScan.net相关，FBI已展开调查。",
+      "publishedAt": "2026-09-02T23:44:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/704.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260902-811",
+      "title": "华为 Watch 6 系列手表海外发布：3500 尼特 OLED 屏幕、可选陶瓷 / 钛金属表壳",
+      "summary": "华为在海外发布Watch 6系列智能手表，标准版配铝合金或不锈钢表壳，最高亮度3000尼特；Pro版采用钛金属或陶瓷表壳，屏幕亮度达3500尼特，配备12通道智感窗可采集14项身体指标，支持超100种运动模式。预计9月23日在欧英上市，标准版起售价399.99英镑，Pro版599.99英镑。",
+      "publishedAt": "2026-09-02T23:14:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/688.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260902-805",
+      "title": "吉利银河 TT 车型 9 月 10 日上市：定位中大型纯电轿跑，预售 14.59 万元起",
+      "summary": "吉利银河旗下中大型纯电轿跑银河TT将于9月10日在杭州上市，此前预售价14.59万至16.99万元起，小订已破2万台。新车长4999毫米、风阻系数0.22Cd，提供后驱与四驱版本，综合功率最高425千瓦，CLTC续航540至725公里。",
+      "publishedAt": "2026-09-02T08:13:11+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/215.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260902-802",
+      "title": "雷蛇灵猫 Razer Prio 可折叠游戏手柄发布：支持 7 英寸内手机，国行 799 元",
+      "summary": "雷蛇发布可折叠手游手柄Prio（灵猫），国行售价799元，海外99.99美元。折叠后约107×67×23毫米、重101克，最大兼容7英寸内手机，提供全尺寸按键布局，兼容Xbox云游戏、Steam Link等远程串流服务。",
+      "publishedAt": "2026-09-02T07:58:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/209.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260902-808",
+      "title": "我国科学家首次实现高光谱相机实时解析，卫星可直接实时出结果",
+      "summary": "北京理工大学团队在《科学》杂志发表片上光谱计算成果，实现高光谱相机从图像采集到数据分析全流程芯片化。团队负责人边麓恒表示，数据无需再传回地面处理，卫星可直接实时输出分析结果，为遥感卫星等场景提供技术基础。",
+      "publishedAt": "2026-09-02T07:26:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/204.htm",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260902-807",
+      "title": "地平线征程 6M 官宣大规模量产上车，城区 NOA 延伸至 10 万级主流汽车市场",
+      "summary": "地平线宣布征程6M芯片实现大规模量产上车，截至8月已落地20余家车企超70款车型，其中7个品牌实现城区辅助驾驶平台化上车。该芯片算力128TOPS，支持单芯片覆盖高速、城区、泊车场景，并可风冷适配燃油车，将智驾下探至10万级市场。",
+      "publishedAt": "2026-09-02T07:22:53+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/203.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260902-809",
+      "title": "全球首例苹果 Vision Pro 辅助髋关节镜手术完成，医生无需频繁扭头看屏幕",
+      "summary": "史赛克宣布杜克大学医学中心用其SportSuite Vision应用与苹果Vision Pro完成全球首例髋关节镜辅助手术。主刀医生称空间计算可按个人习惯排布信息，减少术中反复扭头看屏幕，该应用2024年7月已获FDA认证。",
+      "publishedAt": "2026-09-02T07:13:25+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/202.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260902-700",
+      "title": "长安汽车8月交付21.88万辆，海外市场9.24万辆连续7个月同比大涨",
+      "summary": "长安汽车公布8月交付数据，整体交付21.88万辆，其中新能源汽车10.5万辆，同比增长22.7%；海外市场交付9.24万辆，同比增长78.6%，已连续七个月保持同比大幅增长，长安启源、深蓝汽车、阿维塔等品牌均有交付贡献。",
+      "publishedAt": "2026-09-02T00:11:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/997/188.htm",
+      "subCategory": "智能汽车"
+    }
+  ]
+}
