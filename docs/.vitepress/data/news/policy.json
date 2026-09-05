@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-05T09:00:00+08:00",
+  "updatedAt": "2026-09-05T17:10:00+08:00",
   "items": [
     {
       "id": "policy-20260905-001",
@@ -67,6 +67,33 @@
       "source": "中央网信办",
       "url": "https://www.cac.gov.cn/2026-09/04/c_1790271981702331.htm",
       "subCategory": "数字经济"
+    },
+    {
+      "title": "工业和信息化部办公厅关于印发《人工智能中小企业创业支持计划（2026—2028年）》的通知",
+      "summary": "工业和信息化部办公厅印发《人工智能中小企业创业支持计划（2026—2028年）》，提出三年内新培育科技型中小企业超1万家、专精特新\"小巨人\"企业突破2000家，并建设10个科技型企业孵化器。",
+      "publishedAt": "2026-09-04",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/jgsj/qyj/wjfb/art/2026/art_86c400b4473849818629663a94a6d44b.html",
+      "subCategory": "AI监管",
+      "id": "policy-20260905-101"
+    },
+    {
+      "title": "Payment Processor Nuvei Must Implement Robust Merchant Screening Practices and Pay $4.85 Million to Settle FTC Charges that the Firm Facilitated Merchant Fraud",
+      "summary": "美国联邦贸易委员会与支付处理商Nuvei达成和解，指控其为技术支持诈骗等欺诈商户提供支付服务，Nuvei需支付485万美元用于消费者赔偿并加强商户审查。",
+      "publishedAt": "2026-09-04",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/payment-processor-nuvei-must-implement-robust-merchant-screening-practices-pay-485-million-settle",
+      "subCategory": "金融监管",
+      "id": "policy-20260905-103"
+    },
+    {
+      "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers",
+      "summary": "特朗普签署行政令，要求美国农业部调查肉类加工行业垄断行为，推动检验程序现代化以降低成本，并为小型加工商建立支持项目，以扩大跨州市场准入。",
+      "publishedAt": "2026-09-04",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/",
+      "subCategory": "反垄断",
+      "id": "policy-20260905-104"
     },
     {
       "id": "policy-20260904-001",
@@ -139,6 +166,15 @@
       "source": "美国证券交易委员会（SEC）",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
       "subCategory": "金融监管"
+    },
+    {
+      "title": "工业和信息化部等十部门关于印发《促进中小企业发展\"十五五\"规划》的通知",
+      "summary": "工业和信息化部等十部门联合印发《促进中小企业发展\"十五五\"规划》，要求各地结合实际认真贯彻实施，统筹产业、金融、创新、人才等政策支持中小企业发展。",
+      "publishedAt": "2026-09-03",
+      "source": "工业和信息化部",
+      "url": "https://wap.miit.gov.cn/jgsj/qyj/wjfb/art/2026/art_dbe17b3fbf0d43cfa1dc907e5936611d.html",
+      "subCategory": "产业政策",
+      "id": "policy-20260905-102"
     },
     {
       "id": "policy-20260903-006",
@@ -688,42 +724,6 @@
       "source": "国家广播电视总局（IT之家）",
       "url": "https://www.ithome.com/0/993/116.htm",
       "subCategory": "产业政策"
-    },
-    {
-      "title": "促内需 财政金融协同政策\"组合拳\"迎来优化",
-      "summary": "财政部、央行和金融监管总局8月21日宣布优化财政金融协同促内需政策工具，将经营性贷款、信用卡分期（含购车、家装）纳入贴息范围，服务银行由约100家扩大至400家，小微企业贷款贴息上限由5000万元提高到7500万元，个人消费贴息上限由3000元提高到5000元，下半年还将推出更多财政金融协同措施。",
-      "publishedAt": "2026-08-21T19:52:00+08:00",
-      "source": "新华社/中国政府网",
-      "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078804.htm",
-      "subCategory": "金融监管",
-      "id": "policy-20260822-001"
-    },
-    {
-      "id": "policy-20260824-001",
-      "title": "李强主持召开国务院常务会议",
-      "summary": "8月21日，国务院总理李强主持召开国务院常务会议，听取新一代通信网建设情况汇报，部署清理拖欠企业账款工作，研究改善空气质量有关措施，并审议通过《电力安全事故应急处置和调查处理条例》（修订草案）和《市场监督管理所条例》（草案）。",
-      "publishedAt": "2026-08-21T19:40:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-21/10681981.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260822-005",
-      "title": "特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司召回部分国产及进口纯电动汽车",
-      "summary": "国家市场监督管理总局8月21日公布特斯拉（上海）、特斯拉汽车（北京）备案的召回计划，因车内应急机械拉手与内饰颜色相近不易识别，以及辅助转向状态下驾驶人注意力监测不足，涉及国产及进口Model 3、Y、X、S部分车型，将通过张贴警示标识及OTA升级消除隐患。",
-      "publishedAt": "2026-08-21T17:42:00+08:00",
-      "source": "国家市场监督管理总局",
-      "url": "https://www.samr.gov.cn/zw/zh/art/2026/art_4223bf2706a84189b425d58124dbac7d.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260824-002",
-      "title": "2026年1-7月全国吸收外资4383.3亿元人民币",
-      "summary": "商务部数据显示，2026年1至7月全国新设外商投资企业37711家，同比增长4.4%，实际使用外资4383.3亿元人民币，同比下降6.2%，其中高技术产业实际使用外资1823.1亿元，同比增长32.7%。",
-      "publishedAt": "2026-08-21T17:00:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_d22dcc4d9d19455bbfce84ad52727aa4.html",
-      "subCategory": "跨境贸易"
     }
   ]
 }
