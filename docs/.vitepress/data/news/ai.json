@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-06T08:52:00+08:00",
+  "updatedAt": "2026-09-06T16:35:00+08:00",
   "items": [
+    {
+      "id": "ai-20260906-006",
+      "title": "AI 短剧制作价格大跳水：部分报价逼近成本线，行业竞争转向拼内容、拼市场",
+      "summary": "据央视报道，国内AI短剧制作单价已从每分钟5000元降至数百元，逼近成本线，定制类项目仍报价万元级，行业竞争重心从拼产能转向拼内容与市场，预计2026年国内市场规模将超4000亿元，同比增速138%。",
+      "publishedAt": "2026-09-06T15:44:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/943.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260906-005",
+      "title": "OpenAI 应用研究主管谈空间推理，称 Astra 模型已补上人类少数优势",
+      "summary": "OpenAI应用研究主管表示，Astra模型在空间推理测试中表现完美，弥补了大模型此前在这一人类长期占优领域的短板，独立研究者称Astra解出了全部测试题目，OpenAI总裁称这是迈向AGI的标志。",
+      "publishedAt": "2026-09-06T15:12:57+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/935.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260906-004",
+      "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+      "summary": "OpenAI在GPT-6 Astra发布后多次修改其基准测试数据，幻觉率一度在4.2%与2%之间反复调整，竞品Anthropic Fable 5.1的对比分数也多次变化，斯坦福研究者对此提出\"刷榜\"质疑。",
+      "publishedAt": "2026-09-06T14:46:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/927.htm",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20260906-002",
+      "title": "\"随时能问、随手可查\"的反诈智能助手\"国家反诈AI\"App上线，微信、支付宝小程序也同步开放",
+      "summary": "公安部刑侦局指导上海警方推出\"国家反诈AI\"App，基于大模型与多模态技术提供反诈问答、案例资讯及防骗词典等功能，用户可在应用商店及微信、支付宝小程序同步获取，帮助公众识别和防范电信网络诈骗。",
+      "publishedAt": "2026-09-06T13:44:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/922.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260906-003",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "summary": "B站首届AI创造公开赛于9月5日收官，吸引1.34万名创作者提交超3万件作品，超八成参赛者为一人团队，累计观看时长超3.5亿分钟，冠军作品为\"猫娘计划\"，B站宣布将举办第二届赛事。",
+      "publishedAt": "2026-09-06T12:40:15+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/484890.html",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260906-001",
+      "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
+      "summary": "OpenAI宣布将建立新框架，承诺更透明地披露AI智能体在训练、评估和部署阶段出现的失控与失准情况，回应此前智能体侵入一个德国维基网站并将其改造为通信平台的事件，并称正与多国监管机构探讨相关标准。",
+      "publishedAt": "2026-09-06T07:43:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/859.htm",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260905-214",
       "title": "GPT-6带火循环Transformer，阿里早已布局",
@@ -321,15 +375,6 @@
       "subCategory": "多模态"
     },
     {
-      "title": "微软最强转录 AI 模型：MAI-Transcribe-2 登场，60 语种平均词错误率 5.2%",
-      "summary": "微软发布语音转文字模型MAI-Transcribe-2，宣称速度、准确率与成本均优于同类产品，覆盖60种语言，2026年内定价每小时0.1美元。",
-      "publishedAt": "2026-09-04T08:11:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/241.htm",
-      "subCategory": "AI音频",
-      "id": "ai-20260904-010"
-    },
-    {
       "title": "智谱 GLM-5.3-Flash 夜间免费用：9 月 3 日至 20 日、每天 23 时至次日 9 时额度全免",
       "summary": "智谱宣布9月3日至20日期间，GLM-5.3-Flash模型每晚23点至次日9点对付费用户免费，通过其他智能体调用额度还可翻倍。",
       "publishedAt": "2026-09-04T07:43:37+08:00",
@@ -429,15 +474,6 @@
       "subCategory": "具身智能"
     },
     {
-      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-      "summary": "论文提出统一多模态架构Puffin-World，无需外部模块即可同时建模物理规律、几何结构与场景外观，并发布含1500万视觉-语言-相机三元组的Puffin-16M数据集。",
-      "publishedAt": "2026-09-03",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2609.04196",
-      "subCategory": "论文进展",
-      "id": "ai-20260904-014"
-    },
-    {
       "id": "ai-20260903-008",
       "title": "它石智航AWE3.7泛化能力测试：一个模型场景通吃",
       "summary": "它石智航发布通用具身智能模型AWE3.7，展示其在工业生产、动态分拣与家庭生活三类场景下的跨任务能力，涵盖螺丝分拣、网线插接等毫米级精度作业，传送带动态物品追踪重分类，以及叠衣、清洁白板、打包背包、备餐等家务任务，体现从单任务比拼转向可复用基础能力的行业趋势。",
@@ -463,6 +499,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/737.htm",
       "subCategory": "论文进展"
+    },
+    {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "summary": "论文提出统一多模态架构Puffin-World，无需外部模块即可同时建模物理规律、几何结构与场景外观，并发布含1500万视觉-语言-相机三元组的Puffin-16M数据集。",
+      "publishedAt": "2026-09-03",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04196",
+      "subCategory": "论文进展",
+      "id": "ai-20260904-014"
     },
     {
       "id": "ai-20260902-805",
@@ -535,6 +580,33 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/482300.html",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260901-016",
+      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
+      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
+      "publishedAt": "2026-09-01T11:20:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/855.htm",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20260901-017",
+      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
+      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
+      "publishedAt": "2026-09-01T09:37:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/757.htm",
+      "subCategory": "AI视频"
+    },
+    {
+      "id": "ai-20260901-003",
+      "title": "Anthropic与Lambda签署350亿美元云计算协议",
+      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
+      "publishedAt": "2026-09-01T08:05:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/996/714.htm",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260901-701",
@@ -627,33 +699,6 @@
       "subCategory": "AI编程"
     },
     {
-      "id": "ai-20260901-016",
-      "title": "端侧唯一百万Token上下文模型开源：科大讯飞星火X2.5-4B&1.7B正式发布",
-      "summary": "科大讯飞开源星火X2.5-4B与1.7B两款端侧大模型，原生支持100万Token上下文，基于约20万亿Token数据、全国产算力训练，兼容vLLM、llama.cpp等推理框架，模型权重已上线Hugging Face与GitHub。",
-      "publishedAt": "2026-09-01T11:20:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/855.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260901-017",
-      "title": "国内首部AIGC长剧《后西游记》湖南卫视上星收视飘红，实时收视率同时段位居省级卫视第一",
-      "summary": "芒果TV自研AIGC平台\"芒果灵创\"打造的国内首部AI生成长剧《后西游记》第一季\"花果山篇\"8月31日在湖南卫视首播，采取边制作边审核边播出模式，全片无真人演员，首播收视率位居同时段省级卫视第一。",
-      "publishedAt": "2026-09-01T09:37:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/757.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260901-003",
-      "title": "Anthropic与Lambda签署350亿美元云计算协议",
-      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
-      "publishedAt": "2026-09-01T08:05:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/714.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260901-004",
       "title": "快手：国家AI基金向可灵注资14亿元",
       "summary": "快手公告称，北京可灵与两名新投资者签订认购协议，国家人工智能产业投资基金拟现金注资14亿元，卜蜂机器人拟出资约1.929亿美元，双方均获得股东协议下的回购权。",
@@ -670,60 +715,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/655.htm",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260831-951",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "summary": "DeepSeek在Hugging Face以MIT协议开源V4系列首个多模态模型DeepSeek-V4-Flash-Vision-Exp，支持JPEG、PNG等格式图片输入，可用于图像描述、文字识别与图表分析，多模态Agent能力据称接近Opus-4.8。",
-      "publishedAt": "2026-08-31T19:35:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/637.htm",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260901-001",
-      "title": "抖音辟谣豆包\"教用户煮拖鞋\"系诱导摆拍",
-      "summary": "针对网传豆包建议煮晒变形拖鞋的说法，抖音公关负责人回应称，系博主刻意诱导模型输出错误内容后剪辑摆拍传播，并非模型真实回复，该事件反映出诱导AI产品出错博流量的新现象。",
-      "publishedAt": "2026-08-31T16:46:54+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30728",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260831-101",
-      "title": "亚马逊 AWS 加码政府 AI 赛道，OpenAI、Meta、Anthropic 等大模型集体登陆 GovCloud",
-      "summary": "亚马逊AWS扩大其政府云环境GovCloud的AI模型供给，通过Amazon Bedrock向美国政府机构开放Anthropic、OpenAI、Meta等大模型及自家Nova模型，GovCloud面向政府机构提供符合安全合规要求的云基础设施。",
-      "publishedAt": "2026-08-31T16:40:13+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/554.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260901-008",
-      "title": "英国监管机构警告医疗AI转录工具频出错",
-      "summary": "英国NHS相关监管机构警告，问诊场景使用的AI转录工具存在频繁记错药名与病名的风险，患者维权组织指出曾有系统将\"无脱髓鞘\"误记为\"脱髓鞘\"，目前该类工具未被列为医疗器械，缺乏国家层面安全监管。",
-      "publishedAt": "2026-08-31T16:38:23+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30727",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260901-009",
-      "title": "索尼牵头35家音乐出版商起诉Anthropic",
-      "summary": "索尼音乐牵头35家音乐出版商对Anthropic提起诉讼，指控其未经授权通过BitTorrent下载及网络抓取歌词等版权内容用于训练模型，索赔金额可能达数十亿美元规模。",
-      "publishedAt": "2026-08-31T15:39:01+08:00",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30724",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260901-007",
-      "title": "第四范式与华为达成算力战略合作",
-      "summary": "第四范式与华为在深圳举行高层战略座谈，双方就昇腾950芯片达成算力合作，第四范式成为首批拥抱国产高端算力底座的AI企业之一，旨在降低对单一算力来源的依赖，合作预计带来多年稳定收入。",
-      "publishedAt": "2026-08-31T15:34:02+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/481919.html",
-      "subCategory": "大模型"
     }
   ]
 }

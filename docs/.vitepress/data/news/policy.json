@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-06T08:52:00+08:00",
+  "updatedAt": "2026-09-06T16:35:00+08:00",
   "items": [
+    {
+      "id": "policy-20260906-001",
+      "title": "Firms freed from 'pen-pushing paperwork' and costly red tape in business reporting overhaul",
+      "summary": "英国政府宣布企业报告制度改革，预计每年为企业节省4.5亿英镑成本，另有2.3亿英镑来自取消董事报告要求及扩大审计豁免范围。改革将以数字化沟通取代纸质股东通讯，简化中小企业财务报告要求，并以偿付能力测试取代复杂的可分配利润规则，咨询将于9月7日启动。",
+      "publishedAt": "2026-09-06",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260905-001",
+      "title": "国家无线电办公室部署开展卫星网络国内协调第三方机构评估工作",
+      "summary": "国家无线电办公室发布通知，2026至2027年试行卫星网络国内协调第三方机构评估机制，规定评估一般不超过1个月，复杂系统可延至2个月，评估报告作为国内协调完成依据。",
+      "publishedAt": "2026-09-04T11:26:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690158.shtml",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260905-002",
       "title": "国务院公布《电力安全事故应急处置和调查处理条例》",
@@ -114,15 +132,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260905-001",
-      "title": "国家无线电办公室部署开展卫星网络国内协调第三方机构评估工作",
-      "summary": "国家无线电办公室发布通知，2026至2027年试行卫星网络国内协调第三方机构评估机制，规定评估一般不超过1个月，复杂系统可延至2个月，评估报告作为国内协调完成依据。",
-      "publishedAt": "2026-09-04T11:26:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690158.shtml",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260904-001",
       "title": "商务部服贸司负责人介绍2026年1-7月服务贸易发展情况",
       "summary": "商务部服务贸易司负责人介绍，2026年1至7月中国服务贸易额达4446.7亿元人民币，同比增长8.3%；其中出口1773.2亿元，同比增长17.1%，进口2673.5亿元，同比增长3.2%，服务贸易逆差同比收窄176.3亿元。旅行和运输服务贡献逾半数出口增长，旅行服务出口增长27.7%，运输服务增长27.1%；知识密集型服务出口占比达53.5%，个人文化娱乐服务及知识产权使用费出口分别增长57.8%和42.1%。",
@@ -222,15 +231,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260903-003",
-      "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
-      "summary": "二十国集团创新部长级会议9月2日在美国北卡罗来纳州教堂山落幕，由美国商务部及白宫科技政策办公室主办，与会方发布包含六大支柱的共识声明，涵盖创新政策框架、AI标准制定、AI知识产权及技术工人培养等议题，并推出《卡罗来纳原则》及AI繁荣契约，二十国及非洲联盟代表参加，马斯克、奥特曼、黄仁勋、扎克伯格等出席炉边对话。",
-      "publishedAt": "2026-09-02",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
-      "subCategory": "海外政策"
-    },
-    {
       "id": "policy-20260903-002",
       "title": "中央网信办深入开展\"清朗·整治AI应用乱象\"专项行动第二阶段工作",
       "summary": "中央网信办通报\"清朗·整治AI应用乱象\"专项行动第二阶段进展，聚焦编造虚假信息、传播暴力低俗内容、仿冒他人及侵害未成年人权益等问题，累计清理违规帖文561万余条、处置违规账号近4.9万个、处理不合规网站和应用超2400家，抖音、快手、微博、腾讯等平台同步强化内容审核机制。",
@@ -238,6 +238,15 @@
       "source": "中央网信办",
       "url": "https://www.cac.gov.cn/2026-09/02/c_1790099041364574.htm",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260903-003",
+      "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
+      "summary": "二十国集团创新部长级会议9月2日在美国北卡罗来纳州教堂山落幕，由美国商务部及白宫科技政策办公室主办，与会方发布包含六大支柱的共识声明，涵盖创新政策框架、AI标准制定、AI知识产权及技术工人培养等议题，并推出《卡罗来纳原则》及AI繁荣契约，二十国及非洲联盟代表参加，马斯克、奥特曼、黄仁勋、扎克伯格等出席炉边对话。",
+      "publishedAt": "2026-09-02",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260902-800",
@@ -321,6 +330,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260831-952",
+      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
+      "summary": "国家市场监督管理总局发布强制性国家标准《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》，为雷达、摄像头等智能网联部件放宽局部凸出尺寸限制，并将新能源商用车单侧单轮轴荷上限由7000公斤提高至8000公斤，标准自2027年7月1日起实施。",
+      "publishedAt": "2026-08-31T11:02:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260831-950",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
       "summary": "欧盟委员会宣布依据《数字服务法》将ChatGPT认定为超大型在线搜索引擎，Reddit和Roblox认定为超大型在线平台，三者月活跃用户均超4500万，需在四个月内履行系统性风险评估等额外合规义务。",
@@ -355,15 +373,6 @@
       "source": "美国证券交易委员会（SEC）",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260831-952",
-      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
-      "summary": "国家市场监督管理总局发布强制性国家标准《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》，为雷达、摄像头等智能网联部件放宽局部凸出尺寸限制，并将新能源商用车单侧单轮轴荷上限由7000公斤提高至8000公斤，标准自2027年7月1日起实施。",
-      "publishedAt": "2026-08-31T11:02:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
-      "subCategory": "产业政策"
     },
     {
       "title": "南京住房公积金异地贷款范围扩大至全国 9月1日起施行",
@@ -447,42 +456,6 @@
       "id": "policy-20260828-502"
     },
     {
-      "id": "policy-20260829-101",
-      "title": "国家发展改革委召开全国投资工作推进会议",
-      "summary": "国家发展改革委8月28日召开全国投资工作推进会议，主任郑栅洁及多部委负责人参会，会议指出当前投资运行呈现结构优化、提质增效特征，同时坦承存在困难挑战，部署加快政府债券和政策性金融工具资金拨付、推进重大基础设施项目、落实\"六网\"建设规划、简化用地环评审批及强化民间资本参与重大项目等重点任务。",
-      "publishedAt": "2026-08-28",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260828_1407266.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260830-001",
-      "title": "国家发展改革委举行8月份新闻发布会",
-      "summary": "国家发展改革委8月28日上午举行8月份新闻发布会，介绍推动有效投资、《物流网络建设实施方案》等情况，并就半导体、迎峰度夏用电、具身智能等问题回答记者提问，逾50家中外媒体60余名记者参加。",
-      "publishedAt": "2026-08-28",
-      "source": "国家发展和改革委员会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260828_1407257.html",
-      "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260830-003",
-      "title": "SEC拟修订规则将欧盟债务纳入\"豁免证券\"",
-      "summary": "美国证券交易委员会8月28日提议修订《证券交易法》3a12-8规则，将欧盟债务纳入\"豁免证券\"范围，使欧盟债务期货交易归商品期货交易委员会专属管辖，公开征求意见期为联邦公报刊登后60天。",
-      "publishedAt": "2026-08-28",
-      "source": "美国证券交易委员会",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260830-005",
-      "title": "特朗普签署公告设立美国太空学院委员会",
-      "summary": "美国总统特朗普签署公告，设立总统委员会负责设计美国太空学院方案，由NASA局长牵头，成员包括战争部、行政管理和预算局等机构代表。委员会须在120天内就治理架构、课程设置、毕业生服务义务、申请条件及实施时间表提出建议。",
-      "publishedAt": "2026-08-28",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
-      "subCategory": "海外政策"
-    },
-    {
       "id": "policy-20260828-001",
       "title": "八部门发布多式联运五年攻坚方案，千个货运节点将迎升级",
       "summary": "交通运输部等八部门联合印发《实施多式联运攻坚 打通堵点卡点行动方案（2026—2030年）》，明确推动约1000个主要货运节点升级多式联运功能，目标实现多式联运1小时换装率超90%、沿海港口多式联运港区铁路进港率达80%、长江干线主要港口铁路进港率100%。",
@@ -564,6 +537,15 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260826-006",
+      "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
+      "summary": "国新办举行\"开局起步'十五五'\"系列主题新闻发布会，工业和信息化部介绍将着力优化产业结构，加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，并推动量子科技、生物制造、脑机接口、具身智能、第六代移动通信等未来产业发展。",
+      "publishedAt": "2026-08-26T10:07:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684321.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260826-005",
       "title": "国家数据局与约旦数字经济与创业部签署数字经济合作谅解备忘录",
       "summary": "国家数据局与约旦数字经济与创业部在中约两国元首共同见证下签署关于加强数字经济合作的谅解备忘录，协议签署于8月24日、8月26日对外发布。双方承诺在数字经济领域开展务实合作，通过丰富合作载体、挖掘新增长点推动两国数字经济合作提质升级。",
@@ -598,15 +580,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
       "subCategory": "海外政策",
       "id": "policy-20260828-504"
-    },
-    {
-      "id": "policy-20260826-006",
-      "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
-      "summary": "国新办举行\"开局起步'十五五'\"系列主题新闻发布会，工业和信息化部介绍将着力优化产业结构，加快打造集成电路、航空航天、生物医药、低空经济、新型储能、智能机器人等新兴支柱产业，并推动量子科技、生物制造、脑机接口、具身智能、第六代移动通信等未来产业发展。",
-      "publishedAt": "2026-08-26T10:07:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684321.shtml",
-      "subCategory": "产业政策"
     },
     {
       "title": "工业和信息化部绿色低碳标准化技术委员会成立",
@@ -706,24 +679,6 @@
       "source": "国家市场监督管理总局（国务院食品安全办）",
       "url": "https://www.chinanews.com.cn/sh/2026/08-24/10683220.shtml",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260824-007",
-      "title": "央行开展5000亿元中期借贷便利（MLF）操作",
-      "summary": "中国人民银行发布公告，将于8月25日开展5000亿元中期借贷便利操作，采用固定数量、利率招标、多重价位中标方式，期限1年，以保持银行体系流动性充裕。",
-      "publishedAt": "2026-08-24",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125437/125446/125873/2026082417362891341/index.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "title": "中央网信办深入推进网络娱乐团播乱象整治工作",
-      "summary": "中央网信办通报\"清朗·网络娱乐团播乱象整治\"专项行动进展，已处置违规团播直播间7200余个，严惩违规账号2200余个，指导平台清退一批问题严重的团播MCN机构，累计发布治理公告17期。",
-      "publishedAt": "2026-08-24T10:20:38+08:00",
-      "source": "央视网",
-      "url": "https://news.cctv.com/2026/08/24/ARTIdaDYieb4OQYkd2c8zz7T260824.shtml",
-      "subCategory": "数字经济",
-      "id": "policy-20260825-003"
     }
   ]
 }
