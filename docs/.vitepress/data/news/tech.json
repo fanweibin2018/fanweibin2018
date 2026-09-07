@@ -204,6 +204,24 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260907-006",
+      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
+      "summary": "据英国金融时报报道，Travis Kalanick旗下机器人公司Atoms计划通过招聘与收购进军自动驾驶出租车业务，该公司已获a16z领投17亿美元融资，优步已向其投资1亿美元并探讨技术合作。",
+      "publishedAt": "2026-09-06T09:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260907-005",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "summary": "特斯拉在奥斯汀部署首批无方向盘无踏板Cybercab后，美国国家公路交通安全管理局已展开调查；目前得州仅注册45辆Cybercab，马斯克未出席发布活动，特斯拉自我认证车型的做法引发监管关注。",
+      "publishedAt": "2026-09-06T09:08:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "subCategory": "智能汽车"
+    },
+    {
       "id": "tech-20260906-001",
       "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
       "summary": "特斯拉AI负责人表示，Robotaxi有望于10月实现24小时全天候运营。目前该服务在美国六座城市每日6点至22点运营，突破依赖FSD v15架构升级及夜间超充网络建设。",
@@ -211,6 +229,42 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1148/1148988.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260906-005",
+      "title": "消息称奥之心 PEN 复古无反相机定价 1000 美元，9 月 9 日登场",
+      "summary": "据博主爆料，奥之心将于9月9日发布PEN复古无反相机，搭载与OM-3、OM-1 II同款2000万像素M43传感器，预计售价约1000美元，随附14-42mm套机镜头。",
+      "publishedAt": "2026-09-06T08:18:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/868.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260906-002",
+      "title": "OPPO A7 Pro真机上手：确认搭载天玺6360 MAX",
+      "summary": "OPPO A7 Pro将于9月11日发布，实机曝光确认搭载天玺6360 MAX处理器，支持45W快充，配8000mAh电池及IP69K防水防尘，主打耐用性。",
+      "publishedAt": "2026-09-06T08:15:33+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1148/1148987.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260906-003",
+      "title": "英伟达宣布在 PAX West 游戏展以官方建议零售价销售 RTX 50 系列 Founders Edition 显卡",
+      "summary": "英伟达宣布将在PAX West游戏展上限量以官方建议零售价销售RTX 50系列公版显卡，其中RTX 5090 FE售价1999美元，RTX 5080 FE为999美元，明显低于当前市场价格。",
+      "publishedAt": "2026-09-06T07:21:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/851.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260906-004",
+      "title": "摩托罗拉发布 Moto Snap 无线充电器：Qi2.2 25W / 私有协议 30W，带磁吸",
+      "summary": "摩托罗拉在IFA 2026发布Moto Snap磁吸无线充电器，支持Qi2.2标准25W充电，自家设备可达30W私有协议快充，售价39欧元，将于未来数周在多地上市。",
+      "publishedAt": "2026-09-06T07:17:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/850.htm",
+      "subCategory": "消费电子"
     },
     {
       "id": "tech-20260905-215",
