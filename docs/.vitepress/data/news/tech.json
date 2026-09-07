@@ -3,12 +3,39 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-07T16:55:00+08:00",
+  "updatedAt": "2026-09-07T23:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260907-012",
+      "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月15 日晚",
+      "summary": "荣耀宣布2026全球开发者大会将于9月15日在深圳举行，MagicOS 11操作系统定于当晙19点至20点发布，官方称其为行业首个实现系统级Agent Harness商用落地的手机操作系统，主要功能包括存储空间最高节炐60GB、全新液态玻璃UI设计及多协议快充支持。",
+      "publishedAt": "2026-09-07T23:22:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/493.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260907-013",
+      "title": "Steam 今年已为 Valve 带来 150 亿美元收入，《极限竞速：地平线 6》领跑新作",
+      "summary": "据Alinea Analytics数据，Steam平台2026年迄今为Valve贡献150亿美元收益，新作收入榜前三为《极限竞速：地平线6》（约2.105亿美元）、《红色沙漠》（约2.033亿美元）和《生化危机：安魂曲》（约2.009亿美元），前100款新游戏合计贡献24亿美元。",
+      "publishedAt": "2026-09-07T23:08:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/491.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260907-014",
+      "title": "小米澎程N70 Pro发布，售价20.99万元起",
+      "summary": "小米秋季发布会推出澎程N70 Pro车型，定位中大型五座增程SUV，售价20.99万元起，N70 Max版本23.99万元起，全系标配辅助驾驶功能并搭载700TOPS英伟达Thor智驾芯片。",
+      "publishedAt": "2026-09-07T20:38:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3973327826907393",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260907-009",
       "title": "5999 元起，华为 Pura X View 阔直板手机正式上市",
-      "summary": "华为在鸿蒙HarmonyOS 7发布会上推出Pura X View阔直板手机，厘6.68毫米、重201克，搭载麦靈ႇ9030S处理器，配备2亿像素RYYB主摄及5000万像素潜望长焦，电池容量7000mAh，12GB+256GB版本售价5999元。",
+      "summary": "华为在鸿蒙HarmonyOS 7发布会上推出Pura X View阔直板手机，厘6.68毫米、重201克，搭载麦靖ć9030S处理器，配备2亿像素RYYB主摄及5000万像素潜望长焦，电池容量7000mAh，12GB+256GB版本售价5999元。",
       "publishedAt": "2026-09-07T16:36:56+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/348.htm",
@@ -17,7 +44,7 @@
     {
       "id": "tech-20260907-010",
       "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
-      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则由64%降至50%。",
+      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
       "publishedAt": "2026-09-07T16:33:39+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/346.htm",
@@ -25,8 +52,8 @@
     },
     {
       "id": "tech-20260907-011",
-      "title": "华为时隔六年再次发布高性能芯片：Mate XT2 三折叠首发麦靈 9050 Pro",
-      "summary": "华为9月7日在广州发布Mate XT2三折叠手机，搭载新款麦靈ႇ9050 Pro芯片，整机性能提卂42%，为华为Mate40后时隔六年再度在旗舰发布会推出全新麦靈ႇ9a片，首次采用芯片科学家何庭波提出的\"逻辑折叠\"架构设计。",
+      "title": "华为时隔六年再次发布高性能芯片：Mate XT2 三折叠首发麦靖 9050 Pro",
+      "summary": "华为9月7日在广州发布Mate XT2三折叠手机，搭载新款麦靖ć9050 Pro芯片，整机性能提参42%，为华为Mate40后时隔六年再度在旗舰发布会推出全新麦靖ć9a片，首次采用芯片科学家何庭波提出的\"逻辑折叠\"架构设计。",
       "publishedAt": "2026-09-07T15:07:00+08:00",
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609073866641930.html",
@@ -52,8 +79,8 @@
     },
     {
       "id": "tech-20260907-003",
-      "title": "729元 利民推出TROFEO VISION 360 ARGB WHITE水冷：配6.86寸磁吸屏幕",
-      "summary": "利民推出TROFEO VISION 360 ARGB WHITE一体式水冷，早鸟价729元，标配6.86英寸1280×480磁吸IPS屏可显示视频或系统数据，配三把2150转风扇，兼容Intel与AMD平台。",
+      "title": "729元 利民推出TROFEO VISION 360 ARGB WHITE水冷：順6.86寸磁吸屏幕",
+      "summary": "利民推出TROFEO VISION 360 ARGB WHITE一体式水冷，早鸟价729元，标配6.86英寸1280×480磁吸IPS屏可显示视频或系统数据，配三抋2150转风扇，兼容Intel与AMD平台。",
       "publishedAt": "2026-09-07T08:24:48+08:00",
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1149/1149088.htm",
@@ -87,9 +114,27 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260907-006",
+      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
+      "summary": "据英国金融时报报道，Travis Kalanick旗下机器人公司Atoms计划通过招聘与收购进军自动驾驶出租车业务，该公司已获a16z领投17亿美元融资，优步已向其投资1亿美元并探讨技术合作。",
+      "publishedAt": "2026-09-06T09:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260907-005",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "summary": "特斯拉在奥斯汀部署首批无方向盘无踏板Cybercab后，美国国家公路交通安全管理局已展开调查；目前得州仅注册45辆Cybercab，马斯克未出席发布活动，特斯拉自我认证车型的做法引发监管关注。",
+      "publishedAt": "2026-09-06T09:08:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "subCategory": "智能汽车"
+    },
+    {
       "id": "tech-20260906-018",
       "title": "OPPO A7 Pro真机亮相：8000mAh电池，9月11日发售",
-      "summary": "OPPO A7 Pro将于9月11日10点开售，搭载8000mAh电池，支持IP69K防水防尘、超抗摧金刚石架构及全场景AI防诈功能，配备OLED炫彩屏与ColorOS系统，提供乘风破浪、步步生花、大漠棕三款配色。",
+      "summary": "OPPO A7 Pro将于9月11日10点开售，搭蠠8000mAh电池，支持IP69K防水防尘、超抗摧金刚石架构及全场景AI防诈功能，配备OLED烫彩屏与ColorOS系统，提供乘风破浪、步步生花、大漠棕三款配色。",
       "publishedAt": "2026-09-06T17:17:48+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/999.htm",
@@ -107,7 +152,7 @@
     {
       "id": "tech-20260906-020",
       "title": "三星Galaxy S27 Pro / Ultra手机获3C认证，支持60W有线快充",
-      "summary": "三星Galaxy S27 Pro与Ultra通过中国3C认证，均支持60W有线快充与25W无线充电，电池容量分别为5200mAh与5800mAh并采用硅碳负极，均搭载龙垼8 Elite Gen 6 Pro芯片、12GB内存及2亿像素主摄，Ultra版屏幕更大且独有S Pen支持。",
+      "summary": "三星Galaxy S27 Pro与Ultra通过中国3C认证，均支持60W有线快充与25W无线充电，电池容量分别为5200mAh与5800mAh并采用硅碳负极，均搭载龙坴8 Elite Gen 6 Pro芯片、12GB内存及2亿像素主摄，Ultra版屏幕更大且独有S Pen支持。",
       "publishedAt": "2026-09-06T16:58:31+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/996.htm",
@@ -115,8 +160,8 @@
     },
     {
       "id": "tech-20260906-021",
-      "title": "加南科技预告新款屏显AI眼镜：整机26g、无边框设计，计劒2027年春季发布",
-      "summary": "加南科技预告新款屏显AI眼镜，整机重量约26克，采用无边框框型设计并支持近视配镜，镜腿厚度2.3毫米，内置扬声器与PPG心率检测模块，通过蓝牙PAN技术接入云端AI服务，与浙江通达光学合作验证量产可行性，计劒2027年春季正式发布。",
+      "title": "加南科技预告新款屏显AI眼镜：整机26g、无边框设计，计勒2027年春季发布",
+      "summary": "加南科技预告新款屏显AI眼镜，整机重量约26克，采用无边框框型设计并支持近视配镜，镜腿厚度2.3毫米，内置扬声器与PPG心率检测模块，通过蓝牙PAN技术接入云端AI服务，与浙江通达光学合作验证量产可行性，计勒2027年春季正式发布。",
       "publishedAt": "2026-09-06T16:57:24+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/995.htm",
@@ -133,8 +178,8 @@
     },
     {
       "id": "tech-20260906-016",
-      "title": "首度超越三星！豪威CIS市占率術13%跃居全球第二",
-      "summary": "豪威集团2025年CMOS图像传感器市场份额術13%，首次超越三星，成为仅次于索尼的全球第二大CIS供应商；2025年全球CIS市场规模约230亿美元，同比增长11.2%，文章称韩厂战略收缩、国产替代及自动驾驶等新应用是主要推动因素。",
+      "title": "首度超越三星！豪威CIS市占率术13%跃居全球第二",
+      "summary": "豪威集团2025年CMOS图像传感器市场份额术13%，首次超越三星，成为仅次于索尼的全球第二大CIS供应商；2025年全球CIS市场规模约230亿美元，同比增长11.2%，文章称韩厂战略收缩、国产替代及自动驾驶等新应用是主要推动因素。",
       "publishedAt": "2026-09-06T15:51:58+08:00",
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1149/1149025.htm",
@@ -143,7 +188,7 @@
     {
       "id": "tech-20260906-015",
       "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
-      "summary": "雷鸟推出鹤6 Ultra竞技款电视并已在京东开启预售，65英寸版本原价5005元，叠加优惠券及国补后降至3999元起；搭载原疘4K 150Hz QD-Mini LED屏幕，峰值亮度2200尼特，DCI-P3色域98%。",
+      "summary": "雷鸟推出鹤6 Ultra竞技款电视并已在京东开启预售，65英寸版本原价5005元，叠加优惠券及国补后降至3999元起；搭载原皘4K 150Hz QD-Mini LED屏幕，峰值亮度2200尼特，DCI-P3色域98%。",
       "publishedAt": "2026-09-06T15:10:22+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/934.htm",
@@ -160,8 +205,8 @@
     },
     {
       "id": "tech-20260906-013",
-      "title": "网传比亚迪方程豹鉰 6 谬照曝光，延续方盒子设计",
-      "summary": "网络流出疑似比亚迪方程豹鉰阔领6谬照，延续鉰酣5、鉰酣5等车型的方盒子设计语言，采用封闭式前脸、下置日行灯的宽幅大灯、外扩轮眉、机械式门把手及车顶激光雷达，前脸封闭设计推测为纯电车型，售价预计低于今年4月上市、起售价19.98万元的鉰酣7闪充版。",
+      "title": "网传比亚迪方程豹錒 6 谬照曝光，延续方盒子设计",
+      "summary": "网络流出疑似比亚迪方程豹錒阔順6谬照，延续錒酫5、錒酫5等车型的方盒子设计语言，采用封闭式前脸、下置日行灯的宽幅大灯、外扩轮眉、机械式门把手及车顶激光雷达，前脸封闭设计推测为纯电车型，售价预计低于今年4月上市、起售价19.98万元的錒酫7闪充版。",
       "publishedAt": "2026-09-06T14:54:20+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/931.htm",
@@ -188,7 +233,7 @@
     {
       "id": "tech-20260906-010",
       "title": "Pico 神秘 VR 设备获美国 FCC 认证，预计为 Space Pro 头显",
-      "summary": "字节跳动旗下Pico一款VR设备通过美国FCC认证，据推测为2026年第四季度发布的Space Pro头显，配备4000 PPI Micro-OLED屏幕，采用双芯片架构，新主处理器CPU与GPU性能预计达现有龙铿XR2 Gen2的两倍。",
+      "summary": "字节跳动旗下Pico一款VR设备通过美国FCC认证，据推测为2026年第四季度发布的Space Pro头显，配备4000 PPI Micro-OLED屏幕，采用双芯片架构，新主处理器CPU与GPU性能预计达现有龙锂XR2 Gen2的两倍。",
       "publishedAt": "2026-09-06T12:54:36+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/917.htm",
@@ -215,7 +260,7 @@
     {
       "id": "tech-20260906-007",
       "title": "V社有望为Steam Frame头显引入彩色透视模块，作为升级套件单独发售",
-      "summary": "据供应商Komodo Station流出信息，V社计划为未发布的Steam Frame VR头显推出彩色透视模块，作为独立升级套件单独发售，采用双3200万像素传感器，支抑10bit HDR、原疘5K分辨率，最高超频至144帧。",
+      "summary": "据供应商Komodo Station流出信息，V社计划为未发布的Steam Frame VR头显推出彩色透视模块，作为独立升级套件单独发售，采用双3200万像素传感器，支抑10bit HDR、原皘5K分辨率，最高超频至144帧。",
       "publishedAt": "2026-09-06T11:05:07+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/904.htm",
@@ -223,30 +268,12 @@
     },
     {
       "id": "tech-20260906-006",
-      "title": "小米18 Pro系列9月登场！首发第六代龙須8超级至尊版",
-      "summary": "小米宣布18 Pro系列将于9月发布，线下盲订已开启，机型首发高通第六代龙須8至尊版处理器，该芯片基于台积电2nm工艺，CPU主频将首次突破5GHz；Pro Max版本主摄升级为2亿像素LOFIC大底传感器。",
+      "title": "小米18 Pro系列9月登场！首发第六代龙题8超级至尊版",
+      "summary": "小米宣布18 Pro系列将于9月发布，线下盲订已开启，机型首发高通第六代龙题8至尊版处理器，该芯片基于台积电2nm工艺，CPU主频将首次突破5GHz；Pro Max版本主摄升级为2亿像素LOFIC大底传感器。",
       "publishedAt": "2026-09-06T10:31:56+08:00",
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1148/1148994.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260907-006",
-      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
-      "summary": "据英国金融时报报道，Travis Kalanick旗下机器人公司Atoms计划通过招聘与收购进军自动驾驶出租车业务，该公司已获a16z领投17亿美元融资，优步已向其投资1亿美元并探讨技术合作。",
-      "publishedAt": "2026-09-06T09:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260907-005",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "summary": "特斯拉在奥斯汀部署首批无方向盘无踏板Cybercab后，美国国家公路交通安全管理局已展开调查；目前得州仅注册45辆Cybercab，马斯克未出席发布活动，特斯拉自我认证车型的做法引发监管关注。",
-      "publishedAt": "2026-09-06T09:08:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "subCategory": "智能汽车"
     },
     {
       "id": "tech-20260906-001",
@@ -294,6 +321,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260905-218",
+      "title": "Isar Aerospace reaches orbit on second Spectrum launch",
+      "summary": "德国火箭公司Isar Aerospace的\"光谱\"号（Spectrum）火箭9月5日从挪威安多岗航天中心发射升空并成功入轨，这是该公司第二次发射尝试，也是首枚从欧洲大陆发射入轨的商业运载火箭。",
+      "publishedAt": "2026-09-05T19:10:00-04:00",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/isar-aerospace-reaches-orbit-on-second-spectrum-launch/",
+      "subCategory": "航空航天"
+    },
+    {
       "id": "tech-20260905-215",
       "title": "OPPO Find X10边框不到1mm：OPPO史上最窄直屏",
       "summary": "OPPO Find X10标准版屏幕边框宽度低于1mm，为该品牌史上最窄直屏，屏幕由天马提供并采用LIPO封装工艺，色域达95% BT.2020，将于9月内发布。",
@@ -305,7 +341,7 @@
     {
       "id": "tech-20260905-214",
       "title": "1.28kg塞进12核Zen 5！积核X16 Pro AMD版亮相：32GB LPDDR5X",
-      "summary": "积核在IFA 2026展示X16 Pro笔记本AMD版，搭载12栈24线程锐龙AI 9 HX 470处理器，集成Radeon 890M显卡及XDNA 2 NPU，整机重1.28kg，配32GB LPDDR5X内存及2TB SSD。",
+      "summary": "积核在IFA 2026展示X16 Pro笔记本AMD版，搭载12栄24线程锐龙AI 9 HX 470处理器，集成Radeon 890M显卡及XDNA 2 NPU，整机重1.28kg，配32GB LPDDR5X内存及2TB SSD。",
       "publishedAt": "2026-09-05T23:34:47+08:00",
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1148/1148983.htm",
@@ -366,15 +402,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260905-218",
-      "title": "Isar Aerospace reaches orbit on second Spectrum launch",
-      "summary": "德国火箭公司Isar Aerospace的\"光谱\"号（Spectrum）火箭9月5日从挪威安多岚航天中心发射升空并成功入轨，这是该公司第二次发射尝试，也是首枚从欧洲大陆发射入轨的商业运载火箭。",
-      "publishedAt": "2026-09-05T19:10:00-04:00",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/isar-aerospace-reaches-orbit-on-second-spectrum-launch/",
-      "subCategory": "航空航天"
-    },
-    {
       "id": "tech-20260905-210",
       "title": "塔塔咨询将在印度海得拉巴建设 1GW AI 数据中心，预计投资 7000 亿卢比",
       "summary": "塔塔咨询子公司HyperVault在印度海得拉巴收购264英亩土地，计划建设规划容量达1吉瓦的大型AI数据中心园区，用于支持AI模型训练、推理及高性能计算负载，建成后有望成为印度规模最大的AI基础设施之一。",
@@ -386,7 +413,7 @@
     {
       "id": "tech-20260905-208",
       "title": "长安汽车：\"天枢领航\"海外高速 NCA 方案计划 2027 年落地",
-      "summary": "长安汽车在9月4日科技生态大会上发布自研智能驾驶辅助方案\"天枢领航\"，涵盖高速NCA、城市NCA及全场景泊车三大功能域，计划明年起在海外市场率先落地高速NCA方案，并在当地建设算力中心。",
+      "summary": "长安汽车在9月4日科技生态大会上发布自研智能驾驶辅助方案\"天枢领航\"，涵盖高速NCA、城市NCA及全场景注车三大功能域，计划明年起在海外市场率先落地高速NCA方案，并在当地建设算力中心。",
       "publishedAt": "2026-09-05T18:32:27+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/808.htm",
@@ -404,7 +431,7 @@
     {
       "id": "tech-20260905-207",
       "title": "我国首台：大视场亚秒级采样 1 米级巡天望远镜\"天语\"首次成像，完整摄下逾百万颜恒星",
-      "summary": "由上海交通大学李政道研究所与中科院上海天文台研制的\"天语\"巡天望远镜在青海冷湖基地完成首光观测，一次曝光即完整摄下天鹅座北美洲星云、鵇鴸星云及周边逾百万颜恒星，单次拍摄覆盖约9平方度天区。",
+      "summary": "由上海交通大学李政道研究所与中科院上海天文台研制的\"天语\"巡天望远镜在青海冷湖基地完成首光观测，一次曝光即完整摄下天鹅座北美洲星云、鸇鸸星云及周边逾百万颜恒星，单次拍摄覆盖约9平方度天区。",
       "publishedAt": "2026-09-05T17:27:40+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/786.htm",
@@ -430,7 +457,7 @@
     },
     {
       "title": "狼蛛 G9 头戴式耳机开售：53mm 动圈、换电设计，269 元",
-      "summary": "狼蛚G9头戴式游戏耳机开售，售价269元，配备53mm镀鉰动圈单元与C-Media声卡芯片，支持Xear 7.1虚拟环绕音，提供蓝牜6.0、2.4G及3.5mm四种连接方式，内置1500mAh电池并支持换电设计。",
+      "summary": "狼蛚G9头戴式游戏耳机开售，售价269元，配备53mm镀钐动圈单元与C-Media声卡芯片，支持Xear 7.1虚拟环绕音，提供蓝特80 6.0、2.4G及3.5mm四种连接方式，内置1500mAh电池并支持换电设计。",
       "publishedAt": "2026-09-05T16:51:37+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/781.htm",
@@ -483,8 +510,8 @@
       "id": "tech-20260905-101"
     },
     {
-      "title": "高通第六代龙須8超级至尊版芯片样品曝光：主频冲至 5068MHz",
-      "summary": "高通第六代龙須8超级至尊版（SM8975）芯片样品曝光，采用2+3+3八核设计，最高频率达5068MHz，搭载Adreno 850 GPU，早前曝光信息显示该芯片将采用台积电2nm工艺制造。",
+      "title": "高通第六代龙题8超级至尊版芯片样品曝光：主频冲至 5068MHz",
+      "summary": "高通第六代龙题8超级至尊版（SM8975）芯片样品曝光，采用2+3+3八核设计，最高频率达5068MHz，搭载Adreno 850 GPU，早前曝光信息显示该芯片将采用台积电2nm工艺制造。",
       "publishedAt": "2026-09-05T14:24:59+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/741.htm",
@@ -528,6 +555,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260905-217",
+      "title": "OlloBot Unveils OlloNi SS1 At IFA 2026, Pioneering the Cyber Pet Era",
+      "summary": "香港AI机器人公司OlloBot在IFA 2026发布陀伴机器人OlloNi SS1，具备多模态感知、自适应记忆及自主移动能力，可识别家庭成员并主动发起互动，获IFA家庭娱乐类创新奖。",
+      "publishedAt": "2026-09-05",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/09/05/3356870/0/en/ollobot-unveils-olloni-ss1-at-ifa-2026-pioneering-the-cyber-pet-era-to-address-the-growing-household-companionship-gap.html",
+      "subCategory": "机器人"
+    },
+    {
       "id": "tech-20260905-008",
       "title": "传音 MegaBook T15 360 系列笔记本发布：搭触控屏支持手写笔、至高搭载酷睦 Ultra 9 185H 处理器",
       "summary": "传音在IFA 2026发布MegaBook T15 360系列笔记本，标准版售价899欧元、Pro版1099欧元，均支持360度旋转触控屏与MPP 2.0手写笔，Pro版配备2560×1440 120Hz屏幕，预计今年四季度登陆欧洲市场。",
@@ -539,7 +575,7 @@
     {
       "id": "tech-20260905-007",
       "title": "AMD 锐龙 5 7500 处理器曝光，6 核 12 线程规格与 7500F 看齐",
-      "summary": "据爆料者Roland Quandt消息，AMD计划为AM5平台推出锐龙5 7500处理器，6栈12线程，基础频率3.7GHz，最高加速5.0GHz，总缓存38MB，热设计功耀65W，预测售价约230欧元，高于现有R5 7500F。",
+      "summary": "据爆料者Roland Quandt消息，AMD计划为AM5平台推出锐龙5 7500处理器，6栄12线程，基础频率3.7GHz，最高加速5.0GHz，总缓存38MB，热设计功耀65W，预测售价约230欧元，高于现有R5 7500F。",
       "publishedAt": "2026-09-05T07:46:18+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/645.htm",
@@ -574,21 +610,12 @@
     },
     {
       "id": "tech-20260905-001",
-      "title": "599元 安克发布10咈1拓展坯：三屏异显 所有外设一台搞定",
-      "summary": "安克发布10咈1扩展坯，9月10日开售，售价599元，配备HDMI 2.1与DisplayPort 1.4接口，单屏最高支持4K 144Hz或2K 240Hz，双屏可同时输出4K 60Hz与2K 240Hz，内置小屏幕显示分辨率与充电状态，最高可为笔记本提供80W供电。",
+      "title": "599元 安克发布10咂Є1拓展坯：三屏异显 所有外设一台搞定",
+      "summary": "安克发布10咂Є1扩展坯，9月10日开售，售价599元，配备HDMI 2.1与DisplayPort 1.4接口，单屏最高支持4K 144Hz或2K 240Hz，双屏可同时输出4K 60Hz与2K 240Hz，内置小屏幕显示分辨率与充电状态，最高可为笔记本提供80W供电。",
       "publishedAt": "2026-09-05T00:09:15+08:00",
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1148/1148867.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-217",
-      "title": "OlloBot Unveils OlloNi SS1 At IFA 2026, Pioneering the Cyber Pet Era",
-      "summary": "香港AI机器人公司OlloBot在IFA 2026发布陀伴机器人OlloNi SS1，具备多模态感知、自适应记忆及自主移动能力，可识别家庭成员并主动发起互动，获IFA家庭娱乐类创新奖。",
-      "publishedAt": "2026-09-05",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/09/05/3356870/0/en/ollobot-unveils-olloni-ss1-at-ifa-2026-pioneering-the-cyber-pet-era-to-address-the-growing-household-companionship-gap.html",
-      "subCategory": "机器人"
     },
     {
       "id": "tech-20260904-026",
@@ -602,7 +629,7 @@
     {
       "id": "tech-20260904-027",
       "title": "阿里入局“千帆星座”，现身垣信卫星股东名单",
-      "summary": "阿里巴巴旗下杭州创业投资公司完成工商变更，成为千帆星座运营主体垣信卫星的股东。千帆星座卫星数量已增至238颍，计划年内达到324颍实现全球覆盖，垣信卫星今年8月完成1约70亿元增资，投后估值约5000亿元。",
+      "summary": "阿里巴巴旗下杭州创业投资公司完成工商变更，成为千帆星座运营主体垣信卫星的股东。千帆星座卫星数量已增至238颖，计划年内达到324颖实现全球覆盖，垣信卫星今年8月完成1约70亿元增资，投后估值约5000亿元。",
       "publishedAt": "2026-09-04T23:23:58+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/623.htm",
@@ -647,7 +674,7 @@
     {
       "id": "tech-20260904-031",
       "title": "消息称玛莎拉蒂正与华为、江淮洽谈合作，有望联合开发电动汽车",
-      "summary": "据意大利媒体Milano Finanza报道，玛莎拉蒂正与华为、江淮汽车推进电动车联合开发合作，工业设计已进入早期阶段，目标2027年底前投产，新车在中国市场使用“尊界”品牌、海外保留玛莎拉蒂车标，双方计劒2027年前完成正式协议签署。",
+      "summary": "据意大利媒体Milano Finanza报道，玛莎拉蒂正与华为、江淮汽车推进电动车联合开发合作，工业设计已进入早期阶段，目标2027年底前投产，新车在中国市场使用“尊界”品牌、海外保留玛莎拉蒂车标，双方计勒2027年前完成正式协议签署。",
       "publishedAt": "2026-09-04T21:51:50+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/603.htm",
@@ -697,60 +724,6 @@
       "url": "https://www.ithome.com/0/998/449.htm",
       "subCategory": "消费电子",
       "id": "tech-20260904-007"
-    },
-    {
-      "title": "中国一汽改克硫化物全固态电池低压力运行重大技术难题，实现 5 兆帕稳定循环",
-      "summary": "中国一汽联合高校在硫化物全固态电池领域取得突破，将电池运行压力从此前普遍20兆帕以上降至5兆帕并实现稳定循环，成果发表于《先进能源材料》期刊。",
-      "publishedAt": "2026-09-04T16:30:25+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/448.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260904-008"
-    },
-    {
-      "title": "Counterpoint 数据：NAND 价格 2026Q2 上涨 55%，长江存储营收市占维持 14%",
-      "summary": "Counterpoint数据显示，2026年二季度全球NAND闪存价格环比上涧55%，带动行业营收增长70%，三星、SK海力士、美光位列前三，长江存储市占维持14%。",
-      "publishedAt": "2026-09-04T16:14:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/439.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260904-009"
-    },
-    {
-      "title": "印度成功发射其首颜地球同步成像卫星 EOS-05",
-      "summary": "印度空间研究组织使用GSLV-F17火箭成功发射首颗专为地球同步轨道设计的成像卫星EOS-05，为该型火箭第19次飞行，本财年计划完成6次以上发射。",
-      "publishedAt": "2026-09-04T16:11:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/435.htm",
-      "subCategory": "航空航天",
-      "id": "tech-20260904-010"
-    },
-    {
-      "title": "小米汽车与中创新航、欣旺达动力达成\"小米龙甲电池\"战略合作",
-      "summary": "小米汽车宣布与中创新航、欣旺达动力就\"小米龙甲电池\"达成战略合作，双方将围绕电池供应链展开合作，以保障小米汽车生产的电池供应。",
-      "publishedAt": "2026-09-04T16:02:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3968801871524356",
-      "subCategory": "智能汽车",
-      "id": "tech-20260904-011"
-    },
-    {
-      "title": "安克 Anker 推出 AeroClip 2 耳夹耳机：获苹果 MFi 认证，到手价 999 元",
-      "summary": "Anker发布AeroClip 2耳夹式耳机，原价1199元、限时到手价999元，称为行业首款获苹果MFi认证的耳夹耳机，支持蓝牌6.0双设备切换，续航32小时。",
-      "publishedAt": "2026-09-04T16:01:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/433.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260904-012"
-    },
-    {
-      "title": "消息称三星电子联合 Arm，研发下一代端侧 AI 芯片",
-      "summary": "有消息称三星电子与Arm联合启动端侧AI芯片研发项目，由Arm提供AI加速器架构及RTL设计技术，三星System LSI负责整合并以2纳米工艺代工。",
-      "publishedAt": "2026-09-04T15:42:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/427.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260904-013"
     }
   ]
 }
