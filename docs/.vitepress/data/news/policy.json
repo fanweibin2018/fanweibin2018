@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-07T16:55:00+08:00",
+  "updatedAt": "2026-09-07T23:45:00+08:00",
   "items": [
+    {
+      "id": "policy-20260907-004",
+      "title": "王文涛部长会见芬兰经济事务部长普伊斯托",
+      "summary": "商务部部长王文涛9月7日上午会见芬兰经济事务部长普伊斯托，表示中芬双边经贸关系稳步向好，欢迎芬兰担任第二十六届中国国际投资贸易洽谈会主宾国，双方将在清洁能源、循环经济、智能制造等领域深化合作，并就中欧经贸关系稳定交换意见。",
+      "publishedAt": "2026-09-07T20:36:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_bb9622ec1747435d91cab1cca41976d9.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260907-003",
+      "title": "两部门：进一步规范汽车企业供应商账期管理",
+      "summary": "工业和信息化部与市场监管总局联合发布《关于推动汽车企业规范供应商账款支付优化账期管理的通知》，明确账期自供应商交付货物、工程、服务并验收合格之日起计算，要求一般零部件3个工作日内完成验收、功能性零部件5个工作日内完成，并鼓励现金支付、禁止强迫供应商接受非现金支付工具。",
+      "publishedAt": "2026-09-07T17:29:00+08:00",
+      "source": "36氪（工业和信息化部）",
+      "url": "https://www.36kr.com/newsflashes/3973142594007559",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260907-001",
       "title": "商务部：原产于日本的进口二氯二氢硅存在倾销",
@@ -695,8 +713,7 @@
       "publishedAt": "2026-08-24",
       "source": "欧盟委员会",
       "url": "https://commission.europa.eu/news-and-media/news/eu-reaffirms-solidarity-ukraine-35th-anniversary-regained-independence-2026-08-24_en",
-      "subCategory": "海外政策",
-      "id": "policy-20260825-004"
+      "subCategory": "海外政策"
     }
   ]
 }
