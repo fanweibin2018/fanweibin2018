@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-07T23:45:00+08:00",
+  "updatedAt": "2026-09-08T16:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260908-001",
+      "title": "存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量",
+      "summary": "据KB证券报告，三星与SK海力士内存库存已降至不足10天供应量，HBM4量产需消耗约三倍于传统DRAM的晶圆产能，叠加全球AI基础设施投资扩张，机构预测明年DRAM与NAND供给缺口将超过10个百分点。",
+      "publishedAt": "2026-09-08T08:32:49+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149368.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260908-002",
+      "title": "绘王推出 Android 绘图平板电脑 Kamvas Pad 12，配备联发科技 Genio 720",
+      "summary": "绘王发布Android绘图平板电脑Kamvas Pad 12，搭载联发科Genio 720处理器，配8GB内存及256GB存储，12.2英寸2400×1600分辨率90Hz屏幕，支持16384级压感，早鸟价16800新台币起。",
+      "publishedAt": "2026-09-08T08:30:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/518.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260908-003",
+      "title": "曝上汽奥迪放弃“四环”：只运营AUDI品牌",
+      "summary": "据财经科技媒体报道，上汽奥迪将逐步终止四环徽标车型生产，7月相关产量已为零，现有库存车型售罄后不再新增，未来专注AUDI纯电品牌E5、E7X，四环业务转由一汽奥迪统一运营。",
+      "publishedAt": "2026-09-08T08:29:52+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149367.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260908-004",
+      "title": "联手百年巨头阿莱！荣耀Magic9搭载自研影像芯片驭光H1 原汁原味电影感",
+      "summary": "荣耀官宣与德国影像品牌阿莱（ARRI）合作，将于9月28日发布Magic9系列，为其量身适配ARRI LogC3色彩科学，并配备自研影像芯片“驭光H1”，具备AI降噪与动态范围增强能力，团队耗时超半年完成调校以适应手机硬件限制。",
+      "publishedAt": "2026-09-08T08:26:15+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149366.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260908-005",
+      "title": "雷军谈小米澎程 N90 Max 探索版升顶意义：在一辆 SUV 里可以站起来，像在真正的房子里面一样",
+      "summary": "小米创始人雷军介绍澎程N90 Max探索版电动升顶设计，该配置可将车内净空提升至2.29米，使乘客能够站立、换衣与走动，售价29.99万元，雷军称其带来接近居家的空间体验。",
+      "publishedAt": "2026-09-08T08:21:15+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/516.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260908-006",
+      "title": "GEEKOM 发布 A5 2027 迷你主机：基于 AMD 锐龙 7 7730U，提供 3 盘位",
+      "summary": "GEEKOM在IFA 2026发布A5 2027迷你主机，搭载8核AMD锐龙7 7730U处理器，提供M.2 2280、M.2 2242及2.5英寸SATA三个存储位，配备IceBlast 3.0散热系统，待机噪音28分贝。",
+      "publishedAt": "2026-09-08T08:16:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/515.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260907-012",
       "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月15 日晚",
@@ -40,15 +94,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/348.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260907-010",
-      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
-      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
-      "publishedAt": "2026-09-07T16:33:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/346.htm",
-      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260907-011",
@@ -130,6 +175,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260907-010",
+      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
+      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
+      "publishedAt": "2026-09-07",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/346.htm",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260906-018",
@@ -465,15 +519,6 @@
       "id": "tech-20260905-104"
     },
     {
-      "title": "外媒测试英伟达 DLSS 5：显卡越强功耗增幅越大，4K 分辨率 RTX 5090 增幅 34%",
-      "summary": "德国媒体ComputerBase测试英伟达DLSS 5后发现，显卡性能越强功耗增幅越明显，RTX 5090在WQHD分辨率下功耗从299瓦升至500瓦，4K分辨率下增幅34%，主因是DLSS5主要依赖Tensor核心运行AI计算。",
-      "publishedAt": "2026-09-05T16:33:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/778.htm",
-      "subCategory": "芯片硬件",
-      "id": "tech-20260905-106"
-    },
-    {
       "id": "tech-20260905-203",
       "title": "余凯：地平线明年目标是要在中国高阶自动驾驶芯片市场超过英伟达",
       "summary": "地平线创始人余凯在2026阿拉比斯创业者论坛上表示，公司2025年推出560TOPS高性能芯片，目前在中国自动驾驶芯片市场排名第二，仅次于英伟达，目标是明年在高阶自动驾驶芯片市场实现反超。",
@@ -553,15 +598,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/653.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-217",
-      "title": "OlloBot Unveils OlloNi SS1 At IFA 2026, Pioneering the Cyber Pet Era",
-      "summary": "香港AI机器人公司OlloBot在IFA 2026发布陀伴机器人OlloNi SS1，具备多模态感知、自适应记忆及自主移动能力，可识别家庭成员并主动发起互动，获IFA家庭娱乐类创新奖。",
-      "publishedAt": "2026-09-05",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/09/05/3356870/0/en/ollobot-unveils-olloni-ss1-at-ifa-2026-pioneering-the-cyber-pet-era-to-address-the-growing-household-companionship-gap.html",
-      "subCategory": "机器人"
     },
     {
       "id": "tech-20260905-008",
@@ -661,69 +697,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/611.htm",
       "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260904-033",
-      "title": "麟麦2026芯片实测！晶体管密度暴津扭55% GPU功耗降58%",
-      "summary": "华为半导体负责人何庭波公布新版“陶氏定律”研究，采用LogicFolding技术的麟麦2026芯片实测显示，晶体管密度提升55%的同时，同等性能下GPU功耗降58%、NPU功耗降66%，芯片采用1.5微米混合键合间距、甜5000万个垂直互连点。",
-      "publishedAt": "2026-09-04T21:53:53+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148854.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260904-031",
-      "title": "消息称玛莎拉蒂正与华为、江淮洽谈合作，有望联合开发电动汽车",
-      "summary": "据意大利媒体Milano Finanza报道，玛莎拉蒂正与华为、江淮汽车推进电动车联合开发合作，工业设计已进入早期阶段，目标2027年底前投产，新车在中国市场使用“尊界”品牌、海外保留玛莎拉蒂车标，双方计勒2027年前完成正式协议签署。",
-      "publishedAt": "2026-09-04T21:51:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/603.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260904-032",
-      "title": "因苹果对质量要求极其严格，消息称折叠屏 iPhone Ultra 日产量截至上月底仅数百部",
-      "summary": "据日经亚洲报道，苹果折叠屏iPhone（暂命名iPhone Ultra）因质量把控严格，截至8月底日产量仅数百台，公司计划年产800万至1000万台并加快爸坡，良率问题集中在屏幕平整度与铰链性能，8月已增加一轮试产验证。",
-      "publishedAt": "2026-09-04T21:28:30+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/600.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-006",
-      "title": "US military disabled ad tracking on troops' devices following reports of targeted attacks",
-      "summary": "美国国防部已在陆海空军、海军陆战队及特种作战司令部的政府配发设备上关闭广告追踪功能，覆盖iPhone、安卓及Windows设备，旨在防止外国势力利用位置数据在中东等地针对美军人员发动定位攻击。",
-      "publishedAt": "2026-09-04T21:21:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260904-034",
-      "title": "4699元起！三星Galaxy S26 FE开售：Exynos 2500、首发预装One UI 9",
-      "summary": "三星Galaxy S26 FE正式开售，起售价约4699元，是S26系列首款预装One UI 9（基于Android 17）机型，可获七年系统更新。机身搭载3nm工艺Exynos 2500处理器、6.7英寸120Hz屏幕及4900mAh电池，支持45W有线快充，防护等级IP68。",
-      "publishedAt": "2026-09-04T20:56:56+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148853.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-003",
-      "title": "Feds launch investigation into Tesla's Cybercab deployment",
-      "summary": "美国国家公路交通安全管理局在特斯拉于奥斯汀街头投运无方向盘、无踏板的Cybercab数小时后即宣布立案调查，审查特斯拉自我认证该车符合联邦机动车安全标准所依据的流程与技术数据。",
-      "publishedAt": "2026-09-04T20:01:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "title": "爱奇艺、网易云音乐、WPS 等多款软件适配小米 18 Fold，官方发文致谢",
-      "summary": "小米官方致谢爱奇艺、网易云音乐、WPS、剪辑、高德等多款软件完成对小米18 Fold折叠屏的适配，该机将于9月7日发布。",
-      "publishedAt": "2026-09-04T16:34:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/449.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260904-007"
     }
   ]
 }
