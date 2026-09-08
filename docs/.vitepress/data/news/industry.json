@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-07T23:45:00+08:00",
+  "updatedAt": "2026-09-08T16:30:00+08:00",
   "items": [
+    {
+      "id": "industry-20260908-002",
+      "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、攻高端商机",
+      "summary": "据DIGITIMES报道，AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
+      "publishedAt": "2026-09-08T03:00:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767630_LIP7PS2N23UB10190I69Q",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-001",
+      "title": "存储器涨价挤压三星手机HDI 供应链转向半导体PCB卡位",
+      "summary": "据DIGITIMES报道，存储器价格上涨正对下游产生连带影响，韩国及海外PCB厂商产能加速转向利润更高的半导体相关PCB，导致三星电子手机(MX)业务高密度互联板(HDI)供应趋紧，迫使供应链重新调整产能分配。",
+      "publishedAt": "2026-09-08T02:53:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767487_VHR5EE5A7I32QZ8KAE6OY",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-003",
+      "title": "美国管制、存储器技术推动 中国设备国产化从前段攻向后段封装",
+      "summary": "据DIGITIMES报道，受美国半导体设备出口管制及存储器技术快速发展双重影响，中国半导体设备厂商正加速将前段制程积累的技术能力延伸至后段封装环节，推动封装设备国产化进程。",
+      "publishedAt": "2026-09-08T02:06:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260907-004",
       "title": "中汽协：2026 年 7 月我国汽车整车出口 109.2 万辆，同比增长 57.5%",
@@ -402,6 +429,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260903-004",
+      "title": "AI算力引爆MLCC需求，三星电机斉获史上最大长约",
+      "summary": "三星电机获得约1.07万亿韩元AI服务器MLCC长期订单，为公司史上最大单笔合约，相当于其上一财年营收的9.5%；该合约紧随三星8月1日对MLCC提价30%之后，日本太阳诱甃9月1日亦跟涨，行业分析认为供应紧张态势或将持续至2028年。",
+      "publishedAt": "2026-09-03T07:44:00+08:00",
+      "source": "东方财富研究中心",
+      "url": "https://finance.eastmoney.com/a/202609033863294424.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260905-211",
       "title": "台积电设备采购需求半年暴涠90%产能仍难满足AI需求",
       "summary": "台积电高管在SEMICON Taiwan 2026上透露，公司设备采购需求约8个月内增长近90%，目前全球同步在建约20座晶圆厂与封装厂，产能仍难以完全满足AI算力需求增长。",
@@ -420,13 +456,13 @@
       "id": "industry-20260904-010"
     },
     {
-      "id": "industry-20260903-004",
-      "title": "AI算力引爆MLCC需求，三星电机斉获史上最大长约",
-      "summary": "三星电机获得约1.07万亿韩元AI服务器MLCC长期订单，为公司史上最大单笔合约，相当于其上一财年营收的9.5%；该合约紧随三星8月1日对MLCC提价30%之后，日本太阳诱甃9月1日亦跟涨，行业分析认为供应紧张态势或将持续至2028年。",
-      "publishedAt": "2026-09-03T07:44:00+08:00",
-      "source": "东方财富研究中心",
-      "url": "https://finance.eastmoney.com/a/202609033863294424.html",
-      "subCategory": "半导体产业"
+      "id": "industry-20260908-004",
+      "title": "Global Existing Smartphone Prices Climb About 15% in 2026, New Launches 25% Costlier YoY as OEMs Maneuver Memory Price Hikes",
+      "summary": "Counterpoint Research报告显示，受存储芯片成本上涨影响，2026年全球在售智能手机零售价平均上涨约15%，新机型同比涨价25%，印度涨幅达21%居首位，中国涨幅约10%，美国涨幅最低为5%，逾四成机型出现涨价。",
+      "publishedAt": "2026-09-03",
+      "source": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/insights/global-existing-smartphone-prices-climb-about-15-percent-in-2026",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260902-809",
@@ -688,42 +724,6 @@
       "source": "199IT",
       "url": "http://www.199it.com/archives/1848786.html",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260831-951",
-      "title": "IDC：2025年中国企业级智能客服市场规模达71.9亿元，同比增长55.3%",
-      "summary": "IDC报告显示，2025年中国企业级智能客服市场规模达71.9亿元，同比增长55.3%，阿里云以13.5%份额连续三年居首，大模型与智能体正推动行业从传统客服向可自主完成业务的智能体演进。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT/IDC",
-      "url": "http://www.199it.com/archives/1848560.html",
-      "subCategory": "企业服务"
-    },
-    {
-      "id": "industry-20260831-950",
-      "title": "国家统计局：2026年1—7月集成电路行业利润同比增长18.5倍",
-      "summary": "国家统计局数据显示，2026年1-7月中国集成电路行业利润同比增长18.5倍，算力芯片与存储芯片企业贡献超八成电子行业利润增量，计算机制造利润增长3.3倍，电子材料生产增长226.8%。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT/国家统计局",
-      "url": "http://www.199it.com/archives/1848557.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260831-001",
-      "title": "顺丰董事长王卫加入极免董事会，任非执行董事",
-      "summary": "极免速递公告，顺丰控股董事长王卫获委任为公司非执行董事，任期至2028年底。今年1月顺丰与极免达成相互持股协议，6月完成认购交割，双方另订立综合物流服务框架协议。",
-      "publishedAt": "2026-08-30T22:22:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/244.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260831-002",
-      "title": "追霸起诉小红书，案由名誉权纠纷",
-      "summary": "法院开庭信息显示，追霸科技（苏州）有限公司因名誉权纠纷起诉小红书运营主体行吁信息科技，案件将于9月8日在上海市黄浦区人民法院开庭审理。",
-      "publishedAt": "2026-08-30T22:09:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/242.htm",
-      "subCategory": "公司动态"
     }
   ]
 }
