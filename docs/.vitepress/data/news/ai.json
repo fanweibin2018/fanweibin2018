@@ -3,8 +3,62 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-08T16:30:00+08:00",
+  "updatedAt": "2026-09-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "ai-20260908-005",
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "summary": "OpenAI因用户大量使用GPT-6 Astra的3D建模能力导致token消耗激增，宣布对所有付费订阅用户执行一次全体token重置，预计北京时间9月8日上午10点生效，此前用户已用该功能实现图纸转3D模型、生成可交互城市场景等应用。",
+      "publishedAt": "2026-09-08T14:05:30+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/485854.html",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260908-006",
+      "title": "王云鹤创业后交出首个模型",
+      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神驹”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积累的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
+      "publishedAt": "2026-09-08T10:14:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260908-007",
+      "title": "DeepSeek V4.1 Flash 中间版本内测：新模型结构，原生多模态支持，更快更强、成本更低",
+      "summary": "DeepSeek开启V4.1 Flash中间版本内测，采用新模型结构并原生支持多模态，性能更强、成本更低，计费对齐V4-Flash，单账号并发上限20，官方正收集反馈评估能否替代现有V4 Pro。",
+      "publishedAt": "2026-09-08T16:05:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/795.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260908-008",
+      "title": "小米 MiMo 桌面客户端开放邀测：支持生成完整预览界面、自主控制浏览器",
+      "summary": "小米面向真实工作场景推出的MiMo桌面客户端开放邀测，可直接处理表格、图片、视频、PDF、音频等多种格式文件，能生成含交互逻辑和数据可视化的完整预览界面，并具备自主控制浏览器完成网页操作的能力，测试期间可免费体验两款新模型。",
+      "publishedAt": "2026-09-08T15:36:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/751.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260908-009",
+      "title": "谷歌为移动平台版本 Gmail / Google Docs / Keep 应用整合 Gemini 语音搜索能力，支持利用自然语言交互",
+      "summary": "谷歌为Gmail、Google Docs、Keep移动版整合Gemini语音搜索，Google AI会员可用自然语言交互，目前仅支持英语。Gmail中可语音查找邮件信息，Docs可口述生成文档草稿，Keep支持语音快速记事。",
+      "publishedAt": "2026-09-08T15:11:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/733.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260908-010",
+      "title": "微软纳德拉发布 Opal：用户只需提目标，AI 跑全流程交付成品",
+      "summary": "微软CEO纳德拉发布Opal，作为Microsoft 365 Copilot新智能体功能，可持续工作数小时至数天，自动执行多步骤任务。演示中系统分析一个月野生动物摄像画面并生成表格与PPT总结，微软称已助工程师审计时每周节省最多20小时。",
+      "publishedAt": "2026-09-08T16:10:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/797.htm",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260907-008",
       "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
@@ -670,60 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/757.htm",
       "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260901-003",
-      "title": "Anthropic与Lambda签署350亿美元云计算协议",
-      "summary": "Anthropic与英伟达支持的云服务商Lambda签署350亿美元算力协议，由Lambda运营Hut8在得州建设、英伟达持有租约的数据中心为其提供算力，此前Anthropic已与Nscale签订450亿美元算力协议。",
-      "publishedAt": "2026-09-01T08:05:09+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/714.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260903-001",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "summary": "Anthropic推出企业前沿防护方案(EFS)，结合零数据留存隐私保护与滥用检测能力，客户数据存储于自身云基础设施而非Anthropic系统，并由客户自行管理加密密钥；该方案面向金融、医疗、制造等逾100家企业客户需求开发，可跨会话与账号识别复杂滥用模式，2026年秋季起分阶段上线，覆盖Claude Code、Claude Enterprise及亚马透云科技、谷歌云、微软Azure平台，Anthropic不额外收费。",
-      "publishedAt": "2026-09-01",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260902-800",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "summary": "Anthropic发布Claude Fable 5.1及面向可信机构的Claude Mythos 5.1，支持百万级上下文与推理强度中途调节，新增内容溯源标记，Terminal-Bench-Science得分52.6%，缓存读取费用降低75%。",
-      "publishedAt": "2026-09-01",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260901-701",
-      "title": "vLLM-Omni系统级优化MiniMax H3，结合FastVideo FastH3实现超实时视频推理服务",
-      "summary": "vLLM团队发布技术博客，介绍对MiniMax H3视频模型的系统级推理优化，含长序列注意力、算子融合与并行VAE解码，较Diffusers基线提速30.8%；结合FastVideo蒸馏模型FastH3（去噪步数从49降至4），在8张B300 GPU上实现10.125秒视频仅颀手8.7秒左右完成的生成服务。",
-      "publishedAt": "2026-09-01",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-09-01-minimax-h3-production-serving",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260902-803",
-      "title": "腾讯 Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-      "summary": "腾讯caozuo系统级AI助手Marvis上线自定义模型功能，支持接入腾讯yun、阿里云、DeepSeek、MiniMax、Kimi、智谱等第三方模型及本地开源模型，每日提供1000万token免费额度。",
-      "publishedAt": "2026-09-01",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30760",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260902-804",
-      "title": "ChatGPT广告上线不到30天创造商业化奇迹，OpenAI瞬准十亿美元级市场",
-      "summary": "OpenAI披露ChatGPT广告业务上线不到30天年化收入即突砐10亿美元，目前已覆盖超40个国家，并计划向印度、欧洲、中东和北非开放自助广告投放服务。",
-      "publishedAt": "2026-09-01",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/30753",
-      "subCategory": "AI应用"
     }
   ]
 }
