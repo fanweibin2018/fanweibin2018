@@ -3,8 +3,89 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-08T16:30:00+08:00",
+  "updatedAt": "2026-09-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "industry-20260908-005",
+      "title": "CIOE 2026 opens in Shenzhen: 5,000 exhibitors chase the AI-driven optics boom",
+      "summary": "第27届中国国际光电博览会（CIOE 2026）将于9月9日至11日在深圳举行，吸引来自30多个国家和地区的超5000家参展商参展，展会聚焦AI基础设施建设、高速光通信及AR/VR等技术方向。",
+      "publishedAt": "2026-09-08T12:06:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908PD217/2026-shenzhen-communications-optoelectronics-optics.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260908-006",
+      "title": "CXMT sees tight DRAM supply through 2H26, accelerates server memory and China-made tool validation",
+      "summary": "中国存储芯片厂商长鑫存储（CXMT）预计2026年下半年全球内存供应将持续紧张，AI驱动需求支撑价格走势，公司同步推进产能扩张、制程升级，并加快服务器内存及国产设备验证进度。",
+      "publishedAt": "2026-09-08T15:01:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908VL204/cxmt-dram-demand-capacity-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-007",
+      "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
+      "summary": "据报道，三星电子已将其4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
+      "publishedAt": "2026-09-08T11:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908VL205/samsung-hbm4-capacity-4nm-hbm.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-008",
+      "title": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks — TSMC alone sets a timeline",
+      "summary": "ASML于9月8日与英特尔代工、台积电及三星电子联合发布声明，三家先进制程芯片厂商将从沿用数十年的6英寸光罩转向12英寸规格以适配High NA设备，其中台积电已公开设定导入时间表。",
+      "publishedAt": "2026-09-08T14:16:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-009",
+      "title": "Nvidia reportedly shifts Rubin Ultra toward 8-high HBM as memory costs rise",
+      "summary": "据报道，英伟达正将其Rubin Ultra AI加速器的高带宽存储器方案由此前12层堆叠调整为8层，原因是内存成本上升促使公司更重视带宽效率与系统整体经济性。",
+      "publishedAt": "2026-09-08T12:50:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908VL207/nvidia-rubin-hbm-capacity-bandwidth.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-010",
+      "title": "Taiwan panel capacity shifts push TV brands to stock up as LCD price declines slow",
+      "summary": "全球LCD电视面板市场正逐步趋于供需平衡，供应链活动回暖，面板价格跌势预计于9月放缓，台湾地区面板产能调整促使电视品牌加快备货节奏。",
+      "publishedAt": "2026-09-08T10:33:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908PD214/panel-tv-price-lcd-tv-panel-capacity.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260908-011",
+      "title": "Samsung boosts Galaxy A series output as rivals cut lower-end phones",
+      "summary": "据韩媒《每日经济新闻》报道，三星电子自8月起扩大中低端Galaxy A系列手机产量，且这一扩产计划将持续至11月，此时其部分竞争对手正削减低端机型产能。",
+      "publishedAt": "2026-09-08T15:00:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908PD225/samsung-production-galaxy-2026-shipments.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260908-012",
+      "title": "Xiaomi debuts Xiaomi 18 Fold and mid-to-high-end lineup to defend 100M shipment target amid rising memory costs",
+      "summary": "小米于9月7日晚发布新款横向折叠旗舰小米18 Fold，并推出中高端产品线，以应对内存成本上升带来的压力，力图维持全年出货量破亿的目标。",
+      "publishedAt": "2026-09-08T14:07:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908PD209/xiaomi-foldable-smartphone-shipments-market.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260908-013",
+      "title": "CPO testing faces hurdles from Insertion 1 to 4, with '100% testing' expected to accelerate in 2027",
+      "summary": "共同封装光学（CPO）技术已进入量产部署阶段，但保障良率的关键测试环节在Insertion 1至4各阶段仍面临不同挑战，业界预计相关全测试方案将于2027年加速推进。",
+      "publishedAt": "2026-09-08T13:57:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260908PD215/cpo-testing-optics-2027.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260908-002",
       "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、攻高端商机",
@@ -643,87 +724,6 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260831VL200/2nm-apple-capacity-expansion-mediatek-semiconductor-industry.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260901-002",
-      "title": "Secondary and Repair Markets Provide Support; Global Smartphone Panel Shipments to Decline Just 2.5% in 2026, Says TrendForce",
-      "summary": "TrendForce预测，2026年全球智能手机面板出货量约22.5亿片，同比降幅收窄至2.5%，二手及维修市场需求提供支撑；第二季度京东方份额26.1%居首，TCL华星份额首次超过15%。",
-      "publishedAt": "2026-08-31",
-      "source": "TrendForce（WitsView）",
-      "url": "https://www.witsview.com/2026/08/31/secondary-and-repair-markets-provide-support-global-smartphone-panel-shipments-to-decline-just-2-5-in-2026-says-trendforce",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260831-700",
-      "title": "2026年8月中国采购经理指数运行情况",
-      "summary": "国家统计局发布数据，2026年8月中国制造业采购经理指数（PMI）为49.8%，比上月上升0.6个百分点，景气水平回升；生产指撞 50.4%，新订单指撞 50.6%，均较上月改善；大型企业PMI回升至50.6%，中小企业仍低于临界点。",
-      "publishedAt": "2026-08-31",
-      "source": "国家统计局",
-      "url": "https://www.stats.gov.cn/sj/zxfb/202608/t20260831_1965154.html",
-      "subCategory": "制造业"
-    },
-    {
-      "title": "Drake Star：2026年第二季度全球DevOps与DataOps市场报告",
-      "summary": "Drake Star报告显示，2026年全球DevOps与DataOps企业支出达320亿美元，同比增长67%，预计2031年增至850亿美元；过12个月相关并购与融资交易197笔，总额达998亿美元。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1846783.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260831-006"
-    },
-    {
-      "title": "BITMOVIN：2025-2026年全球视频开发者行业趋势报告",
-      "summary": "Bitmovin对全球49个国家视频开发者的调研显示，成本控制首次超过广告插入成为团队最大挑战，占比38%；仅4%受访者尚无AI应用计划，音频转录是最主要AI应用场景，H.264编码仍券 65%的主导地位。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1846725.html",
-      "subCategory": "SaaS",
-      "id": "industry-20260831-008"
-    },
-    {
-      "title": "Counterpoint：2025年全球POS设备出货量增长1%",
-      "summary": "Counterpoint数据显示，2025年全球POS设备出货量仅增长1%，预计2025至2032年复合增长率为4%；Android系统在POS终端出货占比约48%，预计2032年升至70%，内存芯片涨价及关税、通胀等因素制约行业增速。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1845753.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260831-007"
-    },
-    {
-      "title": "IEA：2026年全球氢能市场发展报告",
-      "summary": "IEA报告显示，2025年全球氢能需求增长近3%，首次突破1亿吨，中国占比约30%；低排放氢产量增长20%至约100万吨，占比不足1%，全球电解槽装机容量翻倍超4吉瓦，中国贡献四分之三新增产能。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1838888.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260831-009"
-    },
-    {
-      "id": "industry-20260831-952",
-      "title": "2026年上半年国内两轮电动车销量2825.2万台，同比下降12.6%",
-      "summary": "数据显示，2026年上半年中国两轮电动车市场进入饱和阶段，国内销量2825.2万台，同比下降12.6%。雅迪营收下滑5%，标准电动自行车需求萎缩，而电动滑板车销量逆势增长63.7%。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1848922.html",
-      "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260831-954",
-      "title": "Counterpoint：2026年8国手机销量Top5，iPhone17系列多国居首",
-      "summary": "Counterpoint数据显示，在中、美、印、德、英、法、韩、日8个核心市场的手机销量榜单中，iPhone17系列在美、德等多国占据前列，中国市场苹果占三席，华为Mate80、荣耀90PM等国产机型入榜。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1848798.html",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260831-953",
-      "title": "乘联分会：2026年1-7月我国动力和其它电池产量1287GWh，同比增长32%",
-      "summary": "乘联分会数据显示，2026年1-7月我国动力和其它电池合计产量1287GWh，同比增长32%；宁德时代、比亚迪合计占国内份额约64%，电池装车比例较墲 2021年的70%降至7月的34%，富余产能更多转向储能领域。",
-      "publishedAt": "2026-08-31",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1848786.html",
-      "subCategory": "新能源汽车"
     }
   ]
 }
