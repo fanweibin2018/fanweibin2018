@@ -3,8 +3,80 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-08T16:30:00+08:00",
+  "updatedAt": "2026-09-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "finance-20260908-005",
+      "title": "A股收评 | 沪指微涨双创走弱 糖业农业链掀涨停潮",
+      "summary": "9月8日A股三大指数分化，上证指数涨0.20%报3940.55点，深成指跌0.52%，创业板指跌1.15%，全天成交额约1.96万亿元，糖业与农业板块掀起涨停潮，EDA、半导体等板块走低。",
+      "publishedAt": "2026-09-08T16:15:00+08:00",
+      "source": "英为财情Investing.com（智通财经）",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3555474",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260908-006",
+      "title": "港股收评：恒生指数跌0.38%，恒生科技指数跌1.61%",
+      "summary": "9月8日港股收盘，恒生指数跌0.38%，恒生科技指数跌1.61%，大模型概念股普遍走低，智谱跌超10%，MiniMax-W跌超5%，光通信板块同步下挫，蓝思科技、舜宇光学科技、中际旭创等跌超3%。",
+      "publishedAt": "2026-09-08T16:10:58+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15069147.html",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260908-007",
+      "title": "8月中国进出口总值同比增长19.8%",
+      "summary": "海关总署数据显示，8月中国进出口总值4.65万亿元，同比增长19.8%，其中出口增18.6%，进口增21.7%；前8个月进出口总值34.78万亿元，同比增长17.6%，为年内第四个月保持两位数增长。",
+      "publishedAt": "2026-09-08T13:02:27+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692501.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260908-008",
+      "title": "深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投",
+      "summary": "北京深空矩阵科技9月8日宣布完成亿元级天使轮融资，由鼎晖VGC、麟阁创投联合领投，多家一线机构跟投，资金将用于太空AI算力核心技术研发、“星环计划”系统工程验证及产业链生态建设。",
+      "publishedAt": "2026-09-08T10:15:04+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15067085.html",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260908-009",
+      "title": "1.46万美元！伦铜创历史新高，铜股集体爆发",
+      "summary": "9月8日伦敦金属交易所三个月期铜触及每吨1.46万美元续创历史新高，沪铜主力站上11万元/吨关口，机构指出美国精炼铜关税预期、智利出口下滑及数据中心用铜需求增长共同推高价格。",
+      "publishedAt": "2026-09-08T10:43:15+08:00",
+      "source": "腾讯新闻（格隆汇）",
+      "url": "https://news.qq.com/rain/a/20260908A05UMQ00",
+      "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260908-010",
+      "title": "日本央行9月加息概率升至97%！日元本月升近4%突破154",
+      "summary": "隔夜指数掉期定价显示，市场预期日本央行9月18日会议加息25个基点至1.25%的概率升至97%，日元兑美元本月升值近4%至153.24，行长植田表示当前货币条件仍偏宽松。",
+      "publishedAt": "2026-09-08T11:21:00+08:00",
+      "source": "英为财情Investing.com",
+      "url": "https://cn.investing.com/news/forex-news/article-3555172",
+      "subCategory": "政策利率"
+    },
+    {
+      "id": "finance-20260908-011",
+      "title": "中东突发！沙特多处能源设施遭袭 胡塞武装：沙特\"没有安全之地\"！油价飙升",
+      "summary": "沙特能源部证实南部多处能源设施9月8日遭胡塞武装袭击并引发火情，沙特联军称已致73名平民受伤，国际油价随之走高，国内甲醇等能化期货多个品种涨停。",
+      "publishedAt": "2026-09-08T15:40:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609083868023122.html",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260908-012",
+      "title": "AI需求挤占产能 英特尔或上调PC端CPU价格10%",
+      "summary": "据台湾电子时报报道，受AI服务器芯片挤占产能影响，英特尔计划于10月5日起将PC端CPU价格上调约10%，此前公司已在2026年一季度及7月分别实施过价格调整。",
+      "publishedAt": "2026-09-08T09:07:00+08:00",
+      "source": "东方财富网（财联社）",
+      "url": "https://finance.eastmoney.com/a/202609083867507336.html",
+      "subCategory": "美股"
+    },
     {
       "id": "finance-20260908-004",
       "title": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
@@ -652,78 +724,6 @@
       "source": "东方财富Choice数据",
       "url": "https://finance.eastmoney.com/a/202609023862719456.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260901-700",
-      "title": "美股：美债收益率与油价走高施压 道指标普纳指齐跌",
-      "summary": "美东时钢9月1日盘中，标普500跌0.62%扜7638.62点，道指跌0.74%扜52792.73点，纳指跌0.85%扜26146.57点；10年期美债收益率升至4.76%创逾一年新高，WTI原油涨4.66%至89.76美元/桶，中东局势与加息预期升温共同施压风险资产。",
-      "publishedAt": "2026-09-01T10:54:00-05:00",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260901-704",
-      "title": "美国8月ISM制造业PMI降至54.6 低于预期",
-      "summary": "美国供应管理协会（ISM）数据显示，8月制造业PMI录得54.6，低于市场预期的55.2及7月的55.6；新订单指数降至53.7，就业指数降至51.2，价格指数维持71.1不变，显示行业延续扩张但增速放缓、成本压力仍存。",
-      "publishedAt": "2026-09-01T10:02:00-04:00",
-      "source": "Reuters (via Investing.com)",
-      "url": "https://www.investing.com/news/economy-news/us-manufacturing-activity-slows-in-august-input-prices-still-elevated-4884251",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260901-701",
-      "title": "黄金价格9月1日回落 现货金扜4331美元/盎司",
-      "summary": "据Fortune报道，截至9月1日美东时上午9时14分，现货黄金报每盎司4331美元，较前一交易日下跌2.41%；金价此前受通胀及不确定性支撑一度创历史新高，今年以来累计涨幅超25%。",
-      "publishedAt": "2026-09-01T09:14:00-04:00",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/current-price-of-gold-09-01-2026/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260901-707",
-      "title": "9月1日晚间沪深上市公司重大事项公告集锦",
-      "summary": "东方财富网9月1日晚间公告汇总：华红宏力拟增资子公司建设12英寸特色工艺晶圆产线，月产能约5.5万片；国民技术拟出资6000万元收购南京友存科技 8.33%股权；国投电力旗下745兆瓦燃气机组完成168小时试运行并正式商业发电。",
-      "publishedAt": "2026-09-01T19:32:00+08:00",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202609013861643112.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260901-706",
-      "title": "全球债市抛售加剧 油价突砠91美元 加息押注升温",
-      "summary": "9月1日布伦特原油报91.15美元/桶，较前一日90.49美元续涨；日本10年期国债收益率升至3.0%，为1996年以来最高；美国核心PCE同比达3.3%，市场因美伊冲突及通胀担忧加大对美联储与日本央行加息的押注。",
-      "publishedAt": "2026-09-01T17:22:00+08:00",
-      "source": "IBTimes Singapore",
-      "url": "https://www.ibtimes.sg/global-bond-selloff-deepens-oil-tops-91-rate-hike-bets-surge-93156",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260901-006",
-      "title": "A股收评：超3300只个股飘红，三大指数集体收跌，科创50大跌",
-      "summary": "9月1日A股三大指数集体收跌，上证指数跌0.16%，深证成指跌1.02%，创业板指跌1.32%，科创50跌2.19%，两市成交额2.05万亿元，超3300只个股上涨，农业股走强而存储芯片等半导体股领跌。",
-      "publishedAt": "2026-09-01T15:31:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687937.shtml",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260901-007",
-      "title": "9月1日人民币对美元中间价扜6.7809 上调19个基点",
-      "summary": "中国外汇交易中心受权公布，2026年9月1日人民币对美元汇率中间价扜6.7809元，较上一交易日上调19个基点，人民币汇率延续小幅升值态势。",
-      "publishedAt": "2026-09-01T09:44:53+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10687652.shtml",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260901-002",
-      "title": "美股收盘：三大指数集体下跌，道指跌0.7%",
-      "summary": "8月31日美股收盘，道琼斯指数跌0.7%抹53185.9点，标普500指数跌0.33%扜7686.14点，纳斯达克指数跌0.12%抹26370.89点；半导体存储板块多数上涨，闪迪涨超5%，美光涨超2%，国际油价大涨，金银价格下跌。",
-      "publishedAt": "2026-09-01T06:05:57+08:00",
-      "source": "网易财经",
-      "url": "https://www.163.com/dy/article/L5NI3HJV0519C6T9.html",
-      "subCategory": "美股"
     }
   ]
 }
