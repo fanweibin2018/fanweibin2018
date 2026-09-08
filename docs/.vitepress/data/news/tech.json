@@ -3,8 +3,134 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-08T16:30:00+08:00",
+  "updatedAt": "2026-09-08T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260908-007",
+      "title": "千万里程碑越来越近：曝华为 Mate 80 系列手机销量突破 900 万台",
+      "summary": "据博主爆料，华为Mate 80系列手机销量在8月末已达约898万台，业内人士预计10月有望突破千万台，该系列于2025年11月正式上市，是华为高端市场的重要产品线。",
+      "publishedAt": "2026-09-08T14:34:38+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/681.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260908-008",
+      "title": "传音 TECNO 发布 Camon Slim 5G 手机：6.39mm 塞入 6000mAh 电池",
+      "summary": "传音在IFA 2026柏林展上发布Camon Slim 5G手机，机身厚度仅6.39mm却塞入6000mAh电池，配备6.78英寸144Hz AMOLED屏幕、天玑7300e处理器及5000万像素索尼LYT-700C主摄。",
+      "publishedAt": "2026-09-08T14:55:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/710.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260908-009",
+      "title": "iQOO 16官宣9月底发布！全新自研电竞芯片 联合三星打造顶级屏",
+      "summary": "iQOO宣布旗舰新机iQOO 16将于9月底发布，将搭载自研电竞芯片Monster引擎并配合骁龙顶级处理器，同时联合三星打造高素质屏幕，重点强化移动端光线追踪等游戏体验。",
+      "publishedAt": "2026-09-08T10:43:42+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149406.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260908-010",
+      "title": "长城推出魅影 M5B 机箱：三面 Mesh 网孔设计、提供便携提手，189 元",
+      "summary": "长城在京东上架魅影M5B机箱，售价189元，采用三面大面积Mesh网孔面板设计并配备便携提手，支持Micro-ATX及ITX主板，最多可安装五个12厘米风扇以满足散热需求。",
+      "publishedAt": "2026-09-08T16:37:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/812.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260908-011",
+      "title": "君正CW020系列ISP芯片发布：约一粒米大小可塞进耳机柄",
+      "summary": "君正推出CW020系列ISP芯片，面积约11平方毫米如米粒大小，可植入耳机柄、眼镜腿等超小型可穿戴设备，芯片采用无外挂DDR架构，降低成本与功耗，服务AI耳机与智能眼镜的环境感知功能。",
+      "publishedAt": "2026-09-08T11:21:09+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149424.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260908-012",
+      "title": "天玑9600 Pro正式预热:重构芯片架构，三大旗舰体验起飞",
+      "summary": "联发科预热天玑旗舰芯片首次推出Pro版本，采用台积电2纳米制程，通过架构重构提升性能，支持硬件级光线追踪等游戏能力，并强化专业级视频录制功能，对标iPhone的电影级视频体验。",
+      "publishedAt": "2026-09-08T14:47:40+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149471.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260908-013",
+      "title": "Intel不敢干的它干了！神秘x86芯片抛弃32位兼容：只留64位，APX+FRED全都有",
+      "summary": "一家非英特尔、非AMD的神秘厂商开发出一款x86处理器，已量产部署超过一年，该芯片彻底放弃传统模式与32位兼容模式，仅支持64位保护模式及五级页表，并集成APX与FRED特性。",
+      "publishedAt": "2026-09-08T12:32:02+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149443.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260908-014",
+      "title": "爱芯元智推出 5nm 智驾芯片 M97、M95，单颗等效 AI 算力至高 720TOPS",
+      "summary": "爱芯元智发布两款采用5纳米工艺的M9系列智能驾驶芯片，旗舰型号M97拥有16个ARM核心、算力达720TOPS，主流型号M95为10核心、算力360TOPS，两款均通过车规级安全认证并支持多路摄像头输入。",
+      "publishedAt": "2026-09-08T16:16:08+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/803.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260908-015",
+      "title": "采用屏幕虚拟操纵杆，特斯拉 Cybercab 手动操控方案曝光",
+      "summary": "一名乘客在美国奥斯汀意外发现特斯拉Cybercab车内隐藏的诊断界面，内含屏幕虚拟操纵杆，该功能仅供特斯拉内部人员及技术人员使用，可在无方向盘和踏板情况下通过触屏移动车辆，并设有防误触保护。",
+      "publishedAt": "2026-09-08T16:09:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/796.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260908-016",
+      "title": "日本首个\"人形机器人救护车\"现身，搭载机器人专用担架、维修零部件等",
+      "summary": "日本GMO互联网集团旗下GMO AIR推出日本首个专为人形机器人服务的救护车，车内配备机器人专用担架及备用零件、检测设备，可现场维修或将故障机器人送往东京修理中心，其构想源于机器人赛事中观察到的高故障率。",
+      "publishedAt": "2026-09-08T16:23:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/807.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260908-017",
+      "title": "韩国电池材料企业瞄准人形机器人，开辟电动汽车外新增长赛道",
+      "summary": "以EcoPro为代表的韩国电池材料企业将人形机器人视为电动汽车之外的新增长市场，正研发高镍正极材料及固态电池技术，以满足机器人对更轻、能量密度更高电池的需求，借此在成本优势领域对抗中国竞争对手。",
+      "publishedAt": "2026-09-08T16:26:06+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/808.htm",
+      "subCategory": "机器人"
+    },
+    {
+      "id": "tech-20260908-018",
+      "title": "工信部确认！6G基站、6G智能手机将至",
+      "summary": "工信部正式发布\"十五五\"规划相关文件，确认将研发6G基站、核心网设备及6G智能手机，规划涵盖网络智能化融合与无线通信技术升级等重点方向，商用部署预计在2030年前后落地，能力较5G提升十倍。",
+      "publishedAt": "2026-09-08T15:35:43+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149490.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260908-019",
+      "title": "腾讯云：调整DDoS防护计费模式",
+      "summary": "腾讯云发布公告称，将于北京时间2026年9月10日（周四）起对DDoS防护服务的计费模式进行调整，具体细则可查阅腾讯云官方公告页面，用户届时需按新计费规则支付相关防护费用。",
+      "publishedAt": "2026-09-08T15:43:00+08:00",
+      "source": "36氪",
+      "url": "https://www.36kr.com/newsflashes/3974444936638721",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260908-020",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "summary": "研究机构Kinryū Labs发现一个与越南相关的Elasticsearch数据库因配置错误暴露在公网，含超2.2亿条乘客与机组人员记录，涉及姓名、护照号、出生日期等信息，时间跨度自2017年至2026年4月，该数据库已于6月8日修复。",
+      "publishedAt": "2026-09-08T15:35:50+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20260908-001",
       "title": "存储短缺持续恶化 三星、SK海力士内存库存不足10天供应量",
@@ -598,105 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/653.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-008",
-      "title": "传音 MegaBook T15 360 系列笔记本发布：搭触控屏支持手写笔、至高搭载酷睦 Ultra 9 185H 处理器",
-      "summary": "传音在IFA 2026发布MegaBook T15 360系列笔记本，标准版售价899欧元、Pro版1099欧元，均支持360度旋转触控屏与MPP 2.0手写笔，Pro版配备2560×1440 120Hz屏幕，预计今年四季度登陆欧洲市场。",
-      "publishedAt": "2026-09-05T07:48:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/646.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-007",
-      "title": "AMD 锐龙 5 7500 处理器曝光，6 核 12 线程规格与 7500F 看齐",
-      "summary": "据爆料者Roland Quandt消息，AMD计划为AM5平台推出锐龙5 7500处理器，6栄12线程，基础频率3.7GHz，最高加速5.0GHz，总缓存38MB，热设计功耀65W，预测售价约230欧元，高于现有R5 7500F。",
-      "publishedAt": "2026-09-05T07:46:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/645.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260905-005",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "专为通用机器人训练采集真实遥操作数据的初创公司XDOF正洽谈由8VC领投、估值约12亿美元的B轮融资，公司年化营收已近5000万美元，并与加州大学伯克莱分校合作发布迄今规模最大的机器人训练数据集ABC。",
-      "publishedAt": "2026-09-05T07:36:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260905-002",
-      "title": "消息称苹果首款折叠屏 iPhone 可能被命名为“iPhone Duo”",
-      "summary": "据外媒报道，苹果首款折叠屏iPhone内部代号为iPhone Ultra，但正式名称可能改为iPhone Duo，苹果历史上曾以Duo命名PowerBook Duo笔记本和MagSafe Duo充电器，最终名称将于发布会公布。",
-      "publishedAt": "2026-09-05T06:59:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/632.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-004",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "英国AI算力企业Nscale计划在9月IPO前融资35亿美元，其中15亿美元为可转债、20亿美元来自英伟达追加投资，公司已与Anthropic签下450亿美元合约，据已签客户租约预测营收约1030亿美元。",
-      "publishedAt": "2026-09-05T05:12:00+08:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "subCategory": "云计算"
-    },
-    {
-      "id": "tech-20260905-001",
-      "title": "599元 安克发布10咂Є1拓展坯：三屏异显 所有外设一台搞定",
-      "summary": "安克发布10咂Є1扩展坯，9月10日开售，售价599元，配备HDMI 2.1与DisplayPort 1.4接口，单屏最高支持4K 144Hz或2K 240Hz，双屏可同时输出4K 60Hz与2K 240Hz，内置小屏幕显示分辨率与充电状态，最高可为笔记本提供80W供电。",
-      "publishedAt": "2026-09-05T00:09:15+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148867.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260904-026",
-      "title": "理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线",
-      "summary": "理想汽车与芯联集成签署新一轮战略合作协议，双方共同见证8英寸碳化硅晶圆下线，合作范围由车规级碳化硅电驱系统拓展至热管理系统，芯联集成成为国内首家实现8英寸碳化硅晶圆量产的企业。",
-      "publishedAt": "2026-09-04T23:32:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/624.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260904-027",
-      "title": "阿里入局“千帆星座”，现身垣信卫星股东名单",
-      "summary": "阿里巴巴旗下杭州创业投资公司完成工商变更，成为千帆星座运营主体垣信卫星的股东。千帆星座卫星数量已增至238颖，计划年内达到324颖实现全球覆盖，垣信卫星今年8月完成1约70亿元增资，投后估值约5000亿元。",
-      "publishedAt": "2026-09-04T23:23:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/623.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260904-028",
-      "title": "全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7",
-      "summary": "梅赛德斯-奔驰全新长轴距 GLE SUV 将于9月16日上市，轴距3115毫米，配备中控三联屏及豆包AI助手，后续支持Momenta R7智能驾驶。新车搭载3.0T直六发动机与48V轻混系统，标配四驱及空气悬架，越野模式下离地间隙可达271毫米。",
-      "publishedAt": "2026-09-04T23:18:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/622.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260904-029",
-      "title": "古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划",
-      "summary": "彼博社记者马克·古尔曼披露苹果2026至2029年后产品规划，在新任CEO特努斯带领下将启动公司史上最大规模新品周期，涵盖折叠屏iPhone、iPhone 18 Pro、OLED iPad mini、触控MacBook Pro、智能眼镜及带机械臂的家庭机器人枢纽等产品。",
-      "publishedAt": "2026-09-04T23:14:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/621.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260904-030",
-      "title": "微软推出 Project Zenith，为Win11开发者提供开箱即用开发环境",
-      "summary": "微软推出Project Zenith，面向配备至少64GB统一内存、带宽超250GB/s设备的Windows 11开箱即用开发环境，首批产品采用AMD锐龙AI Halo处理器，预置Windows终端与VS Code并集成WSL，桌面默认精简干扰项以聚焦开发场景。",
-      "publishedAt": "2026-09-04T22:29:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/611.htm",
-      "subCategory": "开发者工具"
     }
   ]
 }
