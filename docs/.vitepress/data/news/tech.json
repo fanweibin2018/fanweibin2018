@@ -3,8 +3,98 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-09T16:45:00+08:00",
+  "updatedAt": "2026-09-10T00:40:00+08:00",
   "items": [
+    {
+      "id": "tech-20260909-112",
+      "title": "Claude Max 订阅条款出现“文字游戏”，用户将 Anthropic 告上法庭",
+      "summary": "一群Claude用户对Anthropic公司提起集体诉讼，指控其在推广Claude Max订阅服务时存在误导性宣传：Anthropic宣称Max用户可获得Pro套餐5倍或20倍使用额度，但该倍数实际仅适用于每5小时重置的会话额度，并不包括每周额度限制，原告律师指出相关使用条款不够透明。",
+      "publishedAt": "2026-09-09T23:29:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/486.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260909-111",
+      "title": "长城坦克品牌 CEO 谷玉坤预告新车坦克 700 GF：代表“坚定的信仰”，定位旗舰",
+      "summary": "工信部最新公告显示坦克700 Hi4-Z三款插电混动车型完成申报，配备2.0T和3.0T发动机。坦克品牌CEO谷玉坤介绍新车“GF”标识含义为“Great Faith（坚定的信仰）”，代表坦克最高水平的豪华性能产品序列，预计今年年底发布。",
+      "publishedAt": "2026-09-09T23:03:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/480.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260909-110",
+      "title": "华硕 QN10 迷你主机开售：骁龙 X2 Elite、16GB+512GB 售价 9999 元",
+      "summary": "华硕推出全球首款搭载骁龙X2 Elite系列平台的迷你主机产品Ascent QN10已正式开售，采用3nm制程、18核CPU、80TOPS算力NPU，支持Wi-Fi 7与蓝牙6.0，基础配置版本定价9999元。",
+      "publishedAt": "2026-09-09T22:55:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/477.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-109",
+      "title": "英国航班管理系统故障，逾 2000 架次航班被取消",
+      "summary": "英国国家空中交通服务公司（NATS）空管系统发生技术故障，导致逾2000架次航班被取消，其中周二取消1750架次、周三取消291架次，数万名旅客受到影响，这是NATS三年内第三次发生类似故障，影响范围涉及英国及爱尔兰多个主要机场。",
+      "publishedAt": "2026-09-09T21:46:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/453.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260909-108",
+      "title": "消息称三星研发带显示屏的 AI 眼镜，预计最早明年下半年发布",
+      "summary": "三星电子正开发首款配备显示屏的AI眼镜，已向三星显示提出微型显示屏研发需求，预计2027年下半年或2028年上半年发布，将采用0.2英寸以下超小型微显示面板，通过4位灰阶方案优先确保文本与UI符号清晰度和低功耗，三星将其定位为智能手机的外围配件。",
+      "publishedAt": "2026-09-09T21:35:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/452.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260909-107",
+      "title": "iPhone 18 Pro 发布会前夕，苹果新 CEO 特努斯发布神秘预热视频“暗示”可变光圈",
+      "summary": "苹果新任CEO约翰·特努斯在iPhone 18 Pro发布会前夕于微博发布神秘预热视频，视频中的聚光灯效果被网友解读为暗示可变光圈功能，该功能将允许用户手动调整相机光圈以控制进光量，苹果将于北京时间9月10日凌晨1时举行发布会推出新款iPhone和Apple Watch等产品。",
+      "publishedAt": "2026-09-09T21:30:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/451.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-106",
+      "title": "韩国国家超算 6 号机 12 月投运：理论算力是现有 5 号机 24 倍，性能剑指全球前十",
+      "summary": "韩国国家超级计算机6号机将于12月正式启用，配备8496个GPU（包括英伟达GH200）和9936个CPU，理论算力达614PF，较现有5号机性能提升24倍，存储容量达205PB，网络速率不低于400Gbps，预计可跻身全球超算排名前十。",
+      "publishedAt": "2026-09-09T21:14:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/446.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260909-103",
+      "title": "支持同时显示三个实时活动，苹果 iPhone 18 Pro 灵动岛新功能演示视频曝光",
+      "summary": "爆料者在iOS 27模拟器中曝光iPhone 18 Pro灵动岛新功能演示视频，该功能可同时切换显示三个实时活动，相比iPhone 17 Pro最多显示两个活动有所升级，底层代码分析显示苹果需将灵动岛硬件尺寸缩小约20%才能实现该软件功能。",
+      "publishedAt": "2026-09-09T21:06:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/440.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-104",
+      "title": "苹果 iPhone Duo 即将登场，三星发布“欢迎来到折叠屏时代”视频",
+      "summary": "苹果即将发布首款折叠屏手机iPhone Duo，距秋季新品发布会仅剩数小时。三星趁势发布视频邀请用户“欢迎来到折叠时代”，其Galaxy Z Fold8系列将成为iPhone Duo主要竞争对手，业界传闻苹果折叠屏手机起售价约2000美元，并可能支持手写笔功能。",
+      "publishedAt": "2026-09-09T20:47:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/434.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-105",
+      "title": "我国板级封装核心工艺实现关键跨越，华海清科自主研发国内首台全自动板级抛光装备进入量产线",
+      "summary": "华海清科宣布其自主研发的全自动板级CMP量产装备“Master-P510APEX”近日出机，发往先进封装产线投入量产应用，为国内首台进入量产线的板级CMP设备，具备优异的全板面均匀性与平坦化控制能力，标志我国板级封装核心工艺装备实现从研发到应用的重要突破。",
+      "publishedAt": "2026-09-09T20:30:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/427.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260909-101",
       "title": "OPPO卓世杰：Find X10 Pro Max手机三颗后摄均支持OpenGate片门全开录像",
@@ -330,15 +420,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260907-010",
-      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
-      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
-      "publishedAt": "2026-09-07",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/346.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260907-012",
       "title": "2026 荣耀全球开发者大会日程公布，MagicOS 11 定档 9 月15 日晚",
       "summary": "荣耀宣布2026全球开发者大会将于9月15日在深圳举行，MagicOS 11操作系统定于当晙19点至20点发布，官方称其为行业首个实现系统级Agent Harness商用落地的手机操作系统，主要功能包括存储空间最高节炐60GB、全新液态玻璃UI设计及多协议快充支持。",
@@ -634,96 +715,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/851.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260906-004",
-      "title": "摩托罗拉发布 Moto Snap 无线充电器：Qi2.2 25W / 私有协议 30W，带磁吸",
-      "summary": "摩托罗拉在IFA 2026发布Moto Snap磁吸无线充电器，支持Qi2.2标准25W充电，自家设备可达30W私有协议快充，售价39欧元，将于未来数周在多地上市。",
-      "publishedAt": "2026-09-06T07:17:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/850.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-215",
-      "title": "OPPO Find X10边框不到1mm：OPPO史上最窄直屏",
-      "summary": "OPPO Find X10标准版屏幕边框宽度低于1mm，为该品牌史上最窄直屏，屏幕由天马提供并采用LIPO封装工艺，色域达95% BT.2020，将于9月内发布。",
-      "publishedAt": "2026-09-05T23:56:58+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148984.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-214",
-      "title": "1.28kg塞进12核Zen 5！积核X16 Pro AMD版亮相：32GB LPDDR5X",
-      "summary": "积核在IFA 2026展示X16 Pro笔记本AMD版，搭载12栄24线程锐龙AI 9 HX 470处理器，集成Radeon 890M显卡及XDNA 2 NPU，整机重1.28kg，配32GB LPDDR5X内存及2TB SSD。",
-      "publishedAt": "2026-09-05T23:34:47+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148983.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-213",
-      "title": "小米澎程汽车下周登场 雷军：我们准备好了",
-      "summary": "小米创始人雷军宣布旗下增程车型\"澎程\"系列将于9月7日正式发布，含N70 Pro、N70 Max及N90 Max三款，均配备1.5T增程器、激光雷达及英伟达Thor智驾芯片。",
-      "publishedAt": "2026-09-05T22:08:48+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148977.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260905-204",
-      "title": "全球首例：我国完成人工智能超声机器人引导下先天性心脏病封堵术",
-      "summary": "解放军总医院第六医学中心为一名房间隔缺损患者完成全球首例AI超声机器人引导先心病介入封堵手术，系统可自主完成超声扫查、病灾识别与三维心脏建模，实现术前规划与精准导航。",
-      "publishedAt": "2026-09-05T21:11:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/823.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260905-212",
-      "title": "2399 元，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机首销",
-      "summary": "森海塞尔MOMENTUM真无线5代蓝牙耳机今日首销，售价2399元，配备7mm动圈单元，支持aptX Lossless无损传输、杜比全景声头部追踪及混合自适应主动降噪，单次续航12小时，充电仓可提供总计40小时用电。",
-      "publishedAt": "2026-09-05T20:28:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/818.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-201",
-      "title": "国产半导体设备重大突破！北方华创宣布3D DRAM刻蚀突破：没有EUV也能造先进存储",
-      "summary": "北方华创在IEEE期刊发表论文，宣布采用两步循环刻蚀工艺，在64岒 3D DRAM结构中实现硅锈层刻蚀选择比超过500:1，结构均匀性超95%，为长钐在无EUV光刻机条件下推进先进存储量产提供技术路径。",
-      "publishedAt": "2026-09-05T19:33:56+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148956.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260905-216",
-      "title": "消息称华为新机防窗屏采用独立 RGB 像素驱动，基本不影响显示素质",
-      "summary": "博主爆料华为新机\"灵盾防窗屏\"采用独立RGB像素驱动技术，双击外屏即可开启防窗模式，侧面无法看清内容，且基本不影响正常显示素质，此前该技术已用于MateBook Pro S笔记本。",
-      "publishedAt": "2026-09-05T19:30:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/813.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260905-209",
-      "title": "蓝来：长三角地区全面实现换电县县通，累计建成 1412 座换电站",
-      "summary": "蓝来能源在安徽黄山祭门新建换电站投入使用，实现长三角地区换电站县县通全覆盖，该区域累计建成1412座换电站，覆盖303个区县，其中289座位于高速公路沿线。",
-      "publishedAt": "2026-09-05T19:22:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/811.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260905-218",
-      "title": "Isar Aerospace reaches orbit on second Spectrum launch",
-      "summary": "德国火箭公司Isar Aerospace的\"光谱\"号（Spectrum）火箭9月5日从挪威安多岗航天中心发射升空并成功入轨，这是该公司第二次发射尝试，也是首枚从欧洲大陆发射入轨的商业运载火箭。",
-      "publishedAt": "2026-09-05T19:10:00-04:00",
-      "source": "SpaceNews",
-      "url": "https://spacenews.com/isar-aerospace-reaches-orbit-on-second-spectrum-launch/",
-      "subCategory": "航空航天"
     }
   ]
 }
