@@ -3,15 +3,33 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-08T16:45:00+08:00",
+  "updatedAt": "2026-09-09T08:45:00+08:00",
   "items": [
     {
-      "id": "policy-20260908-005",
-      "title": "Chancellor takes axe to delays holding back growth",
-      "summary": "英国财政大臣希利宣布一揽子监管改革措施，包括简化重大基建项目的司法复核程序、推出监管沙盒允许配送机器人等新技术在可控环境中测试，并要求各部门减少公众咨询以加快审批决策。",
-      "publishedAt": "2026-09-07",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth",
+      "id": "policy-20260909-001",
+      "title": "韩正出席第二十六届中国国际投资贸易洽谈会开幕式并致辞",
+      "summary": "国家副主席韩正9月8日在厦门出席第二十六届中国国际投资贸易洽谈会开幕式并致辞，表示中国将坚定不移扩大高水平对外开放、推动贸易投资自由化便利化，提出深化开放合作、加快创新科技协作、维护全球供应链稳定并反对保护主义三点倡议，联合国贸发会议及沙特、塞尔维亚、柬埔寨、保加利亚、芬兰方代表出席致辞。",
+      "publishedAt": "2026-09-08T18:28:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_1bda2663131c4628b920c42cc1e3fc71.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260909-003",
+      "title": "Accelerating Access To Veterans' Benefits And Employment Opportunities",
+      "summary": "特朗普签署行政令，要求战争部与退伍军人事务部在180天内建立更新的信息系统以持续共享军人档案与医疗记录，并开发AI工具为退伍军人提供统一的福利与就业培训入口；要求退役即时共享退伍记录，180天内更新过渡援助计划以在退役前对接工作与培训机会。",
+      "publishedAt": "2026-09-08",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260909-002",
+      "title": "Adjusting Certain Delegations Under the Defense Production Act",
+      "summary": "特朗普签署行政令修订第13603号行政令，调整《国防生产法》授权分配，赋予内政部长与能源部长在能源事务上共享此前由能源部长单独持有的授权，两部长可独立行使相关权力；如发生争议将提交国家能源主导委员会，若涉及国防基础设施或军事行动则同时提交国家安全委员会。",
+      "publishedAt": "2026-09-08",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/",
       "subCategory": "海外政策"
     },
     {
@@ -67,6 +85,15 @@
       "source": "东方财富网（外交部）",
       "url": "https://finance.eastmoney.com/a/202609073866646293.html",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260908-005",
+      "title": "Chancellor takes axe to delays holding back growth",
+      "summary": "英国财政大臣希利宣布一揽子监管改革措施，包括简化重大基建项目的司法复核程序、推出监管沙盒允许配送机器人等新技术在可控环境中测试，并要求各部门减少公众咨询以加快审批决策。",
+      "publishedAt": "2026-09-07",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260908-002",
