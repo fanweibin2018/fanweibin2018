@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-09T08:45:00+08:00",
+  "updatedAt": "2026-09-09T16:30:00+08:00",
   "items": [
     {
       "id": "policy-20260909-001",
@@ -40,6 +40,24 @@
       "source": "GOV.UK",
       "url": "https://www.gov.uk/government/news/uk-backing-unlocks-167-million-of-exports-for-british-businesses-in-angola",
       "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260909-005",
+      "title": "FTC Takes Action Against Payment Processor Humboldt Merchant Services for Knowingly Facilitating Payment Processing for Sham Merchants",
+      "summary": "美国联邦贸易委员会宣布，支付处理商Humboldt Merchant Services因为逾千家空壳欺诈商户处理付款（涉及此前被取缔的Legion Media等），同意支付1200万美元并被永久禁止处理高风险商户交易，委员会以2比0投票通过向联邦地区法院提交和解令。",
+      "publishedAt": "2026-09-08",
+      "source": "美国联邦贸易委员会（FTC）",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-takes-action-against-payment-processor-humboldt-merchant-services-knowingly-facilitating-payment",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260909-006",
+      "title": "PM call with President Xi of China: 8 September 2026",
+      "summary": "英国首相与中国国家主席习近平通电话，就尼泊尔-中国边境洪灾遇难者表示慰问，双方重申长期一致的全面战略伙伴关系，并就经济增长、乌克兰局势、香港及人权等议题坦诚沟通，同意保持定期联系。",
+      "publishedAt": "2026-09-08",
+      "source": "英国政府（GOV.UK）",
+      "url": "https://www.gov.uk/government/news/pm-call-with-president-xi-of-china-8-september-2026",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260907-004",
@@ -85,6 +103,15 @@
       "source": "东方财富网（外交部）",
       "url": "https://finance.eastmoney.com/a/202609073866646293.html",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260909-004",
+      "title": "工业和信息化部关于印发《信息通信行业发展\"十五五\"规划》的通知",
+      "summary": "工业和信息化部印发《信息通信行业发展\"十五五\"规划》（工信部规〔2026〕188号），文件于8月12日签发、9月7日公布，要求各省通信管理局、相关企业及行业协会结合实际贯彻落实2026至2030年行业发展部署。",
+      "publishedAt": "2026-09-07T09:25:00+08:00",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/jgsj/txs/wjfb/art/2026/art_f55fe09a1e26411fa6926e5195850990.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260908-005",
@@ -697,33 +724,6 @@
       "source": "国家数据局",
       "url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0826/20260826165027017947680_pc.html",
       "subCategory": "数字经济"
-    },
-    {
-      "title": "工业和信息化部绿色低碳标准化技术委员会成立",
-      "summary": "工业和信息化部绿色低碳标准化技术委员会正式成立，首届委员会由71名委员组成，秘书处设在中国电子技术标准化研究院，将承担工信部绿色低碳领域综合性、基础性行业标准制修订工作。",
-      "publishedAt": "2026-08-25T20:09:58+08:00",
-      "source": "新华网",
-      "url": "http://www.xinhuanet.com/fortune/20260825/53f5c10c1ab5481d9102452a508c897d/c.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260826-001"
-    },
-    {
-      "title": "国家人形机器人产业标准体系建设指南（2026版）公开征求意见",
-      "summary": "工业和信息化部就《国家人形机器人产业标准体系建设指南（2026版）》征求意见稿公开征求意见，提出到2028年在能力测试评估、关键技术、平台系统等方面完成至少100项关键标准，意见反馈截止9月23日。",
-      "publishedAt": "2026-08-25T14:11:47+08:00",
-      "source": "科技日报",
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/25/content_569413.html",
-      "subCategory": "产业政策",
-      "id": "policy-20260826-002"
-    },
-    {
-      "title": "中国—加纳经贸联委会第五次会议在阿克拉召开",
-      "summary": "商务部部长助理张力与加纳财政部部长福森8月24日共同主持中国—加纳经贸联委会第五次会议，双方签署会议纪要，商定深化产供链、绿色能源等领域投资合作，推动双边贸易投资合作提质升级。",
-      "publishedAt": "2026-08-25T08:56:00+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/brief/103331905.html",
-      "subCategory": "跨境贸易",
-      "id": "policy-20260825-010"
     }
   ]
 }

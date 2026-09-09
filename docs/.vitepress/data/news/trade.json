@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-09T08:45:00+08:00",
+  "updatedAt": "2026-09-09T16:30:00+08:00",
   "items": [
     {
       "id": "trade-20260909-001",
@@ -202,6 +202,15 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/209715063294",
       "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260909-005",
+      "title": "海关总署：前8个月我国外贸增长17.6%",
+      "summary": "海关总署数据显示，前8个月我国货物贸易进出口总值34.78万亿元，同比增长17.6%；8月当月进出口增长19.8%，出口、进口分别增长18.6%、21.7%，连续4个月保持两位数增长。",
+      "publishedAt": "2026-09-08T10:30:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609083867811783.html",
+      "subCategory": "海关数据"
     },
     {
       "id": "trade-20260908-040",
@@ -715,15 +724,6 @@
       "url": "https://www.cifnews.com/article/188686",
       "subCategory": "独立站",
       "id": "trade-20260905-105"
-    },
-    {
-      "id": "trade-20260905-204",
-      "title": "拿下75%复购订单、月销百万美金！东菞厂子赢麩了",
-      "summary": "Wayfair启动面向中国工厂的招商路演，9月分赵杭州、东菞、佛山，聚焦户外家具、家纺及家具品类，以邀请制Casting模式对接卖家，并宣传其复购率与品牌认知优势。",
-      "publishedAt": "2026-09-05T10:10:00+08:00",
-      "source": "雨果跨境",
-      "url": "https://www.cifnews.com/article/188683",
-      "subCategory": "平台动态"
     }
   ]
 }

@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-09T08:45:00+08:00",
+  "updatedAt": "2026-09-09T16:30:00+08:00",
   "items": [
+    {
+      "id": "finance-20260909-002",
+      "title": "9月8日晚间公告集锦|信达证券获批发行不超52亿元公司债，江波龙4.48亿元回购A股股份，金龙汽车8月客车销量3828辆同比下降6.04%",
+      "summary": "9月8日晚间多家A股公司发布公告：信达证券获批发行不超52亿元公司债；江波龙首次回购约125万股耗资4.48亿元；金龙汽车8月客车销量3828辆同比降6.04%；正邦科技8月生猪销售收入同比降7.13%。",
+      "publishedAt": "2026-09-08T21:34:00+08:00",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15070558.html",
+      "subCategory": "A股"
+    },
     {
       "id": "finance-20260908-005",
       "title": "A股收评 | 沪指微涨双创走弱 糖业农业链掀涨停潮",
@@ -96,15 +105,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260908-001",
-      "title": "智通港股投资日志|9月8日",
-      "summary": "9月8日港股市场动态：江波龙正式挂牌上市，恒大汽车、丽珠医药发布业绩公告，越秀房托、宏安地产等公司召开股东大会，逾30家公司除净，中国飞鹤、安踏体育、颐海国际等派息；恒生指数当日收跌0.93%，报25413.12点。",
-      "publishedAt": "2026-09-08",
-      "source": "智通财经/英为财情",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3554900",
-      "subCategory": "港股"
-    },
-    {
       "id": "finance-20260908-003",
       "title": "麒麟9050 Pro首发落地 韬定律量产兑现！9只概念股获融资客逆势加仓",
       "summary": "华为发布六年来首款旗舰芯片麒麟9050 Pro，采用逻辑折叠工艺及超精细混合键合技术，晶体管密度提升55%，NPU、GPU功耗分别下降66%和58%；A股相关\"韬定律\"概念股约22只，合计市值约3.11万亿元，当日9只概念股获融资客逆势加仓。",
@@ -121,6 +121,24 @@
       "source": "智通财经/英为财情",
       "url": "https://cn.investing.com/news/stock-market-news/article-3554928",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260908-001",
+      "title": "智通港股投资日志|9月8日",
+      "summary": "9月8日港股市场动态：江波龙正式挂牌上市，恒大汽车、丽珠医药发布业绩公告，越秀房托、宏安地产等公司召开股东大会，逾30家公司除净，中国飞鹤、安踏体育、颐海国际等派息；恒生指数当日收跌0.93%，报25413.12点。",
+      "publishedAt": "2026-09-08",
+      "source": "智通财经/英为财情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3554900",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260909-003",
+      "title": "龙版传媒：股票交易异常波动，明起停牌核查",
+      "summary": "龙版传媒公告称，公司股票8月31日至9月7日连续六个交易日涨停，9月8日再涨9.12%，累计涨幅约93.47%，公司称股价明显偏离基本面，已向上交所申请自9月9日开市起停牌核查。",
+      "publishedAt": "2026-09-08",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15070538.html",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260907-010",
@@ -186,6 +204,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260907-003",
+      "title": "美军袭击伊朗油轮引爆地缘风险，布油一度逼近97美元关口",
+      "summary": "9月7日消息，美方在与伊朗互相打击油轮后，据报致其中一艘伊朗油轮\"永久失去航行能力\"，伊朗随后在霍尔木茲海峽外宣布新限制区；布伦特原油开盘一度上涨0.8%逼近97美元/桶，WTI原油交投于92美元附近。",
+      "publishedAt": "2026-09-07T07:25:00+08:00",
+      "source": "智通财经/英为财情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553872",
+      "subCategory": "大宗商品"
+    },
+    {
       "id": "finance-20260907-006",
       "title": "A股三大指数走势分化 创业板指涨超 3% CPO 概念股爆发",
       "summary": "9月7日A股三大指数走势分化，沪指涨0.07%戹3932.70点，深证成指涨1.91%，创业板指涨3.41%戹3398.68点，沪深京三市成交额1.96万亿元，较上一交易日缩量868亿元；通信设备板块净流入201.3亿元，CPO概念股集体走强，证券板块净流出22.17亿元。",
@@ -202,15 +229,6 @@
       "source": "智通财经/英为财情",
       "url": "https://cn.investing.com/news/stock-market-news/article-3553838",
       "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260907-003",
-      "title": "美军袭击伊朗油轮引爆地缘风险，布油一度逼近97美元关口",
-      "summary": "9月7日消息，美方在与伊朗互相打击油轮后，据报致其中一艘伊朗油轮\"永久失去航行能力\"，伊朗随后在霍尔木茲海峽外宣布新限制区；布伦特原油开盘一度上涨0.8%逼近97美元/桶，WTI原油交投于92美元附近。",
-      "publishedAt": "2026-09-07T07:25:00+08:00",
-      "source": "智通财经/英为财情",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553872",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260906-108",
@@ -348,33 +366,6 @@
       "subCategory": "风险事件"
     },
     {
-      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戥2566七97点 高水16点",
-      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抵25667点，较上一交易日涠13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
-      "subCategory": "港股",
-      "id": "finance-20260905-102"
-    },
-    {
-      "id": "finance-20260905-205",
-      "title": "恒指牛熊街货比(47:53)｜9月5日",
-      "summary": "9月5日恒生指数牛熊证街货比抵47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
-      "subCategory": "港股"
-    },
-    {
-      "title": "智通ADR统计 | 9月5日",
-      "summary": "智通财经数据显示，9月5日盘前，恒生指数ADR扑25753.80点，较香港收市上涨0.40%；汇丰控股ADR抗167.948港元，较收市涨0.75%；腾讯控股ADR抗438.609港元，较收市跌0.95%。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553461",
-      "subCategory": "港股",
-      "id": "finance-20260905-101"
-    },
-    {
       "id": "finance-20260905-007",
       "title": "非农爆了！9月加息预期升温 特朗普喇话：降息！降息！美联储必须“聪明”起来",
       "summary": "美国8月非农新增就业16.2万人，远超预期的5.6万人，市场对9月加息预期升温，美股三大指数收跌，道指跌0.51%，纳指跌0.29%；特朗普喇话美联储降息，称高利率使美国处于不公平竞争劣势。",
@@ -418,6 +409,33 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
       "subCategory": "美股"
+    },
+    {
+      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戥2566七97点 高水16点",
+      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抵25667点，较上一交易日涠13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经/Investing.com",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
+      "subCategory": "港股",
+      "id": "finance-20260905-102"
+    },
+    {
+      "id": "finance-20260905-205",
+      "title": "恒指牛熊街货比(47:53)｜9月5日",
+      "summary": "9月5日恒生指数牛熊证街货比抵47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
+      "subCategory": "港股"
+    },
+    {
+      "title": "智通ADR统计 | 9月5日",
+      "summary": "智通财经数据显示，9月5日盘前，恒生指数ADR扑25753.80点，较香港收市上涨0.40%；汇丰控股ADR抗167.948港元，较收市涨0.75%；腾讯控股ADR抗438.609港元，较收市跌0.95%。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经/Investing.com",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553461",
+      "subCategory": "港股",
+      "id": "finance-20260905-101"
     },
     {
       "id": "finance-20260904-015",
@@ -582,15 +600,6 @@
       "subCategory": "A股"
     },
     {
-      "id": "finance-20260903-004",
-      "title": "A股三大指数震荡整理，成交额不足1.8万亿，培育钻石概念股大涨",
-      "summary": "9月3日A股三大指数窄幅震荡，上证指数涨0.02%扜3942.09点，深证成指涨0.10%扜1ぁ3625.12点，创业板指涨0.01%扜3312.54点，沪深北三市合计成交1.78万亿元，较上一交易日减少40.1亿元；贵金属、保险、航运港口板块领涨，培育钻石概念股大涨，通用设备净流典18.61亿元，半导体净流出50.31亿元。",
-      "publishedAt": "2026-09-03",
-      "source": "东方财富Choice数据",
-      "url": "https://finance.eastmoney.com/a/202609033864001670.html",
-      "subCategory": "A股"
-    },
-    {
       "id": "finance-20260904-002",
       "title": "下一个六氟化钨？猛涨超240% 这种工业气体价格\"暴走\"（附股）",
       "summary": "国内氩气价格自今年5月启动上行以来四个月内涨幅超240%，截至9月2日扜2459元/吨，较式初720元大幅上涨，8月26日唐山中邦氩气报价单日暴涨42.86%；氩气主要用于氩弧焊、半导体加工领域，供应端受空气分离设备开工率制约，需求端受AI芯片、存储芯片产业景气拉动。",
@@ -625,6 +634,15 @@
       "source": "东方财富Choice数据",
       "url": "https://finance.eastmoney.com/a/202609033863173342.html",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260903-004",
+      "title": "A股三大指数震荡整理，成交额不足1.8万亿，培育钻石概念股大涨",
+      "summary": "9月3日A股三大指数窄幅震荡，上证指数涨0.02%扜3942.09点，深证成指涨0.10%扜1ぁ3625.12点，创业板指涨0.01%扜3312.54点，沪深北三市合计成交1.78万亿元，较上一交易日减少40.1亿元；贵金属、保险、航运港口板块领涨，培育钻石概念股大涨，通用设备净流典18.61亿元，半导体净流出50.31亿元。",
+      "publishedAt": "2026-09-03",
+      "source": "东方财富Choice数据",
+      "url": "https://finance.eastmoney.com/a/202609033864001670.html",
+      "subCategory": "A股"
     },
     {
       "id": "finance-20260903-003",
@@ -706,24 +724,6 @@
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260903-002",
-      "title": "A股三大指数缩量收跌 地面兵装板块逆市大涨",
-      "summary": "9月2日A股三大指数缩量下跌，上证指数跌0.97%扜3941.39点，深证成指跌1.88%扜1ぁ3611.55点，创业板指跌2.39%扜3312.24点，沪深北三市合计成交1.82万亿元。地面兵装板块逆市走强，北方长龙涨近14%，内蒙一机、长城军工涨停；电网设备板块获资金净流入148.2亿元，半导体板块净流出909.3亿元居首，逾1500股上涨，逾50股涨停。",
-      "publishedAt": "2026-09-02",
-      "source": "东方财富Choice数据",
-      "url": "https://finance.eastmoney.com/a/202609023862719456.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260902-803",
-      "title": "Oil extends gains as Trump threatens further Iran strikes",
-      "summary": "受美国打击伊朗伊斯兰革命卫队目标、霍尔木茲海峽局势持续紧张影响，WTI原油期货结算价报90.68美元/桶，为6月11日以来最高水平，布伦特原油报95.05美元/桶，市场对中东供应中断的担忧持续升温。",
-      "publishedAt": "2026-09-01T17:37:00-04:00",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
-      "subCategory": "大宗商品"
     }
   ]
 }

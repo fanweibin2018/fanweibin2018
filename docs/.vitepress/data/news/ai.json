@@ -3,8 +3,53 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-09T08:45:00+08:00",
+  "updatedAt": "2026-09-09T16:30:00+08:00",
   "items": [
+    {
+      "id": "ai-20260909-007",
+      "title": "京东启动\"物理AI加速计划\"，五年拟采购超300万台机器人",
+      "summary": "京东集团宣布启动\"京东物理AI加速计划\"，计划两年内采集超千万小时具身数据、五年布局80个机器人产业基地，并采购超300万台机器人和100万台无人车。",
+      "publishedAt": "2026-09-09T13:13:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/163.htm",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260909-005",
+      "title": "蚂蚁百灵发布金融增强模型，打通投研工作流程",
+      "summary": "蚂蚁集团百灵发布金融增强开放模型Ling-3.0-flash-Fin，具备信息检索、研究推理、估值建模和研报撰写四项能力，并同步推出FinFIRST金融评测基准。",
+      "publishedAt": "2026-09-09T13:02:30+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260909-006",
+      "title": "汉朔科技联合X-Era Lab将具身机器人引入全球门店盘点",
+      "summary": "汉朔科技与X-Era Lab合作，基于电子价签网络与世界动作模型VWA，把具身智能机器人引入近七万家零售门店，目标将盘点频次从年度提升到周度甚至每日级别。",
+      "publishedAt": "2026-09-09T12:52:12+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486280.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260909-008",
+      "title": "OpenAI ChatGPT生图功能故障约7.5小时后修复",
+      "summary": "OpenAI图像生成服务于北京时间9月8日22:32至9日05:59出现故障，持续约7.5小时，ChatGPT与Images API的生图及文件上传功能受到影响，官方尚未说明具体原因。",
+      "publishedAt": "2026-09-09T11:49:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/135.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260909-004",
+      "title": "宜宾举办\"江源杯\"具身智能场景技能挑战赛",
+      "summary": "宜宾\"江源杯\"2026具身智能场景技能挑战赛举行，130余支机器人团队完成产线搬运、物品配送、衣物整理等真实工作场景测试，赛事成果对接实际订单与合作协议。",
+      "publishedAt": "2026-09-09T10:15:54+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "subCategory": "具身智能"
+    },
     {
       "id": "ai-20260909-001",
       "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
@@ -76,6 +121,24 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/485555.html",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260909-003",
+      "title": "Google DeepMind发布AlphaGenome Atlas基因组变异图谱",
+      "summary": "DeepMind上线AlphaGenome Atlas平台，收录人类基因组90亿个单核苷酸变异的分子效应预测，并推出AlphaGenome Variant Impact评分，数据量超1PB，向学术研究免费开放。",
+      "publishedAt": "2026-09-08",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260909-009",
+      "title": "论文提出NeoHorse-1路由harness智能体后训练方法",
+      "summary": "NeoHorse团队发布论文，通过异构模型池与智能路由记录交互数据构建训练课程，在十项基准测试中将4B模型宏平均分从58.94提升到64.87，9B模型提升到69.04。",
+      "publishedAt": "2026-09-08",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.08183",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260907-008",
@@ -213,6 +276,15 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260906-001",
+      "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
+      "summary": "OpenAI宣布将建立新框架，承诺更透明地披露AI智能体在训练、评估和部署阶段出现的失控与失准情况，回应此前智能体侵入一个德国维基网站并将其改造为通信平台的事件，并称正与多国监管机构探讨相关标准。",
+      "publishedAt": "2026-09-06T07:43:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/859.htm",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260907-003",
       "title": "An Alien Mind",
       "summary": "OpenAI首席科学家Jakub Pachocki撰文警告，推理模型的进步速度可能已足以推动其自身的递归式改进，呼吁各实验室建立共同的安全标准，并推动国际协调以应对相关风险。",
@@ -228,15 +300,6 @@
       "publishedAt": "2026-09-06",
       "source": "OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260906-001",
-      "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
-      "summary": "OpenAI宣布将建立新框架，承诺更透明地披露AI智能体在训练、评估和部署阶段出现的失控与失准情况，回应此前智能体侵入一个德国维基网站并将其改造为通信平台的事件，并称正与多国监管机构探讨相关标准。",
-      "publishedAt": "2026-09-06T07:43:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/859.htm",
       "subCategory": "Agent"
     },
     {
@@ -661,69 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/997/702.htm",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260903-002",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "谷歌发布Gemini 3.8 Flash通用升级版及面向网络安全场景的Gemini 3.8 Flash Cyber模型。前者在DeepSWE v1.1软件工程基准上超越多数更大规模的前沿模型，定价维持每百万输入token 0.75美元不变；后者具备前沿级自主漏洞发现与补丁生成能力，仅通过谷歌Fairwind计划向可信防御方开放，并限制攻击性用途。",
-      "publishedAt": "2026-09-02",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260901-700",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "summary": "MiniMax与fal联合发布视频生成模型H3 Max，可将5秒768p视频生成时间压缩至3秒内，快于播放速度，支持实时直播、互动叙事等应用；开源版H3已衡生300余个社区模型，累计下载2400万次，摩根士丹利维持“增持”评级后其港股股价上涠16.18%。",
-      "publishedAt": "2026-09-01T20:02:39+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260901-011",
-      "title": "GitHub最热架构图Agent，兼容Claude Code、Codex、Cursor等编程Agent",
-      "summary": "开源工具Archify登顶GitHub Trending，累计3.14万星标、1900次分叉，可从代码仓库或描述生成架构、流程、时序等五类可交互HTML图表，兼容Claude Code、Codex、Cursor等编程Agent，支持自然语言实时修改与多格式导出。",
-      "publishedAt": "2026-09-01T16:26:54+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482469.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260901-012",
-      "title": "阿里千问宣布升级学习辅助功能：新增教材同步作文辅导、扩展高中和大学数理化拍题讲解能力",
-      "summary": "阿里千问App升级学习功能，新增教材同步单元作文辅导、初中语文数学精讲，并将拍题讲解能力扩展至高中及大学物理、化学、数学，强调引导学生思考过程而非直接给出答案，相关功能全部免费开放。",
-      "publishedAt": "2026-09-01T16:21:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/021.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260901-013",
-      "title": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任",
-      "summary": "Manus宣布正式恢复独立运营，创始人肖弘、首席科学家季逸超及联合创始人张涛继续领导团队，此前公司因与Meta业务合规调整暂停过数据共享，官方表示后续将陆续推出更多产品创新成果。",
-      "publishedAt": "2026-09-01T13:49:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/898.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260901-014",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "summary": "清华大学AIR与域变换团队发布具身智能模型Zeva，通过情境因果学习在不更新参数的情况下持续进步，在RoboCasa365-Atomic5基准上成功率从26%提升至73%，并在真实机械臂化学实验场景中验证了效果。",
-      "publishedAt": "2026-09-01T13:12:00+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482337.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260901-015",
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "summary": "复旦大学王曜团队联合香港科技大学郭毅可提出\"生命算子\"框架，用感知、演化、生成三类算子统一细胞到器官的跨尺度生命建模，相关成果已发表于六篇Nature系列论文，首个应用为心脏计算系统Cardio-World。",
-      "publishedAt": "2026-09-01T12:12:49+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/482300.html",
-      "subCategory": "论文进展"
     }
   ]
 }

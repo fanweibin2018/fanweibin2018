@@ -3,7 +3,7 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-09T08:45:00+08:00",
+  "updatedAt": "2026-09-09T16:30:00+08:00",
   "items": [
     {
       "id": "tech-20260909-002",
@@ -49,6 +49,87 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/962.htm",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260909-009",
+      "title": "苹果被曝收购脑成像初创公司 Sonera，或用于 Apple Watch 健康功能",
+      "summary": "据报道，苹果已于今年 5 月悄然收购加州脑成像初创公司 Sonera，其非侵入式传感器可测量脑部神经信号，未来有望被用于 Apple Watch 神经系统相关的健康监测功能。",
+      "publishedAt": "2026-09-09T00:05:30+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1149/1149645.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-006",
+      "title": "谷歌 Chrome 浏览器更新频率调整为两周一次",
+      "summary": "谷歌宣布即日起 Chrome 桌面版、安卓版和 iOS 版更新周期由每月一次调整为每两周一次，以更快向用户和开发者推送改进，企业版 Extended Stable 仍维持双月更新周期。",
+      "publishedAt": "2026-09-08T23:28:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/947.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260909-007",
+      "title": "索尼发布首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G",
+      "summary": "索尼推出首款全画幅鱼眼变焦镜头 SEL814G，售价 9999 元，机身约 314 克，支持双鱼眼模式，搭配兼容机身最高可实现 120fps 连拍，最近对焦距离 0.15 米，具备防尘防潮设计。",
+      "publishedAt": "2026-09-08T23:03:10+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/944.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-008",
+      "title": "任天堂官宣《塞尔达传说》40 周年纪念版 Switch 2 主机及 Pro 手柄",
+      "summary": "任天堂在直面会上公布《塞尔达传说》40 周年纪念版 Switch 2 主机及 Pro 手柄，纪念版手柄附带展示底座，仅通过任天堂官方商店销售，两款产品均定于 10 月 29 日发售。",
+      "publishedAt": "2026-09-08T22:48:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/943.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-013",
+      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售，搭载 AI 四驱越野技术",
+      "summary": "吉利银河战舰 700 将于 9 月 15 日开启预售，配备可支持 80km/h 麋鹿测试的 AI 四驱系统，插电混动最大综合功率达 830 千瓦，CLTC 纯电续航里程为 305 公里。",
+      "publishedAt": "2026-09-08T22:35:14+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/940.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260909-014",
+      "title": "赛睿推出高端 Aeon Pro 无线手柄，售价 259.99 美元",
+      "summary": "赛睿发布高端无线手柄 Aeon Pro，支持 Xbox 与 PC 三模连接，配备可热插拔电池、OLED 屏幕、霍尔效应摇杆及机械按键，并提供专利待批的 QuickSwitch 坞站快速切换功能。",
+      "publishedAt": "2026-09-08T22:28:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/938.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-010",
+      "title": "美国商务部依据芯片法案与量子计算公司 D-Wave 达成 1 亿美元协议",
+      "summary": "美国商务部宣布依据芯片法案与量子计算公司 D-Wave 达成 1 亿美元协议，属于美国政府在量子计算领域的投资项目，页面披露的具体条款和用途细节有限。",
+      "publishedAt": "2026-09-08T20:43:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3974742212522243",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260909-011",
+      "title": "量子计算公司 Quantinuum 获美国商务部 1 亿美元研发拨款",
+      "summary": "美国商务部向量子计算公司 Quantinuum 提供 1 亿美元研发拨款，用于支持其在美国本土制造俘获离子量子计算芯片以及配套整机系统。",
+      "publishedAt": "2026-09-08T20:23:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3974710592172549",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260909-012",
+      "title": "波士顿动力关联公司 Dynamic Creatures 发布互动角色机器人平台 SnowJay",
+      "summary": "由前波士顿动力与谷歌高管创立的 Dynamic Creatures 结束隐身状态，作为波士顿动力官方娱乐与酒店业合作伙伴，推出面向主题乐园、酒店等场景的移动互动角色机器人平台 SnowJay。",
+      "publishedAt": "2026-09-08T19:53:00+08:00",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/09/08/3357547/0/en/dynamic-creatures-emerges-from-stealth-to-launch-new-category-of-mobile-interactive-character-robots-for-hospitality-and-entertainment.html",
+      "subCategory": "机器人"
     },
     {
       "id": "tech-20260908-010",
@@ -321,15 +402,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260907-010",
-      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
-      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
-      "publishedAt": "2026-09-07",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/346.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260907-008",
       "title": "中国智能眼镜线上规模首次下跌！7月销额环比暴跌43%",
       "summary": "洛图科技数据显示，7月中国京东、天猫、抖音三平台线上智能眼镜合计销量740万台，同比下降15.3%，销额环比暴跌43%至13亿元，均价降至1751元，为该品类年内首次出现下滑。",
@@ -355,6 +427,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260907-010",
+      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
+      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
+      "publishedAt": "2026-09-07",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/346.htm",
+      "subCategory": "芯片硬件"
     },
     {
       "id": "tech-20260906-018",
@@ -643,87 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/808.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260905-205",
-      "title": "我国自主研发的危化防爆巡检无人机成功首飞 可毫秒级检测13种危险气体",
-      "summary": "西北工业大学与中科院等机构联合研制的危化防爆巡检无人机在山东某化工厂完成验证飞行，可毫秒级检测13种危险气体，采用四重防爆构造与正压惰性气体密封，泄漏识别准确率达93%，实现全部器件国产化。",
-      "publishedAt": "2026-09-05T18:11:31+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148942.htm",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260905-207",
-      "title": "我国首台：大视场亚秒级采样 1 米级巡天望远镜\"天语\"首次成像，完整摄下逾百万颜恒星",
-      "summary": "由上海交通大学李政道研究所与中科院上海天文台研制的\"天语\"巡天望远镜在青海冷湖基地完成首光观测，一次曝光即完整摄下天鹅座北美洲星云、鸇鸸星云及周边逾百万颜恒星，单次拍摄覆盖约9平方度天区。",
-      "publishedAt": "2026-09-05T17:27:40+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/786.htm",
-      "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260905-211",
-      "title": "极哲推出 ZIP PRO 三折叠便携投影仪：586g 重、1080P 60Hz，预售到手价 2899 元",
-      "summary": "极哲发布ZIP PRO三折叠便携投影仪，机身重586g、折叠厚度44mm，支持1080P 60Hz分辨率、60-120英寸投影尺寸，内置10000mAh电池及65W PD快充，目前预售到手价2899元。",
-      "publishedAt": "2026-09-05T17:15:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/785.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "title": "得克萨斯州大举兴建数据中心，当地毕业生失业率反而走高",
-      "summary": "达拉斯联邦储备银行研究显示，得克萨斯州数据中心用电申请量已从2023年约48吉瓦增至474吉瓦以上，但AI相关行业招聘岗位不增反减，当地大学毕业生失业率升至异常高水平。",
-      "publishedAt": "2026-09-05T16:53:34+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/782.htm",
-      "subCategory": "网络基础设施",
-      "id": "tech-20260905-107"
-    },
-    {
-      "title": "狼蛛 G9 头戴式耳机开售：53mm 动圈、换电设计，269 元",
-      "summary": "狼蛚G9头戴式游戏耳机开售，售价269元，配备53mm镀钐动圈单元与C-Media声卡芯片，支持Xear 7.1虚拟环绕音，提供蓝特80 6.0、2.4G及3.5mm四种连接方式，内置1500mAh电池并支持换电设计。",
-      "publishedAt": "2026-09-05T16:51:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/781.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260905-104"
-    },
-    {
-      "id": "tech-20260905-203",
-      "title": "余凯：地平线明年目标是要在中国高阶自动驾驶芯片市场超过英伟达",
-      "summary": "地平线创始人余凯在2026阿拉比斯创业者论坛上表示，公司2025年推出560TOPS高性能芯片，目前在中国自动驾驶芯片市场排名第二，仅次于英伟达，目标是明年在高阶自动驾驶芯片市场实现反超。",
-      "publishedAt": "2026-09-05T16:27:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/775.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "title": "远山智行发布国内首款轮足式导盲机器人，室外避障成功率不低于 96%",
-      "summary": "中国兵器集团杭州智元研究院旗下远山智行发布导盲机器人\"小远\"，采用轮足复合构型可平地滑行并爱楼梯，室内避障成功率不低于99%，室外不低于96%，已在杭州西湖区多个公共场景开展试点。",
-      "publishedAt": "2026-09-05T16:00:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/765.htm",
-      "subCategory": "机器人",
-      "id": "tech-20260905-102"
-    },
-    {
-      "title": "传音 TECNO 展示\"0mm 边框\"概念手机：双层玻璃隐藏屏幕黑边",
-      "summary": "传音旗下TECNO在柏林IFA 2026展示\"0mm边框\"概念手机，采用双层玻璃设计遮挡屏幕黑边，屏幕模组改为由背面组装并用定制热融胶固定外层玻璃，目前仍处于概念展示阶段，未公布量产计划。",
-      "publishedAt": "2026-09-05T15:42:38+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/756.htm",
-      "subCategory": "消费电子",
-      "id": "tech-20260905-103"
-    },
-    {
-      "title": "启境 GX7 预售 18 小时小订突破 2 万台，24.99-31.19 万元",
-      "summary": "广汽与华为联合打造的启境GX7于9月4日晚开启预售，18小时内小订突破2万台，预售价24.99万至31.19万元，全系标配L3级冗余架构和4颗激光雷达，搭载华为乾坤ADS5智驾系统。",
-      "publishedAt": "2026-09-05T14:39:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/743.htm",
-      "subCategory": "智能汽车",
-      "id": "tech-20260905-101"
     }
   ]
 }

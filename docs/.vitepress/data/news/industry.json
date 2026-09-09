@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-09T08:45:00+08:00",
+  "updatedAt": "2026-09-09T16:30:00+08:00",
   "items": [
     {
       "id": "industry-20260909-001",
@@ -130,6 +130,15 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260907-004",
@@ -528,6 +537,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260903-004",
+      "title": "AI算力引爆MLCC需求，三星电机斉获史上最大长约",
+      "summary": "三星电机获得约1.07万亿韩元AI服务器MLCC长期订单，为公司史上最大单笔合约，相当于其上一财年营收的9.5%；该合约紧随三星8月1日对MLCC提价30%之后，日本太阳诱甃9月1日亦跟涨，行业分析认为供应紧张态势或将持续至2028年。",
+      "publishedAt": "2026-09-03T07:44:00+08:00",
+      "source": "东方财富研究中心",
+      "url": "https://finance.eastmoney.com/a/202609033863294424.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260905-211",
       "title": "台积电设备采购需求半年暴涠90%产能仍难满足AI需求",
       "summary": "台积电高管在SEMICON Taiwan 2026上透露，公司设备采购需求约8个月内增长近90%，目前全球同步在建约20座晶圆厂与封装厂，产能仍难以完全满足AI算力需求增长。",
@@ -553,15 +571,6 @@
       "source": "Counterpoint Research",
       "url": "https://counterpointresearch.com/en/insights/global-existing-smartphone-prices-climb-about-15-percent-in-2026",
       "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260903-004",
-      "title": "AI算力引爆MLCC需求，三星电机斉获史上最大长约",
-      "summary": "三星电机获得约1.07万亿韩元AI服务器MLCC长期订单，为公司史上最大单笔合约，相当于其上一财年营收的9.5%；该合约紧随三星8月1日对MLCC提价30%之后，日本太阳诱甃9月1日亦跟涨，行业分析认为供应紧张态势或将持续至2028年。",
-      "publishedAt": "2026-09-03T07:44:00+08:00",
-      "source": "东方财富研究中心",
-      "url": "https://finance.eastmoney.com/a/202609033863294424.html",
-      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260902-809",
@@ -690,15 +699,6 @@
       "subCategory": "新能源汽车"
     },
     {
-      "id": "industry-20260902-801",
-      "title": "蓝来：8 月交付35836辆 同比增14.5%",
-      "summary": "蓝来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蓝来品牌21174辆、乐道8810辆、营火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
-      "publishedAt": "2026-09-01",
-      "source": "GPLP",
-      "url": "https://www.gplp.cn/archives/156913",
-      "subCategory": "新能源汽车"
-    },
-    {
       "id": "industry-20260902-808",
       "title": "毕马威：2026年全球科技报告",
       "summary": "毕马威发布《2026年全球科技报告》显示，全球仅11%企业达到最高技术成熟度，74%企业已从AI项目中获得业务价值但仅24%实现规模化ROI，88%企业正在构建智能体系统，53%企业面临数字人才短缺。",
@@ -708,6 +708,15 @@
       "subCategory": "行业研报"
     },
     {
+      "id": "industry-20260902-801",
+      "title": "蓝来：8 月交付35836辆 同比增14.5%",
+      "summary": "蓝来汽车公告，2026年8月交付新车35836辆，同比增长14.5%，其中蓝来品牌21174辆、乐道8810辆、营火虫5852辆；1-8月累计交付262893辆，同比增57.9%。",
+      "publishedAt": "2026-09-01",
+      "source": "GPLP",
+      "url": "https://www.gplp.cn/archives/156913",
+      "subCategory": "新能源汽车"
+    },
+    {
       "id": "industry-20260831-100",
       "title": "SK集团会长崔泰源：SK海力士正考虑在日本建设合资企业事宜",
       "summary": "SK集团会长崔泰源表示，SK海力士正考虑在日本建设合资企业，公司正在日本各地寻找电力与水资源充足的选址，另一种方案是收购日本小型企业，具体合作形式将视合作伙伴与产品而定。",
@@ -715,15 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/996/552.htm",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260831-101",
-      "title": "洛图科技：2026年上半年中国笔记本电脑线上全渠道均价7120元，同比上涨8.2%",
-      "summary": "洛图科技数据显示，2026年上半年中国笔记本电脑线上市场销量557万台，同比下降12.1%，均价7120元，同比上涨8.2%，呈现量降价升态势，头部品牌集中度进一步提升。",
-      "publishedAt": "2026-08-31T15:58:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/996/538.htm",
-      "subCategory": "行业研报"
     }
   ]
 }
