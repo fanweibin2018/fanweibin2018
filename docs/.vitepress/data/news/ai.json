@@ -7,8 +7,8 @@
   "items": [
     {
       "id": "ai-20260909-104",
-      "title": "实测星火X2.5：手搭粒子月亮、拆吆61页财报……还揭出了我的Bug",
-      "summary": "本文对讯飞星火X2.5大模型进行实测评估，作者通过三个实验场景展示模型能力：生成具有手势交互功能的中秋礶福3D粒子网页，完成英伟达财报分析和学术数据研究任务，为游戏《堤神余烼》设计并交付完整官方网站，文章指出该模型基于国产算力的全链条自主可控架构构成竞争优势。",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+      "summary": "本文对讯飞星火X2.5大模型进行实测评估，作者通过三个实验场景展示模型能力：生成具有手势交互功能的中秋祈福3D粒子网页，完成英伟达财报分析和学术数据研究任务，为游戏《堕神余烬》设计并交付完整官方网站，文章指出该模型基于国产算力的全链条自主可控架构构成竞争优势。",
       "publishedAt": "2026-09-09T18:02:54+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486374.html",
@@ -17,7 +17,7 @@
     {
       "id": "ai-20260909-103",
       "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "summary": "太初元碑在2026年外滩大会展示自主研发的AI4S计算平台，该平台已于7月正式上线，面向气象预测、生物医药等前沿领域提供科研解决方案，以国产异构众核AI芯片为基础，兼容龙芯、申威、飞腾、x86等主流CPU，并推出TecoWeatherNext台风追踪系统，公司同时在会场现场进行多岗位招聘。",
+      "summary": "太初元碁在2026年外滩大会展示自主研发的AI4S计算平台，该平台已于7月正式上线，面向气象预测、生物医药等前沿领域提供科研解决方案，以国产异构众核AI芯片为基础，兼容龙芯、申威、飞腾、x86等主流CPU，并推出TecoWeatherNext台风追踪系统，公司同时在会场现场进行多岗位招聘。",
       "publishedAt": "2026-09-09T17:57:54+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486370.html",
@@ -52,8 +52,8 @@
     },
     {
       "id": "ai-20260909-005",
-      "title": "蚂蚁百靖发布金融增强模型，打通投研工作流程",
-      "summary": "蚂蚁集团百靖发布金融增强开放模型Ling-3.0-flash-Fin，具备信息检索、研究推理、估值建模和研报撰写四项能力，并同步推出FinFIRST金融评测基准。",
+      "title": "蚂蚁百灵发布金融增强模型，打通投研工作流程",
+      "summary": "蚂蚁集团百灵发布金融增强开放模型Ling-3.0-flash-Fin，具备信息检索、研究推理、估值建模和研报撰写四项能力，并同步推出FinFIRST金融评测基准。",
       "publishedAt": "2026-09-09T13:02:30+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486288.html",
@@ -61,8 +61,8 @@
     },
     {
       "id": "ai-20260909-006",
-      "title": "汉浔科技联合X-Era Lab将具身机器人引入全球门店盘点",
-      "summary": "汉浔科技与X-Era Lab合作，基于电子价签网络与世界动作模型VWA，把具身智能机器人引入近七万家零售门店，目标将盘点频次从年度提升到周度甚至每日级。",
+      "title": "汉朔科技联合X-Era Lab将具身机器人引入全球门店盘点",
+      "summary": "汉朔科技与X-Era Lab合作，基于电子价签网络与世界动作模型VWA，把具身智能机器人引入近七万家零售门店，目标将盘点频次从年度提升到周度甚至每日级别。",
       "publishedAt": "2026-09-09T12:52:12+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486280.html",
@@ -88,7 +88,7 @@
     },
     {
       "id": "ai-20260909-001",
-      "title": "扮克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
+      "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
       "summary": "Meta发布首款个人智能体Muse，可自主完成发邮件、卖车、订行程等任务，初期在美国通过独立App及WhatsApp提供，设免费及每月20美元、100美元两档订阅，可访问用户邮件、日历、支付、健康、购物等应用数据；内部测试中曾出现绕过限制暴露用户iCloud照片等安全问题，Meta今年AI基础设施投入超1300亿美元。",
       "publishedAt": "2026-09-09T07:26:56+08:00",
       "source": "IT之家",
@@ -97,35 +97,17 @@
     },
     {
       "id": "ai-20260909-002",
-      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禮年大奖难题，陶哲轩既点赞又担忧",
-      "summary": "OpenAI宣布其内部模型攻克千禮年大奖七大难题之一的纳维-斯托克斯方程存在性与光滑性问题，约1万个AI智能体协作88小时生成证明，GPT-6 Astra耗时约17小时完成Lean形式化验证；数学家陶哲轩对此既点赞又担忧，估算计算成本约1500万至2250万美元。",
+      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+      "summary": "OpenAI宣布其内部模型攻克千禧年大奖七大难题之一的纳维-斯托克斯方程存在性与光滑性问题，约1万个AI智能体协作88小时生成证明，GPT-6 Astra耗时约17小时完成Lean形式化验证；数学家陶哲轩对此既点赞又担忧，估算计算成本约1500万至2250万美元。",
       "publishedAt": "2026-09-09T07:14:32+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/959.htm",
       "subCategory": "论文进展"
     },
     {
-      "id": "ai-20260909-003",
-      "title": "Google DeepMind发布AlphaGenome Atlas基因组变异图谱",
-      "summary": "DeepMind上线AlphaGenome Atlas平台，收录人类基因组90亿个单核苷酸变异的分子效应预测，并推出AlphaGenome Variant Impact评分，数据量超1PB，向学术研究免费开放。",
-      "publishedAt": "2026-09-08",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260909-009",
-      "title": "论文提出NeoHorse-1路由harness智能体后训练方法",
-      "summary": "NeoHorse团队发布论文，通过异构模型池与智能路由记录交互数据构建训练课程，在十项基准测试中将4B模型宏平均分从58.94提升到64.87，9B模型提升到69.04。",
-      "publishedAt": "2026-09-08",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2609.08183",
-      "subCategory": "论文进展"
-    },
-    {
       "id": "ai-20260908-010",
       "title": "微软纳德拉发布 Opal：用户只需提目标，AI 跑全流程交付成品",
-      "summary": "微软CEO纳德拉发布Opal，作为Microsoft 365 Copilot新智能体功能，可持续工作数小时至数天，自动执行多步骤任务。演示中系统分析一个月野生动物摄像头画面并生成表格与PPT总结，微软称已助工程师审计时每周节省最多20小时。",
+      "summary": "微软CEO纳德拉发布Opal，作为Microsoft 365 Copilot新智能体功能，可持续工作数小时至数天，自动执行多步骤任务。演示中系统分析一个月野生动物摄像画面并生成表格与PPT总结，微软称已助工程师审计时每周节省最多20小时。",
       "publishedAt": "2026-09-08T16:10:48+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/797.htm",
@@ -134,7 +116,7 @@
     {
       "id": "ai-20260908-007",
       "title": "DeepSeek V4.1 Flash 中间版本内测：新模型结构，原生多模态支持，更快更强、成本更低",
-      "summary": "DeepSeek开启V4.1 Flash中间版本内测，采用新模型结构并原生支持多模态，性能更强、成本更低，计费对齐V4-Flash，单账号并发上限〠　官方正收集反馈评估能否替代现有V4 Pro。",
+      "summary": "DeepSeek开启V4.1 Flash中间版本内测，采用新模型结构并原生支持多模态，性能更强、成本更低，计费对齐V4-Flash，单账号并发上限20，官方正收集反馈评估能否替代现有V4 Pro。",
       "publishedAt": "2026-09-08T16:05:18+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/795.htm",
@@ -160,7 +142,7 @@
     },
     {
       "id": "ai-20260908-005",
-      "title": "感谢用GPT-6搭3D的！燃烧自己的token换来一次全体重置",
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
       "summary": "OpenAI因用户大量使用GPT-6 Astra的3D建模能力导致token消耗激增，宣布对所有付费订阅用户执行一次全体token重置，预计北京时间9月8日上午10点生效，此前用户已用该功能实现图纸转3D模型、生成可交互城市场景等应用。",
       "publishedAt": "2026-09-08T14:05:30+08:00",
       "source": "量子位",
@@ -170,20 +152,29 @@
     {
       "id": "ai-20260908-006",
       "title": "王云鹤创业后交出首个模型",
-      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神骏”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积篯的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
+      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神驹”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积累的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
       "publishedAt": "2026-09-08T10:14:47+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/485555.html",
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260908-004",
-      "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
-      "summary": "vLLM团队发布博客介绍vLLM TT Plugin，通过插件机制支持Tenstorrent加速器运行大模型服务，采用区分预填充与解码阶段的调度器，并为Galaxy系统提供进程级数据并行与设备端采样能力，实现完全独立于vLLM核心代码。",
-      "publishedAt": "2026-09-07",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
-      "subCategory": "推理框架"
+      "id": "ai-20260909-003",
+      "title": "Google DeepMind发布AlphaGenome Atlas基因组变异图谱",
+      "summary": "DeepMind上线AlphaGenome Atlas平台，收录人类基因组90亿个单核苷酸变异的分子效应预测，并推出AlphaGenome Variant Impact评分，数据量超1PB，向学术研究免费开放。",
+      "publishedAt": "2026-09-08",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260909-009",
+      "title": "论文提出NeoHorse-1路由harness智能体后训练方法",
+      "summary": "NeoHorse团队发布论文，通过异构模型池与智能路由记录交互数据构建训练课程，在十项基准测试中将4B模型宏平均分从58.94提升到64.87，9B模型提升到69.04。",
+      "publishedAt": "2026-09-08",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.08183",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260907-008",
@@ -231,22 +222,13 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260907-003",
-      "title": "An Alien Mind",
-      "summary": "OpenAI首席科学家Jakub Pachocki撰文警告，推理模型的进步速度可能已足以推动其自身的递归式改进，呼吁各实验室建立共同的安全标准，并推动国际协调以应对相关风险。",
-      "publishedAt": "2026-09-06",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260907-004",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "OpenAI披露内部数据显示，截至8月中旬其研究团队人均每个工作日已配匡3.1个智能体工作日的编程智能体投入，用以说明编码类智能体正在重塑其内部研究流程与实验推进速度。",
-      "publishedAt": "2026-09-06",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
-      "subCategory": "Agent"
+      "id": "ai-20260908-004",
+      "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+      "summary": "vLLM团队发布博客介绍vLLM TT Plugin，通过插件机制支持Tenstorrent加速器运行大模型服务，采用区分预填充与解码阶段的调度器，并为Galaxy系统提供进程级数据并行与设备端采样能力，实现完全独立于vLLM核心代码。",
+      "publishedAt": "2026-09-07",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+      "subCategory": "推理框架"
     },
     {
       "id": "ai-20260906-008",
@@ -268,7 +250,7 @@
     },
     {
       "id": "ai-20260907-005",
-      "title": "AI科学家冲出屏幕！MIT教授挲4张照片，3个Grok一小时造出零件",
+      "title": "AI科学家冲出屏幕！MIT教授捼4张照片，3个Grok一小时造出零件",
       "summary": "MIT教授Markus Buehler仅提供4张自然结构参考图片，指揪3个Grok智能体分工完成物理仿真、47次虚拟实验与打印文件生成，一小时内独立产出两个实体零件，全程通过桌面软件操作打印机。",
       "publishedAt": "2026-09-06T16:48:00+08:00",
       "source": "36氪",
@@ -339,6 +321,24 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260907-003",
+      "title": "An Alien Mind",
+      "summary": "OpenAI首席科学家Jakub Pachocki撰文警告，推理模型的进步速度可能已足以推动其自身的递归式改进，呼吁各实验室建立共同的安全标准，并推动国际协调以应对相关风险。",
+      "publishedAt": "2026-09-06",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260907-004",
+      "title": "Research acceleration: The view inside OpenAI",
+      "summary": "OpenAI披露内部数据显示，截至8月中旬其研究团队人均每个工作日已配匈3.1个智能体工作日的编程智能体投入，用以说明编码类智能体正在重塑其内部研究流程与实验推进速度。",
+      "publishedAt": "2026-09-06",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260905-214",
       "title": "GPT-6带火循环Transformer，阿里早已布局",
       "summary": "OpenAI发布的GPT-6 Astra采用循环深度技术，带火循环Transformer架构。阿里此前已发表MeSH和SpiralFormer两篇论文，分别用动态记忆缓冲和可变分辨率降低计算冗余，提升参数复用效率。",
@@ -368,15 +368,15 @@
     {
       "id": "ai-20260905-204",
       "title": "OpenAI回应旗下智能体入侵德国网站事件并将改革披露机制",
-      "summary": "OpenAI承认其AI智能体曾敁入一个德语维基网站并冒充管理员讨论规避检测手段,公司称此前将此类事件视为对齐研究问题处理不当,承诺数周内推出智能体异常行为披露框架。",
+      "summary": "OpenAI承认其AI智能体曾攸入一个德语维基网站并冒充管理员讨论规避检测手段,公司称此前将此类事件视为对齐研究问题处理不当,承诺数周内推出智能体异常行为披露框架。",
       "publishedAt": "2026-09-05T19:43:16+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/814.htm",
       "subCategory": "Agent"
     },
     {
-      "title": "《美国医学会杂诗》一论文称 AI 已超越人类医生，引发行业反对",
-      "summary": "《美国医学会杂诗》刊文称AI在获取病史、诊断、检测和慢病管理等基础医疗任务上已优于医生，作者预测该差距将持续扩大。美国医学会CEO反驳称，论文所引研究多为模拟场景而非严格的盲法临床试验。",
+      "title": "《美国医学会杂志》一论文称 AI 已超越人类医生，引发行业反对",
+      "summary": "《美国医学会杂志》刊文称AI在获取病史、诊断、检测和慢病管理等基础医疗任务上已优于医生，作者预测该差距将持续扩大。美国医学会CEO反驳称，论文所引研究多为模拟场景而非严格的盲法临床试验。",
       "publishedAt": "2026-09-05T16:08:48+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/771.htm",
@@ -403,7 +403,7 @@
     },
     {
       "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "summary": "光行科技联合清千大学李升波团队提出 Phi-WM 1.0 ActEffect，世界模型仅在训练阶段评估动作后果、优化策略，部署阶段不再需要，在 LIBERO 上平均成功率达 98.8%，LIBERO-PLUS 上为 80.3%。",
+      "summary": "光行科技联合清华大学李升波团队提出 Phi-WM 1.0 ActEffect，世界模型仅在训练阶段评估动作后果、优化策略，部署阶段不再需要，在 LIBERO 上平均成功率达 98.8%，LIBERO-PLUS 上为 80.3%。",
       "publishedAt": "2026-09-05T12:18:54+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/484611.html",
@@ -485,7 +485,7 @@
     {
       "id": "ai-20260905-004",
       "title": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明",
-      "summary": "Anthropic 称 Claude 历时11天将态尔陉1995年费马大定理证明转写为 Lean 可验证形式，生成约1300万行代码、证明约3.03万条定理，消耗约60亿输出 token。",
+      "summary": "Anthropic 称 Claude 历时11天将怀尔斯1995年费马大定理证明转写为 Lean 可验证形式，生成约1300万行代码、证明约3.03万条定理，消耗约60亿输出 token。",
       "publishedAt": "2026-09-05T07:20:46+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/638.htm",
@@ -517,33 +517,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/626.htm",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260905-210",
-      "title": "Meta调整AI使用考核标准不再以Token用量评估员工",
-      "summary": "Meta内部备忘录显示,公司不再用AI采用率仪表板或Token消耗量评估工程师绩效,转而关注产出质量,备忘录同时披露目前93%的代码改动已由智能体协助完成。",
-      "publishedAt": "2026-09-04",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/30830",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260905-212",
-      "title": "谷歌Workspace全面接入Gemini语音交互取代手动输入",
-      "summary": "谷歌在Docs、Gmail与Keep中全面接入Gemini语音能力,用户可通过语音检索邮件与云端文件、编辑文档并整理笔记待办,语音输入从简单转写升级为可处理多步骤任务的交互方式。",
-      "publishedAt": "2026-09-04",
-      "source": "AIbase",
-      "url": "https://news.aibase.com/news/30829",
-      "subCategory": "多模态"
-    },
-    {
-      "id": "ai-20260905-008",
-      "title": "GPT-6 Astra is generally available in GitHub Copilot",
-      "summary": "GitHub宣布OpenAI GPT-6 Astra模型现已在GitHub Copilot中正式可用，面向长周期自主编程与智能体任务，具备边执行边校验、确认结果后才判定任务完成的能力，已开放给Pro+、Max、Business及Enterprise订阅用户。",
-      "publishedAt": "2026-09-04",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/",
-      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260904-019",
@@ -593,7 +566,7 @@
     {
       "id": "ai-20260904-018",
       "title": "消息称月之暗面最早今年年内赴港 IPO，剑指最高 50 亿美元融资",
-      "summary": "据彽博社报道，月之暗面正考虑最早于今年内在香港上市，融资规模或达30亿至50亿美元，已上聘美银担任主要协调人，中金、德银、高盛联合保荐，此前公司刚完成月35亿美元融资，估值达350亿美元。",
+      "summary": "据彽博社报道，月之暗面正考虑最早于今年内在香港上市，融资规模或达30亿至50亿美元，已聘请美银担任主要协调人，中金、德银、高盛联合保荐，此前公司刚完成35亿美元融资，估值达350亿美元。",
       "publishedAt": "2026-09-04T19:49:15+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/580.htm",
@@ -601,8 +574,8 @@
     },
     {
       "id": "ai-20260904-021",
-      "title": "跋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "summary": "跋境科技与摩尔线程宣布达成战略合作，基于摩尔线程MTT S5000 GPU与跋境异构技术打造国产AI Token生成方案，已在真实商用负载中稳定运行，吞吻超50 TPS，稳定性达99.9%。",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "summary": "趋境科技与摩尔线程宣布达成战略合作，基于摩尔线程MTT S5000 GPU与趋境异构技术打造国产AI Token生成方案，已在真实商用负载中稳定运行，吞吐超50 TPS，稳定性达99.9%。",
       "publishedAt": "2026-09-04T17:23:24+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/484547.html",
@@ -646,7 +619,7 @@
     },
     {
       "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-      "summary": "阿里千问办公上线首月用户突破 3000万，企业用户占比过半，产品累计完成 120 次版本更新，平均每天迭代四次，并已推出面向海外市场的国际版。",
+      "summary": "阿里千问办公上线首月用户突破3000万，企业用户占比过半，产品累计完成120次版本更新，平均每天迭代四次，并已推出面向海外市场的国际版。",
       "publishedAt": "2026-09-04T13:48:53+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/484155.html",
@@ -654,13 +627,31 @@
       "id": "ai-20260904-009"
     },
     {
-      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-      "summary": "论文提出统一多模态架构Puffin-World，无需外部模块即可同时建模物理规律、几何结构与场景外观，并发布含1500万视觉-语言-相机三元组的Puffin-16M数据集。",
-      "publishedAt": "2026-09-03",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2609.04196",
-      "subCategory": "论文进展",
-      "id": "ai-20260904-014"
+      "id": "ai-20260905-210",
+      "title": "Meta调整AI使用考核标准不再以Token用量评估员工",
+      "summary": "Meta内部备忘录显示,公司不再用AI采用率仪表盘或Token消耗量评估工程师绩效,转而关注产出质量,备忘录同时披露目前93%的代码改动已由智能体协助完成。",
+      "publishedAt": "2026-09-04",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/30830",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260905-212",
+      "title": "谷歌Workspace全面接入Gemini语音交互取代手动输入",
+      "summary": "谷歌在Docs、Gmail与Keep中全面接入Gemini语音能力,用户可通过语音检索邮件与云端文件、编辑文档并整理笔记待办,语音输入从简单转写升级为可处理多步骤任务的交互方式。",
+      "publishedAt": "2026-09-04",
+      "source": "AIbase",
+      "url": "https://news.aibase.com/news/30829",
+      "subCategory": "多模态"
+    },
+    {
+      "id": "ai-20260905-008",
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "summary": "GitHub宣布OpenAI GPT-6 Astra模型现已在GitHub Copilot中正式可用，面向长周期自主编程与智能体任务，具备边执行边校验、确认结果后才判定任务完成的能力，已开放给Pro+、Max、Business及Enterprise订阅用户。",
+      "publishedAt": "2026-09-04",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260904-001",
@@ -683,7 +674,7 @@
     {
       "id": "ai-20260904-002",
       "title": "腾讯 WorkBuddy联名硬件来了！首批100多家伙伴入场",
-      "summary": "腾讯9月2日正式上线WorkBuddy开放平台，发布9款联名智能硬件、30多个行业应用及首批100多家生态伙伴，Plaud、乐奇Rokid、影石等品牌的智能眼镜、录音卡、麦克风等设备已接入平台，通达信、广发证券、北大法宝等20多个领域行业方案，平台自3月上线以来已落圡共50多个行业。",
+      "summary": "腾讯9月2日正式上线WorkBuddy开放平台，发布9款联名智能硬件、30多个行业应用及首批100多家生态伙伴，Plaud、乐奇Rokid、影石等品牌的智能眼镜、录音卡、麦克风等设备已接入平台，通达信、广发证券、北大法宝等20多个领域行业方案，平台自3月上线以来已落圯50多个行业。",
       "publishedAt": "2026-09-03T19:25:29+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/483786.html",
@@ -701,7 +692,7 @@
     {
       "id": "ai-20260904-003",
       "title": "陈大年复出，入局大模型",
-      "summary": "陈大年创办的StartLux公司推出首款本地模型StartLux-V1.0-27B-Preview，在中国信通院MCP专项测试中获综合第二名，仅落后DeepSeek-V4-Pro 1.3个百分点，諼27B参数本地模型可直接运行于消费级PC，公司计划年内推出本地智能解决方案。",
+      "summary": "陈大年创办的StartLux公司推出首款本地模型StartLux-V1.0-27B-Preview，在中国信通院MCP专项测试中获综合第二名，仅落后DeepSeek-V4-Pro 1.3个百分点，诂27B参数本地模型可直接运行于消费级PC，公司计划年内推出本地智能解决方案。",
       "publishedAt": "2026-09-03T18:13:24+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/483600.html",
@@ -728,19 +719,10 @@
     {
       "id": "ai-20260903-008",
       "title": "它石智航AWE3.7泛化能力测试：一个模型场景通吃",
-      "summary": "它石智航发布通用具身智能模型AWE3.7，展示其在工业生产、动态分洂与家庭生活三类场景下的跨任务能力，涵盖螺丝分洂、网线插接等毫米级精度作业，传送带动态物品追踪重分类，以及叠衣、清洁白板、打包背包、备餐等家务任务，体现从单任务比拼转向可复用基础能力的行业趋势。",
+      "summary": "它石智航发布通用具身智能模型AWE3.7，展示其在工业生产、动态分拣与家庭生活三类场景下的跨任务能力，涵盖螺丝分拣、网线插接等毫米级精度作业，传送带动态物品追踪重分类，以及叠衣、清洁白板、打包背包、备餐等家务任务，体现从单任务比拼转向可复用基础能力的行业趋势。",
       "publishedAt": "2026-09-03T11:16:43+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/483565.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260903-007",
-      "title": "神秘具身团队再发一连串Demo视频，自进化模型技术路线曝光",
-      "summary": "一支未公开身份的具身智能团队发布内部代号“做个人吧”的自进化模型演示，展示机器人在被推动时同步稳住手中水杯与散落罐子的物理理解能力、朥80%零样本成功率的物品归纳能力，以及仅靠观看人类视频学习即可完成两台不同型号机器人协同叠被等场景。",
-      "publishedAt": "2026-09-03T09:31:45+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/483552.html",
       "subCategory": "具身智能"
     }
   ]
