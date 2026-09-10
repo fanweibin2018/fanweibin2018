@@ -3,8 +3,44 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-10T00:40:00+08:00",
+  "updatedAt": "2026-09-10T09:20:00+08:00",
   "items": [
+    {
+      "id": "industry-20260910-009",
+      "title": "苹果发布首款折叠屏iPhone Duo 顶配版26499元 A股供应商回应",
+      "summary": "苹果9月10日发布首款折叠屏手机iPhone Duo，起售价15999元，顶配2TB版26499元，为苹果手机最高定价机型，10月16日预订、23日开售，搭载A20 Pro芯片；蓝思科技、领益智造等A股供应商确认参与精密零部件供应。",
+      "publishedAt": "2026-09-10T07:44:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4179033.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260910-007",
+      "title": "第七批国家组织医用耗材集采今天开标 共纳入23个品种",
+      "summary": "第七批国家组织医用耗材集中采购9月10日在天津开标，共纳入23个品种，聚焦胃肠息肉切除、胆胰介入等消化介入类耗材，采购周期约三年，规则兼顾临床多样性需求与产业可持续发展，防止恶性竞争。",
+      "publishedAt": "2026-09-10T07:19:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178975.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260910-008",
+      "title": "从价格战到技术战 锂电隔膜产业迎结构性洗牌",
+      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、璞泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
+      "publishedAt": "2026-09-10T06:52:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178886.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260910-006",
+      "title": "海底捞股价大幅跳水 控股股东减持",
+      "summary": "9月9日海底捞股价盘中一度重挫超12%，收跌9.14%报10.34港元；此前控股股东SP NP Ltd.以每股10.62港元大宗交易减持2.59亿股，约占已发行股份4.65%，套现约27.51亿港元，公司称与经营业绩无关。",
+      "publishedAt": "2026-09-09T21:36:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178789.html",
+      "subCategory": "消费零售"
+    },
     {
       "id": "industry-20260909-010",
       "title": "问界汽车：全新一代 M9 连续 3 个月蝉联 50 万以上销量 TOP1",
@@ -33,6 +69,24 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260910-004",
+      "title": "燧原科技9月11日科创板上市，发行价142.18元/股",
+      "summary": "燧原科技公告将于9月11日在上交所科创板上市，发行价142.18元/股，发行4303.52万股，预计募资约61.16亿元；网上申购倍数达6109.34倍，公司预计1-9月营收同比增长325.78%至455.36%。",
+      "publishedAt": "2026-09-09T19:19:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-09-09/doc-inirfumq5629425.shtml",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260910-003",
+      "title": "比亚迪：闪充车型市场订单饱满，第二代刀片电池月产能将逐步爬坡",
+      "summary": "比亚迪在投资者关系活动记录中表示，闪充车型市场订单饱满，公司正推进产线扩产，第二代刀片电池月产能将于下半年逐步提升；上半年方程豹、腾势、仰望三大品牌合计销量同比增长61%。",
+      "publishedAt": "2026-09-09T18:21:56+08:00",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_5953466437_162dab0450670bbwiq.html",
+      "subCategory": "新能源汽车"
+    },
+    {
       "id": "industry-20260909-009",
       "title": "半年度营收首破百亿 石头科技海外收入60.73亿撑起六成盘子",
       "summary": "石头科技2026年上半年营收达到100.84亿元，同比增长27.6%，实现半年度营收首次突破百亿的里程碑，境外收入60.73亿元占总营收约六成；剔除关税退税一次性收益后，海外家电需求、渠道下沉及自建售后体系成为企业增长的核心驱动力。",
@@ -42,6 +96,15 @@
       "subCategory": "公司动态"
     },
     {
+      "id": "industry-20260910-002",
+      "title": "理想等车企“去宁化”加速，宁德时代股价创年内新低",
+      "summary": "受理想、小米等车企加速转向自研电池影响，宁德时代股价9月9日跌至327.10元，为年内次低点；公司今年上半年净利润同比增长42%至432.8亿元，1-7月国内动力电池装机份额约47.8%。",
+      "publishedAt": "2026-09-09T15:52:00+08:00",
+      "source": "新浪财经",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-09-09/doc-inirfivw8613553.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
       "id": "industry-20260909-007",
       "title": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix",
       "summary": "三星电子在日本横滨设立先进封装研究中心，以贴近日本关键材料与设备供应商的方式强化其高带宽存储器（HBM）能力，意图借此缩小与竞争对手SK海力士在HBM市场的技术差距。",
@@ -49,6 +112,15 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-001",
+      "title": "蔚来李斌：公司逆势增长连续三个季度实现盈利，今年1-8月交付量同比增长57.9%",
+      "summary": "蔚来创始人李斌表示，公司连续三个季度实现盈利，2026年1-8月交付量同比增长57.9%，三大品牌合计交付创历史新高；同期国内乘用车市场同比下滑超20%，行业竞争进入最惨烈阶段。",
+      "publishedAt": "2026-09-09T15:41:00+08:00",
+      "source": "新浪财经",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-09-09/doc-inirfivw8604562.shtml",
+      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260909-101",
@@ -85,6 +157,15 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260909PD206/automakers-competition-auto-industry-capacity-expansion-brand.html",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260909-001",
@@ -186,6 +267,15 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260908-002",
       "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、攻高端商机",
       "summary": "据DIGITIMES报道，AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
@@ -211,15 +301,6 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260907-004",
@@ -615,15 +696,6 @@
       "publishedAt": "2026-09-03T09:47:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260902VL213/byd-semiconductor-automotive-production-vehicle-design.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260903-004",
-      "title": "AI算力引爆MLCC需求，三星电机斉获史上最大长约",
-      "summary": "三星电机获得约1.07万亿韩元AI服务器MLCC长期订单，为公司史上最大单笔合约，相当于其上一财年营收的9.5%；该合约紧随三星8月1日对MLCC提价30%之后，日本太阳诱甃9月1日亦跟涨，行业分析认为供应紧张态势或将持续至2028年。",
-      "publishedAt": "2026-09-03T07:44:00+08:00",
-      "source": "东方财富研究中心",
-      "url": "https://finance.eastmoney.com/a/202609033863294424.html",
       "subCategory": "半导体产业"
     },
     {
