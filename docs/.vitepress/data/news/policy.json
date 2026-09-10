@@ -3,8 +3,35 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-10T12:10:00+08:00",
+  "updatedAt": "2026-09-11T00:10:00+08:00",
   "items": [
+    {
+      "id": "policy-20260910-101",
+      "title": "法国总统马克龙呼吁欧洲大力发展自主载人航天，力争 10 年内送宇航员上太空",
+      "summary": "法国总统马克龙呼吁欧洲发展独立载人航天能力，欧洲航天局局长同样呼吁加大资金投入以实现太空自主；目标包括两年内发射货运飞船、五年内实现月球着陆器、十年内实现载人航天，预计每年约需10亿欧元，低于持续依赖外部伙伴十年内50亿欧元的成本。",
+      "publishedAt": "2026-09-10T23:38:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/043.htm",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260910-106",
+      "title": "《金融强国建设“十五五”规划》正式出台",
+      "summary": "中央金融管理部门正式出台《金融强国建设“十五五”规划》，明确强化宏观金融调控、加强监管、防范金融风险等重点任务，央行副行长陆磊表示规划目标是到2030年建成具有中国特色现代金融体系总体框架，到2035年基本建成金融强国。",
+      "publishedAt": "2026-09-10T15:06:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609103870514176.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260910-107",
+      "title": "商务部：中美正就300亿美元对等降税框架安排进行磋商",
+      "summary": "商务部新闻发言人黄伶表示，中美两国经贸团队正认真落实北京会晤共识，就300亿美元对等降税框架安排进行磋商；发言人同时回应法国企业获欧盟补贴及法国“反快时尚法”相关问题，指该法案对中国跨境电商企业构成保护主义式贸易歧视。",
+      "publishedAt": "2026-09-10T15:04:00+08:00",
+      "source": "商务部（东方财富网）",
+      "url": "https://finance.eastmoney.com/a/202609103870513919.html",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20260910-005",
       "title": "2026年侵权假冒伪劣商品全国统一销毁行动开展",
@@ -141,6 +168,15 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260910-102",
+      "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks",
+      "summary": "美国总统特朗普签署公告，将2026年9月11日定为“爱国者日”，纪念9·11恐怖袭击25周年，缅怀2977名遇难者，并向消防员、警察及军人的英勇表现致敬，呼吁美国人民铭记这段历史。",
+      "publishedAt": "2026-09-09",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/",
+      "subCategory": "海外政策"
+    },
+    {
       "id": "policy-20260909-001",
       "title": "韩正出席第二十六届中国国际投资贸易洽谈会开幕式并致辞",
       "summary": "国家副主席韩正9月8日在厦门出席第二十六届中国国际投资贸易洽谈会开幕式并致辞，表示中国将坚定不移扩大高水平对外开放、推动贸易投资自由化便利化，提出深化开放合作、加快创新科技协作、维护全球供应链稳定并反对保护主义三点倡议，联合国贸发会议及沙特、塞尔维亚、柬埔寨、保加利亚、芬兰方代表出席致辞。",
@@ -193,6 +229,33 @@
       "source": "英国政府（GOV.UK）",
       "url": "https://www.gov.uk/government/news/pm-call-with-president-xi-of-china-8-september-2026",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260910-103",
+      "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles",
+      "summary": "特朗普签署公告调整此前对加拿大汽车产品加征的50%附加关税范围，此前8月曾暂停三天，因加拿大被指未履行取消歧视性贸易做法的承诺，新规定自2026年9月15日起生效。",
+      "publishedAt": "2026-09-08",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-united-states-with-respect-to-motor-vehicles/",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260910-104",
+      "title": "Excluding Certain Canadian Alcoholic Beverages from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+      "summary": "特朗普签署公告，自2026年9月29日起禁止部分加拿大酒类产品进口美国，指控加拿大对美酒类产品存在歧视性做法且未履行此前暂停期间的承诺，并提及萨斯喀彻温省宣布对美酒类加征50%关税作为报复升级。",
+      "publishedAt": "2026-09-08",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever/",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260910-105",
+      "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Dairy",
+      "summary": "特朗普签署公告，自2026年9月29日起禁止部分加拿大乳制品进口美国，指控加拿大未按承诺取消对美国奶酪的关税配额限制，政府认定该禁令符合美国利益。",
+      "publishedAt": "2026-09-08",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/",
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260907-004",
@@ -670,60 +733,6 @@
       "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686669.shtml",
       "subCategory": "跨境贸易",
       "id": "policy-20260831-002"
-    },
-    {
-      "id": "policy-20260830-004",
-      "title": "国家数据局：词元市场需求呈现爆发式增长",
-      "summary": "在2026中国国际大数据产业博览会上，国家数据局局长刘烈宏表示，随着大模型加速落地各行业，词元（Token）市场需求呈现爆发式增长。他指出词元是人工智能理解世界的最小单元，模型能力越强则词元生产效率和质量越高，目前已聚集算力租赁、模型厂商、数据服务商等多元参与者。",
-      "publishedAt": "2026-08-29T13:22:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-29/10686368.shtml",
-      "subCategory": "数字经济"
-    },
-    {
-      "id": "policy-20260830-002",
-      "title": "《中国新电商发展报告（2026）》正式发布",
-      "summary": "中国互联网协会8月29日在第六届中国新电商大会上正式发布《中国新电商发展报告（2026）》，报告设总报告、发展篇、专题篇、区域篇、展望篇五部分，并发布20个新电商创新案例。",
-      "publishedAt": "2026-08-29T09:49:00+08:00",
-      "source": "中央网信办（中国互联网协会）",
-      "url": "https://www.cac.gov.cn/2026-08/29/c_1789665114197079.htm",
-      "subCategory": "数字经济"
-    },
-    {
-      "title": "中国证券业协会、中基协发布证券公司交易信息系统接入管理规范",
-      "summary": "中国证券业协会、中国证券投资基金业协会联合发布《证券公司交易信息系统接入管理规范（试行）》，明确私募基金接入证券公司交易系统的备案要求，禁止场外配资、违规出借交易系统，要求证券公司每季度结束后10个工作日内报送接入情况，自2026年8月28日起实施。",
-      "publishedAt": "2026-08-28T23:44:36+08:00",
-      "source": "每日经济新闻",
-      "url": "https://www.nbd.com.cn/articles/2026-08-28/4565387.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260831-003"
-    },
-    {
-      "title": "财政部等三部门规范个人转让上市公司限售股所得个人所得税政策",
-      "summary": "财政部、税务总局、中国证监会联合公告，明确限售股解禁后产生的送、转股纳入个人所得税征税范围，取消原15%成本扣除规则，证券机构未准确申报成本的按全额转让收入计税，采取新老划断处理，自2026年8月28日起施行。",
-      "publishedAt": "2026-08-28T21:13:09+08:00",
-      "source": "新华网",
-      "url": "https://www.news.cn/20260828/436a4c3f2cec465d92242142c8a8cbce/c.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260831-004"
-    },
-    {
-      "title": "证监会发文支持构建房地产发展新模式",
-      "summary": "中国证监会发布《关于资本市场支持构建房地产发展新模式的意见》，提出四方面十二条举措，支持上市房企再融资、发行不动产REITs及资产支持证券，推动融资方式从依赖主体信用转向基于项目情况，并强化风险防范化解。",
-      "publishedAt": "2026-08-28T19:10:00+08:00",
-      "source": "中国证券报",
-      "url": "https://www.cs.com.cn/xwzx/01/2026/08/28/detail_2026082810035239.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260829-001"
-    },
-    {
-      "title": "央行、金融监管总局就改革完善房地产信贷管理答记者问",
-      "summary": "央行、金融监管总局发布房地产信贷管理改革意见：开发贷推行\"牵头行\"制度，预售项目贷款期限最长5年、现房及商业项目最长7年；个人住房贷款最长年限由30年延至40年，放款与项目进度及销售登记挂钩。",
-      "publishedAt": "2026-08-28T19:01:19+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026082816463825521/index.html",
-      "subCategory": "金融监管",
-      "id": "policy-20260828-501"
     }
   ]
 }
