@@ -3,8 +3,53 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-10T09:20:00+08:00",
+  "updatedAt": "2026-09-10T12:10:00+08:00",
   "items": [
+    {
+      "id": "trade-20260910-009",
+      "title": "中国胶合板借印尼\"洗产地\"在美被扣",
+      "summary": "美国海关8月27日在巴尔的摩查扣逾8500张申报为印尼产地、实为中国制造的胶合板，涉及虚假商人身份及篡改发票等违规行为。",
+      "publishedAt": "2026-09-10T11:10:32+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209788540646",
+      "subCategory": "关税法规"
+    },
+    {
+      "id": "trade-20260910-008",
+      "title": "MSC砍6班、马士基撤3班，船公司国庆前缩舱",
+      "summary": "MSC在远东至美西及亚欧航线共削减6个航次，马士基取消3班远东至欧洲航班，因预期国庆假期出货需求下降，船公司提前收缩运力。",
+      "publishedAt": "2026-09-10T11:07:36+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209788466717",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260910-007",
+      "title": "FBT订单增速2.2倍、86%三日达，TikTok Shop逼卖家10月15日前把货进仓",
+      "summary": "TikTok Shop数据显示FBT卖家订单增速为非FBT卖家的2.2倍，超86%订单实现三日达，平台要求卖家在10月15日前完成旺季备货入库。",
+      "publishedAt": "2026-09-10T11:06:39+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209788442598",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260910-006",
+      "title": "宁波舟山港半年2290万TEU首超新加坡 中国港口史上第一次包揽全球前二",
+      "summary": "据Alphaliner数据，宁波舟山港2026年上半年吞吐量达2290万TEU，同比增长8.8%，首次超越新加坡升至全球第二，上海港以2874万TEU位居第一。",
+      "publishedAt": "2026-09-10T10:32:58+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209787595228",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260910-005",
+      "title": "SHEIN牵手中国外运 仓间物流先电动化",
+      "summary": "SHEIN与中国外运签署可持续发展合作备忘录，将在仓间物流场景部署新能源车队、充电桩及数字化调度系统，以降低仓间短驳环节碳排放。",
+      "publishedAt": "2026-09-10T10:29:13+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209787500823",
+      "subCategory": "物流仓储"
+    },
     {
       "id": "trade-20260909-112",
       "title": "Lazada放开97个泰国美妆类目 中韩日港跨境直邮9月3日起可运",
@@ -679,24 +724,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/209640493668",
       "subCategory": "平台政策"
-    },
-    {
-      "id": "trade-20260906-006",
-      "title": "RBA遇中国反制后，部分中国矿产供应商停止对美出货",
-      "summary": "中国商务部将负责任商业联盟（RBA）及五家美国实体列入反制清单，指其协助美方对新疆实施非法制裁，此后部分中国矿产供应商因担忧合规风险，已暂停或拒绝向参与RBA负责任矿产倡议的美国企业发货。",
-      "publishedAt": "2026-09-06",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/r52MYOHT",
-      "subCategory": "关税法规"
-    },
-    {
-      "id": "trade-20260906-005",
-      "title": "CINS呼吁改革IMDG Code锂电谅免条款，建议每箱限重20公斤",
-      "summary": "代行14家主要班轮公司的CINS组织发布立场文件，呼吁修订国际海运危规IMDG Code中的SP188谅免条款，建议锂电池货物一律申报为危险品并限重每箱。",
-      "publishedAt": "2026-09-06",
-      "source": "AMZ123跨境导航",
-      "url": "https://www.amz123.com/kx/GhdejzKY",
-      "subCategory": "物流仓储"
     }
   ]
 }

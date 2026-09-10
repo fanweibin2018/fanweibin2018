@@ -3,8 +3,53 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-10T09:20:00+08:00",
+  "updatedAt": "2026-09-10T12:10:00+08:00",
   "items": [
+    {
+      "id": "tech-20260910-018",
+      "title": "OPPO、华为、佳能、索尼共同加入全球最大的影像专利许可项目",
+      "summary": "欧洲专利运营机构Tulip Licensing推出影像专利许可项目Tulip Imaging，OPPO、华为、佳能、索尼为首批许可方，整合超12.5万件影像相关专利。",
+      "publishedAt": "2026-09-10T10:55:26+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/621.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-017",
+      "title": "小米推出米家首款 AI 智控灶定时燃气灶 3 Max：5200W 猛火 + 新增离灶雷达，国补后 2299 元",
+      "summary": "小米推出米家首款AI智控灶定时燃气灶3 Max，双灶5200W火力，热效率75%，配备干烧防护探头与离灶雷达，国补后售价2299元。",
+      "publishedAt": "2026-09-10T10:46:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/617.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-016",
+      "title": "小米推出米家智能净烟机 3 Max：AI 全程托管控烟，国补价 4599 元",
+      "summary": "小米推出米家智能净烟机3 Max，指导价5999元，国补后4599元，配备摄像头与视觉语言模型，可每0.1秒识别油烟变化并自动调节风速。",
+      "publishedAt": "2026-09-10T10:40:49+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/615.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-015",
+      "title": "安克 Anker 空间站高刷桌面 10 合 1 拓展坞开售：最高 4K144Hz / 2K240Hz，599 元",
+      "summary": "安克推出空间站高刷桌面10合1拓展坞并开售，售价599元，支持最高4K144Hz或2K240Hz显示输出，配备实时显示分辨率与充电功率的小屏幕。",
+      "publishedAt": "2026-09-10T10:26:29+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/609.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-014",
+      "title": "10.18 万元广汽埃安 RT 605 智享版上市：非晶合金电驱 + 碳化硅电控 + 宁德时代电池",
+      "summary": "广汽埃安推出RT 605智享版，指导价10.18万元，搭载非晶合金电驱、碳化硅电控及宁德时代磷酸铁锂电池，CLTC续航605公里，单电机功率165kW。",
+      "publishedAt": "2026-09-10T10:24:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/607.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260910-007",
       "title": "OPPO Find X10 系列新机现身 Geekbench，搭载联发科天玑 9600 Pro 芯片",
@@ -40,33 +85,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/554.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260910-008",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "summary": "思科确认其Secure Firewall Management Center存在的CVE-2026-20079漏洞正被用于攻击，CVSS评分达10.0满分，未经身份验证的攻击者可借此以root权限执行命令，目前尚无临时缓解方案。",
-      "publishedAt": "2026-09-09T17:40:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260910-009",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "summary": "医疗器械提供商AdaptHealth确认，今年7月披露的一起网络攻击导致约410万人个人信息外泄，攻击团伙ShinyHunters通过社会工程手段获取第三方承包商账号权限入侵系统。",
-      "publishedAt": "2026-09-09T17:30:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260910-010",
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "summary": "卡内基梅隆大学CERT团队披露，Skullcandy Dime 3无线耳机1.0.0.28版本固件存在高危漏洞，攻击者无需配对密码即可通过蓝牙连接并劫持音频、读取麦克风数据，厂商已发布修复固件。",
-      "publishedAt": "2026-09-09T17:02:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260910-003",
@@ -177,15 +195,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260910-011",
-      "title": "How we rebuilt Cloudflare Workers' module registry for Node.js compatibility",
-      "summary": "Cloudflare重构了Workers运行时workerd的模块注册系统，默认启用Node.js兼容特性，应用体积上限提升至64MB，并引入基于URL的模块解析与惰性编译等改进，需添加兼容标志开启。",
-      "publishedAt": "2026-09-09T13:00:00Z",
-      "source": "Cloudflare Blog",
-      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
-      "subCategory": "云计算"
-    },
-    {
       "id": "tech-20260909-104",
       "title": "苹果 iPhone Duo 即将登场，三星发布“欢迎来到折叠屏时代”视频",
       "summary": "苹果即将发布首款折叠屏手机iPhone Duo，距秋季新品发布会仅剩数小时。三星趁势发布视频邀请用户“欢迎来到折叠时代”，其Galaxy Z Fold8系列将成为iPhone Duo主要竞争对手，业界传闻苹果折叠屏手机起售价约2000美元，并可能支持手写笔功能。",
@@ -202,6 +211,33 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/427.htm",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260910-008",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "summary": "思科确认其Secure Firewall Management Center存在的CVE-2026-20079漏洞正被用于攻击，CVSS评分达10.0满分，未经身份验证的攻击者可借此以root权限执行命令，目前尚无临时缓解方案。",
+      "publishedAt": "2026-09-09T17:40:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260910-009",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "summary": "医疗器械提供商AdaptHealth确认，今年7月披露的一起网络攻击导致约410万人个人信息外泄，攻击团伙ShinyHunters通过社会工程手段获取第三方承包商账号权限入侵系统。",
+      "publishedAt": "2026-09-09T17:30:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260910-010",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "summary": "卡内基梅隆大学CERT团队披露，Skullcandy Dime 3无线耳机1.0.0.28版本固件存在高危漏洞，攻击者无需配对密码即可通过蓝牙连接并劫持音频、读取麦克风数据，厂商已发布修复固件。",
+      "publishedAt": "2026-09-09T17:02:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260909-101",
@@ -222,6 +258,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260910-011",
+      "title": "How we rebuilt Cloudflare Workers' module registry for Node.js compatibility",
+      "summary": "Cloudflare重构了Workers运行时workerd的模块注册系统，默认启用Node.js兼容特性，应用体积上限提升至64MB，并引入基于URL的模块解析与惰性编译等改进，需添加兼容标志开启。",
+      "publishedAt": "2026-09-09T13:00:00Z",
+      "source": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260909-002",
       "title": "腾讯《王者万象棋》开启预下载：四端互通，鸿蒙最低要求麒麟 9000S 处理器",
       "summary": "腾讯天美工作室推出策略自走棋新游戏《王者万象棋》开启预下载，将于次日7点开服，支持手机、PC等多端互通数据同步；鸿蒙版最低要求麒麟9000S处理器，安卓版最低要求骁龙625/麒麟655等机型，游戏预约量已超7000万。",
@@ -238,15 +283,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/971.htm",
       "subCategory": "航空航天"
-    },
-    {
-      "id": "tech-20260910-012",
-      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-      "summary": "GitHub发布静态分析工具CodeQL 2.27.0版本，新增对Linux ARM64架构的原生支持，扩展Java/Kotlin的Micronaut框架建模及C#的ASP.NET Core MVC控制器识别能力，并新增Rust命令行注入检测查询。",
-      "publishedAt": "2026-09-09",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260909-005",
@@ -283,6 +319,15 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1149/1149645.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-012",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "summary": "GitHub发布静态分析工具CodeQL 2.27.0版本，新增对Linux ARM64架构的原生支持，扩展Java/Kotlin的Micronaut框架建模及C#的ASP.NET Core MVC控制器识别能力，并新增Rust命令行注入检测查询。",
+      "publishedAt": "2026-09-09",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260909-006",
@@ -679,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/991.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260906-016",
-      "title": "首度超越三星！豪威CIS市占率术13%跃居全球第二",
-      "summary": "豪威集团2025年CMOS图像传感器市场份额术13%，首次超越三星，成为仅次于索尼的全球第二大CIS供应商；2025年全球CIS市场规模约230亿美元，同比增长11.2%，文章称韩厂战略收缩、国产替代及自动驾驶等新应用是主要推动因素。",
-      "publishedAt": "2026-09-06T15:51:58+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1149/1149025.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260906-015",
-      "title": "雷鸟推出鹤 6 Ultra 竞技款 4K 150Hz QD-Mini LED 电视，券后国补价 3999 元起",
-      "summary": "雷鸟推出鹤6 Ultra竞技款电视并已在京东开启预售，65英寸版本原价5005元，叠加优惠券及国补后降至3999元起；搭载原皘4K 150Hz QD-Mini LED屏幕，峰值亮度2200尼特，DCI-P3色域98%。",
-      "publishedAt": "2026-09-06T15:10:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/934.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

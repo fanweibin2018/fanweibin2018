@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-10T09:20:00+08:00",
+  "updatedAt": "2026-09-10T12:10:00+08:00",
   "items": [
+    {
+      "id": "industry-20260910-012",
+      "title": "Analysis: China chases EUV as chipmakers move to High-NA",
+      "summary": "DIGITIMES分析文章指出，EUV光刻技术路线正出现分化，部分芯片厂商转向High-NA EUV设备，同时中国厂商也在推进自主EUV光刻技术的研发。",
+      "publishedAt": "2026-09-10T10:16:32+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD211/euv-high-na-chipmakers-manufacturing-production.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260910-011",
+      "title": "Europe and US IDM grid-to-core push challenges Taiwan power modules",
+      "summary": "DIGITIMES报道，随着数据中心电源系统转向800V高压直流（HVDC）及更密集的DC-DC架构，欧美IDM厂商加码从电网到芯片的电源方案，对台湾电源模组供应商构成竞争压力。",
+      "publishedAt": "2026-09-10T09:54:30+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD207/taiwan-power-supply-demand-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-010",
+      "title": "Analog Devices agrees to buy Alif Semiconductor to expand edge AI push",
+      "summary": "亚德诺半导体（Analog Devices）宣布以13.5亿美元全现金收购Alif Semiconductor，旨在拓展面向工业、国防、医疗及消费领域的边缘人工智能芯片能力。",
+      "publishedAt": "2026-09-10T09:04:54+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PR200/analog-devices-industrial-data-center-worldwide-on-device-ai.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260910-009",
       "title": "苹果发布首款折叠屏iPhone Duo 顶配版26499元 A股供应商回应",
@@ -159,15 +186,6 @@
       "subCategory": "新能源汽车"
     },
     {
-      "id": "industry-20260910-005",
-      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
-      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
-      "publishedAt": "2026-09-09",
-      "source": "Gartner",
-      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260909-001",
       "title": "半导体人才转向产线与技术整合　赴美设厂潮大幅推升外派需求",
       "summary": "据104人力银行发布的《2026半导体产业人才报告》，2026年半导体产业月均招聘约4.7万人，同比增速超20%，主要受AI相关产能扩张驱动；报告显示产业人才正加速向产线运营与技术整合岗位集中，赴美设厂潮大幅推升企业对外派人才的需求。",
@@ -184,6 +202,15 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260908-006",
@@ -267,15 +294,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260908-002",
       "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、攻高端商机",
       "summary": "据DIGITIMES报道，AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
@@ -301,6 +319,15 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260907-004",
@@ -696,105 +723,6 @@
       "publishedAt": "2026-09-03T09:47:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260902VL213/byd-semiconductor-automotive-production-vehicle-design.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260905-211",
-      "title": "台积电设备采购需求半年暴涠90%产能仍难满足AI需求",
-      "summary": "台积电高管在SEMICON Taiwan 2026上透露，公司设备采购需求约8个月内增长近90%，目前全球同步在建约20座晶圆厂与封装厂，产能仍难以完全满足AI算力需求增长。",
-      "publishedAt": "2026-09-03",
-      "source": "BigGo Finance",
-      "url": "https://finance.biggo.com/news/4ddf34c2-ffa8-4c6c-b885-494b082dc711",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "Omdia：2026年Q2印度iPhone出货量345万部，跃居全球第四",
-      "summary": "Omdia报告显示，2026年第二季度印度iPhone出货量达345万部，占苹果全球出货量6.25%，成为仅次于美国、中国、日本的全球第四大iPhone市场，当地智能手机市场份额莆10%。",
-      "publishedAt": "2026-09-03",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1849664.html",
-      "subCategory": "行业研报",
-      "id": "industry-20260904-010"
-    },
-    {
-      "id": "industry-20260908-004",
-      "title": "Global Existing Smartphone Prices Climb About 15% in 2026, New Launches 25% Costlier YoY as OEMs Maneuver Memory Price Hikes",
-      "summary": "Counterpoint Research报告显示，受存储芯片成本上涨影响，2026年全球在售智能手机零售价平均上涨约15%，新机型同比涨价25%，印度涨幅达21%居首位，中国涨幅约10%，美国涨幅最低为5%，逾四成机型出现涨价。",
-      "publishedAt": "2026-09-03",
-      "source": "Counterpoint Research",
-      "url": "https://counterpointresearch.com/en/insights/global-existing-smartphone-prices-climb-about-15-percent-in-2026",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260902-809",
-      "title": "大众汽车重组计划曝光：\"激进\"而\"痛苦\"，4 家德国工厂、数万名员工或危在旦夕",
-      "summary": "德国《经济周刊》披露大众汽车监事会147页内部文件，计划关闭德国境内埃姆登、茲维克、汉諾威及奥迪内卡苏尔姆四座工厂，2031年至2034年间陆续停产，涉及数万名员工，大众CEO奥博穆称无法确认这些工厂本世纪30年代具备竞争力，工会预计将强烈抄制。",
-      "publishedAt": "2026-09-02T23:42:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/703.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260902-810",
-      "title": "乘联分会：8 月全国新能源乘用车厂商批发销量预估 151.0 万辆，同比增长 16%",
-      "summary": "乘联分会预估全国新能源乘用车厂商批发销量151.0万辆，同比增长16%、环比增长4%，增速显著高于同期乘用车市场大盘整体表现水平。",
-      "publishedAt": "2026-09-02T18:27:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/617.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260903-001",
-      "title": "Micron says tightly coupled DRAM could deliver more than 10x HBM bandwidth",
-      "summary": "美光科技正研发紧耦合DRAM技术，据称带宽有望达到HBM的10倍以上，同时单比特能耗大幅降低。公司希望借助这一新型存储架构缓解处理器与存储系统之间日益扩大的性能差距，原文完整技术细节因设置付费门槛未完全披露。",
-      "publishedAt": "2026-09-02T17:41:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260902VL223/micron-dram-hbm-bandwidth-nand.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260903-002",
-      "title": "Lam Research exec says automated preventive maintenance key to fabs of the future",
-      "summary": "泛林集团(Lam Research)高管表示，晶圆厂制造业未来发展方向并非完全依靠自动化取代人工，而是将协作机器人与AI驱动的预测性维护系统结合，这一混合模式将成为晶圆厂运营下一阶段的重大进步，原文详细内容因设置付费门槛未完全披露。",
-      "publishedAt": "2026-09-02T17:03:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260902VL222/lam-research-fab-manufacturing-data.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260904-003",
-      "title": "Semicon Taiwan 2026 signals a broader race for AI-era semiconductor leadership",
-      "summary": "2026台湾半导体展（Semicon Taiwan）9月2日至4日在台北举行，吸引超1300家企业与4300个展位参展，创下历届规模纪录。展会范围从传统晶圆制造进一步扩展至先进封装、智能工厂、量子科技及系统集成等领域，反映全球半导体产业在AI时代对技术领先地位的竞逐持续加剧。",
-      "publishedAt": "2026-09-02T08:57:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260902PD209/taiwan-2026-packaging-technology-fab.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260907-003",
-      "title": "长城汽车：2026年8月新车销量113396辆，同比下降1.87%",
-      "summary": "长城汽车公布数据显示，2026年8月新车销量为113396辆，同比下降1.87%，其中海外销量6.25万辆，同比增长38.42%，占总销量超过55%，1至8月累计销量达805358辆，同比增长1.98%。",
-      "publishedAt": "2026-09-02",
-      "source": "199IT",
-      "url": "http://www.199it.com/archives/1849233.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260902-806",
-      "title": "9月1日 多家车企公布2026年8月份销量",
-      "summary": "据多家车企公告，2026年8月比亚迪销量44.0293万辆、上汽集团35.7万辆、奇瑞集团约28万辆、吉利汽车27.0194万辆（同比壾8%）、上汽通用五菲13.087万辆，各车企陆续公布8月成绩单。",
-      "publishedAt": "2026-09-01T19:50:00+08:00",
-      "source": "汽车之家",
-      "url": "https://chejiahao.autohome.com.cn/info/26358355",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260902-807",
-      "title": "3D IC封装一年一代 台积电何军：软件、载板缺口比硬件更难解",
-      "summary": "3D IC先进封装制造大联盟9月1日举行全球高峰论坛，联盟共同主席、台积电资深副总经理何军表示先进封装技术几乎一年推进一个世代，软件与载板供给缺口比硬件更难解决，需产业链全面转向并行开发模式。",
-      "publishedAt": "2026-09-01T19:17:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767040_F4O1NHQX3V0K8R1B8UAUK",
       "subCategory": "半导体产业"
     }
   ]

@@ -3,8 +3,44 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-10T09:20:00+08:00",
+  "updatedAt": "2026-09-10T12:10:00+08:00",
   "items": [
+    {
+      "id": "finance-20260910-016",
+      "title": "9月10日人民币对美元中间价报6.7766 上调3个基点",
+      "summary": "中国外汇交易中心受权中国人民银行，公布2026年9月10日银行间外汇市场人民币对美元汇率中间价为6.7766元，较上一交易日上调3个基点。",
+      "publishedAt": "2026-09-10T10:21:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693774.shtml",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260910-015",
+      "title": "港股开盘 | 恒指低开1.15% 科网股普跌 中国海洋石油(00883)逆市涨逾1%",
+      "summary": "9月10日恒生指数开盘跌1.15%报24985.18点，科网股普跌，阿里巴巴、小鹏汽车跌超2%，中国海洋石油逆市涨1.45%，市场受隔夜美股走弱及美债收益率升至4.84%影响。",
+      "publishedAt": "2026-09-10T09:38:00+08:00",
+      "source": "智通财经（Investing.com中文站）",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3559536",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260910-013",
+      "title": "A股开盘：超3900只个股飘绿，三大指数集体低开",
+      "summary": "9月10日A股三大指数集体低开，上证指数跌0.31%，深证成指跌0.60%，创业板指跌0.91%，全市场超3900只个股下跌，海运、保险、油气板块上涨，通信设备、半导体等板块下跌。",
+      "publishedAt": "2026-09-10T09:36:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693728.shtml",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260910-014",
+      "title": "电科思仪登陆深交所开盘涨251%：年入24亿元，8名高管年薪超百万",
+      "summary": "中电科思仪9月10日在深交所创业板挂牌上市，开盘涨约251%，总市值520.55亿元。公司发行价16元/股，2025年营业收入23.98亿元，8名高管年薪超百万元。",
+      "publishedAt": "2026-09-10T09:34:00+08:00",
+      "source": "乐居财经",
+      "url": "https://m.rccaijing.com/news-7503626830936209225.html",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260910-009",
       "title": "美司法部调查英伟达与Groq授权协议是否规避反垄断审查",
@@ -39,15 +75,6 @@
       "publishedAt": "2026-09-10T08:09:00+08:00",
       "source": "Investing.com（智通财经）",
       "url": "https://cn.investing.com/news/stock-market-news/article-3559399",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260910-001",
-      "title": "智通港股投资日志|9月10日",
-      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
-      "publishedAt": "2026-09-10",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
       "subCategory": "港股"
     },
     {
@@ -94,6 +121,15 @@
       "source": "Investing.com",
       "url": "https://cn.investing.com/news/stock-market-news/article-3558868",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260910-001",
+      "title": "智通港股投资日志|9月10日",
+      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
+      "publishedAt": "2026-09-10",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260910-012",
@@ -276,24 +312,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260908-001",
-      "title": "智通港股投资日志|9月8日",
-      "summary": "9月8日港股市场动态：江波龙正式挂牌上市，恒大汽车、丽珠医药发布业绩公告，越秀房托、宏安地产等公司召开股东大会，逾30家公司除净，中国飞鹤、安踏体育、颐海国际等派息；恒生指数当日收跌0.93%，报25413.12点。",
-      "publishedAt": "2026-09-08",
-      "source": "智通财经/英为财情",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3554900",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260909-003",
-      "title": "龙版传媒：股票交易异常波动，明起停牌核查",
-      "summary": "龙版传媒公告称，公司股票8月31日至9月7日连续六个交易日涨停，9月8日再涨9.12%，累计涨幅约93.47%，公司称股价明显偏离基本面，已向上交所申请自9月9日开市起停牌核查。",
-      "publishedAt": "2026-09-08",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15070538.html",
-      "subCategory": "风险事件"
-    },
-    {
       "id": "finance-20260908-003",
       "title": "麒麟9050 Pro首发落地 韬定律量产兑现！9只概念股获融资客逆势加仓",
       "summary": "华为发布六年来首款旗舰芯片麒麟9050 Pro，采用逻辑折叠工艺及超精细混合键合技术，晶体管密度提升55%，NPU、GPU功耗分别下降66%和58%；A股相关\"韬定律\"概念股约22只，合计市值约3.11万亿元，当日9只概念股获融资客逆势加仓。",
@@ -310,6 +328,24 @@
       "source": "智通财经/英为财情",
       "url": "https://cn.investing.com/news/stock-market-news/article-3554928",
       "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260908-001",
+      "title": "智通港股投资日志|9月8日",
+      "summary": "9月8日港股市场动态：江波龙正式挂牌上市，恒大汽车、丽珠医药发布业绩公告，越秀房托、宏安地产等公司召开股东大会，逾30家公司除净，中国飞鹤、安踏体育、颐海国际等派息；恒生指数当日收跌0.93%，报25413.12点。",
+      "publishedAt": "2026-09-08",
+      "source": "智通财经/英为财情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3554900",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260909-003",
+      "title": "龙版传媒：股票交易异常波动，明起停牌核查",
+      "summary": "龙版传媒公告称，公司股票8月31日至9月7日连续六个交易日涨停，9月8日再涨9.12%，累计涨幅约93.47%，公司称股价明显偏离基本面，已向上交所申请自9月9日开市起停牌核查。",
+      "publishedAt": "2026-09-08",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15070538.html",
+      "subCategory": "风险事件"
     },
     {
       "id": "finance-20260907-010",
@@ -375,6 +411,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260907-003",
+      "title": "美军袭击伊朗油轮引爆地缘风险，布油一度逼近97美元关口",
+      "summary": "9月7日消息，美方在与伊朗互相打击油轮后，据报致其中一艘伊朗油轮\"永久失去航行能力\"，伊朗随后在霍尔木茲海峽外宣布新限制区；布伦特原油开盘一度上涨0.8%逼近97美元/桶，WTI原油交投于92美元附近。",
+      "publishedAt": "2026-09-07T07:25:00+08:00",
+      "source": "智通财经/英为财情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553872",
+      "subCategory": "大宗商品"
+    },
+    {
       "id": "finance-20260907-006",
       "title": "A股三大指数走势分化 创业板指涨超 3% CPO 概念股爆发",
       "summary": "9月7日A股三大指数走势分化，沪指涨0.07%戹3932.70点，深证成指涨1.91%，创业板指涨3.41%戹3398.68点，沪深京三市成交额1.96万亿元，较上一交易日缩量868亿元；通信设备板块净流入201.3亿元，CPO概念股集体走强，证券板块净流出22.17亿元。",
@@ -391,15 +436,6 @@
       "source": "智通财经/英为财情",
       "url": "https://cn.investing.com/news/stock-market-news/article-3553838",
       "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260907-003",
-      "title": "美军袭击伊朗油轮引爆地缘风险，布油一度逼近97美元关口",
-      "summary": "9月7日消息，美方在与伊朗互相打击油轮后，据报致其中一艘伊朗油轮\"永久失去航行能力\"，伊朗随后在霍尔木茲海峽外宣布新限制区；布伦特原油开盘一度上涨0.8%逼近97美元/桶，WTI原油交投于92美元附近。",
-      "publishedAt": "2026-09-07T07:25:00+08:00",
-      "source": "智通财经/英为财情",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553872",
-      "subCategory": "大宗商品"
     },
     {
       "id": "finance-20260906-108",
@@ -537,33 +573,6 @@
       "subCategory": "风险事件"
     },
     {
-      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戥2566七97点 高水16点",
-      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抵25667点，较上一交易日涠13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
-      "subCategory": "港股",
-      "id": "finance-20260905-102"
-    },
-    {
-      "id": "finance-20260905-205",
-      "title": "恒指牛熊街货比(47:53)｜9月5日",
-      "summary": "9月5日恒生指数牛熊证街货比抵47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
-      "subCategory": "港股"
-    },
-    {
-      "title": "智通ADR统计 | 9月5日",
-      "summary": "智通财经数据显示，9月5日盘前，恒生指数ADR扑25753.80点，较香港收市上涨0.40%；汇丰控股ADR抗167.948港元，较收市涨0.75%；腾讯控股ADR抗438.609港元，较收市跌0.95%。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553461",
-      "subCategory": "港股",
-      "id": "finance-20260905-101"
-    },
-    {
       "id": "finance-20260905-007",
       "title": "非农爆了！9月加息预期升温 特朗普喇话：降息！降息！美联储必须“聪明”起来",
       "summary": "美国8月非农新增就业16.2万人，远超预期的5.6万人，市场对9月加息预期升温，美股三大指数收跌，道指跌0.51%，纳指跌0.29%；特朗普喇话美联储降息，称高利率使美国处于不公平竞争劣势。",
@@ -607,6 +616,33 @@
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
       "subCategory": "美股"
+    },
+    {
+      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戥2566七97点 高水16点",
+      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抵25667点，较上一交易日涠13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经/Investing.com",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
+      "subCategory": "港股",
+      "id": "finance-20260905-102"
+    },
+    {
+      "id": "finance-20260905-205",
+      "title": "恒指牛熊街货比(47:53)｜9月5日",
+      "summary": "9月5日恒生指数牛熊证街货比抵47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
+      "subCategory": "港股"
+    },
+    {
+      "title": "智通ADR统计 | 9月5日",
+      "summary": "智通财经数据显示，9月5日盘前，恒生指数ADR扑25753.80点，较香港收市上涨0.40%；汇丰控股ADR抗167.948港元，较收市涨0.75%；腾讯控股ADR抗438.609港元，较收市跌0.95%。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经/Investing.com",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553461",
+      "subCategory": "港股",
+      "id": "finance-20260905-101"
     },
     {
       "id": "finance-20260904-015",
@@ -688,42 +724,6 @@
       "source": "上海证券报（新浪财经）",
       "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqskun4042639.shtml",
       "subCategory": "风险事件"
-    },
-    {
-      "title": "Lululemon二季度营收不及预期，盘后暴跌17%",
-      "summary": "Lululemon第二季度净营敀麣24亿美元，同比下降4%，全球可比门店销售额下滑9%，盘后股价一度重挖近18%；管理层将全年营收指引下调至103.5亿至105亿美元。",
-      "publishedAt": "2026-09-04T11:59:00+08:00",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15055168.html",
-      "subCategory": "公司财报",
-      "id": "finance-20260904-004"
-    },
-    {
-      "title": "央行9月4日7天期逆回购操作量为零",
-      "summary": "央行公告，根据公开市场业务一级交易商需求，2026年9月4日7天期逆回购操作量为零，当日未通过该工具投放流动性。",
-      "publishedAt": "2026-09-04T09:58:52+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690076.shtml",
-      "subCategory": "政策利率",
-      "id": "finance-20260904-005"
-    },
-    {
-      "title": "国家统计局：8月下旬流通领域重要生产资杤14种产品价格下降",
-      "summary": "国家统计局数据显示，与8月中旬相比，9大类50种重要生产资料中，34种产品价格上涨，14种下降，2种持平。",
-      "publishedAt": "2026-09-04T09:58:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690066.shtml",
-      "subCategory": "大宗商品",
-      "id": "finance-20260904-006"
-    },
-    {
-      "title": "9月4日人民币对美元中间价扜6.7787 上调20个基点",
-      "summary": "中国外汇交易中心公布，9月4日人民币对美元汇率中间价扜6.7787，较前一交易日上调20个基点，人民币小幅升值。",
-      "publishedAt": "2026-09-04T09:43:55+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690065.shtml",
-      "subCategory": "宏观经济",
-      "id": "finance-20260904-007"
     }
   ]
 }
