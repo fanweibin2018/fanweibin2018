@@ -3,8 +3,107 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-10T00:40:00+08:00",
+  "updatedAt": "2026-09-10T09:20:00+08:00",
   "items": [
+    {
+      "id": "tech-20260910-007",
+      "title": "OPPO Find X10 系列新机现身 Geekbench，搭载联发科天玑 9600 Pro 芯片",
+      "summary": "型号为PMX110的OPPO设备现身Geekbench跑分库，据称为Find X10 Pro Max，搭载联发科天玑9600 Pro处理器及16GB内存，测得单核3242分、多核11132分，成绩尚不稳定。",
+      "publishedAt": "2026-09-10T08:22:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/571.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-006",
+      "title": "小米 18 Fold 中折叠手机今日首销：首发玄戒 O3 芯片，10999 元起",
+      "summary": "小米18 Fold中折叠手机于9月10日上午10点正式开售，首发自研玄戒O3芯片，配备5.38英寸外屏与7.58英寸内屏及6000mAh电池，起售价10999元。",
+      "publishedAt": "2026-09-10T08:14:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/570.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-013",
+      "title": "超 6 万人测试后 Hypertune 发布 Intel PC 调优平台，游戏帧率最高提升 60%",
+      "summary": "基于英特尔极限超频工具XTU SDK开发的Hypertune平台结束超6万人测试后正式发布，提供自动CPU/GPU超频及网络优化功能，宣称游戏帧率最高提升60%，采用月费9.99美元订阅制。",
+      "publishedAt": "2026-09-10T07:46:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/563.htm",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20260910-001",
+      "title": "苹果 2026 秋季新品发布会一文汇总：iPhone Duo 出世、iPhone 18 Pro / Max 登场、新 CEO 首秀",
+      "summary": "苹果新任CEO约翰·特努斯首次亮相发布会，公司推出首款折叠屏手机iPhone Duo（国行15999元起），并发布iPhone 18 Pro/Max系列、AirPods 5及Apple Watch新品。",
+      "publishedAt": "2026-09-10T06:50:44+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/554.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260910-008",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "summary": "思科确认其Secure Firewall Management Center存在的CVE-2026-20079漏洞正被用于攻击，CVSS评分达10.0满分，未经身份验证的攻击者可借此以root权限执行命令，目前尚无临时缓解方案。",
+      "publishedAt": "2026-09-09T17:40:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260910-009",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "summary": "医疗器械提供商AdaptHealth确认，今年7月披露的一起网络攻击导致约410万人个人信息外泄，攻击团伙ShinyHunters通过社会工程手段获取第三方承包商账号权限入侵系统。",
+      "publishedAt": "2026-09-09T17:30:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260910-010",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "summary": "卡内基梅隆大学CERT团队披露，Skullcandy Dime 3无线耳机1.0.0.28版本固件存在高危漏洞，攻击者无需配对密码即可通过蓝牙连接并劫持音频、读取麦克风数据，厂商已发布修复固件。",
+      "publishedAt": "2026-09-09T17:02:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260910-003",
+      "title": "苹果发布自研 C2 5G 调制解调器：上传提速 50%，美版 iPhone 18 Pro 支持 mmWave 毫米波",
+      "summary": "苹果推出自研C2 5G调制解调器，搭载于iPhone 18 Pro系列及iPhone Duo，上传速度较上代提升50%、功耗降低15%，美版支持毫米波频段，国行版支持Sub-6GHz频段。",
+      "publishedAt": "2026-09-10T04:26:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/540.htm",
+      "subCategory": "网络基础设施"
+    },
+    {
+      "id": "tech-20260910-005",
+      "title": "苹果 iOS / iPadOS 27、macOS 27、watchOS 27 和 visionOS 27 定档 9 月 15 日推出",
+      "summary": "苹果宣布iOS 27、iPadOS 27、macOS 27、watchOS 27及visionOS 27将于9月15日正式发布，新增Liquid Glass设计，并加入面向青少年的“请求浏览”等家长控制功能。",
+      "publishedAt": "2026-09-10T03:17:51+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/531.htm",
+      "subCategory": "操作系统"
+    },
+    {
+      "id": "tech-20260910-004",
+      "title": "苹果 visionOS 27.0 RC 发布",
+      "summary": "苹果向Vision Pro用户推送visionOS 27.0 RC版本，新增Siri视觉识别功能及可将全景照片设为个人环境等特性，正式版计划于9月15日发布，部分地区推送或延迟30分钟。",
+      "publishedAt": "2026-09-10T03:11:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/528.htm",
+      "subCategory": "XR-AR-VR"
+    },
+    {
+      "id": "tech-20260910-002",
+      "title": "苹果发布 A20 Pro 芯片：2nm 制程，最快手机 CPU 核心，GPU 较前代快 40%",
+      "summary": "苹果为iPhone 18 Pro系列发布A20 Pro芯片，采用2nm制程，配备双神经网络引擎共32核心，GPU性能较上代提升40%，内存带宽提升50%，用于支撑设备端AI运算。",
+      "publishedAt": "2026-09-10T01:18:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/495.htm",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20260909-112",
       "title": "Claude Max 订阅条款出现“文字游戏”，用户将 Anthropic 告上法庭",
@@ -78,6 +177,15 @@
       "subCategory": "消费电子"
     },
     {
+      "id": "tech-20260910-011",
+      "title": "How we rebuilt Cloudflare Workers' module registry for Node.js compatibility",
+      "summary": "Cloudflare重构了Workers运行时workerd的模块注册系统，默认启用Node.js兼容特性，应用体积上限提升至64MB，并引入基于URL的模块解析与惰性编译等改进，需添加兼容标志开启。",
+      "publishedAt": "2026-09-09T13:00:00Z",
+      "source": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+      "subCategory": "云计算"
+    },
+    {
       "id": "tech-20260909-104",
       "title": "苹果 iPhone Duo 即将登场，三星发布“欢迎来到折叠屏时代”视频",
       "summary": "苹果即将发布首款折叠屏手机iPhone Duo，距秋季新品发布会仅剩数小时。三星趁势发布视频邀请用户“欢迎来到折叠时代”，其Galaxy Z Fold8系列将成为iPhone Duo主要竞争对手，业界传闻苹果折叠屏手机起售价约2000美元，并可能支持手写笔功能。",
@@ -130,6 +238,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/971.htm",
       "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260910-012",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "summary": "GitHub发布静态分析工具CodeQL 2.27.0版本，新增对Linux ARM64架构的原生支持，扩展Java/Kotlin的Micronaut框架建模及C#的ASP.NET Core MVC控制器识别能力，并新增Rust命令行注入检测查询。",
+      "publishedAt": "2026-09-09",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "subCategory": "开发者工具"
     },
     {
       "id": "tech-20260909-005",
@@ -510,15 +627,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260907-008",
-      "title": "中国智能眼镜线上规模首次下跌！7月销额环比暴跌43%",
-      "summary": "洛图科技数据显示，7月中国京东、天猫、抖音三平台线上智能眼镜合计销量740万台，同比下降15.3%，销额环比暴跌43%至13亿元，均价降至1751元，为该品类年内首次出现下滑。",
-      "publishedAt": "2026-09-07T07:54:06+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1149/1149084.htm",
-      "subCategory": "消费电子"
-    },
-    {
       "id": "tech-20260907-010",
       "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
       "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
@@ -589,141 +697,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/934.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260906-014",
-      "title": "特斯拉推送 FSD v14.3.9 监督版：手动开车时 FSD 可强行介入避险",
-      "summary": "特斯拉开始推送FSD v14.3.9监督版更新，新增主动安全介入机制：手动驾驶时若系统判断自动紧急制动无法避免碰撞，或检测到驾驶员分心，FSD可协调转向、制动与加速主动避险，而非仅刹停，该功能需订阅FSD且驾驶员仍需负最终责任。",
-      "publishedAt": "2026-09-06T15:08:53+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/933.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260906-013",
-      "title": "网传比亚迪方程豹錒 6 谬照曝光，延续方盒子设计",
-      "summary": "网络流出疑似比亚迪方程豹錒阔順6谬照，延续錒酫5、錒酫5等车型的方盒子设计语言，采用封闭式前脸、下置日行灯的宽幅大灯、外扩轮眉、机械式门把手及车顶激光雷达，前脸封闭设计推测为纯电车型，售价预计低于今年4月上市、起售价19.98万元的錒酫7闪充版。",
-      "publishedAt": "2026-09-06T14:54:20+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/931.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260906-012",
-      "title": "微信 Linux 版获 4.1.13 更新：新增语音输入文字、滚动截图等实用功能",
-      "summary": "微信Linux版更新至4.1.13版本，新增语音转文字输入及语音消息发送支持，加入滚动截图、群聊接龙、连续消息翻译、多条消息同时撤回等功能，并优化动态表情预览、邀请入群分享聊天记录、通话中接听来电，支持删除联系人时保留聊天记录。",
-      "publishedAt": "2026-09-06T13:07:22+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/920.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260906-011",
-      "title": "小米智能表盘 2 亮相：连贯完整大屏设计可实现\"转头\"、适配 SU7/YU7/澎程全系车型",
-      "summary": "小米发布车载配件\"小米智能表盘2\"，将于9月7日推出，适配澎程、SU7/SU7 Ultra及YU7车型，采用连贯完整大屏设计取代此前双联屏方案，新增可展示表情反应的\"转头\"功能，初代产品售价约699元，二代预计维持相近定价。",
-      "publishedAt": "2026-09-06T13:02:47+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/919.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260906-010",
-      "title": "Pico 神秘 VR 设备获美国 FCC 认证，预计为 Space Pro 头显",
-      "summary": "字节跳动旗下Pico一款VR设备通过美国FCC认证，据推测为2026年第四季度发布的Space Pro头显，配备4000 PPI Micro-OLED屏幕，采用双芯片架构，新主处理器CPU与GPU性能预计达现有龙锂XR2 Gen2的两倍。",
-      "publishedAt": "2026-09-06T12:54:36+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/917.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260906-009",
-      "title": "传音无边框概念手机细节揭秘",
-      "summary": "数码博主\"i冰宇宙\"拆解传音无边框概念机设计发现，其并非真正消除边框，而是通过加宽加高中框结构从正面视觉上遮挡屏幕边缘的黑边，特定角度透过边框仍可见黑边，目前该设计仅为概念展示阶段，是否量产尚不确定。",
-      "publishedAt": "2026-09-06T12:10:59+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1149/1149002.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260906-008",
-      "title": "ACEMAGIC F7A 迷你主机亮相：机箱比 F2A 更大，至高 64GB 内存",
-      "summary": "ACEMAGIC在IFA 2026展示F7A迷你主机，处理器与前代F2A同为英特尔酷睦Ultra X7 358H，机箱增大以提升散热，最高支持64GB LPDDR5内存，配双M.2 2280接口分别支持PCIe4.0与5.0接口。",
-      "publishedAt": "2026-09-06T11:56:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/913.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260906-007",
-      "title": "V社有望为Steam Frame头显引入彩色透视模块，作为升级套件单独发售",
-      "summary": "据供应商Komodo Station流出信息，V社计划为未发布的Steam Frame VR头显推出彩色透视模块，作为独立升级套件单独发售，采用双3200万像素传感器，支抑10bit HDR、原皘5K分辨率，最高超频至144帧。",
-      "publishedAt": "2026-09-06T11:05:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/904.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260906-006",
-      "title": "小米18 Pro系列9月登场！首发第六代龙题8超级至尊版",
-      "summary": "小米宣布18 Pro系列将于9月发布，线下盲订已开启，机型首发高通第六代龙题8至尊版处理器，该芯片基于台积电2nm工艺，CPU主频将首次突破5GHz；Pro Max版本主摄升级为2亿像素LOFIC大底传感器。",
-      "publishedAt": "2026-09-06T10:31:56+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148994.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260907-006",
-      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
-      "summary": "据英国金融时报报道，Travis Kalanick旗下机器人公司Atoms计划通过招聘与收购进军自动驾驶出租车业务，该公司已获a16z领投17亿美元融资，优步已向其投资1亿美元并探讨技术合作。",
-      "publishedAt": "2026-09-06T09:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260907-005",
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "summary": "特斯拉在奥斯汀部署首批无方向盘无踏板Cybercab后，美国国家公路交通安全管理局已展开调查；目前得州仅注册45辆Cybercab，马斯克未出席发布活动，特斯拉自我认证车型的做法引发监管关注。",
-      "publishedAt": "2026-09-06T09:08:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260906-001",
-      "title": "真赛博牛马！特斯拉计划下月实现自动驾驶无人出租车24小时全天候运营",
-      "summary": "特斯拉AI负责人表示，Robotaxi有望于10月实现24小时全天候运营。目前该服务在美国六座城市每日6点至22点运营，突破依赖FSD v15架构升级及夜间超充网络建设。",
-      "publishedAt": "2026-09-06T08:22:33+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148988.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260906-005",
-      "title": "消息称奥之心 PEN 复古无反相机定价 1000 美元，9 月 9 日登场",
-      "summary": "据博主爆料，奥之心将于9月9日发布PEN复古无反相机，搭载与OM-3、OM-1 II同款2000万像素M43传感器，预计售价约1000美元，随附14-42mm套机镜头。",
-      "publishedAt": "2026-09-06T08:18:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/868.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260906-002",
-      "title": "OPPO A7 Pro真机上手：确认搭载天玺6360 MAX",
-      "summary": "OPPO A7 Pro将于9月11日发布，实机曝光确认搭载天玺6360 MAX处理器，支持45W快充，配8000mAh电池及IP69K防水防尘，主打耐用性。",
-      "publishedAt": "2026-09-06T08:15:33+08:00",
-      "source": "快科技",
-      "url": "https://news.mydrivers.com/1/1148/1148987.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260906-003",
-      "title": "英伟达宣布在 PAX West 游戏展以官方建议零售价销售 RTX 50 系列 Founders Edition 显卡",
-      "summary": "英伟达宣布将在PAX West游戏展上限量以官方建议零售价销售RTX 50系列公版显卡，其中RTX 5090 FE售价1999美元，RTX 5080 FE为999美元，明显低于当前市场价格。",
-      "publishedAt": "2026-09-06T07:21:15+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/851.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }
