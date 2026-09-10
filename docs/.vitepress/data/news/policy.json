@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-10T00:40:00+08:00",
+  "updatedAt": "2026-09-10T09:20:00+08:00",
   "items": [
     {
       "id": "policy-20260909-208",
@@ -94,6 +94,42 @@
       "source": "新华社",
       "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_3a041e5eb81a424f82026a1ab5eddaf6.html",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260910-001",
+      "title": "欧盟委员会提出公共采购新条例改革方案",
+      "summary": "欧盟委员会9月9日通过一项新条例提案，拟将现行三项采购指令整合为单一条例，回应审计院建议及《德拉吉报告》竞争力诉求，推动采购简化、数字化及战略导向。",
+      "publishedAt": "2026-09-09",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1817",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260910-002",
+      "title": "欧盟委员会批准德国4亿欧元胰岛素供应国家援助",
+      "summary": "欧盟委员会9月9日批准德国向赛诺菲德国公司提供4亿欧元国家援助，用于增强人胰岛素及胰岛素类似物供应链韧性，该援助已通过欧盟国家援助规则审查。",
+      "publishedAt": "2026-09-09",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1798",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260910-003",
+      "title": "美国联邦贸易委员会撤销健康类应用数据泄露政策声明",
+      "summary": "美国联邦贸易委员会9月9日宣布撤销2021年关于健康应用及联网设备数据泄露的政策声明，因2024年更新的健康数据泄露通知规则已覆盖同一事项，原声明失去存在必要。",
+      "publishedAt": "2026-09-09",
+      "source": "美国联邦贸易委员会",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-withdraws-obsolete-policy-statement",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260910-004",
+      "title": "国家发展改革委召开六张网重大项目协调推进会",
+      "summary": "国家发展改革委9月9日召开六张网重大项目协调推进会，部署强化用地、用海、环评等要素保障机制，财政部、自然资源部、人民银行等多部门参加研究加强要素保障工作。",
+      "publishedAt": "2026-09-09",
+      "source": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202609/t20260909_1407499.html",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260909-001",
