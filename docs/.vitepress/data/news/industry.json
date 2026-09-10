@@ -3,8 +3,44 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-10T12:10:00+08:00",
+  "updatedAt": "2026-09-11T00:10:00+08:00",
   "items": [
+    {
+      "id": "industry-20260910-014",
+      "title": "China's Nvidia rivals raise prices as HBM shortage bites",
+      "summary": "受高带宽存储器（HBM）短缺加剧及成本上升影响，与英伟达竞争的中国芯片厂商正大幅上调其AI加速器价格，这一涨价压力为中国发展和部署国产算力替代方案增添了新的障碍。",
+      "publishedAt": "2026-09-10T14:37:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL215/hbm-nvidia-chipmakers-cost-ascend.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-015",
+      "title": "TSMC August 2026 revenue jumps 53.3% as AI chip demand drives record growth",
+      "summary": "台积电公布2026年8月合并营收达新台币5148.1亿元，同比大幅增长53.3%，主要受人工智能相关半导体需求强劲拉动，公司业绩延续AI芯片市场的强劲增长势头。",
+      "publishedAt": "2026-09-10T13:57:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL214/tsmc-revenue-growth-demand-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-016",
+      "title": "CXMT's HBM3 yield reportedly stalls at 25% as TSV and stacking challenges expose China's AI memory gap",
+      "summary": "中国长锵存储（CXMT）已启动HBM3存储芯片试产，但面临重大制造挑战，初期良率维持在约25%左右，反映其从传统DRAM生产转向高性能AI存储器过程中，在硅通孔（TSV）及堆叠工艺方面存在明显技术差距。",
+      "publishedAt": "2026-09-10T12:14:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260909VL232/cxmt-tsv-hbm3-dram-yield-rate.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-013",
+      "title": "Qualcomm's AWS deal raises stakes for MediaTek and Alchip",
+      "summary": "高通宣布与亚马逊云科技（AWS）达成多代合作，共同开发面向AI推理及高性能光互联的定制芯片，此举据报道将加剧高通与联发科、创意电子（Alchip）等竞争对手在定制芯片设计领域的竞争压力。",
+      "publishedAt": "2026-09-10T10:21:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD209/aws-qualcomm-asic-ic-design-alchip-mediatek.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260910-012",
       "title": "Analysis: China chases EUV as chipmakers move to High-NA",
@@ -53,7 +89,7 @@
     {
       "id": "industry-20260910-008",
       "title": "从价格战到技术战 锂电隔膜产业迎结构性洗牌",
-      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、璞泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
+      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、琴泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
       "publishedAt": "2026-09-10T06:52:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4178886.html",
@@ -62,7 +98,7 @@
     {
       "id": "industry-20260910-006",
       "title": "海底捞股价大幅跳水 控股股东减持",
-      "summary": "9月9日海底捞股价盘中一度重挫超12%，收跌9.14%报10.34港元；此前控股股东SP NP Ltd.以每股10.62港元大宗交易减持2.59亿股，约占已发行股份4.65%，套现约27.51亿港元，公司称与经营业绩无关。",
+      "summary": "9月9日海底捞股价盘中一度重挖超12%，收跌9.14%报10.34港元；此前控股股东SP NP Ltd.以每股10.62港元大宗交易减持2.59亿股，约占已发行股份4.65%，套现约27.51亿港元，公司称与经营业绩无关。",
       "publishedAt": "2026-09-09T21:36:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4178789.html",
@@ -70,8 +106,8 @@
     },
     {
       "id": "industry-20260909-010",
-      "title": "问界汽车：全新一代 M9 连续 3 个月蝉联 50 万以上销量 TOP1",
-      "summary": "问界汽车宣布全新一代M9连续3个月蝉联50万以上销量TOP1，该车型还获得2026年度上半年新能源保值率和用户净推荐值双料第一，新一代M9将搭载华为途灵龙行平台和800V主动悬架系统，提供“人车共舞”等创新功能。",
+      "title": "问界汽车：全新一代 M9 连续 3 个月蟵联 50 万以上销量 TOP1",
+      "summary": "问界汽车宣布全新一代M9连续3个月蟵联50万以上销量TOP1，该车型还获得2026年度上半年新能源保值率和用户净推荐值双料第一，新一代M9将搭载华为途灵龙行平台和800V主动悬架系统，提供“人车共舞”等创新功能。",
       "publishedAt": "2026-09-09T21:16:48+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/448.htm",
@@ -79,8 +115,8 @@
     },
     {
       "id": "industry-20260909-011",
-      "title": "零跑汽车：零跑 A10 八月销量突破 3 万台，蝉联全品类 SUV 销量冠军",
-      "summary": "零跑汽车宣布其A10车型八月销量突破3万台，蝉联全品类SUV销量冠军，该月零跑全球交付量达103129辆，同比增长80.7%，单月交付再次突破10万大关，A10定位小型SUV，起价6.58万元，搭载双芯组合和激光雷达等智能驾驶硬件配置。",
+      "title": "零跑汽车：零跑 A10 八月销量突破 3 万台，蟵联全品类 SUV 销量冠军",
+      "summary": "零跑汽车宣布其A10车型八月销量突破3万台，蟵联全品类SUV销量冠军，该月零跑全球交付量达103129辆，同比增长80.7%，单月交付再次突破10万大关，A10定位小型SUV，起价6.58万元，搭载双芯组合和激光雷达等智能驾驶硬件配置。",
       "publishedAt": "2026-09-09T20:48:27+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/437.htm",
@@ -97,8 +133,8 @@
     },
     {
       "id": "industry-20260910-004",
-      "title": "燧原科技9月11日科创板上市，发行价142.18元/股",
-      "summary": "燧原科技公告将于9月11日在上交所科创板上市，发行价142.18元/股，发行4303.52万股，预计募资约61.16亿元；网上申购倍数达6109.34倍，公司预计1-9月营收同比增长325.78%至455.36%。",
+      "title": "熧原科戀9月11日科创板上市，发行价142.18元/股",
+      "summary": "熧原科技公告将于9月11日在上交所科创板上市，发行价142.18元/股，发行4303.52万股，预计募资约61.16亿元；网上申购倍数达6109.34倍，公司预计1-9月营收同比增长325.78%至455.36%。",
       "publishedAt": "2026-09-09T19:19:00+08:00",
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/roll/2026-09-09/doc-inirfumq5629425.shtml",
@@ -106,7 +142,7 @@
     },
     {
       "id": "industry-20260910-003",
-      "title": "比亚迪：闪充车型市场订单饱满，第二代刀片电池月产能将逐步爬坡",
+      "title": "比亚迪：闪充车型市场订单饱满，第二代刀片电池月产能将逐步爵坡",
       "summary": "比亚迪在投资者关系活动记录中表示，闪充车型市场订单饱满，公司正推进产线扩产，第二代刀片电池月产能将于下半年逐步提升；上半年方程豹、腾势、仰望三大品牌合计销量同比增长61%。",
       "publishedAt": "2026-09-09T18:21:56+08:00",
       "source": "新浪科技",
@@ -116,7 +152,7 @@
     {
       "id": "industry-20260909-009",
       "title": "半年度营收首破百亿 石头科技海外收入60.73亿撑起六成盘子",
-      "summary": "石头科技2026年上半年营收达到100.84亿元，同比增长27.6%，实现半年度营收首次突破百亿的里程碑，境外收入60.73亿元占总营收约六成；剔除关税退税一次性收益后，海外家电需求、渠道下沉及自建售后体系成为企业增长的核心驱动力。",
+      "summary": "石头科戀2026年上半年营收达到100.84亿元，同比增长27.6%，实现半年度营收首次突破百亿的里程碑，境外收入60.73亿元占总营收约六成；剔除关税退税一次性收益后，海外家电需求、渠道下沉及自建售后体系成为企业增长的核心驱动力。",
       "publishedAt": "2026-09-09T17:35:30+08:00",
       "source": "出海网",
       "url": "https://www.chwang.com/news/209761988719",
@@ -142,8 +178,8 @@
     },
     {
       "id": "industry-20260910-001",
-      "title": "蔚来李斌：公司逆势增长连续三个季度实现盈利，今年1-8月交付量同比增长57.9%",
-      "summary": "蔚来创始人李斌表示，公司连续三个季度实现盈利，2026年1-8月交付量同比增长57.9%，三大品牌合计交付创历史新高；同期国内乘用车市场同比下滑超20%，行业竞争进入最惨烈阶段。",
+      "title": "蓝来李旌：公司逆势增长连续三个季度实现盈利，今年1-8月交付量同比增长57.9%",
+      "summary": "蓝来创始人李旌表示，公司连续三个季度实现盈利，2026年1-8月交付量同比增长57.9%，三大品牌合计交付创历史新高；同期国内乘用车市场同比下滑超20%，行业竞争进入最惨烈阶段。",
       "publishedAt": "2026-09-09T15:41:00+08:00",
       "source": "新浪财经",
       "url": "http://finance.sina.com.cn/tech/digi/2026-09-09/doc-inirfivw8604562.shtml",
@@ -151,7 +187,7 @@
     },
     {
       "id": "industry-20260909-101",
-      "title": "储能扩张\"踩刹车\"！储能电池新建项目审批或将收紧",
+      "title": "储能扩张\"踩刺车\"！储能电池新建项目审批或将收紧",
       "summary": "监管部门对储能电池新建项目审批出现收紧迹象，尚处规划阶段、未正式开工的项目可能面临延迟，但已获批及在建项目不受影响；行业分析师指出今年规划储能产能已超800GWh，超过全球市场需求，警示或将出现类似光伏行业的价格竞争风险。",
       "publishedAt": "2026-09-09T15:40:00+08:00",
       "source": "东方财富网",
@@ -196,8 +232,8 @@
     },
     {
       "id": "industry-20260909-002",
-      "title": "观察：箝制反催中国造芯热　华为麒麟重生、小米接力陪跑",
-      "summary": "DIGITIMES观察文章分析，美方对华半导体限制反而催化中国自主造芯进程，华为麒麟处理器系列重现活力，小米等厂商相继跟进参与国产芯片自研浪潮，文章从地缘政治压力角度探讨中国半导体产业自主发展路径。",
+      "title": "观察：箭制反催中国造芯热　华为麦靖重生、小米接力陪跑",
+      "summary": "DIGITIMES观察文章分析，美方对华半导体限制反而催化中国自主造芯进程，华为麦靖处理器系列重现活力，小米等厂商相继跟进参与国产芯片自研浪潮，文章从地缘政治压力角度探讨中国半导体产业自主发展路径。",
       "publishedAt": "2026-09-09T02:20:00+08:00",
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
@@ -215,7 +251,7 @@
     {
       "id": "industry-20260908-006",
       "title": "CXMT sees tight DRAM supply through 2H26, accelerates server memory and China-made tool validation",
-      "summary": "中国存储芯片厂商长鑫存储（CXMT）预计2026年下半年全球内存供应将持续紧张，AI驱动需求支撑价格走势，公司同步推进产能扩张、制程升级，并加快服务器内存及国产设备验证进度。",
+      "summary": "中国存储芯片厂商长锵存储（CXMT）预计2026年下半年全球内存供应将持续紧张，AI驱动需求支撑价格走势，公司同步推进产能扩张、制程升级，并加快服务器内存及国产设备验证进度。",
       "publishedAt": "2026-09-08T15:01:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260908VL204/cxmt-dram-demand-capacity-2026.html",
@@ -295,8 +331,8 @@
     },
     {
       "id": "industry-20260908-002",
-      "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、攻高端商机",
-      "summary": "据DIGITIMES报道，AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
+      "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、改高端商机",
+      "summary": "据DIGITIMES报道，受AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
       "publishedAt": "2026-09-08T03:00:00+08:00",
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767630_LIP7PS2N23UB10190I69Q",
@@ -332,7 +368,7 @@
     {
       "id": "industry-20260907-004",
       "title": "中汽协：2026 年 7 月我国汽车整车出口 109.2 万辆，同比增长 57.5%",
-      "summary": "中国汽车工业协会数据显示，2026年7月我国汽车整车出口109.2万辆，环比增2.2%，同比增57.5%，出口金额189.8亿美元；1-7月累计出口639.9万辆，同比增53.7%，出口金额1107.8亿美元，同比增54.9%。",
+      "summary": "中国汽车工业协会数据显示，2026年7月我国汽车整车出口109.2万辆，环比堇2.2%，同比增57.5%，出口金额189.8亿美元；1-7月累计出口639.9万辆，同比增53.7%，出口金额1107.8亿美元，同比增54.9%。",
       "publishedAt": "2026-09-07T16:37:11+08:00",
       "source": "IT之家（中汽协）",
       "url": "https://www.ithome.com/0/999/349.htm",
@@ -439,8 +475,8 @@
     },
     {
       "id": "industry-20260905-208",
-      "title": "中国存储产业形成长钐长江新芯三足鼎立格局",
-      "summary": "分析指出中国存储芯片产业正从单一龙头模式转向三足鼎立：长钐存储专注DRAM，长江存储深耉21朋A入，深耉23D NAND，武汉新芯则聚焦NOR Flash、三维集成及光电子领域。",
+      "title": "中国存储产业形成长鑭长江新芯三足鼎立格局",
+      "summary": "分析指出中国存储芯片产业正从单一龙头模式转向三足鼎立：长鑭存储专注DRAM，长江存储深耥 21朋A入，深耥 23D NAND，武汉新芯则聚焦NOR Flash、三维集成及光电子领域。",
       "publishedAt": "2026-09-05T07:53:40+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD211/china-3d-nand-cxmt-xmc-ymtc.html",
@@ -485,7 +521,7 @@
     {
       "id": "industry-20260904-011",
       "title": "TSMC urges HBM makers to design for X-ray inspection as packaging grows more complex",
-      "summary": "台积电在20扭年台湾半导体展上呼吁存储厂商为HBM与DRAM设计增强X射线检测兼容性，因先进封装日趋复杂使内部缺陷检测难度上升，公司同时提出对敏感存储器件辐射暴露风险的担忧，呼吁产业协同设计。",
+      "summary": "台积电在20扉年台湾半导体展上呼吁存储厂商为HBM与DRAM设计增强X射线检测兼容性，因先进封装日趋复杂使内部缺陷检测难度上升，公司同时提出对敏感存储器件辐射暴露风险的担忧，呼吁产业协同设计。",
       "publishedAt": "2026-09-04T17:19:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904VL218/tsmc-inspection-hbm-packaging-design.html",
@@ -530,7 +566,7 @@
     {
       "id": "industry-20260904-012",
       "title": "Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp",
-      "summary": "台湾晶圆厂工程服务商创宇工程（Trusval Technology）在26年台湾半导体展表示，受AI与高性能运算需求带动，在手订单达230亿新台币，计劒2026年第四季度启动美国厂区产能爸坡。",
+      "summary": "台湾晶圆厂工程服务商创宇工程（Trusval Technology）在26年台湾半导体展表示，受AI与高性能运算需求带动，在手订单达230亿新台币，计勒2026年第四季度启动美国厅区产能爸坡。",
       "publishedAt": "2026-09-04T14:11:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html",
@@ -575,7 +611,7 @@
     {
       "id": "industry-20260904-014",
       "title": "China interconnect chipmaker Montage enters Samsung, SK Hynix CXL 3.2 supply chains and begins DDR6 development",
-      "summary": "中国互联芯片厂商澜起科技（Montage）进入三星、SK海力士的CXL 3.2供应链，并启动DDR6产品研发，加码AI数据中心互联芯片布局；文章正文需付费订阅查看。",
+      "summary": "中国互联芯片厂商澈起科技（Montage）进入三星、SK海力士的CXL 3.2供应链，并启动DDR6产品研发，加码AI数据中心互联芯片布局；文章正文需付费订阅查看。",
       "publishedAt": "2026-09-04T12:01:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD220/montage-samsung-sk-hynix-cxl-ddr6.html",
@@ -625,105 +661,6 @@
       "url": "https://www.digitimes.com/news/a20260903PD204/revenue-esmt-2026-nanya-technology-growth.html",
       "subCategory": "半导体产业",
       "id": "industry-20260905-105"
-    },
-    {
-      "id": "industry-20260904-004",
-      "title": "大众集团批准\"2030 未来计划\"：拟全球继续裁员 5 万人，4 座德国汽车工厂面临停产风险",
-      "summary": "大众汽车监事会正式批准应对中国车企竞争的\"2030未来计划\"重组方案。计划包括在现有裁员基础上全球各业务部门再削减约5万个岗位，累计裁员规模将达约10万人，占集团650万全球员工约15%；位于埃姆登、茲维克、汉諾威及奥迪内卡苏尔姆的4座德国电动车工厂，在现有生产配顗2031至2034年陆续到期后，面临停产风险，大众称目前无法确保这些工厂获得具备竞争力的未来生产任务。集团同时计划到2035年将全球车型数量削减约50%，配置选项削减75%，并为2027至2031年资本开支与研发投入安排1350亿欧元，目标2030年实现900万辆年销量及9%营业利润率。",
-      "publishedAt": "2026-09-04T07:05:29+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/216.htm",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260905-201",
-      "title": "长电科技拟定增募资65亿元加码先进封装产能",
-      "summary": "长电科技公告拟向不超35名特定对象发行A股，募资总额不血85亿元，用于高性能计算先进封装扩产、电源模组封测升级、晶圆级封装工艺扩能及存储芯片封测能力升级等项目，控股股东磐石润企拟认购22.53%。",
-      "publishedAt": "2026-09-03T20:15:30+08:00",
-      "source": "金融界",
-      "url": "https://stock.jrj.com.cn/2026/09/03201558342165.shtml",
-      "subCategory": "公司动态"
-    },
-    {
-      "title": "名创优品2026年上半年营收115亿元，同比增长22.4%",
-      "summary": "名创优品公布2026年上半年业绩，总营收115.0亿元，同比增长22.4%，毛利率44.3%，归母净利润9.6亿元，同比增长6.1%；MINISO品牌贡献105.1亿元，TOP TOY贡献9.85亿元，中国内地业务增长26.2%。",
-      "publishedAt": "2026-09-03T20:11:51+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1849656.html",
-      "subCategory": "消费零售",
-      "id": "industry-20260905-106"
-    },
-    {
-      "title": "中国软件：麦麦软件2026年上半年营怡 7.03亿元，净利润1.54亿元",
-      "summary": "中国软件发布2026年中报，子公司麦麦软件上半年营怡 7.03亿元，营业利润1.74亿元，净利润1.54亿元；麦麦操作系统连续15年位居国内Linux市场首位，桌面端份额约70%，服务器端份额80%-90%。",
-      "publishedAt": "2026-09-03T20:11:44+08:00",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1849658.html",
-      "subCategory": "企业服务",
-      "id": "industry-20260905-107"
-    },
-    {
-      "id": "industry-20260903-003",
-      "title": "乘联分会：初步统计8月全国乘用车市场零售162.6万辆，同比下降19%，新能源渗透率65.7%",
-      "summary": "中国乘用车市场信息联席会初步统计，8月全国乘用车市场零售162.6万辆，同比下降19%，批发236.9万辆同比降5%；今年累计零唥179.9万辆同比降20%，新能源零唥106.9万辆同比降4%，新能源渗透率65.7%，市场处于底部蓄力修复阶段。",
-      "publishedAt": "2026-09-03T16:07:22+08:00",
-      "source": "IT之家（乘联分会）",
-      "url": "https://www.ithome.com/0/997/984.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260903-006",
-      "title": "奥迪创新技术中心在上海成立：专为 AUDI 品牌打造，将开发四款全新车型",
-      "summary": "奥迪与上汽集团9月3日在上海成立奥迪创新技术中心，上汽、奥迪、大众中国分别持胤49%、41%、10%，将基于奥迪ADP 2.0平台联合开发四款全新AUDI车型，首款车型计劒2028年推出。",
-      "publishedAt": "2026-09-03T12:34:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/997/859.htm",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260903-005",
-      "title": "CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade",
-      "summary": "中国存储芯片厂商长钐存储(CXMT)启动2027年全球招聘计划，在合肥、北京、上海、西安及日本等地开放电路设计、研发、量产技术、制造运营与信息技术岗位，以支持DDR5与LPDDR技术升级。",
-      "publishedAt": "2026-09-03T11:55:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260903-007",
-      "title": "华为、小米、荣耀手机集体涨价！最高涨幅1000元",
-      "summary": "9月1日华为、小米、荣耀等品牌同步上调手机售价200至1000元，其中小米17 Pro Max一个月内累计涠价1000元，厂商将原因归结为存储芯片成本处于历史高位，内部难以继续消化压力。",
-      "publishedAt": "2026-09-03T10:47:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/wm/2026-09-03/doc-iniqpksa2193575.shtml",
-      "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260905-204",
-      "title": "SK集团董事长提出与铠侠联合生产半导体可能性",
-      "summary": "SK集团会长崔泰源在采访中表示，SK海力士与日本铠侠联合生产半导体是\"一个选项\"，双方可能在生产、研发及供应链方面展开合作，此举被视为SK海力士探索在日建厂计划的延伸。",
-      "publishedAt": "2026-09-03T10:38:31+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260903VL212/sk-hynix-kioxia-nand-production.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260904-001",
-      "title": "AI substrate shortages widen as Unimicron signals capacity support through 2029",
-      "summary": "台湾封装基板厂欣兴电子(Unimicron)高层在26年台湾半导体展期间表示，公司正努力缓解AI基板供应短缺问题，承诺在2029年前为联发科等芯片设计公司提供未来三年的产能支持，反映AI芯片需求对半导体供应链的持续压力。",
-      "publishedAt": "2026-09-03T09:51:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260903PD222/unimicron-substrate-capacity-demand-semicon-taiwan.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260904-002",
-      "title": "BYD Semiconductor scales 4D radar chip for L2-L4 driving, deepening its in-house automotive sensing stack",
-      "summary": "比亚迪半导体宣布已开始量产基于其轩辕A3智能驾驶架构打造的汽车级4D毫米波雷达芯片，面向L2至L4级别自动驾驶功能设计，进一步强化公司垂直整合的车用传感技术布局，相关信息于2026台湾半导体展期间公开。",
-      "publishedAt": "2026-09-03T09:47:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260902VL213/byd-semiconductor-automotive-production-vehicle-design.html",
-      "subCategory": "半导体产业"
     }
   ]
 }
