@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-11T09:20:00+08:00",
+  "updatedAt": "2026-09-11T23:58:00+08:00",
   "items": [
+    {
+      "id": "policy-20260911-001",
+      "title": "国家发改委：9月11日国内汽、柴油（标准品）价格每吨调控后实际上调260元、250元",
+      "summary": "国家发展改革委对国内成品油价格实施临时调控，因美伊冲突升级推高国际油价，按现行机制计算9月11日汽、柴油标准品价格本应每吨上调435元、420元，调控后实际上调260元、250元，下一轮零售调价窗口为9月24日24时。",
+      "publishedAt": "2026-09-11T15:01:00+08:00",
+      "source": "财联社（国家发展改革委）",
+      "url": "https://finance.eastmoney.com/a/202609113872030764.html",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260910-101",
       "title": "法国总统马克龙呼吁欧洲大力发展自主载人航天，力争 10 年内送宇航员上太空",
@@ -114,6 +123,24 @@
       "subCategory": "跨境贸易"
     },
     {
+      "id": "policy-20260909-202",
+      "title": "第二十六届投洽会产供链国际合作对话会成功举办",
+      "summary": "第二十六届中国国际投资贸易洽谈会期间，商务部副部长凌激主持首届全球供应链国际合作对话会，逾200名来自政府、国际组织、使馆及企业的代表围绕贸易投资一体化、推动国际供应链合作展开讨论，多国官员强调深化供应链协作有助于化解风险、弥合发展差距。",
+      "publishedAt": "2026-09-09T11:52:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_85c14d1afb9e442dae9f2a09adac8275.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260909-210",
+      "title": "习近平同英国首相伯纳姆通电话",
+      "summary": "习近平与英国首相伯纳姆通电话，双方表示中英是全面战略伙伴，强调共同利益大于分歧，倡议在教育、医疗、科技等领域加强合作，伯纳姆表示英方致力于恢复英中关系至历史最高水平，并承诺作为安理会常任理事国与中方共同应对全球挑战。",
+      "publishedAt": "2026-09-09T10:38:00+08:00",
+      "source": "新华社",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_3a041e5eb81a424f82026a1ab5eddaf6.html",
+      "subCategory": "海外政策"
+    },
+    {
       "id": "policy-20260910-001",
       "title": "欧盟委员会提出公共采购新条例改革方案",
       "summary": "欧盟委员会9月9日通过一项新条例提案，拟将现行三项采购指令整合为单一条例，回应审计院建议及《德拉吉报告》竞争力诉求，推动采购简化、数字化及战略导向。",
@@ -156,24 +183,6 @@
       "publishedAt": "2026-09-09",
       "source": "The White House",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260909-202",
-      "title": "第二十六届投洽会产供链国际合作对话会成功举办",
-      "summary": "第二十六届中国国际投资贸易洽谈会期间，商务部副部长凌激主持首届全球供应链国际合作对话会，逾200名来自政府、国际组织、使馆及企业的代表围绕贸易投资一体化、推动国际供应链合作展开讨论，多国官员强调深化供应链协作有助于化解风险、弥合发展差距。",
-      "publishedAt": "2026-09-09T11:52:00+08:00",
-      "source": "商务部",
-      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_85c14d1afb9e442dae9f2a09adac8275.html",
-      "subCategory": "跨境贸易"
-    },
-    {
-      "id": "policy-20260909-210",
-      "title": "习近平同英国首相伯纳姆通电话",
-      "summary": "习近平与英国首相伯纳姆通电话，双方表示中英是全面战略伙伴，强调共同利益大于分歧，倡议在教育、医疗、科技等领域加强合作，伯纳姆表示英方致力于恢复英中关系至历史最高水平，并承诺作为安理会常任理事国与中方共同应对全球挑战。",
-      "publishedAt": "2026-09-09T10:38:00+08:00",
-      "source": "新华社",
-      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_3a041e5eb81a424f82026a1ab5eddaf6.html",
       "subCategory": "海外政策"
     },
     {
@@ -303,42 +312,6 @@
       "subCategory": "AI监管"
     },
     {
-      "id": "policy-20260908-005",
-      "title": "Chancellor takes axe to delays holding back growth",
-      "summary": "英国财政大臣希利宣布一揽子监管改革措施，包括简化重大基建项目的司法复核程序、推出监管沙盒允许配送机器人等新技术在可控环境中测试，并要求各部门减少公众咨询以加快审批决策。",
-      "publishedAt": "2026-09-07",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260908-002",
-      "title": "Labor Day, 2026",
-      "summary": "美国总统特朗普签署2026年劳动节公告，肯定美国工人贡献，提及已签署《工作家庭减税法案》并设永久性20%小企业税收减免，提议对H-1B签证申请征收新费用以鼓励雇用美国工人，并称制造业已连续六个月扩张。",
-      "publishedAt": "2026-09-07",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260908-003",
-      "title": "证监会主席吴清会见沙特投资部助理大臣穆巴拉克",
-      "summary": "中国证监会主席吴清9月7日在北京会见沙特投资部助理大臣穆巴拉克，双方就加强中沙资本市场合作、促进双向投资交换意见，简讯未透露具体协议或后续合作安排细节。",
-      "publishedAt": "2026-09-07",
-      "source": "界面新闻（证监会）",
-      "url": "https://www.jiemian.com/article/15065464.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260908-004",
-      "title": "证监会主席吴清会见阿曼金融服务管理局执行总裁萨尔米",
-      "summary": "中国证监会主席吴清9月7日在北京会见阿曼金融服务管理局执行总裁萨尔米，双方就加强中阿资本市场合作及中国资本市场改革开放成效交换意见，简讯未披露具体协议内容。",
-      "publishedAt": "2026-09-07",
-      "source": "界面新闻（证监会）",
-      "url": "https://www.jiemian.com/article/15065473.html",
-      "subCategory": "金融监管"
-    },
-    {
       "id": "policy-20260909-004",
       "title": "工业和信息化部关于印发《信息通信行业发展\"十五五\"规划》的通知",
       "summary": "工业和信息化部印发《信息通信行业发展\"十五五\"规划》（工信部规〔2026〕188号），文件于8月12日签发、9月7日公布，要求各省通信管理局、相关企业及行业协会结合实际贯彻落实2026至2030年行业发展部署。",
@@ -355,6 +328,15 @@
       "source": "GOV.UK",
       "url": "https://www.gov.uk/government/news/firms-freed-from-pen-pushing-paperwork-and-costly-red-tape-in-business-reporting-overhaul",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260905-001",
+      "title": "国家无线电办公室部署开展卫星网络国内协调第三方机构评估工作",
+      "summary": "国家无线电办公室发布通知，2026至2027年试行卫星网络国内协调第三方机构评估机制，规定评估一般不超过1个月，复杂系统可延至2个月，评估报告作为国内协调完成依据。",
+      "publishedAt": "2026-09-04T11:26:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690158.shtml",
+      "subCategory": "产业政策"
     },
     {
       "id": "policy-20260905-005",
@@ -465,15 +447,6 @@
       "subCategory": "产业政策"
     },
     {
-      "id": "policy-20260905-001",
-      "title": "国家无线电办公室部署开展卫星网络国内协调第三方机构评估工作",
-      "summary": "国家无线电办公室发布通知，2026至2027年试行卫星网络国内协调第三方机构评估机制，规定评估一般不超过1个月，复杂系统可延至2个月，评估报告作为国内协调完成依据。",
-      "publishedAt": "2026-09-04T11:26:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690158.shtml",
-      "subCategory": "产业政策"
-    },
-    {
       "id": "policy-20260904-001",
       "title": "商务部服贸司负责人介绍2026年1-7月服务贸易发展情况",
       "summary": "商务部服务贸易司负责人介绍，2026年1至7月中国服务贸易额达4446.7亿元人民币，同比增长8.3%；其中出口1773.2亿元，同比增长17.1%，进口2673.5亿元，同比增长3.2%，服务贸易逆差同比收窄176.3亿元。旅行和运输服务贡献逾半数出口增长，旅行服务出口增长27.7%，运输服务增长27.1%；知识密集型服务出口占比达53.5%，个人文化娱乐服务及知识产权使用费出口分别增长57.8%和42.1%。",
@@ -573,15 +546,6 @@
       "subCategory": "金融监管"
     },
     {
-      "id": "policy-20260903-003",
-      "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
-      "summary": "二十国集团创新部长级会议9月2日在美国北卡罗来纳州教堂山落幕，由美国商务部及白宫科技政策办公室主办，与会方发布包含六大支柱的共识声明，涵盖创新政策框架、AI标准制定、AI知识产权及技术工人培养等议题，并推出《卡罗来纳原则》及AI繁荣契约，二十国及非洲联盟代表参加，马斯克、奥特曼、黄仁勋、扎克伯格等出席炉边对话。",
-      "publishedAt": "2026-09-02",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
-      "subCategory": "海外政策"
-    },
-    {
       "id": "policy-20260903-002",
       "title": "中央网信办深入开展\"清朗·整治AI应用乱象\"专项行动第二阶段工作",
       "summary": "中央网信办通报\"清朗·整治AI应用乱象\"专项行动第二阶段进展，聚焦编造虚假信息、传播暴力低俗内容、仿冒他人及侵害未成年人权益等问题，累计清理违规帖文561万余条、处置违规账号近4.9万个、处理不合规网站和应用超2400家，抖音、快手、微博、腾讯等平台同步强化内容审核机制。",
@@ -589,6 +553,15 @@
       "source": "中央网信办",
       "url": "https://www.cac.gov.cn/2026-09/02/c_1790099041364574.htm",
       "subCategory": "AI监管"
+    },
+    {
+      "id": "policy-20260903-003",
+      "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
+      "summary": "二十国集团创新部长级会议9月2日在美国北卡罗来纳州教堂山落幕，由美国商务部及白宫科技政策办公室主办，与会方发布包含六大支柱的共识声明，涵盖创新政策框架、AI标准制定、AI知识产权及技术工人培养等议题，并推出《卡罗来纳原则》及AI繁荣契约，二十国及非洲联盟代表参加，马斯克、奥特曼、黄仁勋、扎克伯格等出席炉边对话。",
+      "publishedAt": "2026-09-02",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
+      "subCategory": "海外政策"
     },
     {
       "id": "policy-20260902-800",
@@ -672,6 +645,15 @@
       "subCategory": "数字经济"
     },
     {
+      "id": "policy-20260831-952",
+      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
+      "summary": "国家市场监督管理总局发布强制性国家标准《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》，为雷达、摄像头等智能网联部件放宽局部凸出尺寸限制，并将新能源商用车单侧单轮轴荷上限由7000公斤提高至8000公斤，标准自2027年7月1日起实施。",
+      "publishedAt": "2026-08-31T11:02:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
+      "subCategory": "产业政策"
+    },
+    {
       "id": "policy-20260901-003",
       "title": "白宫备忘录要求联邦机构扩大Login.gov统一登录使用",
       "summary": "美国行政管理和预算局发布M-26-18号备忘录，要求联邦机构扩大使用Login.gov作为面向公众服务的统一身份认证平台，旨在减少居民重复注册、提升数字政务安全与信任，并降低各机构自建身份验证系统的成本。",
@@ -706,24 +688,6 @@
       "source": "国家能源局",
       "url": "http://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
       "subCategory": "新能源政策"
-    },
-    {
-      "id": "policy-20260831-952",
-      "title": "车辆外廓尺寸国标发布 智能车辆放宽局部凸出尺寸限制",
-      "summary": "国家市场监督管理总局发布强制性国家标准《汽车、挂车及汽车列车外廓尺寸、轴荷及质量限值》，为雷达、摄像头等智能网联部件放宽局部凸出尺寸限制，并将新能源商用车单侧单轮轴荷上限由7000公斤提高至8000公斤，标准自2027年7月1日起实施。",
-      "publishedAt": "2026-08-31T11:02:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
-      "subCategory": "产业政策"
-    },
-    {
-      "title": "南京住房公积金异地贷款范围扩大至全国 9月1日起施行",
-      "summary": "南京住房公积金管理中心宣布，自2026年9月1日起，全国范围内住房公积金缴存人在南京购房均可申请异地贷款，此前该政策仅覆盖江苏、安徽两省29个城市，南京市民赴安徽购房也可同步享受异地提取便利。",
-      "publishedAt": "2026-08-30T11:42:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686698.shtml",
-      "subCategory": "产业政策",
-      "id": "policy-20260831-001"
     }
   ]
 }
