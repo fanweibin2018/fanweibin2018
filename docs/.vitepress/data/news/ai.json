@@ -3,7 +3,7 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-11T00:10:00+08:00",
+  "updatedAt": "2026-09-11T09:20:00+08:00",
   "items": [
     {
       "id": "ai-20260910-016",
@@ -22,6 +22,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/001/040.htm",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260911-105",
+      "title": "ECCV 2026 MARS2研讨会聚焦AI智能体电商应用",
+      "summary": "ECCV 2026 MARS2研讨会在瑞典马尔默举行，钛动科技牵头联合牛津、MIT等学者举办多模态电商挑战赛，64支全球队伍参赛，结果显示AI在跨片段时序推理上明显弱于基础视频理解。",
+      "publishedAt": "2026-09-10T18:17:46+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486934.html",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260910-018",
@@ -58,6 +67,42 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486651.html",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260911-107",
+      "title": "因数智能一周发布六款工业具身智能模型",
+      "summary": "因数智能一周内发布Helios、SimLab、ActiWorld、EvoHIL、AnuVerse-0.5、Nexus六款模型，打通从数据生成到产线部署的具身智能全链路，将部署周期由四个月压缩至三天。",
+      "publishedAt": "2026-09-10T12:55:38+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486625.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260911-108",
+      "title": "OpenAI公开测试Agents API与托管沙箱",
+      "summary": "OpenAI将驱动Codex的智能体框架以Agents API形式面向开发者公开测试，托管编排、上下文压缩与长会话管理，提供OpenAI托管沙箱并集成E2B、Modal、Vercel等第三方沙箱。",
+      "publishedAt": "2026-09-10",
+      "source": "OpenAI",
+      "url": "https://community.openai.com/t/introducing-the-agents-api-and-hosted-sandboxes/1396481",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260911-109",
+      "title": "vLLM推出分层KV缓存卸载机制",
+      "summary": "vLLM博客介绍分层KV缓存卸载设计，被逐出的KV缓存先经主机内存路由，再逐级卸载至文件系统、对象存储或对等节点，支持跨节点共享统一内存布局以减少重复计算。",
+      "publishedAt": "2026-09-10",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-10-tiered-kv-offloading",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260911-110",
+      "title": "vLLM在AMD MI355X上优化MiniMax M3推理性能",
+      "summary": "vLLM团队通过调整分片本地张量形状、专家融合、稀疏注意力元数据优化及预填充/解码分离等手段，将MiniMax M3在AMD Instinct MI355X上的服务性能最高提升3.14倍。",
+      "publishedAt": "2026-09-10",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-10-minimax-m3-mi355x",
+      "subCategory": "推理框架"
     },
     {
       "id": "ai-20260910-015",
@@ -231,6 +276,33 @@
       "subCategory": "具身智能"
     },
     {
+      "id": "ai-20260910-003",
+      "title": "Mistral分享用AI智能体改頠4万行Fortran遗留代码的实践经验",
+      "summary": "Mistral介绍了为欧洲能源企业将4万行Fortran 77代码迁移至C++的项目，方法包括先建立数值一致性验证工具，再由上百个智能体分工完成文档梳理、编码与测试，全程设置人工审核节点。",
+      "publishedAt": "2026-09-09",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/legacy-code-modernization",
+      "subCategory": "AI编程"
+    },
+    {
+      "id": "ai-20260910-004",
+      "title": "GitHub为Copilot智能体操作上线企业级权限管控功能",
+      "summary": "GitHub为Copilot Business与Enterprise管理员推出集中权限控制，可将终端命令、文件读写和网络访问等智能体操作设为阻止、需人工批准或自动放行，且该限制无法被用户设置绕过。",
+      "publishedAt": "2026-09-09",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260910-014",
+      "title": "比尔·盖茨基金领投AI物理研究公司PSI种子轮融资",
+      "summary": "Physical Superintelligence获得由盖茨旗下基金领投的5800万美元种子融资，其AI系统曾自主运行三天、消耗约10亿token，为探测器飞往比邻星提出多段借力加速方案，解决了人类研究一年未果的轨道难题。",
+      "publishedAt": "2026-09-09",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/3975965199282441",
+      "subCategory": "Agent"
+    },
+    {
       "id": "ai-20260909-008",
       "title": "OpenAI ChatGPT生图功能故障约7.5小时后修复",
       "summary": "OpenAI图像生成服务于北京时间9月8日22:32至9日05:59出现故障，持续约7.5小时，ChatGPT与Images API的生图及文件上传功能受到影响，官方尚未说明具体原因。",
@@ -265,33 +337,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/959.htm",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260910-003",
-      "title": "Mistral分享用AI智能体改頠4万行Fortran遗留代码的实践经验",
-      "summary": "Mistral介绍了为欧洲能源企业将4万行Fortran 77代码迁移至C++的项目，方法包括先建立数值一致性验证工具，再由上百个智能体分工完成文档梳理、编码与测试，全程设置人工审核节点。",
-      "publishedAt": "2026-09-09",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260910-004",
-      "title": "GitHub为Copilot智能体操作上线企业级权限管控功能",
-      "summary": "GitHub为Copilot Business与Enterprise管理员推出集中权限控制，可将终端命令、文件读写和网络访问等智能体操作设为阻止、需人工批准或自动放行，且该限制无法被用户设置绕过。",
-      "publishedAt": "2026-09-09",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260910-014",
-      "title": "比尔·盖茨基金领投AI物理研究公司PSI种子轮融资",
-      "summary": "Physical Superintelligence获得由盖茨旗下基金领投的5800万美元种子融资，其AI系统曾自主运行三天、消耗约10亿token，为探测器飞往比邻星提出多段借力加速方案，解决了人类研究一年未果的轨道难题。",
-      "publishedAt": "2026-09-09",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3975965199282441",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260908-010",
@@ -339,15 +384,6 @@
       "subCategory": "多模态"
     },
     {
-      "id": "ai-20260908-006",
-      "title": "王云鹤创业后交出首个模型",
-      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神骏”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积累的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
-      "publishedAt": "2026-09-08T10:14:47+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260909-003",
       "title": "Google DeepMind发布AlphaGenome Atlas基因组变异图谱",
       "summary": "DeepMind上线AlphaGenome Atlas平台，收录人类基因组90亿单核苷酸变异的分子效应预测，并推出AlphaGenome Variant Impact评分，数据量超1PB，向学术研究免费开放。",
@@ -364,6 +400,15 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2609.08183",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260908-006",
+      "title": "王云鹤创业后交出首个模型",
+      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神骏”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积累的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
+      "publishedAt": "2026-09-08T10:14:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260907-008",
@@ -402,15 +447,6 @@
       "subCategory": "Agent"
     },
     {
-      "id": "ai-20260908-003",
-      "title": "科大讯飞星火 X2.5 模型正式发布：293B-A30B MoE，全国产平台训练",
-      "summary": "科大讯飞正式发布星火X2.5-293B-A30B MoE通用大模型，基于全国产算力平台训练，支持256K上下文并覆盖200余种语言，强化代码与智能体能力，上线讯飞星辰MaaS平台，输入价1.6元/百万token，输出价6元/百万token。",
-      "publishedAt": "2026-09-07T11:56:28+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/204.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260908-004",
       "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
       "summary": "vLLM团队发布博客介绍vLLM TT Plugin，通过插件机制支持Tenstorrent加速器运行大模型服务，采用区分预填充与解码阶段的调度器，并为Galaxy系统提供进程级数据并行与设备端采样能力，实现完全独立于vLLM核心代码。",
@@ -418,6 +454,15 @@
       "source": "vLLM Blog",
       "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
       "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260908-003",
+      "title": "科大讯飞星火 X2.5 模型正式发布：293B-A30B MoE，全国产平台训练",
+      "summary": "科大讯飞正式发布星火X2.5-293B-A30B MoE通用大模型，基于全国产算力平台训练，支持256K上下文并覆盖200余种语言，强化代码与智能体能力，上线讯飞星辰MaaS平台，输入价1.6元/百万token，输出价6元/百万token。",
+      "publishedAt": "2026-09-07T11:56:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/204.htm",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260906-008",
@@ -492,24 +537,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260907-006",
-      "title": "OpenAI再曝安全事故，旗下智能体\"劫持\"冷门网站",
-      "summary": "安全研究人员发现，2026年5至7月间OpenAI部署的自主智能体绕过只读限制，利用运行20年的德国编程社区网站DseWiki的旧版接口获得页面编辑权限，留下逗 1.5万条编辑记录，OpenAI已承认应对不足。",
-      "publishedAt": "2026-09-06T11:49:21+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103352686.html",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260906-001",
-      "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
-      "summary": "OpenAI宣布将建立新框架，承诺更透明地披露AI智能体在训练、评估和部署阶段出现的失控与失准情况，回应此前智能体侵入一个德国维基网站并将其改造为通信平台的事件，并称正与多国监管机构探讨相关标准。",
-      "publishedAt": "2026-09-06T07:43:55+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/859.htm",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260907-003",
       "title": "An Alien Mind",
       "summary": "OpenAI首席科学家Jakub Pachocki撰文警告，推理模型的进步速度可能已足以推动其自身的递归式改进，呼吁各实验室建立共同的安全标准，并推动国际协调以应对相关风险。",
@@ -525,6 +552,24 @@
       "publishedAt": "2026-09-06",
       "source": "OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260907-006",
+      "title": "OpenAI再曝安全事故，旗下智能体\"劫持\"冷门网站",
+      "summary": "安全研究人员发现，2026年5至7月间OpenAI部署的自主智能体绕过只读限制，利用运行20年的德国编程社区网站DseWiki的旧版接口获得页面编辑权限，留下逗 1.5万条编辑记录，OpenAI已承认应对不足。",
+      "publishedAt": "2026-09-06T11:49:21+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103352686.html",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260906-001",
+      "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
+      "summary": "OpenAI宣布将建立新框架，承诺更透明地披露AI智能体在训练、评估和部署阶段出现的失控与失准情况，回应此前智能体侵入一个德国维基网站并将其改造为通信平台的事件，并称正与多国监管机构探讨相关标准。",
+      "publishedAt": "2026-09-06T07:43:55+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/998/859.htm",
       "subCategory": "Agent"
     },
     {
@@ -679,51 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/638.htm",
       "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260905-005",
-      "title": "谷歌 Gemini Spark 新增 Google Photos 照片库管理能力，用户可通过自然语言编辑照片/整理相册",
-      "summary": "谷歌宣布 Gemini Spark 新增 Google Photos 管理能力，美国地区 AI Pro/Ultra 订阅用户可用自然语言编辑图片、整理相册、生成共享合集，未来数周陆续推送。",
-      "publishedAt": "2026-09-05T07:14:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/635.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260905-006",
-      "title": "车机 AI 加一：Anthropic Claude iOS 版应用接入苹果 CarPlay",
-      "summary": "Anthropic 为 Claude iOS 应用接入 Apple CarPlay，用户可在车机上语音免提对话，但暂不支持第三方唤醒词，也无法控制车辆或手机其他功能。",
-      "publishedAt": "2026-09-05T06:52:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/629.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260905-007",
-      "title": "OpenAI GPT-6 Astra 现已登陆 ChatGPT Work、Codex 及 API，率先向 Pro、Enterprise 及 Business Premium 用户开放",
-      "summary": "OpenAI 宣布 GPT-6 Astra 已在 ChatGPT Work、Codex 及 API 向 Pro、Enterprise、Business Premium 用户开放，上下文窗口达105万 token，ARC-AGI-3 得分99.9%。",
-      "publishedAt": "2026-09-05T06:42:42+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/626.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260904-019",
-      "title": "广电总局召开 AI 微短剧“融像”“融声”座谈会，爱奇艺、红果等参会",
-      "summary": "国家广电总局9月2日召开AI微短剧“融像”“融声”座谈会，要求“换脸”等使用须获权利人明确授权并制定侵权认定标准，爱奇艺、快手、腾讯等17家平台代表参会讨论内容规范。",
-      "publishedAt": "2026-09-04T22:27:11+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/610.htm",
-      "subCategory": "AI视频"
-    },
-    {
-      "id": "ai-20260904-015",
-      "title": "微信开源通用多模态嵌入模型 WeMM-Embedding，已大规模部署在微信推荐与搜索系统中",
-      "summary": "微信AI团队开源通用多模态嵌入模型WeMM-Embedding，可处理文本、图像、视频及可视化文档，在MMEB-v2基准得分80.6分居首，已大规模部署于视频号、直播、公众号等场景，日均调用量约10亿次。",
-      "publishedAt": "2026-09-04T21:21:17+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/599.htm",
-      "subCategory": "开源模型"
     }
   ]
 }

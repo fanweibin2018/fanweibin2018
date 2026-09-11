@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-11T00:10:00+08:00",
+  "updatedAt": "2026-09-11T09:20:00+08:00",
   "items": [
+    {
+      "id": "industry-20260911-101",
+      "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
+      "summary": "中国汽车工业协会数据显示，8月新能源汽车国内销量占比达65.7%，新能源乘用车占乘用车国内销量68%；1-8月汽车产销均完成约2031万辆，同比降3.8%，出口101万辆，同比增65.3%。",
+      "publishedAt": "2026-09-11T08:03:45+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260911-102",
+      "title": "新一批国家组织高值医用耗材集采纳入23个品种",
+      "summary": "第七批国家组织高值医用耗材集采在天津开标，23个品种采购成功，148家企业517个产品拟中选，主要涉及消化道球囊扩张导管、食道肠道胆道胰管支架及导丝等，预计2027年1月患者可用上中选产品。",
+      "publishedAt": "2026-09-10T19:24:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694205.shtml",
+      "subCategory": "医疗健康"
+    },
     {
       "id": "industry-20260910-014",
       "title": "China's Nvidia rivals raise prices as HBM shortage bites",
@@ -213,6 +231,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260909-004",
       "title": "Chinese automakers face globalization test in overseas push",
       "summary": "中国汽车产业正从依赖产能与价格竞争转向以海外市场表现决定成败的新阶段，文章分析中国车企在国际化扩张中面临的品牌建设、渠道运营与本地合规等考验，指出海外市场表现已成为决定车企竞争成败的关键因素。",
@@ -238,15 +265,6 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260910-005",
-      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
-      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
-      "publishedAt": "2026-09-09",
-      "source": "Gartner",
-      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260908-006",
@@ -312,6 +330,15 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260908-007",
       "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
       "summary": "据报道，三星电子已将其4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
@@ -355,15 +382,6 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260907-004",

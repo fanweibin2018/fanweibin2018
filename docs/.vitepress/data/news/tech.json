@@ -3,8 +3,71 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-11T00:10:00+08:00",
+  "updatedAt": "2026-09-11T09:20:00+08:00",
   "items": [
+    {
+      "id": "tech-20260911-103",
+      "title": "开发者为V社 Steam Controller 手柄开发 LiveHaptics Mod，可将系统音频转为触觉反馈",
+      "summary": "开发者推出开源工具LiveHaptics，可实时将PC系统音频转换为Steam Controller的触觉反馈，支持USB、蓝牙及Steam Puck连接，无需游戏单独适配，对听障玩家具备辅助价值。",
+      "publishedAt": "2026-09-11T08:38:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/095.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260911-102",
+      "title": "36.9 万元起特斯拉中国焕新款 Model Y 高性能全轮驱动版上市：百公里加速 3.5 秒、标配 21 英寸蛛网轮毂 2.0",
+      "summary": "特斯拉中国推出焕新款Model Y高性能全轮驱动版，起售价36.9万元，CLTC续航659公里，百公里加速3.5秒，最高时速250公里，标配21英寸蛛网轮毂2.0及连续可变阻尼悬架。",
+      "publishedAt": "2026-09-11T08:35:19+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/093.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260911-101",
+      "title": "阔别 6 年陶瓷款苹果 Apple Watch 回归，Series 12 尺寸 / 重量对比",
+      "summary": "苹果时隔6年在Apple Watch Series 12重新推出陶瓷表壳，提供珍珠白与暗夜蓝配色。46mm陶瓷版重52.9克，比同尺寸铝金属GPS+蜂窝版重约14.3克，机身尺寸也略大于铝金属和钛金属版本。",
+      "publishedAt": "2026-09-11T08:32:03+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/092.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260911-108",
+      "title": "New Android malware encrypts files, steals data, and harasses victims",
+      "summary": "印尼黑客通过Google Play之外的恶意APK传播名为Mantax Otax的新型安卓恶意软件，诱导用户开启无障碍权限后窃取数据并在安卓9及更早版本上加密文件，替换图片为勒索提示并弹窗骚扰以迫使受害者付款。",
+      "publishedAt": "2026-09-11T05:40:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260911-107",
+      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "summary": "Surfshark披露因配置错误导致一台暴露在公网的内部测试服务器被黑客入侵，泄露了服务配置信息和构建相关凭据，但未涉及用户数据、VPN基础设施或客户信息，公司已于9月5日完成整改。",
+      "publishedAt": "2026-09-11T03:15:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260911-106",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "summary": "一名俄语黑客利用数百个AI智能体自动化攻击PaperCut软件的两个漏洞CVE-2026-81578和CVE-2026-82078，波及48个国家至少440台服务器、395家机构，教育行业占比约一半，部分目标在7分钟内即被拿下域管理员权限。",
+      "publishedAt": "2026-09-10T23:55:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260911-105",
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "summary": "思科Talos披露两个已修补的Secure Firewall Management Center漏洞CVE-2026-20079和CVE-2026-20316正被三个不同黑客团伙利用，其中一伙部署Qilin勒索软件，另一伙与俄罗斯Sandworm相关组织部署Cyclops Blink后门。",
+      "publishedAt": "2026-09-10T23:43:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20260910-019",
       "title": "苹果推出全新腕带配件：iPhone 18 Pro 系列同款配色，229 元",
@@ -13,6 +76,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/001/041.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260911-104",
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "summary": "安全研究人员发现名为BlueMoon的漏洞利用工具包，串联两个Chrome零日漏洞与一个Windows内核漏洞实现远程代码执行和权限提升，中国关联的JungleBamboo等国家级黑客组织自8月底起用其针对NGO和国防承包商发起鱼叉式钓鱼攻击。",
+      "publishedAt": "2026-09-10T22:11:00+08:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260910-018",
@@ -582,6 +654,15 @@
       "subCategory": "芯片硬件"
     },
     {
+      "id": "tech-20260907-010",
+      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
+      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
+      "publishedAt": "2026-09-07",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/346.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
       "id": "tech-20260907-007",
       "title": "Omarchy Linux 创始人：微软应推出原生 Linux 版 Office 套件",
       "summary": "Omarchy Linux创始人David Heinemeier Hansson呼吁微软推出原生Linux版Office套件，称Excel与Word仍是办公软件中的最佳产品，并指出网页版对高级Linux用户仍有约一成体验差距。",
@@ -627,15 +708,6 @@
       "subCategory": "消费电子"
     },
     {
-      "id": "tech-20260907-010",
-      "title": "消息称三星将半数4 纳米产能投入HBM4 基础裸片生产",
-      "summary": "据韩媒报道，三星晶圆代工计划将约半数4纳米（SF4）产线产能用于生产HBM4基础裸片，以集成内存控制器等定制逻辑电路。数据显示三星HBM市场份额已从去年二季度15%升至今年二季度38%，SK海力士份额则甲4%降至50%。",
-      "publishedAt": "2026-09-07",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/346.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
       "id": "tech-20260906-018",
       "title": "OPPO A7 Pro真机亮相：8000mAh电池，9月11日发售",
       "summary": "OPPO A7 Pro将于9月11日10点开售，搭蠠8000mAh电池，支持IP69K防水防尘、超抗摧金刚石架构及全场景AI防诈功能，配备OLED烫彩屏与ColorOS系统，提供乘风破浪、步步生花、大漠棕三款配色。",
@@ -652,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/998.htm",
       "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260906-020",
-      "title": "三星Galaxy S27 Pro / Ultra手机获3C认证，支持60W有线快充",
-      "summary": "三星Galaxy S27 Pro与Ultra通过中国3C认证，均支持60W有线快充与25W无线充电，电池容量分别为5200mAh与5800mAh并采用硅碳负极，均搭载龙坴8 Elite Gen 6 Pro芯片、12GB内存及2亿像素主摄，Ultra版屏幕更大且独有S Pen支持。",
-      "publishedAt": "2026-09-06T16:58:31+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/996.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260906-021",
-      "title": "加南科技预告新款屏显AI眼镜：整机26g、无边框设计，计勒2027年春季发布",
-      "summary": "加南科技预告新款屏显AI眼镜，整机重量约26克，采用无边框框型设计并支持近视配镜，镜腿厚度2.3毫米，内置扬声器与PPG心率检测模块，通过蓝牙PAN技术接入云端AI服务，与浙江通达光学合作验证量产可行性，计勒2027年春季正式发布。",
-      "publishedAt": "2026-09-06T16:57:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/995.htm",
-      "subCategory": "XR-AR-VR"
     }
   ]
 }
