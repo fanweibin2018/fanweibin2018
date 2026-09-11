@@ -3,8 +3,44 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-11T09:20:00+08:00",
+  "updatedAt": "2026-09-11T16:49:24+08:00",
   "items": [
+    {
+      "id": "trade-20260911-108",
+      "title": "俄罗斯电商卖家加速自发货，Wildberries FBS占比升至97.4%",
+      "summary": "受7月18日起无人机袭击物流设施影响，俄罗斯Wildberries平台卖家自发货(FBS)比例两个月内上升42.3个百分点至97.4%，平台仓储发货(FBO)占比则降至62.8%，Ozon平台也出现类似变化。",
+      "publishedAt": "2026-09-11T15:29:36+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209831298884",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260911-110",
+      "title": "美国电商季节性增强，线上消费加速向年末集中",
+      "summary": "报告显示美国线上消费季节性特征增强，2026年11-12月假日购物季零售额预计达约1万亿美元，同比增长4.5%，其中线上零售增速预计达9%，高于实体零售2.5%的增速。",
+      "publishedAt": "2026-09-11T15:06:46+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209830724140",
+      "subCategory": "选品趋势"
+    },
+    {
+      "id": "trade-20260911-111",
+      "title": "德国成欧洲最依赖外来技术大国",
+      "summary": "报告称德国零售商普遍依赖美国和中国科技基础设施，包括Shopify建站、Stripe/PayPal支付、AWS云服务及TikTok、亚马逊引流，中小商家因迁移成本高被锁定，为跨境卖家本地化服务带来机会。",
+      "publishedAt": "2026-09-11T14:54:44+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209830421524",
+      "subCategory": "独立站"
+    },
+    {
+      "id": "trade-20260911-109",
+      "title": "drop2shop月底冲1200个爱尔兰网点",
+      "summary": "爱尔兰包裹自提退货网络drop2shop网点已超1000个，月底目标达1200个，并投资1500万欧元建设都柏林机场物流枢纽，旨在将末端配送时效缩短至约两天，为跨境卖家提供新退货渠道。",
+      "publishedAt": "2026-09-11T14:50:21+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209830311081",
+      "subCategory": "物流仓储"
+    },
     {
       "id": "trade-20260911-103",
       "title": "SHEIN半托管模式上线波兰站 可与其它欧盟站点共用库存",
@@ -30,6 +66,15 @@
       "publishedAt": "2026-09-10T17:52:00+08:00",
       "source": "雨果跨境",
       "url": "https://www.cifnews.com/article/188802",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260911-107",
+      "title": "9月21日起未申报危险品直接扣分封号 Shopee印尼把敏感货合规焊死",
+      "summary": "Shopee印尼平台宣布自2026年9月21日起严格执行危险品申报规定，涵盖液体、电池、压力气体、磁性及易燃物品，未申报或违规将被扣1-6分，严重者面临账号限制或封禁，并将推行风险分级管理。",
+      "publishedAt": "2026-09-10T17:48:46+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209798562513",
       "subCategory": "平台政策"
     },
     {
@@ -85,6 +130,15 @@
       "source": "亿邦动力",
       "url": "https://m.ebrun.com/ebrungo/zb/706892.html",
       "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20260911-106",
+      "title": "借了贵钱去买货，赚的钱全给别人打工了？卖家现金流难题怎么破？",
+      "summary": "文章指出亚马逊卖家旺季备货依赖高息借款易导致现金流紧张，建议使用亚马逊Lending旗下FastPay产品从合规订单中提前回款，无需抵押，缓解资金压力。",
+      "publishedAt": "2026-09-10T17:04:00+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188800",
+      "subCategory": "跨境支付"
     },
     {
       "id": "trade-20260910-009",
@@ -670,60 +724,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/209679321603",
       "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-006",
-      "title": "多形式互动落地！TikTok新增投票与图文评论，丰富内容变现场景",
-      "summary": "TikTok评论区体系升级，一次上线语音评论（支持最长60秒并自动翻译）、创作者投票（最多五个选项）及图文轮播回复（下月起支持九图）三款互动工具，旨在提升社区互动，为出海商家和创作者提供更多用户调研与内容推广手段。",
-      "publishedAt": "2026-09-07T10:44:59+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209679180514",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-005",
-      "title": "俄卖家注意：Magnit Market9月7日关停下单入口，广告促销同步结束",
-      "summary": "俄罗斯电商平台Magnit Market宣布自2026年9月7日起停止接受新订单，官网、独立App及Magnit主应用内商城板块均无法下单，当日8点起相关广告促销同步终止，已有订单仍将履约，平台称此举为业务转型升级阶段。",
-      "publishedAt": "2026-09-07T10:41:07+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209679083015",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-004",
-      "title": "eBay9月卖家更新上线！捐绑折扣新功能，助力提升客单价",
-      "summary": "eBay发布2026年9月卖家更新，新增捐绑折扣工具，支持卖家为单笔订单购买多件商品的买家设置阶梯折扣比例，系统自动在商品详情页、店铺首页及买家账户页面计算折扣金额，旨在鼓励批量购买并提升客单价。",
-      "publishedAt": "2026-09-07T10:27:07+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678730802",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-003",
-      "title": "无需VPN、一键迁粉！俄罗斯卖家迎来合规带货新平台",
-      "summary": "俄罗斯电子商务协会AUREC与本土社交平台LOOKY合作，为约1.5万名俄罗斯电商从业者推出合规带货新渠道，支持无需VPN一键迁移海外平台内容与粉丝并附带店铺功能，还提供商品链接嵌入、私信评论及虚拟试穿等工具。",
-      "publishedAt": "2026-09-07T10:21:45+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678595473",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-002",
-      "title": "增长见顶！莫斯科电商市场份额持续下滑，俄下沉市场成为新主战场",
-      "summary": "Kokoc Group数据显示，莫斯科及莫斯科州线上销售额占比由26.1%降至23.4%，Wildberries莫斯科交易占比已降至不足两成，Ozon约三分之一订单来自5万人以下小城镇，俄罗斯电商增长重心正转向下沉市场。",
-      "publishedAt": "2026-09-07T10:18:05+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678503391",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260908-001",
-      "title": "Wildberries、Ozon仓库遇袭，俄罗斯图书行业遗受重创",
-      "summary": "俄罗斯电商平台Wildberries与Ozon的仓库遭无人机襲击，图书库存严重受损，Rosman估计损毁图书12.6万册，Eksmo称最终损失或达2000万册，行业直接经济损失约60亿卢布，各方正探讨增值税减免及库存损失核销等纳困措施。",
-      "publishedAt": "2026-09-07T10:15:33+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678439563",
-      "subCategory": "物流仓储"
     }
   ]
 }

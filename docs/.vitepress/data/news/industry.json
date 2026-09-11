@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-11T09:20:00+08:00",
+  "updatedAt": "2026-09-11T16:49:24+08:00",
   "items": [
     {
       "id": "industry-20260911-101",
@@ -231,15 +231,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260910-005",
-      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
-      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
-      "publishedAt": "2026-09-09",
-      "source": "Gartner",
-      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260909-004",
       "title": "Chinese automakers face globalization test in overseas push",
       "summary": "中国汽车产业正从依赖产能与价格竞争转向以海外市场表现决定成败的新阶段，文章分析中国车企在国际化扩张中面临的品牌建设、渠道运营与本地合规等考验，指出海外市场表现已成为决定车企竞争成败的关键因素。",
@@ -265,6 +256,24 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-107",
+      "title": "集邦咨询：2026年Q2中芯国际单季营收30.06亿美元，环比增长20%",
+      "summary": "集邦咨询数据显示，中芯国际2026年第二季度单季营收达30.06亿美元，环比增长20%，同比增长36.1%，首次突破30亿美元关口，与全球第二的三星差距缩小至3亿美元以内。",
+      "publishedAt": "2026-09-09",
+      "source": "集邦咨询（TrendForce）",
+      "url": "http://www.199it.com/archives/1850634.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260908-006",
@@ -330,15 +339,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260908-007",
       "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
       "summary": "据报道，三星电子已将其4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
@@ -384,6 +384,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260907-004",
       "title": "中汽协：2026 年 7 月我国汽车整车出口 109.2 万辆，同比增长 57.5%",
       "summary": "中国汽车工业协会数据显示，2026年7月我国汽车整车出口109.2万辆，环比堇2.2%，同比增57.5%，出口金额189.8亿美元；1-7月累计出口639.9万辆，同比增53.7%，出口金额1107.8亿美元，同比增54.9%。",
@@ -411,6 +420,15 @@
       "subCategory": "新能源汽车"
     },
     {
+      "id": "industry-20260911-106",
+      "title": "SEMI：2026年Q2全球半导体设备出货金额405.3亿美元，同比增长23%",
+      "summary": "SEMI报告显示，2026年第二季度全球半导体设备出货金额达405.3亿美元，同比增长23%，环比增长11%，连续第二个季度创历史新高；SEMI预测2026年全年设备销售额将达1659亿美元。",
+      "publishedAt": "2026-09-07",
+      "source": "SEMI",
+      "url": "http://www.199it.com/archives/1850117.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260906-002",
       "title": "国内首款AI辅助创新药艾普司韦获批上市",
       "summary": "西湖大学、西湖实验室与西湖制药联合研发的盐酸伊司特韦片(商品名艾普司韦)获国家药监局附条件批准上市，用于成人轻型、中型新冠病毒感染治疗，是全球首款基于DEL技术获批的小分子创新药，也是国内首款AI辅助研发的原创药，从发现到上市仅用三年半。",
@@ -427,6 +445,24 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-104",
+      "title": "QuestMobile：2026年7月AI办公Agent PC客户端同比增长340.6%，WorkBuddy月活658.2万",
+      "summary": "QuestMobile数据显示，2026年7月AI办公Agent各分发渠道中PC客户端同比增长340.6%，增速领先；WorkBuddy月活用户658.2万居首，人均月使用19次，明显高于QClaw等竞品。",
+      "publishedAt": "2026-09-06",
+      "source": "QuestMobile",
+      "url": "https://www.199it.com/archives/1849967.html",
+      "subCategory": "SaaS"
+    },
+    {
+      "id": "industry-20260911-105",
+      "title": "乘联分会：2026年8月全国乘用车市场零售162.6万辆，同比下降19%，环比增长11%",
+      "summary": "乘联分会数据显示，2026年8月全国乘用车市场零售162.6万辆，同比下降19%，环比增长11%；其中新能源乘用车零售106.9万辆，同比下降4%，渗透率达65.8%，1-8月累计零售1179.9万辆，同比下降20%。",
+      "publishedAt": "2026-09-06",
+      "source": "乘联分会（CPCA）",
+      "url": "https://www.199it.com/archives/1849959.html",
+      "subCategory": "新能源汽车"
     },
     {
       "id": "industry-20260905-001",
@@ -499,6 +535,15 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD211/china-3d-nand-cxmt-xmc-ymtc.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-103",
+      "title": "AI赋能·智创未来 2026年中国智能家居与智能家电AI应用前景展望",
+      "summary": "艾瑞咨询发布报告指出，2024年中国智能家居与智能家电行业规模约8300亿元，同比增长17%，预计2026年行业规模将达9500亿元，报告分析了AI技术对产品策略、竞争格局及市场应用趋势的影响。",
+      "publishedAt": "2026-09-05",
+      "source": "艾瑞咨询",
+      "url": "https://report.iresearch.cn/report/202609/4863.shtml",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260904-101",

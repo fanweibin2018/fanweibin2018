@@ -3,16 +3,16 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-11T09:20:00+08:00",
+  "updatedAt": "2026-09-11T16:49:24+08:00",
   "items": [
     {
-      "id": "finance-20260911-103",
-      "title": "甲骨文第一财季营收同比增30%至193亿美元，云基础设施收入翻倍",
-      "summary": "甲骨文2027财年第一财季营收同比增30%至193亿美元，云业务收入增62%至116亿美元，其中云基础设施(IaaS)收入同比增121%至74亿美元；剩余履约义务(RPO)增至6640亿美元，公司将全年营收指引上调至900亿美元以上。",
-      "publishedAt": "2026-09-11",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15081415.html",
-      "subCategory": "公司财报"
+      "id": "finance-20260911-108",
+      "title": "9月11日央行开展40亿元7天期逆回购操作",
+      "summary": "9月11日，中国人民银行以固定利率、数量招标方式开展40亿元7天期逆回购操作，操作利率1.40%，全额满足一级交易商需求，属于央行公开市场常规流动性管理操作。",
+      "publishedAt": "2026-09-11T10:47:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694471.shtml",
+      "subCategory": "政策利率"
     },
     {
       "id": "finance-20260911-102",
@@ -42,6 +42,33 @@
       "subCategory": "美股"
     },
     {
+      "id": "finance-20260911-106",
+      "title": "A股收评：沪指跌1.18%，深成指跌1.08%，证券、铁矿石、多元金融等概念走弱",
+      "summary": "9月11日A股三大指数集体下跌，上证指数跌1.18%，深证成指跌1.08%，创业板指跌0.49%，北证50跌2.66%，沪深两市成交额约1.97万亿元，较上一交易日增加约3247.51亿元，全市场643只股票上涨、4870只下跌。",
+      "publishedAt": "2026-09-11",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15083952.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260911-107",
+      "title": "恒指全日收跌148點 小米升逾1% MINIMAX挫7.5% 紫金跌6.7%",
+      "summary": "9月11日恒生指数收跌148点，报24805点，跌幅0.6%，成交额228.43亿港元，为连续第五个交易日下跌；小米涨逾1%，紫金矿业跌6.7%，江西铜业跌超9%，市场受美国通胀数据、美联储加息预期及国际油价上涨等因素影响。",
+      "publishedAt": "2026-09-11",
+      "source": "AASTOCKS",
+      "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1544074/latest-news/AAFN",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260911-103",
+      "title": "甲骨文第一财季营收同比增30%至193亿美元，云基础设施收入翻倍",
+      "summary": "甲骨文2027财年第一财季营收同比增30%至193亿美元，云业务收入增62%至116亿美元，其中云基础设施(IaaS)收入同比增121%至74亿美元；剩余履约义务(RPO)增至6640亿美元，公司将全年营收指引上调至900亿美元以上。",
+      "publishedAt": "2026-09-11",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15081415.html",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260910-018",
       "title": "能源价格重新“点火” 美国8月PPI略超预期 加剧市场焦虑情绪",
       "summary": "美国8月生产者价格指数（PPI）环比上涨0.4%，同比上涨5.4%，略高于市场预期的5.3%；能源价格上涨是主要推动因素，其中柴油当月大涨24.1%，而核心PPI环比涨幅为0.2%，显示能源以外的通胀压力相对温和。",
@@ -49,15 +76,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609103870757564.html",
       "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260910-001",
-      "title": "智通港股投资日志|9月10日",
-      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
-      "publishedAt": "2026-09-10",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
-      "subCategory": "港股"
     },
     {
       "id": "finance-20260910-016",
@@ -123,6 +141,15 @@
       "subCategory": "一级市场"
     },
     {
+      "id": "finance-20260911-110",
+      "title": "World shares retreat and oil prices trade above $100 a barrel",
+      "summary": "Brent crude added 0.3% to reach $101.52 a barrel on Thursday after surging past $100 for the first time since July, while global equity markets retreated amid concerns over Strait of Hormuz oil flows and upcoming U.S. inflation data.",
+      "publishedAt": "2026-09-10T08:19:00-04:00",
+      "source": "Associated Press (via WPTF)",
+      "url": "https://www.wptf.com/2026/09/10/before-the-bell-world-shares-retreat-and-oil-prices-trade-above-100-a-barrel/",
+      "subCategory": "大宗商品"
+    },
+    {
       "id": "finance-20260910-011",
       "title": "中银航空租赁订立协议购买及长期租赁12架空客飞机",
       "summary": "中银航空租赁(02588.HK)公告称，公司已就购买12架空客A320NEO飞机与哥伦比亚航空公司订立长期出租协议，该交易被列为合资格飞机租赁活动，公告未披露具体交易金额及交付时间安排。",
@@ -175,6 +202,15 @@
       "source": "Investing.com",
       "url": "https://cn.investing.com/news/stock-market-news/article-3558868",
       "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260910-001",
+      "title": "智通港股投资日志|9月10日",
+      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
+      "publishedAt": "2026-09-10",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260910-012",
@@ -312,24 +348,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260908-001",
-      "title": "智通港股投资日志|9月8日",
-      "summary": "9月8日港股市场动态：江波龙正式挂牌上市，恒大汽车、丽珠医药发布业绩公告，越秀房托、宏安地产等公司召开股东大会，逗月30家公司除净，中国飞鹤、安胳体育、颐海国际等派息；恒生指数当日收跌0.93%，报25413.12点。",
-      "publishedAt": "2026-09-08",
-      "source": "智通财经/英为财情",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3554900",
-      "subCategory": "港股"
-    },
-    {
-      "id": "finance-20260909-003",
-      "title": "龙版传媒：股票交易异常波动，明起停牌核查",
-      "summary": "龙版传媒公告称，公司股畨8月31日至9月7日连续六个交易日涨停，9月8日再涨9.12%，累计涨幅约93.47%，公司称股价明显偏离基本面，已向上交所申请自9月9日开市起停牌核查。",
-      "publishedAt": "2026-09-08",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15070538.html",
-      "subCategory": "风险事件"
-    },
-    {
       "id": "finance-20260909-001",
       "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
       "summary": "物理AI企业深度智控完成数亿元B+轮融资，宁德时代领投，沙特阿美战投等机构跟投，公司自研PhyAI物理AI引擎已从技术验证转向规模化商业落地，服务全球数百家头部企业客户，并将应用场景从工业领域延伸至算力基础设施的液冷控制与算网协同管理。",
@@ -402,6 +420,24 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260908-001",
+      "title": "智通港股投资日志|9月8日",
+      "summary": "9月8日港股市场动态：江波龙正式挂牌上市，恒大汽车、丽珠医药发布业绩公告，越秀房托、宏安地产等公司召开股东大会，逗月30家公司除净，中国飞鹤、安胳体育、颐海国际等派息；恒生指数当日收跌0.93%，报25413.12点。",
+      "publishedAt": "2026-09-08",
+      "source": "智通财经/英为财情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3554900",
+      "subCategory": "港股"
+    },
+    {
+      "id": "finance-20260909-003",
+      "title": "龙版传媒：股票交易异常波动，明起停牌核查",
+      "summary": "龙版传媒公告称，公司股畨8月31日至9月7日连续六个交易日涨停，9月8日再涨9.12%，累计涨幅约93.47%，公司称股价明显偏离基本面，已向上交所申请自9月9日开市起停牌核查。",
+      "publishedAt": "2026-09-08",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15070538.html",
+      "subCategory": "风险事件"
+    },
+    {
       "id": "finance-20260907-010",
       "title": "中金公司：吸收合并东兴证券和信达证券已获证监会批复，9月15日起停牌",
       "summary": "中金公司公告，其以发行A股股票换股方式吸收合并东兴证券和信达证券的方案已获中国证监会批准，本次合并新增发行31.04亿股，东方资产、信达资产将分别取得6.37亿股、13.29亿股，占发行后股份总数8.03%、16.76%，公司股票自9月15日起停牌推进重组。",
@@ -447,24 +483,6 @@
       "subCategory": "宏观经济"
     },
     {
-      "id": "finance-20260907-006",
-      "title": "A股三大指数走势分化 创业板指涨超 3% CPO 概念股爆发",
-      "summary": "9月7日A股三大指数走势分化，沪指涨0.07%报3932.70点，深证成指涨1.91%，创业板指涨3.41%报3398.68点，沪深京三市成交额1.96万亿元，较上一交易日缩量868亿元；通信设备板块净流入201.3亿元，CPO概念股集体走强，证券板块净流出22.17亿元。",
-      "publishedAt": "2026-09-07",
-      "source": "东方财富网",
-      "url": "https://finance.eastmoney.com/a/202609073866639128.html",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260907-009",
-      "title": "智通港股投资日志｜9月7日",
-      "summary": "9月7日港股市场动态：麦科田正式上市首日涨4.54%，优地机器人进行定价；当斐10家上市公司召开股东大会，逗 20家公司公布分红除净安排；港湾数字发生股本增发除权；恒生指数收跌1.08%，折 25374.50点。",
-      "publishedAt": "2026-09-07",
-      "source": "智通财经/英为财情",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553838",
-      "subCategory": "港股"
-    },
-    {
       "id": "finance-20260907-008",
       "title": "摩尔线程早盘触及 20cm 跌停，创上市以来新低",
       "summary": "算力芯片股摩尔线程9月7日早盘触及20%跌停板，创上市以来新低，公司总市值跌破2000亿元。",
@@ -490,6 +508,24 @@
       "source": "智通财经/英为财情",
       "url": "https://cn.investing.com/news/stock-market-news/article-3553872",
       "subCategory": "大宗商品"
+    },
+    {
+      "id": "finance-20260907-006",
+      "title": "A股三大指数走势分化 创业板指涨超 3% CPO 概念股爆发",
+      "summary": "9月7日A股三大指数走势分化，沪指涨0.07%报3932.70点，深证成指涨1.91%，创业板指涨3.41%报3398.68点，沪深京三市成交额1.96万亿元，较上一交易日缩量868亿元；通信设备板块净流入201.3亿元，CPO概念股集体走强，证券板块净流出22.17亿元。",
+      "publishedAt": "2026-09-07",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609073866639128.html",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260907-009",
+      "title": "智通港股投资日志｜9月7日",
+      "summary": "9月7日港股市场动态：麦科田正式上市首日涨4.54%，优地机器人进行定价；当斐10家上市公司召开股东大会，逗 20家公司公布分红除净安排；港湾数字发生股本增发除权；恒生指数收跌1.08%，折 25374.50点。",
+      "publishedAt": "2026-09-07",
+      "source": "智通财经/英为财情",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553838",
+      "subCategory": "港股"
     },
     {
       "id": "finance-20260906-108",
@@ -627,33 +663,6 @@
       "subCategory": "风险事件"
     },
     {
-      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戼2566七97点 高水16点",
-      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抖25667点，较上一交易日戸13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
-      "subCategory": "港股",
-      "id": "finance-20260905-102"
-    },
-    {
-      "id": "finance-20260905-205",
-      "title": "恒指牛熊街货比(47:53)｜9月5日",
-      "summary": "9月5日恒生指数牛熊证街货比抗 47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
-      "subCategory": "港股"
-    },
-    {
-      "title": "智通ADR统计 | 9月5日",
-      "summary": "智通财经数据显示，9月5日盘前，恒生指数ADR扑25753.80点，较香港收市上涨0.40%；汇丰控股ADR抗167.948港元，较收市涨0.75%；腾讯控股ADR抗438.609港元，较收市跌0.95%。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553461",
-      "subCategory": "港股",
-      "id": "finance-20260905-101"
-    },
-    {
       "id": "finance-20260905-007",
       "title": "非农爆了！9月加息预期升温 特朗普喇话：降息！降息！美联储必须\"聪明\"起来",
       "summary": "美国8月非农新增就业16.2万人，远超预期的5.6万人，市场对9月加息预期升温，美股三大指数收跌，道指跌0.51%，纳指跌0.29%；特朗普喇话美联储降息，称高利率使美国处于不公平竞争劣势。",
@@ -699,30 +708,21 @@
       "subCategory": "美股"
     },
     {
-      "id": "finance-20260904-015",
-      "title": "非農「爆表」引發大跳水！黃金急跌超110美元、白銀失守65美元，下一站在哪裡？",
-      "summary": "美国8月非农数据大超预期，推升美债收益率与美元走强，现货黄金短线急跌超110美元至4365.4美元/盎司，现货白银跌碍 65美元至64.724美元，市场加息预期回升至50%附近。",
-      "publishedAt": "2026-09-04T23:10:00+08:00",
-      "source": "FX168（Investing.com香港）",
-      "url": "https://hk.investing.com/news/commodities-news/article-1643837",
-      "subCategory": "大宗商品"
+      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戼2566七97点 高水16点",
+      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抖25667点，较上一交易日戸13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经/Investing.com",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
+      "subCategory": "港股",
+      "id": "finance-20260905-102"
     },
     {
-      "id": "finance-20260905-002",
-      "title": "兴业科技被证监会立案调查，曾涉跨界收购7连涨停",
-      "summary": "兴业科怘9月4日晚公告收到证监会立案告知书，因涉嫌信息披露违规被调查；公司此前因跨界收购磷化铟xiang关资产曾连续7个交易日涨停，目前称经营正常。",
-      "publishedAt": "2026-09-04T22:11:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4173399.html",
-      "subCategory": "风险事件"
-    },
-    {
-      "id": "finance-20260905-006",
-      "title": "港股公告精选｜越秀地产前8月销售额超610亿元 百度被纳入港股通标的",
-      "summary": "越秀地产前8月累计销售612.07亿元，同比降约16.2%；百度集团A类普通股将自2026年9月7日起纳入沪港通标的，成为港股通新增可投资标的。",
-      "publishedAt": "2026-09-04T21:32:00+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2474718",
+      "id": "finance-20260905-205",
+      "title": "恒指牛熊街货比(47:53)｜9月5日",
+      "summary": "9月5日恒生指数牛熊证街货比抗 47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
+      "publishedAt": "2026-09-05",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
       "subCategory": "港股"
     }
   ]
