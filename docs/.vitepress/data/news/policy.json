@@ -321,6 +321,42 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260908-005",
+      "title": "Chancellor takes axe to delays holding back growth",
+      "summary": "英国财政大臣希利宣布一揽子监管改革措施，包括简化重大基建项目的司法复核程序、推出监管沙盒允许配送机器人等新技术在可控环境中测试，并要求各部门减少公众咨询以加快审批决策。",
+      "publishedAt": "2026-09-07",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260908-002",
+      "title": "Labor Day, 2026",
+      "summary": "美国总统特朗普签署2026年劳动节公告，肯定美国工人贡献，提及已签署《工作家庭减税法案》并设永久性20%小企业税收减免，提议对H-1B签证申请征收新费用以鼓励雇用美国工人，并称制造业已连续六个月扩张。",
+      "publishedAt": "2026-09-07",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260908-003",
+      "title": "证监会主席吴清会见沙特投资部助理大臣穆巴拉克",
+      "summary": "中国证监会主席吴清9月7日在北京会见沙特投资部助理大臣穆巴拉克，双方就加强中沙资本市场合作、促进双向投资交换意见，简讯未透露具体协议或后续合作安排细节。",
+      "publishedAt": "2026-09-07",
+      "source": "界面新闻（证监会）",
+      "url": "https://www.jiemian.com/article/15065464.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260908-004",
+      "title": "证监会主席吴清会见阿曼金融服务管理局执行总裁萨尔米",
+      "summary": "中国证监会主席吴清9月7日在北京会见阿曼金融服务管理局执行总裁萨尔米，双方就加强中阿资本市场合作及中国资本市场改革开放成效交换意见，简讯未披露具体协议内容。",
+      "publishedAt": "2026-09-07",
+      "source": "界面新闻（证监会）",
+      "url": "https://www.jiemian.com/article/15065473.html",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260906-001",
       "title": "Firms freed from 'pen-pushing paperwork' and costly red tape in business reporting overhaul",
       "summary": "英国政府宣布企业报告制度改革，预计每年为企业节省4.5亿英镑成本，另有2.3亿英镑来自取消董事报告要求及扩大审计豁免范围。改革将以数字化沟通取代纸质股东通讯，简化中小企业财务报告要求，并以偿付能力测试取代复杂的可分配利润规则，咨询将于9月7日启动。",
