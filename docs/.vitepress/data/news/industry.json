@@ -3,8 +3,35 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-11T09:20:00+08:00",
+  "updatedAt": "2026-09-11T23:58:00+08:00",
   "items": [
+    {
+      "id": "industry-20260911-203",
+      "title": "Counterpoint：预计2026年折叠屏手机面板出货量同比增长23%，苹果为最大增量来源",
+      "summary": "Counterpoint Research季度报告显示，折叠屏面板出货量在上半年下滑13%后将于2026年全年反弹增长23%，其中大尺寸折叠面板上半年产量激增35%、全年预计增长107%；苹果下半年集中出货，贡献27%的出货量，三星以33%份额保持品牌第一，华为份额降至25%，直板折叠设计将占全年出货81%。",
+      "publishedAt": "2026-09-11T23:12:04+08:00",
+      "source": "IT之家（Counterpoint Research）",
+      "url": "https://www.ithome.com/1/001/469.htm",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260911-202",
+      "title": "ASE to buy AOI, AVI equipment from Machvision for NT$334M",
+      "summary": "日月光（ASE）董事会9月11日核准以新台币3.34亿元向关联公司系统电（Machvision）采购自动光学检测（AOI）及自动视觉检测（AVI）设备，用于支持公司产能扩充需求。",
+      "publishedAt": "2026-09-11T17:52:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911PD236/ase-equipment-machvision-aoi-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-201",
+      "title": "Nvidia expands Australian AI factory push as global demand rises",
+      "summary": "DIGITIMES报道，英伟达正扩大在澳大利亚的AI基础设施合作与布局，以应对全球AI算力需求持续上升，文章称相关合作可能影响未来AI算力建设地点及准入格局。文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-11T12:21:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911PR200/nvidia-demand-australia-infrastructure-capacity.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260911-101",
       "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
@@ -231,15 +258,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260910-005",
-      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
-      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
-      "publishedAt": "2026-09-09",
-      "source": "Gartner",
-      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260909-004",
       "title": "Chinese automakers face globalization test in overseas push",
       "summary": "中国汽车产业正从依赖产能与价格竞争转向以海外市场表现决定成败的新阶段，文章分析中国车企在国际化扩张中面临的品牌建设、渠道运营与本地合规等考验，指出海外市场表现已成为决定车企竞争成败的关键因素。",
@@ -265,6 +283,15 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260908-006",
@@ -330,15 +357,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260908-007",
       "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
       "summary": "据报道，三星电子已将其4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
@@ -382,6 +400,15 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260907-004",

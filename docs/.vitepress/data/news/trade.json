@@ -3,8 +3,35 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-11T09:20:00+08:00",
+  "updatedAt": "2026-09-11T23:58:00+08:00",
   "items": [
+    {
+      "id": "trade-20260911-201",
+      "title": "9月15日生效 Shopee泰国优选店铺强绑快速配送",
+      "summary": "Shopee泰国站规定自9月15日起，曼谷及周边省份的优选卖家须开通Express Delivery服务方可保留或获得优选店铺标识，该服务经由ShopeeFood及SPX Express配送，要求正午前付款订单当日交接，月度取消率超15%将被取消资质。",
+      "publishedAt": "2026-09-11T17:49:20+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209834815344",
+      "subCategory": "平台政策"
+    },
+    {
+      "id": "trade-20260911-203",
+      "title": "24%超越17% TikTok首次登顶巴西社交购物，Instagram让出头把交椅",
+      "summary": "据CNDL、SPC Brasil与Offerwise Pesquisas联合调查，过去半年内在社交媒体直接完成购买的巴西消费者中，24%选择TikTok，首次超过Instagram的17%和YouTube的12%；巴西约1.39亿网购用户中近半数曾通过社交媒体完成交易。",
+      "publishedAt": "2026-09-11T17:40:35+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209834595342",
+      "subCategory": "新兴市场"
+    },
+    {
+      "id": "trade-20260911-202",
+      "title": "欧盟拟10月6日推《欧洲产品法》 剑指Temu、Shein等低价值电商非法商品",
+      "summary": "据泄露文件，欧盟委员会计划10月6日公布新法规《欧洲产品法》，旨在弥补执法漏洞，遏制Temu、Shein等平台低价值跨境电商产品中的违规商品流入欧盟市场，拟强化在线平台责任并要求欧盟境内经营者承担合规法律责任。",
+      "publishedAt": "2026-09-11T17:38:59+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209834554653",
+      "subCategory": "关税法规"
+    },
     {
       "id": "trade-20260911-103",
       "title": "SHEIN半托管模式上线波兰站 可与其它欧盟站点共用库存",
@@ -697,33 +724,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/209678730802",
       "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-003",
-      "title": "无需VPN、一键迁粉！俄罗斯卖家迎来合规带货新平台",
-      "summary": "俄罗斯电子商务协会AUREC与本土社交平台LOOKY合作，为约1.5万名俄罗斯电商从业者推出合规带货新渠道，支持无需VPN一键迁移海外平台内容与粉丝并附带店铺功能，还提供商品链接嵌入、私信评论及虚拟试穿等工具。",
-      "publishedAt": "2026-09-07T10:21:45+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678595473",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-002",
-      "title": "增长见顶！莫斯科电商市场份额持续下滑，俄下沉市场成为新主战场",
-      "summary": "Kokoc Group数据显示，莫斯科及莫斯科州线上销售额占比由26.1%降至23.4%，Wildberries莫斯科交易占比已降至不足两成，Ozon约三分之一订单来自5万人以下小城镇，俄罗斯电商增长重心正转向下沉市场。",
-      "publishedAt": "2026-09-07T10:18:05+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678503391",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260908-001",
-      "title": "Wildberries、Ozon仓库遇袭，俄罗斯图书行业遗受重创",
-      "summary": "俄罗斯电商平台Wildberries与Ozon的仓库遭无人机襲击，图书库存严重受损，Rosman估计损毁图书12.6万册，Eksmo称最终损失或达2000万册，行业直接经济损失约60亿卢布，各方正探讨增值税减免及库存损失核销等纳困措施。",
-      "publishedAt": "2026-09-07T10:15:33+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678439563",
-      "subCategory": "物流仓储"
     }
   ]
 }
