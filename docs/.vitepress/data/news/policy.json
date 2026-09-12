@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-11T23:58:00+08:00",
+  "updatedAt": "2026-09-12T09:20:00+08:00",
   "items": [
+    {
+      "id": "policy-20260912-001",
+      "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law",
+      "summary": "美国总统特朗普9月11日签署四项国会法案：H.R.2069《制止秘密支出法》扩大联邦交易协议支出透明度；H.R.5366延长灾害个人损失税收减免及野火救济金免税规定；另两项涉及肯塔基州地块契约限制解除及紧急医疗服务纪念设施授权延期。",
+      "publishedAt": "2026-09-11T15:11:44-04:00",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260912-002",
+      "title": "English Whisky raises a glass to new protected status",
+      "summary": "英国环境食品和农村事务部9月11日宣布，英国威士忌行会申请的“英格兰威士忌”获地理标志保护地位，需符合税务海关总署烈酒核验制度。当地已有超70家酒厂，高于2023年的46家，产品出口30多国，熟成库存价值约10亿英镑。",
+      "publishedAt": "2026-09-11T17:28:41+01:00",
+      "source": "GOV.UK（Defra）",
+      "url": "https://www.gov.uk/government/news/english-whisky-raises-a-glass-to-new-protected-status",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20260911-001",
       "title": "国家发改委：9月11日国内汽、柴油（标准品）价格每吨调控后实际上调260元、250元",
@@ -706,24 +724,6 @@
       "source": "美国证券交易委员会（SEC）",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity",
       "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260831-950",
-      "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
-      "summary": "欧盟委员会宣布依据《数字服务法》将ChatGPT认定为超大型在线搜索引擎，Reddit和Roblox认定为超大型在线平台，三者月活跃用户均超4500万，需在四个月内履行系统性风险评估等额外合规义务。",
-      "publishedAt": "2026-08-31",
-      "source": "欧盟委员会",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260901-004",
-      "title": "国家能源局就供电企业信息公开办法修订稿公开征求意见",
-      "summary": "国家能源局发布通知，就《供电企业信息公开实施办法》修订稿向社会公开征求意见，拟修订2021年发布的相关规定，进一步规范供电企业信息公开工作，保障电力用户知情权、参与权和监督权，意见反馈期为30天。",
-      "publishedAt": "2026-08-31",
-      "source": "国家能源局",
-      "url": "http://www.nea.gov.cn/20260831/c1aa140dcdbe40e481ded09e4e6fda98/c.html",
-      "subCategory": "新能源政策"
     }
   ]
 }

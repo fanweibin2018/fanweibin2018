@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-11T23:58:00+08:00",
+  "updatedAt": "2026-09-12T09:20:00+08:00",
   "items": [
+    {
+      "id": "ai-20260912-001",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "summary": "网商银行上线百灵2.0智能体，服务超4200万小微经营者，可自动处理信贷申请、票据审核与财税相关事务，将原本需数天完成的复杂业务压缩至约10分钟，同时通过多个专项工作台分担风控、人工复核、获客与产品设计等环节，兼顾银行合规要求。",
+      "publishedAt": "2026-09-12T02:02:36+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20260910-016",
       "title": "智谱启动杭州全城 Coding 计划，个人用户购季卡减免 44%、年卡减免 51%",
@@ -715,15 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/647.htm",
       "subCategory": "AI音频"
-    },
-    {
-      "id": "ai-20260905-003",
-      "title": "匿名 AI 模型再现：又一 Alpha 上线 OpenCode，线索指向智谱",
-      "summary": "OpenCode Go 订阅上线匿名模型 Omen Alpha，每月10美元另含100美元额度，支持50万 token 上下文与图文输入，平台数据将其归入智谱，被推测为 GLM 新版本。",
-      "publishedAt": "2026-09-05T07:30:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/641.htm",
-      "subCategory": "大模型"
     }
   ]
 }

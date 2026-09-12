@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-11T23:58:00+08:00",
+  "updatedAt": "2026-09-12T09:20:00+08:00",
   "items": [
+    {
+      "id": "trade-20260912-001",
+      "title": "TikTok首次登顶巴西社交购物平台 以24%占比超越Instagram",
+      "summary": "据CNDL、SPC Brasil与Offerwise Pesquisas联合调查，过去半年内通过社交平台完成购物的巴西消费者中，24%选择TikTok，首次超越Instagram的17%和YouTube的12%，登顶当地社交购物平台，其短视频、直播与店内小店组合模式被认为是转化优势来源。",
+      "publishedAt": "2026-09-12T07:00:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/ebrungo/zb/707026.html",
+      "subCategory": "平台动态"
+    },
+    {
+      "id": "trade-20260912-002",
+      "title": "欧盟拟于10月6日公布《欧洲产品法》 剑指Temu、Shein等平台低价值违规商品",
+      "summary": "据欧洲新闻台获取的泄露草案，欧盟委员会正筹备名为《欧洲产品法》的新立法，计划于10月6日公布，旨在填补执法漏洞，遏制非法及低价值电商进口商品流入欧盟市场，草案未点明中国，但矛头指向Temu、Shein等平台带来的大规模低价值包裹激增问题。",
+      "publishedAt": "2026-09-12T06:59:00+08:00",
+      "source": "亿邦动力",
+      "url": "https://m.ebrun.com/ebrungo/zb/707025.html",
+      "subCategory": "关税法规"
+    },
     {
       "id": "trade-20260911-201",
       "title": "9月15日生效 Shopee泰国优选店铺强绑快速配送",
@@ -705,24 +723,6 @@
       "publishedAt": "2026-09-07T10:44:59+08:00",
       "source": "出海网",
       "url": "https://www.chwang.com/news/209679180514",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-005",
-      "title": "俄卖家注意：Magnit Market9月7日关停下单入口，广告促销同步结束",
-      "summary": "俄罗斯电商平台Magnit Market宣布自2026年9月7日起停止接受新订单，官网、独立App及Magnit主应用内商城板块均无法下单，当日8点起相关广告促销同步终止，已有订单仍将履约，平台称此举为业务转型升级阶段。",
-      "publishedAt": "2026-09-07T10:41:07+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209679083015",
-      "subCategory": "平台动态"
-    },
-    {
-      "id": "trade-20260908-004",
-      "title": "eBay9月卖家更新上线！捐绑折扣新功能，助力提升客单价",
-      "summary": "eBay发布2026年9月卖家更新，新增捐绑折扣工具，支持卖家为单笔订单购买多件商品的买家设置阶梯折扣比例，系统自动在商品详情页、店铺首页及买家账户页面计算折扣金额，旨在鼓励批量购买并提升客单价。",
-      "publishedAt": "2026-09-07T10:27:07+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209678730802",
       "subCategory": "平台动态"
     }
   ]

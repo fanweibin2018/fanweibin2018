@@ -3,8 +3,62 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-11T23:58:00+08:00",
+  "updatedAt": "2026-09-12T09:20:00+08:00",
   "items": [
+    {
+      "id": "finance-20260912-001",
+      "title": "报道：英伟达洽谈在Anthropic IPO中投资高达100亿美元",
+      "summary": "据路透社报道，Anthropic正与英伟达洽谈引入其作为IPO基石投资者，英伟达拟投入最多100亿美元；此次IPO融资规模或达1000亿美元，估值看至2万亿美元，招股说明书预计9月下旬发布，上市时点或落在11月中期选举前。",
+      "publishedAt": "2026-09-12T08:36:56+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781613",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260912-002",
+      "title": "伦巴德：GPIF超配日债或引发全球套息平仓，西班牙国际银行：GPIF或抛售620亿美元美债！",
+      "summary": "伦巴德全球宏观与西班牙国际银行报告指出，日本GPIF国内债券配置已达27%，超出25%基准，西班牙国际银行测算其或减持最多620亿美元美债，伦巴德称美元兑日元或因资金回流承压至130-140区间；日本厚生劳动相证实正研究是否审查GPIF资产配置。",
+      "publishedAt": "2026-09-12T07:15:05+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781612",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260912-003",
+      "title": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
+      "summary": "美国8月核心CPI环比超预期，美联储下周加息概率升至近九成，胡塞武装宣布红海西岸停火缓和风险情绪，国际油价冲高回落，布伦特收跌2.81%至104.61美元/桶，WTI跌2.37%至100.05美元/桶；道指收涨509.19点终结四连跌，标普500涨0.86%，戴尔涨11.98%至567.29美元创历史新高。",
+      "publishedAt": "2026-09-12T07:13:47+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781549",
+      "subCategory": "美股"
+    },
+    {
+      "id": "finance-20260912-004",
+      "title": "Mecka AI估值逼近5亿美元，红杉资本领投新一轮融资",
+      "summary": "机器人数据初创公司Mecka AI正就红杉资本领投的新一轮融资进行洽谈，估值逼近5亿美元，距此前三个月完成的6000万美元A轮融资不久；公司通过传感器与智能手机采集人类动作数据用于训练人形机器人，预计2026年底年化营收达1亿美元。",
+      "publishedAt": "2026-09-12T06:58:17+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260912-005",
+      "title": "沙特称东西输油管道遭伊拉克方向无人机袭击后预防性关闭",
+      "summary": "沙特称多架源自伊拉克的无人机袭击了连接东西部的输油管道，利雅得与麦地那附近地区受损并有人员受伤，管道已预防性关闭；沙特外交部强烈谴责但应伊拉克请求暂缓报复，伊拉克总理下令成立调查委员会并撤换指挥官，海合会秘书长称此为危险升级。",
+      "publishedAt": "2026-09-12T05:30:47+08:00",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
+      "subCategory": "风险事件"
+    },
+    {
+      "id": "finance-20260912-006",
+      "title": "Khosla Ventures将于今秋开设纽约办公室，系Sand Hill Road外首个分支机构",
+      "summary": "风险投资机构Khosla Ventures将于今年秋季在纽约曼哈顿14街设立首个Sand Hill Road以外的办公室，普通合伙人Keith Rabois在TechCrunch StrictlyVC活动上宣布该消息；新办公室将设立高管简报中心，安排被投公司与财富500强企业对接，CBRE数据显示纽约科技人才总数已首次超过旧金山湾区。",
+      "publishedAt": "2026-09-12T05:19:05+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260911-201",
       "title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
@@ -670,60 +724,6 @@
       "source": "券商中国（东方财富网）",
       "url": "https://finance.eastmoney.com/a/202609053865803661.html",
       "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260905-202",
-      "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
-      "summary": "9月5日美股成交额榜单中，美光股价涨6.10%，公司计划年内大幅扩产HBM产能；英伟达涨0.84%，据悉正洽谈向Thinking Machines Lab投资约25亿美元、向Nscale投资约20亿美元；特斯拉、苹果均现下跌。",
-      "publishedAt": "2026-09-05T04:51:00+08:00",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
-      "subCategory": "美股"
-    },
-    {
-      "title": "恒指夜期收盘(9.5)｜恒指夜期(9月)戼2566七97点 高水16点",
-      "summary": "智通财经数据显示，恒生指数9月期货夜盘于9月5日收抖25667点，较上一交易日戸13点，涨幅0.051%，较现货升水16点，持仓量减少15711张至112309张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553463",
-      "subCategory": "港股",
-      "id": "finance-20260905-102"
-    },
-    {
-      "id": "finance-20260905-205",
-      "title": "恒指牛熊街货比(47:53)｜9月5日",
-      "summary": "9月5日恒生指数牛熊证街货比抗 47:53，略偏熊证一方；熊证仓位集中于26200-26299点区间，较上一交易日增加433张，牛证仓位集中区间为24800-24899点，减少350张。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553462",
-      "subCategory": "港股"
-    },
-    {
-      "title": "智通ADR统计 | 9月5日",
-      "summary": "智通财经数据显示，9月5日盘前，恒生指数ADR扑25753.80点，较香港收市上涨0.40%；汇丰控股ADR抗167.948港元，较收市涨0.75%；腾讯控股ADR抗438.609港元，较收市跌0.95%。",
-      "publishedAt": "2026-09-05",
-      "source": "智通财经/Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3553461",
-      "subCategory": "港股",
-      "id": "finance-20260905-101"
-    },
-    {
-      "id": "finance-20260904-015",
-      "title": "非農「爆表」引發大跳水！黃金急跌超110美元、白銀失守65美元，下一站在哪裡？",
-      "summary": "美国8月非农数据大超预期，推升美债收益率与美元走强，现货黄金短线急跌超110美元至4365.4美元/盎司，现货白银跌碍 65美元至64.724美元，市场加息预期回升至50%附近。",
-      "publishedAt": "2026-09-04T23:10:00+08:00",
-      "source": "FX168（Investing.com香港）",
-      "url": "https://hk.investing.com/news/commodities-news/article-1643837",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260905-002",
-      "title": "兴业科技被证监会立案调查，曾涉跨界收购7连涨停",
-      "summary": "兴业科怘9月4日晚公告收到证监会立案告知书，因涉嫌信息披露违规被调查；公司此前因跨界收购磷化铟xiang关资产曾连续7个交易日涨停，目前称经营正常。",
-      "publishedAt": "2026-09-04T22:11:00+08:00",
-      "source": "证券时报",
-      "url": "https://www.stcn.com/article/detail/4173399.html",
-      "subCategory": "风险事件"
     }
   ]
 }
