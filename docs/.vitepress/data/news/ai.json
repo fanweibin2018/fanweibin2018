@@ -724,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/661.htm",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260905-001",
-      "title": "影响你的下一份 AI 账单：消息称 Anthropic 降低外部依赖，评估自建部分计费系统",
-      "summary": "据报道， Anthropic 正评估自建计费系统以降低对 Stripe 等第三方支付服务的依赖，其账单平台团队负责用量计量、定价、开票与异常检测，2026年二季度营收已达115亿美元。",
-      "publishedAt": "2026-09-05T08:08:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/652.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260905-002",
-      "title": "谷歌最强音乐 AI Lyria 3.5 塞进 Gemini：一键生成 3 分钟完整歌曲",
-      "summary": "谷歌宣布音乐生成模型 Lyria 3.5 登陆 Gemini 应用与 API，可生成含主歌副歌桥段的完整歌曲，支持最多10张图片辅助创作，输出音频内置 SynthID 水印。",
-      "publishedAt": "2026-09-05T07:53:05+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/647.htm",
-      "subCategory": "AI音频"
     }
   ]
 }
