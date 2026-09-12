@@ -3,12 +3,66 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-12T09:20:00+08:00",
+  "updatedAt": "2026-09-12T16:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260912-002",
+      "title": "宏碥8月营收新台币301.8亿元，创下同期13年新高",
+      "summary": "宏碥公布2026年8月合并营收新台币301.8亿元，同比增长38.4%，前8个月累计营恣2148.11亿元，同比增长25.1%；个人电脑营收增长40.5%，其中Chromebook营收激增166.3%，商用产品增长60.6%，非电脑及显示器相关业务占比升至35%。",
+      "publishedAt": "2026-09-12T16:30:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/593.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260912-003",
+      "title": "中国银行启动\"一网三融\"算力金融生态共建行动",
+      "summary": "中国银行在2026中国算力大会开幕式上宣布启动\"一网三融\"算力金融生态共建行动，联合电信运营商、保险、资管及金融租赁公司，承诺\"十五五\"期间提供不低于3000亿元综合金融支持，助力逗百个智算中心项目并服务超3000家算力用户企业。",
+      "publishedAt": "2026-09-12T16:15:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3980073056500741",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260912-005",
+      "title": "中国区域科技创新评价报告：上海综合科技创新水平蟬联全国第一",
+      "summary": "中国科学技术发展战略研究院9月11日在浦江创新论坛发布2026年度中国区域科技创新评价报告，全国综合科技创新水平指数为81.13分，同比提高0.93分；上海以91.40分蟬联全国第一，上海、北京、江苏、广东、浙江、天津六地被列为创新领先地区。",
+      "publishedAt": "2026-09-12T16:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3980054413736965",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260912-004",
+      "title": "中国移动总经理陈扬帆：适度超前建强算力基础设施，AIDC总签约规模超7GW",
+      "summary": "中国移动总经理陈扬帆在2026中国算力大会上表示，公司将适度超前建设算力基础设施，AIDC总签约规模超7GW，落地全球首个400G OTN骨干网及全球最大智能互联网络G-SRv6，并布局多个万卡智算中心，构建\"集中化汇聚、边缘化分布、训推一体\"的分布式架构。",
+      "publishedAt": "2026-09-12T15:49:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3164296",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-006",
+      "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
+      "summary": "DIGITIMES报道，AI算力强劲需求正对被动元件行业产能造成挤压，为台湾积层陶瓷电容(MLCC)供应商带来新的商业机遇，文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-12T09:14:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911PD208/mlcc-demand-expansion-ai-server-capacity.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-007",
+      "title": "Murata targets mass production of its AI power substrate next year",
+      "summary": "全球最大积层陶瓷电容制造商村田计划明年启动其历时多年研发的AI芯片电源基板iPaS量产，此举标志该公司业务从传统被动元件制造延伸至面向AI应用的先进半导体基板领域。",
+      "publishedAt": "2026-09-12T09:13:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20260911-203",
       "title": "Counterpoint：预计2026年折叠屏手机面板出货量同比增长23%，苹果为最大增量来源",
-      "summary": "Counterpoint Research季度报告显示，折叠屏面板出货量在上半年下滑13%后将于2026年全年反弹增长23%，其中大尺寸折叠面板上半年产量激增35%、全年预计增长107%；苹果下半年集中出货，贡献27%的出货量，三星以33%份额保持品牌第一，华为份额降至25%，直板折叠设计将占全年出货81%。",
+      "summary": "Counterpoint Research季度报告显示，折叠屏面板出货量在上半年下滑13%后将于2026年全年反弹增长23%，其中大尺寸折叠面板上半年产量激增35%、全年预计增长107%；苹果下半年集中出货，贡献27%的出货量，三星以33%份额保持品牌第一，华为份额降至25%，直板折叠设计将占全年出趄81%。",
       "publishedAt": "2026-09-11T23:12:04+08:00",
       "source": "IT之家（Counterpoint Research）",
       "url": "https://www.ithome.com/1/001/469.htm",
@@ -71,7 +125,7 @@
     {
       "id": "industry-20260910-016",
       "title": "CXMT's HBM3 yield reportedly stalls at 25% as TSV and stacking challenges expose China's AI memory gap",
-      "summary": "中国长锵存储（CXMT）已启动HBM3存储芯片试产，但面临重大制造挑战，初期良率维持在约25%左右，反映其从传统DRAM生产转向高性能AI存储器过程中，在硅通孔（TSV）及堆叠工艺方面存在明显技术差距。",
+      "summary": "中国长锤存储（CXMT）已启动HBM3存储芯片试产，但面临重大制造挑战，初期良率维持在约25%左右，反映其从传统DRAM生产转向高性能AI存储器过程中，在硅通孔（TSV）及堆叠工艺方面存在明显技术差距。",
       "publishedAt": "2026-09-10T12:14:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260909VL232/cxmt-tsv-hbm3-dram-yield-rate.html",
@@ -98,7 +152,7 @@
     {
       "id": "industry-20260910-011",
       "title": "Europe and US IDM grid-to-core push challenges Taiwan power modules",
-      "summary": "DIGITIMES报道，随着数据中心电源系统转向800V高压直流（HVDC）及更密集的DC-DC架构，欧美IDM厂商加码从电网到芯片的电源方案，对台湾电源模组供应商构成竞争压力。",
+      "summary": "DIGITIMES报道，随着数据中心电源系统转向800V高压直流（HVDC）及更密集的DC-DC架构，欧美 IDM厂商加码从电网到芯片的电源方案，对台湾电源模组供应商构成竞争压力。",
       "publishedAt": "2026-09-10T09:54:30+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260910PD207/taiwan-power-supply-demand-2026.html",
@@ -124,8 +178,8 @@
     },
     {
       "id": "industry-20260910-007",
-      "title": "第七批国家组织医用耗材集采今天开标 共纳入23个品种",
-      "summary": "第七批国家组织医用耗材集中采购9月10日在天津开标，共纳入23个品种，聚焦胃肠息肉切除、胆胰介入等消化介入类耗材，采购周期约三年，规则兼顾临床多样性需求与产业可持续发展，防止恶性竞争。",
+      "title": "第七批国家组织医用耗材集采今天开标 共纳入 23个品种",
+      "summary": "第七批国家组织医用耗材集中采购9月10日在天津开标，共纳入 23个品种，聚焦胃肠息肉切除、胆胰介入等消化介入类耗材，采购周期约三年，规则兼顾临床多样性需求与产业可持续发展，防止恶性竞争。",
       "publishedAt": "2026-09-10T07:19:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4178975.html",
@@ -134,7 +188,7 @@
     {
       "id": "industry-20260910-008",
       "title": "从价格战到技术战 锂电隔膜产业迎结构性洗牌",
-      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、琴泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
+      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、琪泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
       "publishedAt": "2026-09-10T06:52:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4178886.html",
@@ -142,8 +196,8 @@
     },
     {
       "id": "industry-20260910-006",
-      "title": "海底捞股价大幅跳水 控股股东减持",
-      "summary": "9月9日海底捞股价盘中一度重挖超12%，收跌9.14%报10.34港元；此前控股股东SP NP Ltd.以每股10.62港元大宗交易减持2.59亿股，约占已发行股份4.65%，套现约27.51亿港元，公司称与经营业绩无关。",
+      "title": "海底捐股价大幅跳水 控股股东减持",
+      "summary": "9月9日海底捐股价盘中一度重挖超12%，收跌9.14%报10.34港元；此前控股股东SP NP Ltd.以每股10.62港元大宗交易减持2.59亿股，约占已发行股份4.65%，套现约27.51亿港元，公司称与经营业绩无关。",
       "publishedAt": "2026-09-09T21:36:00+08:00",
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4178789.html",
@@ -151,8 +205,8 @@
     },
     {
       "id": "industry-20260909-010",
-      "title": "问界汽车：全新一代 M9 连续 3 个月蟵联 50 万以上销量 TOP1",
-      "summary": "问界汽车宣布全新一代M9连续3个月蟵联50万以上销量TOP1，该车型还获得2026年度上半年新能源保值率和用户净推荐值双料第一，新一代M9将搭载华为途灵龙行平台和800V主动悬架系统，提供“人车共舞”等创新功能。",
+      "title": "问界汽车：全新一代 M9 连续 3 个月蟬联 50 万以上销量 TOP1",
+      "summary": "问界汽车宣布全新一代M9连续3个月蟬联 50万以上销量TOP1，该车型还获得2026年度上半年新能源保值率和用户净推荐值双料第一，新一代M9将搭载华为途灵龙行平台和800V主动悬架系统，提供“人车共舞”等创新功能。",
       "publishedAt": "2026-09-09T21:16:48+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/448.htm",
@@ -160,8 +214,8 @@
     },
     {
       "id": "industry-20260909-011",
-      "title": "零跑汽车：零跑 A10 八月销量突破 3 万台，蟵联全品类 SUV 销量冠军",
-      "summary": "零跑汽车宣布其A10车型八月销量突破3万台，蟵联全品类SUV销量冠军，该月零跑全球交付量达103129辆，同比增长80.7%，单月交付再次突破10万大关，A10定位小型SUV，起价6.58万元，搭载双芯组合和激光雷达等智能驾驶硬件配置。",
+      "title": "零跑汽车：零跑 A10 八月销量突破 3 万台，蟬联全品类 SUV 销量冠军",
+      "summary": "零跑汽车宣布其A10车型八月销量突破3万台，蟬联全品类SUV销量冠军，该月零跑全球交付量达103129辆，同比增长80.7%，单月交付再次突破10万大关，A10定位小型SUV，起价6.58万元，搭载双芯组合和激光雷达等智能驾驶硬件配置。",
       "publishedAt": "2026-09-09T20:48:27+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/437.htm",
@@ -170,7 +224,7 @@
     {
       "id": "industry-20260909-008",
       "title": "深科技：子公司拟总投资18.5亿元扩大高端存储芯片封测产能",
-      "summary": "深科技全资子公司沛顿科技计划投资18.5亿元扩充高端存储芯片产能，其中12.2亿元用于新建厂房，预计可承载传统封测9万片/月及2.5D先进封装1万片/月；另外6.3亿元建设先进封装研发线，预计增加2.5D/3DS产能各100片/月，项目旨在把握AI产业发展机遇并突破产能瓶颈。",
+      "summary": "深科技全资子公司沩顿科技计划投资18.5亿元扩充高端存储芯片产能，其中12.2亿元用于新建厂房，预计可承载传统封测9万片/月及2.5D先进封装1万片/月；另外6.3亿元建设先进封装研发线，预计增加2.5D/3DS产能各100片/月，项目旨在把握AI产业发展机遇并突破产能瓶颈。",
       "publishedAt": "2026-09-09T19:26:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3976088345637385",
@@ -178,7 +232,7 @@
     },
     {
       "id": "industry-20260910-004",
-      "title": "熧原科戀9月11日科创板上市，发行价142.18元/股",
+      "title": "熧原科戰9月11日科创板上市，发行价142.18元/股",
       "summary": "熧原科技公告将于9月11日在上交所科创板上市，发行价142.18元/股，发行4303.52万股，预计募资约61.16亿元；网上申购倍数达6109.34倍，公司预计1-9月营收同比增长325.78%至455.36%。",
       "publishedAt": "2026-09-09T19:19:00+08:00",
       "source": "新浪财经",
@@ -197,7 +251,7 @@
     {
       "id": "industry-20260909-009",
       "title": "半年度营收首破百亿 石头科技海外收入60.73亿撑起六成盘子",
-      "summary": "石头科戀2026年上半年营收达到100.84亿元，同比增长27.6%，实现半年度营收首次突破百亿的里程碑，境外收入60.73亿元占总营收约六成；剔除关税退税一次性收益后，海外家电需求、渠道下沉及自建售后体系成为企业增长的核心驱动力。",
+      "summary": "石头科技2026年上半年营收达到100.84亿元，同比增长27.6%，实现半年度营收首次突破百亿的里程碑，境外收入60.73亿元占总营收约六成；剔除关税退税一次性收益后，海外家电需求、渠道下沉及自建售后体系成为企业增长的核心驱动力。",
       "publishedAt": "2026-09-09T17:35:30+08:00",
       "source": "出海网",
       "url": "https://www.chwang.com/news/209761988719",
@@ -277,7 +331,7 @@
     },
     {
       "id": "industry-20260909-002",
-      "title": "观察：箭制反催中国造芯热　华为麦靖重生、小米接力陪跑",
+      "title": "观察：箭制反催中国造芯热　华为麦靖重生、小米接力陀跑",
       "summary": "DIGITIMES观察文章分析，美方对华半导体限制反而催化中国自主造芯进程，华为麦靖处理器系列重现活力，小米等厂商相继跟进参与国产芯片自研浪潮，文章从地缘政治压力角度探讨中国半导体产业自主发展路径。",
       "publishedAt": "2026-09-09T02:20:00+08:00",
       "source": "DIGITIMES",
@@ -296,7 +350,7 @@
     {
       "id": "industry-20260908-006",
       "title": "CXMT sees tight DRAM supply through 2H26, accelerates server memory and China-made tool validation",
-      "summary": "中国存储芯片厂商长锵存储（CXMT）预计2026年下半年全球内存供应将持续紧张，AI驱动需求支撑价格走势，公司同步推进产能扩张、制程升级，并加快服务器内存及国产设备验证进度。",
+      "summary": "中国存储芯片厂商长锤存储（CXMT）预计2026年下半年全球内存供应将持续紧张，AI驱动需求支撑价格走势，公司同步推进产能扩张、制程升级，并加快服务器内存及国产设备验证进度。",
       "publishedAt": "2026-09-08T15:01:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260908VL204/cxmt-dram-demand-capacity-2026.html",
@@ -314,7 +368,7 @@
     {
       "id": "industry-20260908-008",
       "title": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks — TSMC alone sets a timeline",
-      "summary": "ASML于9月8日与英特尔代工、台积电及三星电子联合发布声明，三家先进制程芯片厂商将从沿用数十年的6英寸光罩转向12英寸规格以适配High NA设备，其中台积电已公开设定导入时间表。",
+      "summary": "ASML于9月8日与英特尔代工、台积电及三星电子联合发布声明，三家先进制程芯片厂商将从沿用数十年的6英寸光罩转向 12英寸规格以适配High NA设备，其中台积电已公开设定导入时间表。",
       "publishedAt": "2026-09-08T14:16:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html",
@@ -323,7 +377,7 @@
     {
       "id": "industry-20260908-012",
       "title": "Xiaomi debuts Xiaomi 18 Fold and mid-to-high-end lineup to defend 100M shipment target amid rising memory costs",
-      "summary": "小米于9月7日晚发布新款横向折叠旗舰小米18 Fold，并推出中高端产品线，以应对内存成本上升带来的压力，力图维持全年出货量破亿的目标。",
+      "summary": "小米于9月7日晚发布新款横向折叠旗舰小米 18 Fold，并推出中高端产品线，以应对内存成本上升带来的压力，力图维持全年出货量破亿的目标。",
       "publishedAt": "2026-09-08T14:07:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260908PD209/xiaomi-foldable-smartphone-shipments-market.html",
@@ -359,7 +413,7 @@
     {
       "id": "industry-20260908-007",
       "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
-      "summary": "据报道，三星电子已将其4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
+      "summary": "据报道，三星电子已将其 4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
       "publishedAt": "2026-09-08T11:56:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260908VL205/samsung-hbm4-capacity-4nm-hbm.html",
@@ -449,7 +503,7 @@
     {
       "id": "industry-20260906-001",
       "title": "I-Chiun eyes Nvidia Vera Rubin supply chain as thermal business nears half of sales",
-      "summary": "据DIGITIMES报道，台湾精密件厂一诠精密正加速从LED导线架转向高阶散热方案，散热产品营收占比已达40%-45%，逼近营收半数，董事长周万顺瞬准英伟达Vera Rubin供应链商机。文章正文需付费订阅查看。",
+      "summary": "据DIGITIMES报道，台湾精密件厂一诐精密正加速从LED导线架转向高阶散热方案，散热产品营收占比已达40%-45%，逼近营收半数，董事长周万顺瞬准英伟达Vera Rubin供应链商机。文章正文需付费订阅查看。",
       "publishedAt": "2026-09-06T07:46:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html",
@@ -520,8 +574,8 @@
     },
     {
       "id": "industry-20260905-208",
-      "title": "中国存储产业形成长鑭长江新芯三足鼎立格局",
-      "summary": "分析指出中国存储芯片产业正从单一龙头模式转向三足鼎立：长鑭存储专注DRAM，长江存储深耥 21朋A入，深耥 23D NAND，武汉新芯则聚焦NOR Flash、三维集成及光电子领域。",
+      "title": "中国存储产业形成长锤长江新芯三足鼎立格局",
+      "summary": "分析指出中国存储芯片产业正从单一龙头模式转向三足鼎立：长锤存储专注DRAM，长江存储深耥 21朋A入，深耥 23D NAND，武汉新芯则聚焦NOR Flash、三维集成及光电子领域。",
       "publishedAt": "2026-09-05T07:53:40+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD211/china-3d-nand-cxmt-xmc-ymtc.html",
@@ -611,7 +665,7 @@
     {
       "id": "industry-20260904-012",
       "title": "Trusval Technology eyes NT$23 billion order backlog, US 4Q26 ramp",
-      "summary": "台湾晶圆厂工程服务商创宇工程（Trusval Technology）在26年台湾半导体展表示，受AI与高性能运算需求带动，在手订单达230亿新台币，计勒2026年第四季度启动美国厅区产能爸坡。",
+      "summary": "台湾晶圆厂工程服务商创宇工程（Trusval Technology）在26年台湾半导体展表示，受AI与高性能运算需求带动，在手订单达230亿新台币，计務2026年第四季度启动美国厅区产能爸坡。",
       "publishedAt": "2026-09-04T14:11:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD201/trusval-fab-revenue-semicon-taiwan-2026.html",
@@ -670,42 +724,6 @@
       "url": "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html",
       "subCategory": "半导体产业",
       "id": "industry-20260904-009"
-    },
-    {
-      "id": "industry-20260905-202",
-      "title": "京瓷完成日本长崎伊佐早半导体新厂建设",
-      "summary": "京瓷9月1日举行长崎伊佐早工厂竟工仪式，该基地将聚焦半导体陶瓷与封装产品，总投资额预计到2029年3月达约680亿日元（约4.25亿美元）。",
-      "publishedAt": "2026-09-04T11:51:39+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260904PR203/kyocera-plant-growth-manufacturing-equipment.html",
-      "subCategory": "公司动态"
-    },
-    {
-      "id": "industry-20260905-207",
-      "title": "硝光子与共封装光学测试环节前移重塑供应格局",
-      "summary": "随着硝光子（SiPh）与共封装光学（CPO）迈向量产，供应商反映测试环节正提前至晶圆阶段以把控良率、保护数据完整性，这一转变也推动设备商转向团队式竞标模式。",
-      "publishedAt": "2026-09-04T10:12:47+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260904PD209/cpo-siph-wafer-testing.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "title": "英伟达以129.3亿美元收购Hugging Face，深入AI开发者生态",
-      "summary": "据DIGITIMES报道，英伟达同意以129.3亿美元收购AI开源社区平台Hugging Face，此举使这家AI芯片龙头从硬件层延伸到开发者选择模型的关键环节，覆盖需求变化并对冲客户自研芯片风险。文章正文需付费订阅查看。",
-      "publishedAt": "2026-09-04T08:06:37+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260904VL200/",
-      "subCategory": "公司动态",
-      "id": "industry-20260905-104"
-    },
-    {
-      "title": "南亚科、晶豪科8月营收创新高，受惠合约价格上涨",
-      "summary": "据DIGITIMES报道，存储芯片厂商南亚科技与晶豪科技(ESMT)8月合并营收均创新高，南亚科营收环比增长1.88%，晶豪科环比增长16.51%，主要受第三季度合约价格上涨带动。文章正文需付费订阅查看。",
-      "publishedAt": "2026-09-04T07:54:32+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260903PD204/revenue-esmt-2026-nanya-technology-growth.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260905-105"
     }
   ]
 }
