@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-12T09:20:00+08:00",
+  "updatedAt": "2026-09-12T16:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260912-006",
+      "title": "2027款极氪7X申报图公布，计划2026年四季度上市",
+      "summary": "工信部公示2027款极氪7X申报信息，新车尺寸4825×1930×1666/1656毫米，轴距2925毫米，采用封闭式电动前脸设计，新增85kWh电池选装，电机最大功率370千瓦，最高车速240公里/小时，计划2026年四季度上市。",
+      "publishedAt": "2026-09-12T16:18:45+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/592.htm",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260912-001",
       "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
@@ -715,15 +724,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609073866641930.html",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260907-007",
-      "title": "Omarchy Linux 创始人：微软应推出原生 Linux 版 Office 套件",
-      "summary": "Omarchy Linux创始人David Heinemeier Hansson呼吁微软推出原生Linux版Office套件，称Excel与Word仍是办公软件中的最佳产品，并指出网页版对高级Linux用户仍有约一成体验差距。",
-      "publishedAt": "2026-09-07T08:37:37+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/074.htm",
-      "subCategory": "操作系统"
     }
   ]
 }

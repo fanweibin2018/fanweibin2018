@@ -3,17 +3,8 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-12T09:20:00+08:00",
+  "updatedAt": "2026-09-12T16:50:00+08:00",
   "items": [
-    {
-      "id": "policy-20260912-001",
-      "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law",
-      "summary": "美国总统特朗普9月11日签署四项国会法案：H.R.2069《制止秘密支出法》扩大联邦交易协议支出透明度；H.R.5366延长灾害个人损失税收减免及野火救济金免税规定；另两项涉及肯塔基州地块契约限制解除及紧急医疗服务纪念设施授权延期。",
-      "publishedAt": "2026-09-11T15:11:44-04:00",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
-      "subCategory": "海外政策"
-    },
     {
       "id": "policy-20260912-002",
       "title": "English Whisky raises a glass to new protected status",
@@ -24,6 +15,24 @@
       "subCategory": "产业政策"
     },
     {
+      "id": "policy-20260912-001",
+      "title": "Congressional Bills H.R. 1276, H.R. 2069, H.R. 2196 and H.R. 5366 Signed into Law",
+      "summary": "美国总统特朗普9月11日签署四项国会法案：H.R.2069《制止秘密支出法》扩大联邦交易协议支出透明度；H.R.5366延长灾害个人损失税收减免及野火救济金免税规定；另两项涉及肯塔基州地块契约限制解除及紧急医疗服务纪念设施授权延期。",
+      "publishedAt": "2026-09-11T15:11:44-04:00",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-1276-h-r-2069-h-r-2196-and-h-r-5366-signed-into-law/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260912-003",
+      "title": "王文涛部长会见保加利亚副总理兼经济、投资和工业部部长普列夫",
+      "summary": "商务部长王文涛9月10日会见保加利亚副总理兼经济、投资和工业部部长普列夫，双方就中保经贸合作及中欧经贸关系交换意见，商务部邀请保方参与重要经贸展会，并欢迎保加利亚企业按市场原则赴华投资，双方签署建立中保投资合作工作组的谅解备忘录。",
+      "publishedAt": "2026-09-11T15:06:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_7c58636385de45939b873a230e2a8772.html",
+      "subCategory": "跨境贸易"
+    },
+    {
       "id": "policy-20260911-001",
       "title": "国家发改委：9月11日国内汽、柴油（标准品）价格每吨调控后实际上调260元、250元",
       "summary": "国家发展改革委对国内成品油价格实施临时调控，因美伊冲突升级推高国际油价，按现行机制计算9月11日汽、柴油标准品价格本应每吨上调435元、420元，调控后实际上调260元、250元，下一轮零售调价窗口为9月24日24时。",
@@ -31,6 +40,15 @@
       "source": "财联社（国家发展改革委）",
       "url": "https://finance.eastmoney.com/a/202609113872030764.html",
       "subCategory": "产业政策"
+    },
+    {
+      "id": "policy-20260912-004",
+      "title": "中国与塞舌尔签署《关于共同发展经济伙伴关系协定早期收获的安排》",
+      "summary": "商务部与塞舌尔财政部长9月10日签署早期收获安排，中方将对塞方100%税目产品实施零关税，塞方同步扩大对华产品市场开放；该安排落实中非合作论坛北京峰会共识，为后续中非零关税安排提供参照。",
+      "publishedAt": "2026-09-11T14:56:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_63d10f226ffb4b15abf9a9afdcd2a329.html",
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260910-101",
@@ -706,24 +724,6 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/gn/2026/08-31/10687085.shtml",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260901-003",
-      "title": "白宫备忘录要求联邦机构扩大Login.gov统一登录使用",
-      "summary": "美国行政管理和预算局发布M-26-18号备忘录，要求联邦机构扩大使用Login.gov作为面向公众服务的统一身份认证平台，旨在减少居民重复注册、提升数字政务安全与信任，并降低各机构自建身份验证系统的成本。",
-      "publishedAt": "2026-08-31",
-      "source": "白宫（OMB）",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-delivering-a-universal-sign-on-for-public-services/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260902-803",
-      "title": "美国证监会与食品药品监督管理局签署合作谅解备忘录",
-      "summary": "美国证监会与美国食品药品监督管理局8月31日宣布签署为期三年的谅解备忘录，建立信息共享机制加强跨机构协作，证监会可利用FDA提供的非公开信息核查上市公司信息披露合规情况及开展执法调查。",
-      "publishedAt": "2026-08-31",
-      "source": "美国证券交易委员会（SEC）",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity",
-      "subCategory": "金融监管"
     }
   ]
 }
