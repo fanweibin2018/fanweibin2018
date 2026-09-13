@@ -285,15 +285,6 @@
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260912-011",
-      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
-      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
-      "publishedAt": "2026-09-12T10:14:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260912-012",
       "title": "天龙三号遥二火箭完成总装总测",
       "summary": "天兵科技天龙三号遥二运载火箭完成总装与总测，计划今年第四季度择机复飞，此前遥一火箭因液氧尾焰引发发动机舱起火导致发射失利。",
@@ -380,7 +371,7 @@
       "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
       "publishedAt": "2026-09-12T10:14:00-04:00",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent-2/",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "subCategory": "安全漏洞"
     },
     {
@@ -724,6 +715,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/434.htm",
       "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260909-105",
+      "title": "我国板级封装核心工艺实现关键跨越，华海清科自主研发国内首台全自动板级抛光装备进入量产线",
+      "summary": "华海清科宣布其自主研发的全自动板级CMP量产装备“Master-P510APEX”近日出机，发往先进封装产线投入量产应用，为国内首台进入量产线的板级CMP设备，具备优异的全板面均匀性与平坦化控制能力，标志我国板级封装核心工艺装备实现从研发到应用的重要突破。",
+      "publishedAt": "2026-09-09T20:30:01+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/427.htm",
+      "subCategory": "芯片硬件"
     }
   ]
 }

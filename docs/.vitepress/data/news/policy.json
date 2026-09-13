@@ -393,6 +393,51 @@
       "subCategory": "跨境贸易"
     },
     {
+      "id": "policy-20260909-001",
+      "title": "韩正出席第二十六届中国国际投资贸易洽谈会开幕式并致辞",
+      "summary": "国家副主席韩正9月8日在厦门出席第二十六届中国国际投资贸易洽谈会开幕式并致辞，表示中国将坚定不移扩大高水平对外开放、推动贸易投资自由化便利化，提出深化开放合作、加快创新科技协作、维护全球供应链稳定并反对保护主义三点倡议，联合国贸发会议及沙特、塞尔维亚、柬埔寨、保加利亚、芬兰方代表出席致辞。",
+      "publishedAt": "2026-09-08T18:28:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_1bda2663131c4628b920c42cc1e3fc71.html",
+      "subCategory": "跨境贸易"
+    },
+    {
+      "id": "policy-20260908-005",
+      "title": "Chancellor takes axe to delays holding back growth",
+      "summary": "英国财政大臣希利宣布一揽子监管改革措施，包括简化重大基建项目的司法复核程序、推出监管沙盒允许配送机器人等新技术在可控环境中测试，并要求各部门减少公众咨询以加快审批决策。",
+      "publishedAt": "2026-09-07",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260908-002",
+      "title": "Labor Day, 2026",
+      "summary": "美国总统特朗普签署2026年劳动节公告，肯定美国工人贡献，提及已签署《工作家庭减税法案》并设永久性20%小企业税收减免，提议对H-1B签证申请征收新费用以鼓励雇用美国工人，并称制造业已连续六个月扩张。",
+      "publishedAt": "2026-09-07",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+      "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260908-003",
+      "title": "证监会主席吴清会见沙特投资部助理大臣穆巴拉克",
+      "summary": "中国证监会主席吴清9月7日在北京会见沙特投资部助理大臣穆巴拉克，双方就加强中沙资本市场合作、促进双向投资交换意见，简讯未透露具体协议或后续合作安排细节。",
+      "publishedAt": "2026-09-07",
+      "source": "界面新闻（证监会）",
+      "url": "https://www.jiemian.com/article/15065464.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260908-004",
+      "title": "证监会主席吴清会见阿曼金融服务管理局执行总裁萨尔米",
+      "summary": "中国证监会主席吴清9月7日在北京会见阿曼金融服务管理局执行总裁萨尔米，双方就加强中阿资本市场合作及中国资本市场改革开放成效交换意见，简讯未披露具体协议内容。",
+      "publishedAt": "2026-09-07",
+      "source": "界面新闻（证监会）",
+      "url": "https://www.jiemian.com/article/15065473.html",
+      "subCategory": "金融监管"
+    },
+    {
       "id": "policy-20260907-004",
       "title": "王文涛部长会见芬兰经济事务部长普伊斯托",
       "summary": "商务部部长王文涛9月7日上午会见芬兰经济事务部长普伊斯托，表示中芬双边经贸关系稳步向好，欢迎芬兰担任第二十六届中国国际投资贸易洽谈会主宾国，双方将在清洁能源、循环经济、智能制造等领域深化合作，并就中欧经贸关系稳定交换意见。",
@@ -445,42 +490,6 @@
       "source": "工业和信息化部",
       "url": "https://www.miit.gov.cn/jgsj/txs/wjfb/art/2026/art_f55fe09a1e26411fa6926e5195850990.html",
       "subCategory": "产业政策"
-    },
-    {
-      "id": "policy-20260908-005",
-      "title": "Chancellor takes axe to delays holding back growth",
-      "summary": "英国财政大臣希利宣布一揽子监管改革措施，包括简化重大基建项目的司法复核程序、推出监管沙盒允许配送机器人等新技术在可控环境中测试，并要求各部门减少公众咨询以加快审批决策。",
-      "publishedAt": "2026-09-07",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260908-002",
-      "title": "Labor Day, 2026",
-      "summary": "美国总统特朗普签署2026年劳动节公告，肯定美国工人贡献，提及已签署《工作家庭减税法案》并设永久性20%小企业税收减免，提议对H-1B签证申请征收新费用以鼓励雇用美国工人，并称制造业已连续六个月扩张。",
-      "publishedAt": "2026-09-07",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
-      "subCategory": "海外政策"
-    },
-    {
-      "id": "policy-20260908-003",
-      "title": "证监会主席吴清会见沙特投资部助理大臣穆巴拉克",
-      "summary": "中国证监会主席吴清9月7日在北京会见沙特投资部助理大臣穆巴拉克，双方就加强中沙资本市场合作、促进双向投资交换意见，简讯未透露具体协议或后续合作安排细节。",
-      "publishedAt": "2026-09-07",
-      "source": "界面新闻（证监会）",
-      "url": "https://www.jiemian.com/article/15065464.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260908-004",
-      "title": "证监会主席吴清会见阿曼金融服务管理局执行总裁萨尔米",
-      "summary": "中国证监会主席吴清9月7日在北京会见阿曼金融服务管理局执行总裁萨尔米，双方就加强中阿资本市场合作及中国资本市场改革开放成效交换意见，简讯未披露具体协议内容。",
-      "publishedAt": "2026-09-07",
-      "source": "界面新闻（证监会）",
-      "url": "https://www.jiemian.com/article/15065473.html",
-      "subCategory": "金融监管"
     },
     {
       "id": "policy-20260906-001",
@@ -672,22 +681,13 @@
       "id": "policy-20260905-102"
     },
     {
-      "id": "policy-20260903-006",
-      "title": "中国人民银行行长潘功胜会见国际金融机构负责人和相关国家财长及央行行长",
-      "summary": "在G20财长和央行行长会议期间，中国人民银行行长潘功胜与国际货币基金组织、美国财政部、美联储、欧洲央行、加拿大央行、韩国央行及阿根廷财金部门等八位高级官员分别举行双边会见，就全球经济形势及深化双边金融合作交换意见。",
-      "publishedAt": "2026-09-02T18:07:54+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214474837364/index.html",
-      "subCategory": "金融监管"
-    },
-    {
-      "id": "policy-20260903-001",
-      "title": "潘功胜出席二十国集团财长和央行行长会议",
-      "summary": "中国人民银行行长潘功胜8月31日至9月1日在美国北卡罗来纳州阿什维尔出席二十国集团第二次财长和央行行长会议，围绕全球经济形势、增长促进及主权债务挑战进行讨论，强调贸易摩擦和保护主义正通过供应链扰乱和通胀压力拖累全球经济表现，呼吁坚持多边主义并加强宏观政策协调，同时表示中国经济运行平稳、将继续完善利率体系并扩大国内需求。",
-      "publishedAt": "2026-09-02T18:03:20+08:00",
-      "source": "中国人民银行",
-      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214465859469/index.html",
-      "subCategory": "金融监管"
+      "id": "policy-20260904-001",
+      "title": "商务部服贸司负责人介绍2026年1-7月服务贸易发展情况",
+      "summary": "商务部服务贸易司负责人介绍，2026年1至7月中国服务贸易额达4446.7亿元人民币，同比增长8.3%；其中出口1773.2亿元，同比增长17.1%，进口2673.5亿元，同比增长3.2%，服务贸易逆差同比收窄176.3亿元。旅行和运输服务贡献逾半数出口增长，旅行服务出口增长27.7%，运输服务增长27.1%；知识密集型服务出口占比达53.5%，个人文化娱乐服务及知识产权使用费出口分别增长57.8%和42.1%。",
+      "publishedAt": "2026-09-03T17:25:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_5c319d06cbc3478688b14ffc3444ab25.html",
+      "subCategory": "跨境贸易"
     },
     {
       "id": "policy-20260903-005",
@@ -706,6 +706,24 @@
       "source": "The White House",
       "url": "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/",
       "subCategory": "海外政策"
+    },
+    {
+      "id": "policy-20260903-006",
+      "title": "中国人民银行行长潘功胜会见国际金融机构负责人和相关国家财长及央行行长",
+      "summary": "在G20财长和央行行长会议期间，中国人民银行行长潘功胜与国际货币基金组织、美国财政部、美联储、欧洲央行、加拿大央行、韩国央行及阿根廷财金部门等八位高级官员分别举行双边会见，就全球经济形势及深化双边金融合作交换意见。",
+      "publishedAt": "2026-09-02T18:07:54+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214474837364/index.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260903-001",
+      "title": "潘功胜出席二十国集团财长和央行行长会议",
+      "summary": "中国人民银行行长潘功胜8月31日至9月1日在美国北卡罗来纳州阿什维尔出席二十国集团第二次财长和央行行长会议，围绕全球经济形势、增长促进及主权债务挑战进行讨论，强调贸易摩擦和保护主义正通过供应链扰乱和通胀压力拖累全球经济表现，呼吁坚持多边主义并加强宏观政策协调，同时表示中国经济运行平稳、将继续完善利率体系并扩大国内需求。",
+      "publishedAt": "2026-09-02T18:03:20+08:00",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026090214465859469/index.html",
+      "subCategory": "金融监管"
     }
   ]
 }
