@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-13T09:45:00+08:00",
+  "updatedAt": "2026-09-13T16:30:00+08:00",
   "items": [
     {
       "id": "industry-20260913-001",
@@ -51,15 +51,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260913-002",
-      "title": "IDC：2026年第二季度全球打印设备出货量同比下滑7%，墨仓式产品逆势增长",
-      "summary": "IDC报告显示，2026年第二季度全球打印及多功能一体机出货量同比下滑7%至1720万台，市场规模降至81亿美元；墨仓式打印机逆势抢占份额，中国市场因消费需求疲软和企业预算有限持续收缩，地缘政治与经济不确定性使买家采购趋于谨慎。",
-      "publishedAt": "2026-09-12",
-      "source": "IDC（newsbytes.ph转载）",
-      "url": "https://newsbytes.ph/2026/09/12/ink-tank-printers-buck-global-market-downturn-in-q2/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260912-006",
       "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
       "summary": "DIGITIMES报道，AI算力强劲需求正对被动元件行业产能造成挤压，为台湾积层陶瓷电容(MLCC)供应商带来新的商业机遇，文章正文需付费订阅查看。",
@@ -76,6 +67,24 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260913-301",
+      "title": "8月国内车市产销稳步回升",
+      "summary": "中国8月汽车产销分别完成268.4万辆和271.2万辆，环比增长4.3%和4.9%，新能源汽车新车销量占比达60.6%创新高，出口101万辆同比增长65.3%。",
+      "publishedAt": "2026-09-12T00:28:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609123872466342.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260913-002",
+      "title": "IDC：2026年第二季度全球打印设备出货量同比下滑7%，墨仓式产品逆势增长",
+      "summary": "IDC报告显示，2026年第二季度全球打印及多功能一体机出货量同比下滑7%至1720万台，市场规模降至81亿美元；墨仓式打印机逆势抢占份额，中国市场因消费需求疲软和企业预算有限持续收缩，地缘政治与经济不确定性使买家采购趋于谨慎。",
+      "publishedAt": "2026-09-12",
+      "source": "IDC（newsbytes.ph转载）",
+      "url": "https://newsbytes.ph/2026/09/12/ink-tank-printers-buck-global-market-downturn-in-q2/",
+      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260911-203",
@@ -102,6 +111,33 @@
       "publishedAt": "2026-09-11T12:21:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260911PR200/nvidia-demand-australia-infrastructure-capacity.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-101",
+      "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
+      "summary": "中国汽车工业协会数据显示，8月新能源汽车国内销量占比达65.7%，新能源乘用车占乘用车国内销量68%；1-8月汽车产销均完成约2031万辆，同比降3.8%，出口101万辆，同比增65.3%。",
+      "publishedAt": "2026-09-11T08:03:45+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260912-009",
+      "title": "Samsung, SK Hynix eye 2028 High-NA DRAM rollout",
+      "summary": "DIGITIMES援引韩国fnnews报道，SK海力士计划在2028年前将High-NA极紫外光刻技术应用于DRAM量产，并考虑加入12英寸光罩联合开发计划，三星同步推进相关布局，反映存储芯片产能竞赛持续升级。",
+      "publishedAt": "2026-09-11T05:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL220/sk-hynix-high-na-dram-2028-samsung.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-010",
+      "title": "Global IC substrate market to surge 32% to US$19.5 billion in 2026 as Taiwan, Korea lead ABF, BT",
+      "summary": "DIGITIMES报道，受生成式AI、高性能计算及数据中心建设需求拉动，2026年全球IC载板市场规模预计增长32%至195亿美元，台湾与韩国企业在ABF、BT两类载板领域保持领先地位。",
+      "publishedAt": "2026-09-11T05:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD239",
       "subCategory": "半导体产业"
     },
     {
@@ -132,31 +168,13 @@
       "subCategory": "行业研报"
     },
     {
-      "id": "industry-20260911-101",
-      "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
-      "summary": "中国汽车工业协会数据显示，8月新能源汽车国内销量占比达65.7%，新能源乘用车占乘用车国内销量68%；1-8月汽车产销均完成约2031万辆，同比降3.8%，出口101万辆，同比增65.3%。",
-      "publishedAt": "2026-09-11T08:03:45+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260912-009",
-      "title": "Samsung, SK Hynix eye 2028 High-NA DRAM rollout",
-      "summary": "DIGITIMES援引韩国fnnews报道，SK海力士计划在2028年前将High-NA极紫外光刻技术应用于DRAM量产，并考虑加入12英寸光罩联合开发计划，三星同步推进相关布局，反映存储芯片产能竞赛持续升级。",
-      "publishedAt": "2026-09-11T05:56:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260910VL220/sk-hynix-high-na-dram-2028-samsung.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260912-010",
-      "title": "Global IC substrate market to surge 32% to US$19.5 billion in 2026 as Taiwan, Korea lead ABF, BT",
-      "summary": "DIGITIMES报道，受生成式AI、高性能计算及数据中心建设需求拉动，2026年全球IC载板市场规模预计增长32%至195亿美元，台湾与韩国企业在ABF、BT两类载板领域保持领先地位。",
-      "publishedAt": "2026-09-11T05:56:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260910PD239",
-      "subCategory": "半导体产业"
+      "id": "industry-20260913-304",
+      "title": "Counterpoint Puts Q2 VR Shipments Down 18 Percent, With Enterprise and Robotics the Named Exceptions",
+      "summary": "Counterpoint Research数据显示，2026年第二季度全球VR头显出货量同比下降18%、环比下降16%，Meta市场份额降至54%，企业与机器人领域需求相对具有韧性。",
+      "publishedAt": "2026-09-11",
+      "source": "VR.org（引用Counterpoint Research数据）",
+      "url": "https://vr.org/articles/counterpoint-q2-2026-vr-shipments-down-18-enterprise-robotics-2026",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260911-102",
@@ -402,6 +420,33 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260909-004",
+      "title": "Chinese automakers face globalization test in overseas push",
+      "summary": "中国汽车产业正从依赖产能与价格竞争转向以海外市场表现决定成败的新阶段，文章分析中国车企在国际化扩张中面临的品牌建设、渠道运营与本地合规等考验，指出海外市场表现已成为决定车企竞争成败的关键因素。",
+      "publishedAt": "2026-09-09T09:32:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260909PD206/automakers-competition-auto-industry-capacity-expansion-brand.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260909-001",
+      "title": "半导体人才转向产线与技术整合　赴美设厂潮大幅推升外派需求",
+      "summary": "据104人力银行发布的《2026半导体产业人才报告》，2026年半导体产业月均招聘约4.7万人，同比增速超20%，主要受AI相关产能扩张驱动；报告显示产业人才正加速向产线运营与技术整合岗位集中，赴美设厂潮大幅推升企业对外派人才的需求。",
+      "publishedAt": "2026-09-09T02:49:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767777_71882ZVG6BPLUV85B0OZ5",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260909-002",
+      "title": "观察：箭制反催中国造芯热　华为麦靖重生、小米接力陀跑",
+      "summary": "DIGITIMES观察文章分析，美方对华半导体限制反而催化中国自主造芯进程，华为麦靖处理器系列重现活力，小米等厂商相继跟进参与国产芯片自研浪潮，文章从地缘政治压力角度探讨中国半导体产业自主发展路径。",
+      "publishedAt": "2026-09-09T02:20:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260910-005",
       "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
       "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
@@ -438,30 +483,12 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260909-004",
-      "title": "Chinese automakers face globalization test in overseas push",
-      "summary": "中国汽车产业正从依赖产能与价格竞争转向以海外市场表现决定成败的新阶段，文章分析中国车企在国际化扩张中面临的品牌建设、渠道运营与本地合规等考验，指出海外市场表现已成为决定车企竞争成败的关键因素。",
-      "publishedAt": "2026-09-09T09:32:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260909PD206/automakers-competition-auto-industry-capacity-expansion-brand.html",
-      "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260909-001",
-      "title": "半导体人才转向产线与技术整合　赴美设厂潮大幅推升外派需求",
-      "summary": "据104人力银行发布的《2026半导体产业人才报告》，2026年半导体产业月均招聘约4.7万人，同比增速超20%，主要受AI相关产能扩张驱动；报告显示产业人才正加速向产线运营与技术整合岗位集中，赴美设厂潮大幅推升企业对外派人才的需求。",
-      "publishedAt": "2026-09-09T02:49:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767777_71882ZVG6BPLUV85B0OZ5",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260909-002",
-      "title": "观察：箭制反催中国造芯热　华为麦靖重生、小米接力陀跑",
-      "summary": "DIGITIMES观察文章分析，美方对华半导体限制反而催化中国自主造芯进程，华为麦靖处理器系列重现活力，小米等厂商相继跟进参与国产芯片自研浪潮，文章从地缘政治压力角度探讨中国半导体产业自主发展路径。",
-      "publishedAt": "2026-09-09T02:20:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
+      "id": "industry-20260913-302",
+      "title": "事关半导体、人工智能、商业航天 赛迪顾问发布最新研判",
+      "summary": "赛迪顾问围绕太空算力、第四代半导体、人工智能、商业航天、脑机接口等领域发布最新预测，称大模型有望两年内进入产业化窗口期，智能体是位次跃升最快方向。",
+      "publishedAt": "2026-09-08T21:27:00+08:00",
+      "source": "新京报",
+      "url": "https://www.bjnews.com.cn/detail/1788873080129786.html",
       "subCategory": "半导体产业"
     },
     {
@@ -528,15 +555,6 @@
       "subCategory": "制造业"
     },
     {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
-    },
-    {
       "id": "industry-20260908-007",
       "title": "Samsung allocates more than half of 4nm foundry capacity to HBM4",
       "summary": "据报道，三星电子已将其 4纳米代工产能的一半以上分配给第六代高带宽存储器（HBM4）基础裸片生产，以加快向英伟达、博通等主要AI芯片客户的出货节奏。",
@@ -582,6 +600,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260907-004",
       "title": "中汽协：2026 年 7 月我国汽车整车出口 109.2 万辆，同比增长 57.5%",
       "summary": "中国汽车工业协会数据显示，2026年7月我国汽车整车出口109.2万辆，环比堇2.2%，同比增57.5%，出口金额189.8亿美元；1-7月累计出口639.9万辆，同比增53.7%，出口金额1107.8亿美元，同比增54.9%。",
@@ -589,15 +616,6 @@
       "source": "IT之家（中汽协）",
       "url": "https://www.ithome.com/0/999/349.htm",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260913-006",
-      "title": "报告称AI重塑消费零售格局，仅18%消费品企业实现规模化落地",
-      "summary": "报告显示，约75%消费品企业AI应用仍处于试点阶段，仅18%实现规模化部署，零售企业中45%已规模化应用；完成需求价值链AI部署的消费品企业EBIT有望提升220-350个基点，但超53%企业缺乏正式的AI投资回报评估框架。",
-      "publishedAt": "2026-09-07",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1838546.html",
-      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260907-001",
@@ -616,6 +634,15 @@
       "source": "36氪",
       "url": "https://www.36kr.com/newsflashes/3972541010440709",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260913-006",
+      "title": "报告称AI重塑消费零售格局，仅18%消费品企业实现规模化落地",
+      "summary": "报告显示，约75%消费品企业AI应用仍处于试点阶段，仅18%实现规模化部署，零售企业中45%已规模化应用；完成需求价值链AI部署的消费品企业EBIT有望提升220-350个基点，但超53%企业缺乏正式的AI投资回报评估框架。",
+      "publishedAt": "2026-09-07",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1838546.html",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260906-002",
@@ -697,33 +724,6 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260904PD215/micron-construction-capacity-dram-manufacturing-taiwan.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260905-208",
-      "title": "中国存储产业形成长锤长江新芯三足鼎立格局",
-      "summary": "分析指出中国存储芯片产业正从单一龙头模式转向三足鼎立：长锤存储专注DRAM，长江存储深耥 21朋A入，深耥 23D NAND，武汉新芯则聚焦NOR Flash、三维集成及光电子领域。",
-      "publishedAt": "2026-09-05T07:53:40+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260904PD211/china-3d-nand-cxmt-xmc-ymtc.html",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260904-101",
-      "title": "机构：二季度全球半导体设备出货金额同比增长23%，环比增长11%",
-      "summary": "SEMI报告显示，2026年第二季度全球半导体设备出货金额达405.3亿美元，同比增长23%，环比增长11%，为连续第二个季度创纪录，增长主要受AI基础设施建设需求驱动，覆盖亚洲、北美和欧洲地区。",
-      "publishedAt": "2026-09-04T22:47:00+08:00",
-      "source": "东方财富网",
-      "url": "https://wap.eastmoney.com/a/202609043865731769.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260905-004",
-      "title": "港交所前8个月IPO集资额同比增153%",
-      "summary": "港交所数据显示，2026年前8个月港股IPO集资额达3424亿元，同比增长153%；总集资额6513亿元，增长76%；新上市公司106家，同比增长80%，日均成交额2825亿元。",
-      "publishedAt": "2026-09-04T22:01:00+08:00",
-      "source": "中国新闻网",
-      "url": "https://www.chinanews.com.cn/dwq/2026/09-04/10690673.shtml",
-      "subCategory": "行业研报"
     }
   ]
 }

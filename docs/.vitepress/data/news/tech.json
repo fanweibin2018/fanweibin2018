@@ -3,8 +3,116 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-13T09:45:00+08:00",
+  "updatedAt": "2026-09-13T16:30:00+08:00",
   "items": [
+    {
+      "id": "tech-20260913-201",
+      "title": "算力翻倍！AWS第二代Outposts单机柜上市，最高支持2688个vCPU",
+      "summary": "亚马逊云科技发布第二代单机柜Outposts，标准42U机柜最多可容纳2688个虚拟CPU及100TB Amazon EBS存储，较上代vCPU和内存容量翻倍，支持英特尔第四代至强处理器，并集成完整AWS云API与安全策略实现云端应用本地化部署。",
+      "publishedAt": "2026-09-13T16:25:01+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1150/1150769.htm",
+      "subCategory": "云计算"
+    },
+    {
+      "id": "tech-20260913-202",
+      "title": "华为家庭存储适配HarmonyOS系统，新增支持整机备份功能",
+      "summary": "华为家庭存储新增支持鸿蒙系统整机备份功能，要求手机/平板系统不低于6.1.0.125、存储设备版本不低于6.1.0.7、智慧生活APP不低于17.0.4.313，同时支持与鸿蒙NEXT设备无缝备份照片及云空间去重清理。",
+      "publishedAt": "2026-09-13T16:21:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/809.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260913-203",
+      "title": "受内存涨价影响，消息称三星计划下月上调韩国Galaxy S26全系售价",
+      "summary": "据消息，三星拟于10月起上调Galaxy S26系列在韩国的售价，主因是内存芯片成本上涨，S26、S26+及S26 Ultra三款机型统一上调约14.96万韩元（约合746元人民币），业内担忧此举将影响消费者购买意愿。",
+      "publishedAt": "2026-09-13T16:17:18+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/808.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260913-204",
+      "title": "继德国之后，宝马i7纯电旗舰轿车首次在印度投产",
+      "summary": "宝马i7纯电旗舰轿车继德国工厂后，在印度金奈工厂正式投产，2027款i7 50 xDrive在印度售价约1950万卢比（约137.2万元人民币），高性能版M70 xDrive仍为进口车型，本土生产有助规避进口关税提升竞争力。",
+      "publishedAt": "2026-09-13T16:13:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/806.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260913-206",
+      "title": "iPhone 18 Pro系列京东12期免息10/20点大量放货，24期免息10月发货",
+      "summary": "iPhone 18 Pro系列在京东提供两种购买方式：现货享12期免息分期，10月10日发货可选24期免息分期，Pro起售价9999元、Pro Max为10999元，机型搭载2纳米A20 Pro芯片，并升级散热系统与可变光圈镜头。",
+      "publishedAt": "2026-09-13T16:02:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/802.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260913-207",
+      "title": "比亚迪腾势N8L纯电全球首搭\"迪迪虾\"AI超级智能体",
+      "summary": "比亚迪腾势N8L纯电车型将于9月14日全球首发，搭载车载智能体\"迪迪虾\"，并官宣与阿里云、淘宝闪购、高德地图、网易云音乐、支付宝、豆包大模型等多方达成合作，覆盖导航、支付、音乐及智能家居联动等场景。",
+      "publishedAt": "2026-09-13T15:52:58+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/801.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260913-208",
+      "title": "AM4老平台焕发第二春！微星推B550变体主板",
+      "summary": "微星推出全新AM4平台B550 TOMAHAWK WIFI主板，新增Wi-Fi 6E及蓝牙5.3无线连接功能，但相比原版有所减配，SATA接口由6个减至4个，网络接口由双口（2.5GbE+1GbE）缩减为单个2.5GbE接口。",
+      "publishedAt": "2026-09-13T15:48:16+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1150/1150767.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260913-209",
+      "title": "中国移动云发布异构混合推理系统：类脑芯片+国产GPU",
+      "summary": "中国移动云联合多家科研机构发布基于国产GPU与类脑芯片的大模型异构混合推理系统，通过将Transformer模型不同计算任务分配至专用硬件，相比同等规模GPU集群推理输出效率提升超过一倍，运营成本降低40%以上。",
+      "publishedAt": "2026-09-13T15:19:36+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1150/1150764.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260913-210",
+      "title": "引力一号运载火箭预计9月16日进行海上发射",
+      "summary": "据\"海阳发布\"消息，引力一号（遥三）运载火箭已完成总装并从海阳东方航天港出发，计划于9月16日上午搭乘\"东方航天港\"号发射船实施海上发射，这是该商用运载火箭的又一次海上发射任务。",
+      "publishedAt": "2026-09-13T15:03:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3981448140946180",
+      "subCategory": "航空航天"
+    },
+    {
+      "id": "tech-20260913-211",
+      "title": "屏幕直接盖到键盘上！VAIO推出全新T系列翻转本",
+      "summary": "VAIO发布全新T系列翻转本笔记本电脑，采用可将屏幕向后翻折为平板模式或完全覆盖键盘的Multi Flip转轴结构，顶配版搭载英特尔酷睿Ultra X7 358H处理器及Arc B390核显，最高配备64GB内存，起售价约2.12万元人民币。",
+      "publishedAt": "2026-09-13T14:47:39+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1150/1150762.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260913-212",
+      "title": "1999元起 阿迈奇M5迷你主机上市：酷睿3 304处理器、12GB内存",
+      "summary": "阿迈奇M5迷你主机正式上市，搭载英特尔酷睿3 304处理器及12GB LPDDR5内存，无存储版本售价1999元，512GB存储版为2589元，机身尺寸128×128×37毫米、重437克，配备双M.2 PCIe Gen4接口及Wi-Fi 6等多种接口。",
+      "publishedAt": "2026-09-13T14:44:05+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1150/1150761.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260913-213",
+      "title": "现代汽车与Waymo合作，将于今年第四季度交付IONIQ 5机器人出租车",
+      "summary": "现代汽车宣布与美国自动驾驶公司Waymo达成合作，将现代整车制造能力与Waymo的L4级自动驾驶技术结合，特别改装的IONIQ 5车型将作为机器人出租车投入使用，交付工作预计于2026年第四季度启动。",
+      "publishedAt": "2026-09-13T13:35:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3981350239403012",
+      "subCategory": "智能汽车"
+    },
     {
       "id": "tech-20260913-001",
       "title": "唯卓仕推出4款L卡口全画幅镜头，含14mm f/4.0、20mm f/2.8、40mm f/2.5、50mm f/2.0",
@@ -130,6 +238,15 @@
       "source": "快科技",
       "url": "https://news.mydrivers.com/1/1150/1150715.htm",
       "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260913-215",
+      "title": "Revolut确认因虚假政府请求导致客户数据泄露",
+      "summary": "金融科技公司Revolut披露，不法分子通过伪装成政府机构发送虚假邮件请求，获取部分客户敏感信息，泄露内容包括身份证件、联系方式及验证材料，公司未透露受影响用户数量，已通知受影响客户并报告相关监管与执法部门。",
+      "publishedAt": "2026-09-12T22:40:00+08:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260912-011",
@@ -607,123 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/427.htm",
       "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260909-101",
-      "title": "OPPO卓世杰：Find X10 Pro Max手机三颗后摄均支持OpenGate片门全开录像",
-      "summary": "OPPO Find产品线负责人卓世杰介绍，Find X10 Pro Max三颗后置摄像头均支持OpenGate片门全开录像功能，可调用CMOS传感器完整画幅拍摄4:3比例视频，原生支持黑影Blackmagic Camera应用，具备O-Log2调色及杜比视界视频录制能力，为安卓手机首发，并兼容跟焦手柄、哈苏镜头转接环等专业配件。",
-      "publishedAt": "2026-09-09T16:30:24+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/302.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-102",
-      "title": "古尔曼：苹果Apple Watch Series 12/Ultra 4可自动记录用户每日活动并生成摘要",
-      "summary": "据彭博社记者马克·古尔曼透露，苹果新款Apple Watch Series 12与Ultra 4将新增AI功能，可持续采集麦克风、GPS等传感器数据以生成包含对话转录的每日活动摘要，该功能需用户手动开启，摘要保存在全新Siri应用中而非存储音频原始录音，苹果同时强调隐私保护措施。",
-      "publishedAt": "2026-09-09T16:15:52+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/293.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260910-012",
-      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-      "summary": "GitHub发布静态分析工具CodeQL 2.27.0版本，新增对Linux ARM64架构的原生支持，扩展Java/Kotlin的Micronaut框架建模及C#的ASP.NET Core MVC控制器识别能力，并新增Rust命令行注入检测查询。",
-      "publishedAt": "2026-09-09",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260909-006",
-      "title": "谷歌 Chrome 浏览器更新频率调整为两周一次",
-      "summary": "谷歌宣布即日起 Chrome 桌面版、安卓版和 iOS 版更新周期由每月一次调整为每两周一次，以更快向用户和开发者推送改进，企业版 Extended Stable 仍维持双月更新周期。",
-      "publishedAt": "2026-09-08T23:28:58+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/947.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260909-007",
-      "title": "索尼发布首款全画幅鱼眼变焦镜头 8-14mm f/3.5 Fisheye G",
-      "summary": "索尼推出首款全画幅鱼眼变焦镜头 SEL814G，售价 9999 元，机身约 314 克，支持双鱼眼模式，搭配兼容机身最高可实现 120fps 连拍，最近对焦距离 0.15 米，具备防尘防潮设计。",
-      "publishedAt": "2026-09-08T23:03:10+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/944.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-008",
-      "title": "任天堂官宣《塞尔达传说》40 周年纪念版 Switch 2 主机及 Pro 手柄",
-      "summary": "任天堂在直面会上公布《塞尔达传说》40 周年纪念版 Switch 2 主机及 Pro 手柄，纪念版手柄附带展示底座，仅通过任天堂官方商店销售，两款产品均定于 10 月 29 日发售。",
-      "publishedAt": "2026-09-08T22:48:41+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/943.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-013",
-      "title": "吉利银河战舰 700 将于 9 月 15 日开启预售，搭载 AI 四驱越野技术",
-      "summary": "吉利银河战舰 700 将于 9 月 15 日开启预售，配备可支持 80km/h 麋鹿测试的 AI 四驱系统，插电混动最大综合功率达 830 千瓦，CLTC 纯电续航里程为 305 公里。",
-      "publishedAt": "2026-09-08T22:35:14+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/940.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260909-014",
-      "title": "赛睿推出高端 Aeon Pro 无线手柄，售价 259.99 美元",
-      "summary": "赛睿发布高端无线手柄 Aeon Pro，支持 Xbox 与 PC 三模连接，配备可热插拔电池、OLED 屏幕、霍尔效应摇杆及机械按键，并提供专利待批的 QuickSwitch 坞站快速切换功能。",
-      "publishedAt": "2026-09-08T22:28:51+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/938.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-010",
-      "title": "美国商务部依据芯片法案与量子计算公司 D-Wave 达成 1 亿美元协议",
-      "summary": "美国商务部宣布依据芯片法案与量子计算公司 D-Wave 达成 1 亿美元协议，属于美国政府在量子计算领域的投资项目，页面披露的具体条款和用途细节有限。",
-      "publishedAt": "2026-09-08T20:43:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3974742212522243",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260909-011",
-      "title": "量子计算公司 Quantinuum 获美国商务部 1 亿美元研发拨款",
-      "summary": "美国商务部向量子计算公司 Quantinuum 提供 1 亿美元研发拨款，用于支持其在美国本土制造俘获离子量子计算芯片以及配套整机系统。",
-      "publishedAt": "2026-09-08T20:23:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3974710592172549",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260909-012",
-      "title": "波士顿动力关联公司 Dynamic Creatures 发布互动角色机器人平台 SnowJay",
-      "summary": "由前波士顿动力与谷歌高管创立的 Dynamic Creatures 结束隐身状态，作为波士顿动力官方娱乐与酒店业合作伙伴，推出面向主题乐园、酒店等场景的移动互动角色机器人平台 SnowJay。",
-      "publishedAt": "2026-09-08T19:53:00+08:00",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/09/08/3357547/0/en/dynamic-creatures-emerges-from-stealth-to-launch-new-category-of-mobile-interactive-character-robots-for-hospitality-and-entertainment.html",
-      "subCategory": "机器人"
-    },
-    {
-      "id": "tech-20260908-010",
-      "title": "长城推出魅影 M5B 机箱：三面 Mesh 网孔设计、提供便携提手，189 元",
-      "summary": "长城在京东上架魅影M5B机箱，售价189元，采用三面大面积Mesh网孔面板设计并配备便携提手，支持Micro-ATX及ITX主板，最多可安装五个12厘米风扇以满足散热需求。",
-      "publishedAt": "2026-09-08T16:37:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/812.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260908-017",
-      "title": "韩国电池材料企业瞄准人形机器人，开辟电动汽车外新增长赛道",
-      "summary": "以EcoPro为代表的韩国电池材料企业将人形机器人视为电动汽车之外的新增长市场，正研发高镍正极材料及固态电池技术，以满足机器人对更轻、能量密度更高电池的需求，借此在成本优势领域对抗中国竞争对手。",
-      "publishedAt": "2026-09-08T16:26:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/808.htm",
-      "subCategory": "机器人"
     }
   ]
 }
