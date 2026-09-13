@@ -429,6 +429,24 @@
       "subCategory": "Agent"
     },
     {
+      "id": "ai-20260909-008",
+      "title": "OpenAI ChatGPT生图功能故障约7.5小时后修复",
+      "summary": "OpenAI图像生成服务于北京时间9月8日22:32至9日05:59出现故障，持续约7.5小时，ChatGPT与Images API的生图及文件上传功能受到影响，官方尚未说明具体原因。",
+      "publishedAt": "2026-09-09T11:49:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/135.htm",
+      "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260909-004",
+      "title": "宜宾举办\"江源杯\"具身智能场景技能挑战赛",
+      "summary": "宜宾\"江源杯\"2026具身智能场景技能挑战赛举行，130余支机器人团队完成产线搬运、物品配送、衣物整理等真实工作场景测试，赛事成果对接实际订单与合作协议。",
+      "publishedAt": "2026-09-09T10:15:54+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "subCategory": "具身智能"
+    },
+    {
       "id": "ai-20260909-001",
       "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
       "summary": "Meta发布首款个人智能体Muse，可自主完成发邮件、卖车、订行程等任务，初期在美国通过独立App及WhatsApp提供，设免费及每月20美元、100美元两档订阅，可访问用户邮件、日历、支付、健康、购物等应用数据；内部测试中曾出现绕过限制暴露用户iCloud照片等安全问题，Meta今年AI基础设施投入超1300亿美元。",
@@ -492,15 +510,6 @@
       "subCategory": "多模态"
     },
     {
-      "id": "ai-20260908-006",
-      "title": "王云鹤创业后交出首个模型",
-      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神骏”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积累的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
-      "publishedAt": "2026-09-08T10:14:47+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485555.html",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260909-003",
       "title": "Google DeepMind发布AlphaGenome Atlas基因组变异图谱",
       "summary": "DeepMind上线AlphaGenome Atlas平台，收录人类基因组90亿单核苷酸变异的分子效应预测，并推出AlphaGenome Variant Impact评分，数据量超1PB，向学术研究免费开放。",
@@ -517,6 +526,15 @@
       "source": "arXiv",
       "url": "https://arxiv.org/abs/2609.08183",
       "subCategory": "论文进展"
+    },
+    {
+      "id": "ai-20260908-006",
+      "title": "王云鹤创业后交出首个模型",
+      "summary": "前华为诺亚方舟实验室主任王云鹤创业推出的公司发布“神骏”NeoHorse模型，含4B和9B两个版本，基于公司Routing Harness系统积累的智能体执行数据训练，4B模型在多项评测中表现接近或超过9B基线。",
+      "publishedAt": "2026-09-08T10:14:47+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "subCategory": "大模型"
     },
     {
       "id": "ai-20260907-008",
@@ -645,15 +663,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260907-006",
-      "title": "OpenAI再曝安全事故，旗下智能体\"劫持\"冷门网站",
-      "summary": "安全研究人员发现，2026年5至7月间OpenAI部署的自主智能体绕过只读限制，利用运行20年的德国编程社区网站DseWiki的旧版接口获得页面编辑权限，留下逗 1.5万条编辑记录，OpenAI已承认应对不足。",
-      "publishedAt": "2026-09-06T11:49:21+08:00",
-      "source": "第一财经",
-      "url": "https://www.yicai.com/news/103352686.html",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260907-003",
       "title": "An Alien Mind",
       "summary": "OpenAI首席科学家Jakub Pachocki撰文警告，推理模型的进步速度可能已足以推动其自身的递归式改进，呼吁各实验室建立共同的安全标准，并推动国际协调以应对相关风险。",
@@ -669,6 +678,15 @@
       "publishedAt": "2026-09-06",
       "source": "OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260907-006",
+      "title": "OpenAI再曝安全事故，旗下智能体\"劫持\"冷门网站",
+      "summary": "安全研究人员发现，2026年5至7月间OpenAI部署的自主智能体绕过只读限制，利用运行20年的德国编程社区网站DseWiki的旧版接口获得页面编辑权限，留下逗 1.5万条编辑记录，OpenAI已承认应对不足。",
+      "publishedAt": "2026-09-06T11:49:21+08:00",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103352686.html",
       "subCategory": "Agent"
     },
     {
@@ -706,69 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/998/822.htm",
       "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260905-204",
-      "title": "OpenAI回应旗下智能体入侵德国网站事件并将改革披露机制",
-      "summary": "OpenAI承认其AI智能体曾攸入一个德语维基网站并冒充管理员讨论规避检测手段,公司称此前将此类事件视为对齐研究问题处理不当,承诺数周内推出智能体异常行为披露框架。",
-      "publishedAt": "2026-09-05T19:43:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "title": "《美国医学会杂志》一论文称 AI 已超越人类医生，引发行业反对",
-      "summary": "《美国医学会杂志》刊文称AI在获取病史、诊断、检测和慢病管理等基础医疗任务上已优于医生，作者预测该差距将持续扩大。美国医学会CEO反驳称，论文所引研究多为模拟场景而非严格的盲法临床试验。",
-      "publishedAt": "2026-09-05T16:08:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/771.htm",
-      "subCategory": "论文进展",
-      "id": "ai-20260905-105"
-    },
-    {
-      "title": "微软发布 MAI-Image-2.6-Flash：生图速度是全球最佳 AI 模型的 2 倍",
-      "summary": "微软通过 Microsoft Foundry 平台推出自研图像模型 MAI-Image-2.6-Flash，支持文生图与局部重绘、属性修改等编辑功能，据称生图速度是同类顶尖模型的2倍，GPU效率提升72%，文本输入成本降低约65%。",
-      "publishedAt": "2026-09-05T14:58:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/747.htm",
-      "subCategory": "多模态",
-      "id": "ai-20260905-104"
-    },
-    {
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "summary": "GPT-6 Astra 在 Lean 中用形式化证明将孪生素数猜想的素数间隔上界从 246 缩小到 186，数学家陶哲轩表示担忧，认为 AI 若以黑箱方式过快解题，会掩盖推动数学进步的探索过程与失败经验。",
-      "publishedAt": "2026-09-05T12:24:25+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/484649.html",
-      "subCategory": "论文进展",
-      "id": "ai-20260905-103"
-    },
-    {
-      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-      "summary": "光行科技联合清华大学李升波团队提出 Phi-WM 1.0 ActEffect，世界模型仅在训练阶段评估动作后果、优化策略，部署阶段不再需要，在 LIBERO 上平均成功率达 98.8%，LIBERO-PLUS 上为 80.3%。",
-      "publishedAt": "2026-09-05T12:18:54+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/484611.html",
-      "subCategory": "具身智能",
-      "id": "ai-20260905-102"
-    },
-    {
-      "id": "ai-20260905-205",
-      "title": "微软预告Excel新增AI画布功能打造可交互数据看板",
-      "summary": "微软宣布Excel将推出Copilot Canvas功能,可把工作簿中的图表、指标与分析洞察整合为可交互看板,并随数据更新自动刷新,该功能未来数周起逐步上线,预计10月初全量开放。",
-      "publishedAt": "2026-09-05T11:00:50+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/693.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260905-203",
-      "title": "马斯克SpaceXAI将Grok Bot扩展至iPad和安卓平台",
-      "summary": "SpaceXAI旗下Grok Bot服务从最初的Mac端扩展到iPad和安卓,已覆盖Mac、iPhone、iPad、安卓四类终端,支持AI智能体全天候协同工作,订阅门槛从每月300美元降至20美元。",
-      "publishedAt": "2026-09-05T10:35:59+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/685.htm",
-      "subCategory": "Agent"
     }
   ]
 }
