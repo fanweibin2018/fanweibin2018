@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-14T09:00:00+08:00",
+  "updatedAt": "2026-09-14T16:45:00+08:00",
   "items": [
+    {
+      "id": "tech-20260914-008",
+      "title": "大众发布 Mission Efficiency 概念车：创下三项能效纪录，百公里耗电量仅 6.48 千瓦时",
+      "summary": "大众发布Mission Efficiency效率概念电动车，基于ID. Polo同款135马力电机及54.9千瓦时电池打造，通过空气动力学优化而非专用动力总成实现三项能效纪录，理想条件下百公里耗电量仅6.48千瓦时，风阻系数低至0.158，公司已就“量产电动车最高效率”向德国申请纪录认证。",
+      "publishedAt": "2026-09-14T16:31:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/151.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260914-007",
+      "title": "荣耀 Magic9 超能版手机规格曝光：第五代骁龙 8 至尊版处理器，11000mAh 电池",
+      "summary": "荣耀Magic9超能版规格曝光，配备6.81英寸2788×1280分辨率120Hz直屏，搭载第五代骁龙8至尊版（骁龙8E5）处理器，主打11000mAh超大容量青海湖电池并支持80W有线及50W无线充电，后置200MP主摄加12MP超广角及50MP三倍长焦，新机定于9月28日发布。",
+      "publishedAt": "2026-09-14T16:16:43+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/148.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260914-005",
       "title": "苹果新CEO特努斯谈Meta\"变态眼镜\"风波：AI智能设备需要让旁人安心",
@@ -303,15 +321,6 @@
       "subCategory": "安全漏洞"
     },
     {
-      "id": "tech-20260912-011",
-      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
-      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
-      "publishedAt": "2026-09-12T10:14:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260912-012",
       "title": "天龙三号遥二火箭完成总装总测",
       "summary": "天兵科技天龙三号遥二运载火箭完成总装与总测，计划今年第四季度择机复飞，此前遥一火箭因液氧尾焰引发发动机舱起火导致发射失利。",
@@ -391,6 +400,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/001/592.htm",
       "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260912-011",
+      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
+      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
+      "publishedAt": "2026-09-12T10:14:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260912-001",
@@ -705,24 +723,6 @@
       "publishedAt": "2026-09-09T21:30:07+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/451.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-106",
-      "title": "韩国国家超算 6 号机 12 月投运：理论算力是现有 5 号机 24 倍，性能剑指全球前十",
-      "summary": "韩国国家超级计算机6号机将于12月正式启用，配备8496个GPU（包括英伟达GH200）和9936个CPU，理论算力达614PF，较现有5号机性能提升24倍，存储容量达205PB，网络速率不低于400Gbps，预计可跻身全球超算排名前十。",
-      "publishedAt": "2026-09-09T21:14:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/446.htm",
-      "subCategory": "芯片硬件"
-    },
-    {
-      "id": "tech-20260909-103",
-      "title": "支持同时显示三个实时活动，苹果 iPhone 18 Pro 灵动岛新功能演示视频曝光",
-      "summary": "爆料者在iOS 27模拟器中曝光iPhone 18 Pro灵动岛新功能演示视频，该功能可同时切换显示三个实时活动，相比iPhone 17 Pro最多显示两个活动有所升级，底层代码分析显示苹果需将灵动岛硬件尺寸缩小约20%才能实现该软件功能。",
-      "publishedAt": "2026-09-09T21:06:44+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/440.htm",
       "subCategory": "消费电子"
     }
   ]
