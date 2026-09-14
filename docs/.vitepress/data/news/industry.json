@@ -456,6 +456,42 @@
       "subCategory": "新能源汽车"
     },
     {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260912-011",
+      "title": "2026年中国口腔护理产业白皮书",
+      "summary": "艾瑞咨询发布《2026年中国口腔护理产业白皮书》，报告共66页49张图表，围绕中产、富裕及95后等消费群体的认知与购买偏好展开分析，探讨产品定位与行业发展趋势。",
+      "publishedAt": "2026-09-09",
+      "source": "艾瑞咨询",
+      "url": "https://report.iresearch.cn/report/202609/4865.shtml",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260913-005",
+      "title": "清华大学医学院发布\"1311\"儿童青少年近视防控体系白皮书",
+      "summary": "清华大学医学院发布《中国儿童青少年近视防控1311体系白皮书》，聚焦\"近、暗、歪、久、乱\"五类家庭学习场景风险，构建\"一核心三合并一基础一干预\"框架，将家庭学习环境管理、家庭护眼与专业医疗干预整合为可持续管理的近视防控体系。",
+      "publishedAt": "2026-09-09",
+      "source": "199IT（转引清华大学医学院）",
+      "url": "http://www.199it.com/archives/1850554.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260913-007",
+      "title": "Counterpoint：2026年第二季度全球NAND闪存营收环比大增70%",
+      "summary": "Counterpoint Research数据显示，2026年第二季度全球NAND闪存市场营收环比增长70%，主因合约价格环比上涨55%而非出货量增长；三星以28%份额居首，SK海力士19%，美光15%，长江存储14%，同比提升3个百分点，为连续第二个季度实现历史性增长。",
+      "publishedAt": "2026-09-09",
+      "source": "199IT（转引Counterpoint Research）",
+      "url": "https://www.199it.com/archives/1850549.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260909-001",
       "title": "半导体人才转向产线与技术整合　赴美设厂潮大幅推升外派需求",
       "summary": "据104人力银行发布的《2026半导体产业人才报告》，2026年半导体产业月均招聘约4.7万人，同比增速超20%，主要受AI相关产能扩张驱动；报告显示产业人才正加速向产线运营与技术整合岗位集中，赴美设厂潮大幅推升企业对外派人才的需求。",
@@ -472,15 +508,6 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260913-302",
@@ -571,6 +598,42 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260908PD214/panel-tv-price-lcd-tv-panel-capacity.html",
       "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260908-002",
+      "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、改高端商机",
+      "summary": "据DIGITIMES报道，受AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
+      "publishedAt": "2026-09-08T03:00:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767630_LIP7PS2N23UB10190I69Q",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-001",
+      "title": "存储器涨价挤压三星手机HDI 供应链转向半导体PCB卡位",
+      "summary": "据DIGITIMES报道，存储器价格上涨正对下游产生连带影响，韩国及海外PCB厂商产能加速转向利润更高的半导体相关PCB，导致三星电子手机(MX)业务高密度互联板(HDI)供应趋紧，迫使供应链重新调整产能分配。",
+      "publishedAt": "2026-09-08T02:53:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767487_VHR5EE5A7I32QZ8KAE6OY",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260908-003",
+      "title": "美国管制、存储器技术推动 中国设备国产化从前段攻向后段封装",
+      "summary": "据DIGITIMES报道，受美国半导体设备出口管制及存储器技术快速发展双重影响，中国半导体设备厂商正加速将前段制程积累的技术能力延伸至后段封装环节，推动封装设备国产化进程。",
+      "publishedAt": "2026-09-08T02:06:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767599_6AA6PXRX8YV167LAEALDS",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260907-004",
