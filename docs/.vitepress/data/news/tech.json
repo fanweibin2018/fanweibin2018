@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-14T00:30:00+08:00",
+  "updatedAt": "2026-09-14T09:00:00+08:00",
   "items": [
+    {
+      "id": "tech-20260914-005",
+      "title": "苹果新CEO特努斯谈Meta\"变态眼镜\"风波：AI智能设备需要让旁人安心",
+      "summary": "苹果新任CEO约翰·特努斯回应Meta智能眼镜引发的隐私争议，表示希望以让用户放心的方式实现AI功能，同时也要让周围人对智能设备感到安心；他以Apple Watch Series 12的Live Rewind功能为例，称该功能仅在用户手动按下表冠时启动，并配有提示音与屏幕指示，不进行后台录音。",
+      "publishedAt": "2026-09-14T08:36:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/906.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260914-006",
+      "title": "法拉第未来预告9月20日举办EAI机器人\"四核全智\"新品发布会",
+      "summary": "法拉第未来宣布将于北京时间9月20日上午8点举行EAI机器人新品发布会，届时将发布9款新机器人型号并同步开售，同时推出面向K12教育、科研、安防及巡检四个行业的解决方案，公司称发布完成后将成为美国国内机型种类最多的机器人公司，另计划9月28日举行供应链合作大会。",
+      "publishedAt": "2026-09-14T08:22:28+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/904.htm",
+      "subCategory": "机器人"
+    },
     {
       "id": "tech-20260914-001",
       "title": "中国移动已支持国行 iPhone 18 Pro / Duo 的 eSIM 业务办理",
@@ -285,6 +303,15 @@
       "subCategory": "安全漏洞"
     },
     {
+      "id": "tech-20260912-011",
+      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
+      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
+      "publishedAt": "2026-09-12T10:14:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260912-012",
       "title": "天龙三号遥二火箭完成总装总测",
       "summary": "天兵科技天龙三号遥二运载火箭完成总装与总测，计划今年第四季度择机复飞，此前遥一火箭因液氧尾焰引发发动机舱起火导致发射失利。",
@@ -364,15 +391,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/001/592.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260912-011",
-      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
-      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
-      "publishedAt": "2026-09-12T10:14:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260912-001",
@@ -706,24 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/440.htm",
       "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-104",
-      "title": "苹果 iPhone Duo 即将登场，三星发布“欢迎来到折叠屏时代”视频",
-      "summary": "苹果即将发布首款折叠屏手机iPhone Duo，距秋季新品发布会仅剩数小时。三星趁势发布视频邀请用户“欢迎来到折叠时代”，其Galaxy Z Fold8系列将成为iPhone Duo主要竞争对手，业界传闻苹果折叠屏手机起售价约2000美元，并可能支持手写笔功能。",
-      "publishedAt": "2026-09-09T20:47:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/434.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-105",
-      "title": "我国板级封装核心工艺实现关键跨越，华海清科自主研发国内首台全自动板级抛光装备进入量产线",
-      "summary": "华海清科宣布其自主研发的全自动板级CMP量产装备“Master-P510APEX”近日出机，发往先进封装产线投入量产应用，为国内首台进入量产线的板级CMP设备，具备优异的全板面均匀性与平坦化控制能力，标志我国板级封装核心工艺装备实现从研发到应用的重要突破。",
-      "publishedAt": "2026-09-09T20:30:01+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/427.htm",
-      "subCategory": "芯片硬件"
     }
   ]
 }

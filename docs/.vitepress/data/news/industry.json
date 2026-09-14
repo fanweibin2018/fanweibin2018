@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-14T00:30:00+08:00",
+  "updatedAt": "2026-09-14T09:00:00+08:00",
   "items": [
     {
       "id": "industry-20260913-001",
@@ -13,15 +13,6 @@
       "source": "財経新聞",
       "url": "https://www.zaikei.co.jp/article/20260913/869817.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260913-002",
-      "title": "IDC：2026年第二季度全球打印设备出货量同比下滑7%，墨仓式产品逆势增长",
-      "summary": "IDC报告显示，2026年第二季度全球打印及多功能一体机出货量同比下滑7%至1720万台，市场规模降至81亿美元；墨仓式打印机逆势抢占份额，中国市场因消费需求疲软和企业预算有限持续收缩，地缘政治与经济不确定性使买家采购趋于谨慎。",
-      "publishedAt": "2026-09-12",
-      "source": "IDC（newsbytes.ph转载）",
-      "url": "https://newsbytes.ph/2026/09/12/ink-tank-printers-buck-global-market-downturn-in-q2/",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260912-002",
@@ -78,6 +69,15 @@
       "subCategory": "半导体产业"
     },
     {
+      "id": "industry-20260913-002",
+      "title": "IDC：2026年第二季度全球打印设备出货量同比下滑7%，墨仓式产品逆势增长",
+      "summary": "IDC报告显示，2026年第二季度全球打印及多功能一体机出货量同比下滑7%至1720万台，市场规模降至81亿美元；墨仓式打印机逆势抢占份额，中国市场因消费需求疲软和企业预算有限持续收缩，地缘政治与经济不确定性使买家采购趋于谨慎。",
+      "publishedAt": "2026-09-12",
+      "source": "IDC（newsbytes.ph转载）",
+      "url": "https://newsbytes.ph/2026/09/12/ink-tank-printers-buck-global-market-downturn-in-q2/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260913-301",
       "title": "8月国内车市产销稳步回升",
       "summary": "中国8月汽车产销分别完成268.4万辆和271.2万辆，环比增长4.3%和4.9%，新能源汽车新车销量占比达60.6%创新高，出口101万辆同比增长65.3%。",
@@ -85,42 +85,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609123872466342.html",
       "subCategory": "新能源汽车"
-    },
-    {
-      "id": "industry-20260912-013",
-      "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
-      "summary": "DIGITIMES报道，先进封装工艺下芯片封装体积增大而内部结构日趋精细，检测环节面临双重压力；ViTrox机器视觉事业部负责人Wong Ting Lik指出，芯片检测正加速向前段制程环节前移。",
-      "publishedAt": "2026-09-11",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260911VL230",
-      "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260913-003",
-      "title": "世界银行报告：到2035年发展中国家电动交通经济性持续提升",
-      "summary": "世界银行针对40个发展中国家六类车型的研究显示，到2030年电动两轮车在全部40国具备经济可行性，电动乘用车在28国可行；电动车全生命周期碳排放约为燃油车的四分之一至三分之一，PM2.5排放最高可降75%，扩建充电设施效果或优于购车补贴。",
-      "publishedAt": "2026-09-11",
-      "source": "199IT（转引世界银行）",
-      "url": "http://www.199it.com/archives/1840572.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260913-004",
-      "title": "德勤发布2026年全球并购趋势脉搏调查",
-      "summary": "德勤调查显示，67%受访企业预计未来并购交易量增长，69%预计交易金额上升，但仅20%计划大幅增加海外投资；44%认为并购后营收协同效应最难实现，48%遇到合规问题，英国仍是最受青睐的成熟市场，占比52%。",
-      "publishedAt": "2026-09-11",
-      "source": "199IT（转引德勤）",
-      "url": "http://www.199it.com/archives/1838514.html",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260913-304",
-      "title": "Counterpoint Puts Q2 VR Shipments Down 18 Percent, With Enterprise and Robotics the Named Exceptions",
-      "summary": "Counterpoint Research数据显示，2026年第二季度全球VR头显出货量同比下降18%、环比下降16%，Meta市场份额降至54%，企业与机器人领域需求相对具有韧性。",
-      "publishedAt": "2026-09-11",
-      "source": "VR.org（引用Counterpoint Research数据）",
-      "url": "https://vr.org/articles/counterpoint-q2-2026-vr-shipments-down-18-enterprise-robotics-2026",
-      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260911-203",
@@ -175,6 +139,51 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260912-013",
+      "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
+      "summary": "DIGITIMES报道，先进封装工艺下芯片封装体积增大而内部结构日趋精细，检测环节面临双重压力；ViTrox机器视觉事业部负责人Wong Ting Lik指出，芯片检测正加速向前段制程环节前移。",
+      "publishedAt": "2026-09-11",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911VL230",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260913-003",
+      "title": "世界银行报告：到2035年发展中国家电动交通经济性持续提升",
+      "summary": "世界银行针对40个发展中国家六类车型的研究显示，到2030年电动两轮车在全部40国具备经济可行性，电动乘用车在28国可行；电动车全生命周期碳排放约为燃油车的四分之一至三分之一，PM2.5排放最高可降75%，扩建充电设施效果或优于购车补贴。",
+      "publishedAt": "2026-09-11",
+      "source": "199IT（转引世界银行）",
+      "url": "http://www.199it.com/archives/1840572.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260913-004",
+      "title": "德勤发布2026年全球并购趋势脉搏调查",
+      "summary": "德勤调查显示，67%受访企业预计未来并购交易量增长，69%预计交易金额上升，但仅20%计划大幅增加海外投资；44%认为并购后营收协同效应最难实现，48%遇到合规问题，英国仍是最受青睐的成熟市场，占比52%。",
+      "publishedAt": "2026-09-11",
+      "source": "199IT（转引德勤）",
+      "url": "http://www.199it.com/archives/1838514.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260913-304",
+      "title": "Counterpoint Puts Q2 VR Shipments Down 18 Percent, With Enterprise and Robotics the Named Exceptions",
+      "summary": "Counterpoint Research数据显示，2026年第二季度全球VR头显出货量同比下降18%、环比下降16%，Meta市场份额降至54%，企业与机器人领域需求相对具有韧性。",
+      "publishedAt": "2026-09-11",
+      "source": "VR.org（引用Counterpoint Research数据）",
+      "url": "https://vr.org/articles/counterpoint-q2-2026-vr-shipments-down-18-enterprise-robotics-2026",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260914-003",
+      "title": "瑞萨电子2027年1月起第二次上调产品价格",
+      "summary": "瑞萨电子宣布自2027年1月1日起对产品价格进行年内第二次调整，此前一次涨价已于2026年7月生效，公司称原材料、能源、先进封装、产能及全球物流等结构性成本持续上升是主因；行业分析认为中低压功率半导体供应偏紧，全球厂商正将产能向AI及数据中心等高利润应用倾斜。",
+      "publishedAt": "2026-09-11",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/09/11/news-renesas-to-raise-prices-again-from-jan-2027-citing-rising-material-energy-and-manufacturing-costs/",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260912-009",
@@ -301,42 +310,6 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4178886.html",
       "subCategory": "制造业"
-    },
-    {
-      "id": "industry-20260910-005",
-      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
-      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
-      "publishedAt": "2026-09-09",
-      "source": "Gartner",
-      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
-      "subCategory": "行业研报"
-    },
-    {
-      "id": "industry-20260912-011",
-      "title": "2026年中国口腔护理产业白皮书",
-      "summary": "艾瑞咨询发布《2026年中国口腔护理产业白皮书》，报告共66页49张图表，围绕中产、富裕及95后等消费群体的认知与购买偏好展开分析，探讨产品定位与行业发展趋势。",
-      "publishedAt": "2026-09-09",
-      "source": "艾瑞咨询",
-      "url": "https://report.iresearch.cn/report/202609/4865.shtml",
-      "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260913-005",
-      "title": "清华大学医学院发布\"1311\"儿童青少年近视防控体系白皮书",
-      "summary": "清华大学医学院发布《中国儿童青少年近视防控1311体系白皮书》，聚焦\"近、暗、歪、久、乱\"五类家庭学习场景风险，构建\"一核心三合并一基础一干预\"框架，将家庭学习环境管理、家庭护眼与专业医疗干预整合为可持续管理的近视防控体系。",
-      "publishedAt": "2026-09-09",
-      "source": "199IT（转引清华大学医学院）",
-      "url": "http://www.199it.com/archives/1850554.html",
-      "subCategory": "医疗健康"
-    },
-    {
-      "id": "industry-20260913-007",
-      "title": "Counterpoint：2026年第二季度全球NAND闪存营收环比大增70%",
-      "summary": "Counterpoint Research数据显示，2026年第二季度全球NAND闪存市场营收环比增长70%，主因合约价格环比上涨55%而非出货量增长；三星以28%份额居首，SK海力士19%，美光15%，长江存储14%，同比提升3个百分点，为连续第二个季度实现历史性增长。",
-      "publishedAt": "2026-09-09",
-      "source": "199IT（转引Counterpoint Research）",
-      "url": "https://www.199it.com/archives/1850549.html",
-      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20260910-006",
@@ -483,6 +456,42 @@
       "subCategory": "新能源汽车"
     },
     {
+      "id": "industry-20260910-005",
+      "title": "Gartner Identifies 4 Shifts Shaping the Future of Work",
+      "summary": "Gartner发布研究称，随着AI加速改变工作方式，企业需关注四大转变：以人机协作扩展能力、打造AI就绪员工队伍、深化情境判断与意义感、构建可持续增值基础，并预测2029年前AI裁员中约30%将被重新雇用。",
+      "publishedAt": "2026-09-09",
+      "source": "Gartner",
+      "url": "https://businessnewsthisweek.com/technology/gartner-identifies-4-shifts-shaping-the-future-of-work/",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260912-011",
+      "title": "2026年中国口腔护理产业白皮书",
+      "summary": "艾瑞咨询发布《2026年中国口腔护理产业白皮书》，报告共66页49张图表，围绕中产、富裕及95后等消费群体的认知与购买偏好展开分析，探讨产品定位与行业发展趋势。",
+      "publishedAt": "2026-09-09",
+      "source": "艾瑞咨询",
+      "url": "https://report.iresearch.cn/report/202609/4865.shtml",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260913-005",
+      "title": "清华大学医学院发布\"1311\"儿童青少年近视防控体系白皮书",
+      "summary": "清华大学医学院发布《中国儿童青少年近视防控1311体系白皮书》，聚焦\"近、暗、歪、久、乱\"五类家庭学习场景风险，构建\"一核心三合并一基础一干预\"框架，将家庭学习环境管理、家庭护眼与专业医疗干预整合为可持续管理的近视防控体系。",
+      "publishedAt": "2026-09-09",
+      "source": "199IT（转引清华大学医学院）",
+      "url": "http://www.199it.com/archives/1850554.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260913-007",
+      "title": "Counterpoint：2026年第二季度全球NAND闪存营收环比大增70%",
+      "summary": "Counterpoint Research数据显示，2026年第二季度全球NAND闪存市场营收环比增长70%，主因合约价格环比上涨55%而非出货量增长；三星以28%份额居首，SK海力士19%，美光15%，长江存储14%，同比提升3个百分点，为连续第二个季度实现历史性增长。",
+      "publishedAt": "2026-09-09",
+      "source": "199IT（转引Counterpoint Research）",
+      "url": "https://www.199it.com/archives/1850549.html",
+      "subCategory": "半导体产业"
+    },
+    {
       "id": "industry-20260909-001",
       "title": "半导体人才转向产线与技术整合　赴美设厂潮大幅推升外派需求",
       "summary": "据104人力银行发布的《2026半导体产业人才报告》，2026年半导体产业月均招聘约4.7万人，同比增速超20%，主要受AI相关产能扩张驱动；报告显示产业人才正加速向产线运营与技术整合岗位集中，赴美设厂潮大幅推升企业对外派人才的需求。",
@@ -499,15 +508,6 @@
       "source": "DIGITIMES",
       "url": "https://gb-www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767742_Q556HO0T5PEUOJ1YA36P4",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260909-003",
-      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
-      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
-      "publishedAt": "2026-09-08",
-      "source": "appleworld.today（援引Counterpoint Research）",
-      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
-      "subCategory": "行业研报"
     },
     {
       "id": "industry-20260913-302",
@@ -600,6 +600,15 @@
       "subCategory": "制造业"
     },
     {
+      "id": "industry-20260909-003",
+      "title": "Counterpoint：苹果2026年将占全球折叠屏手机市场25%份额",
+      "summary": "Counterpoint Research预测，苹果凭借约600万台折叠屏iPhone出货量，2026年将占全球折叠屏手机市场25%份额，位列三星（38%）之后、超过华为（22%），2027年份额有望升至40%。",
+      "publishedAt": "2026-09-08",
+      "source": "appleworld.today（援引Counterpoint Research）",
+      "url": "https://appleworld.today/2026/09/counterpoint-apple-will-have-25-of-the-global-foldable-smartphone-market-by-years-end/",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260908-002",
       "title": "半导体设备「超级周期」延续 台IPC厂角色转型升级、改高端商机",
       "summary": "据DIGITIMES报道，受AI与高效运算需求持续推升半导体先进制程、高带宽存储器及先进封装投资，全球半导体设备「超级周期」延续，台湾工业电脑(IPC)厂商正加快角色转型，力拓高阶设备市场机会。",
@@ -627,15 +636,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260913-006",
-      "title": "报告称AI重塑消费零售格局，仅18%消费品企业实现规模化落地",
-      "summary": "报告显示，约75%消费品企业AI应用仍处于试点阶段，仅18%实现规模化部署，零售企业中45%已规模化应用；完成需求价值链AI部署的消费品企业EBIT有望提升220-350个基点，但超53%企业缺乏正式的AI投资回报评估框架。",
-      "publishedAt": "2026-09-07",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1838546.html",
-      "subCategory": "消费零售"
-    },
-    {
       "id": "industry-20260907-004",
       "title": "中汽协：2026 年 7 月我国汽车整车出口 109.2 万辆，同比增长 57.5%",
       "summary": "中国汽车工业协会数据显示，2026年7月我国汽车整车出口109.2万辆，环比堇2.2%，同比增57.5%，出口金额189.8亿美元；1-7月累计出口639.9万辆，同比增53.7%，出口金额1107.8亿美元，同比增54.9%。",
@@ -643,6 +643,15 @@
       "source": "IT之家（中汽协）",
       "url": "https://www.ithome.com/0/999/349.htm",
       "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260913-006",
+      "title": "报告称AI重塑消费零售格局，仅18%消费品企业实现规模化落地",
+      "summary": "报告显示，约75%消费品企业AI应用仍处于试点阶段，仅18%实现规模化部署，零售企业中45%已规模化应用；完成需求价值链AI部署的消费品企业EBIT有望提升220-350个基点，但超53%企业缺乏正式的AI投资回报评估框架。",
+      "publishedAt": "2026-09-07",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1838546.html",
+      "subCategory": "消费零售"
     },
     {
       "id": "industry-20260907-001",
@@ -715,15 +724,6 @@
       "url": "https://www.digitimes.com/news/a20260903VL229/",
       "subCategory": "半导体产业",
       "id": "industry-20260905-101"
-    },
-    {
-      "id": "industry-20260905-203",
-      "title": "三星SDI固态电池量产临近并考察中国供应链",
-      "summary": "据报道三星SDI采购团队近期到访电解液供应商天赐材料在华生产基地，引发中国电池行业关注；三星SDI计划于2027年下半年启动全固态电池量产，正加快布局相关供应链。",
-      "publishedAt": "2026-09-05T07:54:56+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
-      "subCategory": "新能源汽车"
     }
   ]
 }
