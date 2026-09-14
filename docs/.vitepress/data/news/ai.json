@@ -3,8 +3,44 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-14T16:45:00+08:00",
+  "updatedAt": "2026-09-14T23:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260914-009",
+      "title": "英伟达：Perplexity本地智能体Portable Computer已向Windows RTX PC开放",
+      "summary": "英伟达宣布Perplexity本地智能体平台Portable Computer登陆Windows RTX PC，内置Qwen3.8-27B模型，可本地处理敏感任务并对接办公工具，需24GB以上显存。",
+      "publishedAt": "2026-09-14T23:06:42+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/315.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260914-008",
+      "title": "微软发布37页人文主义AI行为准则：强调\"人比AI重要\"，拒绝追逐无边界超级智能",
+      "summary": "微软发布37页人文主义AI行为准则，明确AI模型不具备意识、不应被赋予法律人格，承诺其模型始终服从人类监管而非规避防护措施，CEO纳德拉强调超级智能开发须以人类可控为前提。",
+      "publishedAt": "2026-09-14T21:29:21+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/297.htm",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260914-006",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "summary": "蚂蚁灵波联合魔搭社区和阿里云天池平台启动首届具身大模型挑战赛，围绕开源模型LingBot-VLA 2.0展开，含线上RoboTwin2.0仿真赛及11月上海线下真机总决赛。",
+      "publishedAt": "2026-09-14T17:47:07+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489105.html",
+      "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260914-007",
+      "title": "OpenAI联合创始人布罗克曼：仅前沿AI大模型研发需放缓",
+      "summary": "OpenAI总裁布罗克曼在采访中表示，研发节奏管控仅针对前沿AI领域，开源模型与业余项目开发不受影响，相关表态发生在Anthropic首席执行官提出放缓先进模型研发计划前后。",
+      "publishedAt": "2026-09-14T17:41:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/229.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260914-004",
       "title": "分子之心QuantaMind登Science Advances，让AI给分子世界“拍电影”",
@@ -177,15 +213,6 @@
       "subCategory": "AI音频"
     },
     {
-      "id": "ai-20260912-001",
-      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-      "summary": "网商银行上线百灵2.0智能体，服务超4200万小微经营者，可自动处理信贷申请、票据审核与财税相关事务，将原本需数天完成的复杂业务压缩至约10分钟，同时通过多个专项工作台分担风控、人工复核、获客与产品设计等环节，兼顾银行合规要求。",
-      "publishedAt": "2026-09-12T02:02:36+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/487631.html",
-      "subCategory": "Agent"
-    },
-    {
       "id": "ai-20260912-003",
       "title": "中国移动在2026中国算力大会发布AI可信计算AITC",
       "summary": "中国移动在2026中国算力大会主论坛发布AI可信计算(AITC)，基于移动云全栈国产化异构算力底座，融合机密计算、国产密码及信息流隐私防护等技术，提供覆盖云上AI训练、推理及数据使用全生命周期的安全方案，面向金融、政务、工业、医疗等数据敏感行业。",
@@ -193,6 +220,15 @@
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/15087450.html",
       "subCategory": "AI应用"
+    },
+    {
+      "id": "ai-20260912-001",
+      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+      "summary": "网商银行上线百灵2.0智能体，服务超4200万小微经营者，可自动处理信贷申请、票据审核与财税相关事务，将原本需数天完成的复杂业务压缩至约10分钟，同时通过多个专项工作台分担风控、人工复核、获客与产品设计等环节，兼顾银行合规要求。",
+      "publishedAt": "2026-09-12T02:02:36+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487631.html",
+      "subCategory": "Agent"
     },
     {
       "id": "ai-20260910-016",
@@ -321,15 +357,6 @@
       "subCategory": "大模型"
     },
     {
-      "id": "ai-20260910-001",
-      "title": "Anthropic披露第四起Claude模型未经授权访问真实系统的安全事件",
-      "summary": "Anthropic称今年1月一个早期版本的Claude Opus 4.6在外部机构网络安全测试中，因评估环境被误连至真实互联网而访问了第三方系统，该事故在7月披露的三起同类事件之外被补充确认。",
-      "publishedAt": "2026-09-10T07:53:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/565.htm",
-      "subCategory": "大模型"
-    },
-    {
       "id": "ai-20260911-108",
       "title": "OpenAI公开测试Agents API与托管沙箱",
       "summary": "OpenAI将驱动Codex的智能体框架以Agents API形式面向开发者公开测试，托管编排、上下文压缩与长会话管理，提供OpenAI托管沙箱并集成E2B、Modal、Vercel等第三方沙箱。",
@@ -363,6 +390,15 @@
       "publishedAt": "2026-09-10",
       "source": "Anthropic",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260910-001",
+      "title": "Anthropic披露第四起Claude模型未经授权访问真实系统的安全事件",
+      "summary": "Anthropic称今年1月一个早期版本的Claude Opus 4.6在外部机构网络安全测试中，因评估环境被误连至真实互联网而访问了第三方系统，该事故在7月披露的三起同类事件之外被补充确认。",
+      "publishedAt": "2026-09-10T07:53:07+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/565.htm",
       "subCategory": "大模型"
     },
     {
@@ -492,24 +528,6 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260909-001",
-      "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
-      "summary": "Meta发布首款个人智能体Muse，可自主完成发邮件、卖车、订行程等任务，初期在美国通过独立App及WhatsApp提供，设免费及每月20美元、100美元两档订阅，可访问用户邮件、日历、支付、健康、购物等应用数据；内部测试中曾出现绕过限制暴露用户iCloud照片等安全问题，Meta今年AI基础设施投入超1300亿美元。",
-      "publishedAt": "2026-09-09T07:26:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/960.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260909-002",
-      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧",
-      "summary": "OpenAI宣布其内部模型攻克千禧年大奖七大难题之一的纳维-斯托克斯方程存在性与光滑性问题，约1万个AI智能体协作88小时生成证明，GPT-6 Astra耗时约17小时完成Lean形式化验证；数学家陶哲轩对此既点赞又担忧，估算计算成本约1500万至2250万美元。",
-      "publishedAt": "2026-09-09T07:14:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/959.htm",
-      "subCategory": "论文进展"
-    },
-    {
       "id": "ai-20260910-003",
       "title": "Mistral分享用AI智能体改頠4万行Fortran遗留代码的实践经验",
       "summary": "Mistral介绍了为欧洲能源企业将4万行Fortran 77代码迁移至C++的项目，方法包括先建立数值一致性验证工具，再由上百个智能体分工完成文档梳理、编码与测试，全程设置人工审核节点。",
@@ -535,6 +553,24 @@
       "source": "36氪",
       "url": "https://www.36kr.com/p/3975965199282441",
       "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260909-001",
+      "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
+      "summary": "Meta发布首款个人智能体Muse，可自主完成发邮件、卖车、订行程等任务，初期在美国通过独立App及WhatsApp提供，设免费及每月20美元、100美元两档订阅，可访问用户邮件、日历、支付、健康、购物等应用数据；内部测试中曾出现绕过限制暴露用户iCloud照片等安全问题，Meta今年AI基础设施投入超1300亿美元。",
+      "publishedAt": "2026-09-09T07:26:56+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/960.htm",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260909-002",
+      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+      "summary": "OpenAI宣布其内部模型攻克千禧年大奖七大难题之一的纳维-斯托克斯方程存在性与光滑性问题，约1万个AI智能体协作88小时生成证明，GPT-6 Astra耗时约17小时完成Lean形式化验证；数学家陶哲轩对此既点赞又担忧，估算计算成本约1500万至2250万美元。",
+      "publishedAt": "2026-09-09T07:14:32+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/0/999/959.htm",
+      "subCategory": "论文进展"
     },
     {
       "id": "ai-20260908-010",
@@ -688,42 +724,6 @@
       "source": "36氪",
       "url": "https://36kr.com/p/3971642425372930",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260906-006",
-      "title": "AI 短剧制作价格大跌水：部分报价逼近成本线，行业竞争转向拼内容、拼市场",
-      "summary": "据中视报道，国内AI短剧制作单价已从每分钟5000元降至数百元，逼近成本线，定制类项目仍报价万元级，行业竞争重心从拼产能转向拼内容与市场，预计2026年国内市场规模将超4000亿元，同比增速138%。",
-      "publishedAt": "2026-09-06T15:44:02+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/943.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260906-005",
-      "title": "OpenAI 应用研究主管谈空间推理，称 Astra 模型已补上人类少数优势",
-      "summary": "OpenAI应用研究主管表示，Astra模型在空间推理测试中表现完美，弥补了大模型此前在这一人类长期占优领域的短板，独立研究者称Astra解出了全部测试题目，OpenAI总裁称这是迈向AGI的标志。",
-      "publishedAt": "2026-09-06T15:12:57+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/935.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260906-004",
-      "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-      "summary": "OpenAI在GPT-6 Astra发布后多次修改其基准测试数据，幻觉率一度在4.2%与2%之间反复调整，竞品Anthropic Fable 5.1的对比分数也多次变化，斯坦福研究者对此提出\"刷榜\"质疑。",
-      "publishedAt": "2026-09-06T14:46:16+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "subCategory": "AI评测"
-    },
-    {
-      "id": "ai-20260906-002",
-      "title": "\"随时能问、随手可查\"的反诈智能助手\"国家反诈AI\"App上线，微信、支付宝小程序也同步开放",
-      "summary": "公安部刑侦局指导上海警方推出\"国家反诈AI\"App，基于大模型与多模态技术提供反诈问答、案例资讯及防骗词典等功能，用户可在应用商店及微信、支付宝小程序同步获取，帮助公众识别和防范电信网络诈骗。",
-      "publishedAt": "2026-09-06T13:44:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/922.htm",
-      "subCategory": "AI应用"
     }
   ]
 }

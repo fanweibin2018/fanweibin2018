@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-14T16:45:00+08:00",
+  "updatedAt": "2026-09-14T23:50:00+08:00",
   "items": [
+    {
+      "id": "finance-20260914-006",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "生产力平台Superhuman收购Y Combinator孵化的AI会议记录工具Fathom。Fathom此前融资超3000万美元，2024年估值9400万美元，拥有超40万月活跃用户，产生逾100万次会议记录，交易将整合进Superhuman约4000万用户的产品体系。",
+      "publishedAt": "2026-09-14T07:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "subCategory": "一级市场"
+    },
     {
       "id": "finance-20260914-004",
       "title": "恒指收盘涨0.45%，半导体、硬件设备板块下挫",
@@ -375,6 +384,15 @@
       "subCategory": "A股"
     },
     {
+      "id": "finance-20260911-103",
+      "title": "甲骨文第一财季营收同比增30%至193亿美元，云基础设施收入翻倍",
+      "summary": "甲骨文2027财年第一财季营收同比增30%至193亿美元，云业务收入增62%至116亿美元，其中云基础设施(IaaS)收入同比增121%至74亿美元；剩余履约义务(RPO)增至6640亿美元，公司将全年营收指引上调至900亿美元以上。",
+      "publishedAt": "2026-09-11",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15081415.html",
+      "subCategory": "公司财报"
+    },
+    {
       "id": "finance-20260911-102",
       "title": "美国财政部扩大美债回购效果不及预期 10年期美债收益率升至4.95% 房贷利率突破7%",
       "summary": "美国财政部本轮美债回购仅购入51.9亿美元，低于60亿美元上限，为2024年重启以来第三次未达标；10年期美债收益率升至4.95%，创2023年以来新高，30年期房贷利率升至7.07%，为2025年5月以来首次破7%。",
@@ -400,15 +418,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609103870813653.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260911-103",
-      "title": "甲骨文第一财季营收同比增30%至193亿美元，云基础设施收入翻倍",
-      "summary": "甲骨文2027财年第一财季营收同比增30%至193亿美元，云业务收入增62%至116亿美元，其中云基础设施(IaaS)收入同比增121%至74亿美元；剩余履约义务(RPO)增至6640亿美元，公司将全年营收指引上调至900亿美元以上。",
-      "publishedAt": "2026-09-11",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15081415.html",
-      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260910-018",
@@ -492,6 +501,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260910-001",
+      "title": "智通港股投资日志|9月10日",
+      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
+      "publishedAt": "2026-09-10",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
+      "subCategory": "港股"
+    },
+    {
       "id": "finance-20260910-010",
       "title": "特朗普称高油价将持续至中期选举后 共和党选情承压",
       "summary": "特朗普表示，美伊冲突预计持续至11月中期选举之后，意味着届时汽油价格难以回落。目前美国全国汽油均价为每加4.22美元，其支持率降至任内最低的33%，民调显示七成受访者对其应对生活成本表现不满。",
@@ -535,15 +553,6 @@
       "source": "Investing.com",
       "url": "https://cn.investing.com/news/stock-market-news/article-3558868",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260910-001",
-      "title": "智通港股投资日志|9月10日",
-      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
-      "publishedAt": "2026-09-10",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
-      "subCategory": "港股"
     },
     {
       "id": "finance-20260910-012",
@@ -715,15 +724,6 @@
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/15067085.html",
       "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260908-012",
-      "title": "AI需求挤占产能 英特尔或上调PC端CPU价格10%",
-      "summary": "据台湾电子时报报道，受AI服务器芯片挤占产能影响，英特尔计划于10月5日起将PC端CPU价格上调约10%，此前公司已在2026年一季度及7月分别实施过价格调整。",
-      "publishedAt": "2026-09-08T09:07:00+08:00",
-      "source": "东方财富网（财联社）",
-      "url": "https://finance.eastmoney.com/a/202609083867507336.html",
-      "subCategory": "美股"
     }
   ]
 }

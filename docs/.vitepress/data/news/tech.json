@@ -3,8 +3,44 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-14T16:45:00+08:00",
+  "updatedAt": "2026-09-14T23:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260914-012",
+      "title": "vivo WATCH 6智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9月21日发布",
+      "summary": "vivo发布WATCH 6智能手表，采用蓝宝石玻璃表镜与航天级钛合金表体，搭载BlueOS系统，主打超薄机身设计及跑步指导功能，将于9月21日晚7点与vivo X500系列手机及Buds Clip耳机一同发布。",
+      "publishedAt": "2026-09-14T23:35:16+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/320.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260914-011",
+      "title": "马斯克旗下X公司与SpaceXAI撤回对苹果的反垄断诉讼，针对OpenAI继续追责",
+      "summary": "马斯克旗下X公司与SpaceXAI撤回此前在美国得克萨斯州法院对苹果提起的反垄断诉讼，该诉讼曾指控苹果将ChatGPT独家整合进iPhone构成非法垄断。法庭文件未说明撤诉原因或是否达成和解，两家公司称将继续就相关诉求追究OpenAI责任。",
+      "publishedAt": "2026-09-14T23:05:59+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/314.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260914-010",
+      "title": "小马智行发布第四代自动驾驶重卡Robotruck，将于年内规模量产",
+      "summary": "小马智行在德国IAA运输展发布第四代L4级自动驾驶重卡Robotruck，基于广汽埃安AT9纯电平台打造，配备9颗激光雷达等传感器，自动驾驶套件成本较上代下降70%，计划年内在中国物流与港口场景实现规模量产，并将在两年内进入欧洲和中东市场。",
+      "publishedAt": "2026-09-14T21:06:34+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/291.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260914-009",
+      "title": "荣耀Magic9系列三旗舰亮相：旗舰手机不再只有一个\"机皇\"答案",
+      "summary": "荣耀发布Magic9系列三款机型：Magic9 Pro Max主打专业影像，配备行业首个安卓1:1方形前置镜头；Magic9保留6.37英寸小屏定位单手操作用户；超能版配6.81英寸大屏与主动散热，面向不同细分需求推出差异化旗舰产品。",
+      "publishedAt": "2026-09-14T17:32:30+08:00",
+      "source": "快科技",
+      "url": "https://news.mydrivers.com/1/1151/1151014.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260914-008",
       "title": "大众发布 Mission Efficiency 概念车：创下三项能效纪录，百公里耗电量仅 6.48 千瓦时",
@@ -321,6 +357,15 @@
       "subCategory": "安全漏洞"
     },
     {
+      "id": "tech-20260912-011",
+      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
+      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
+      "publishedAt": "2026-09-12T10:14:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260912-012",
       "title": "天龙三号遥二火箭完成总装总测",
       "summary": "天兵科技天龙三号遥二运载火箭完成总装与总测，计划今年第四季度择机复飞，此前遥一火箭因液氧尾焰引发发动机舱起火导致发射失利。",
@@ -400,15 +445,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/001/592.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260912-011",
-      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
-      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
-      "publishedAt": "2026-09-12T10:14:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20260912-001",
@@ -688,42 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/480.htm",
       "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260909-110",
-      "title": "华硕 QN10 迷你主机开售：骁龙 X2 Elite、16GB+512GB 售价 9999 元",
-      "summary": "华硕推出全球首款搭载骁龙X2 Elite系列平台的迷你主机产品Ascent QN10已正式开售，采用3nm制程、18核CPU、80TOPS算力NPU，支持Wi-Fi 7与蓝牙6.0，基础配置版本定价9999元。",
-      "publishedAt": "2026-09-09T22:55:21+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/477.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260909-109",
-      "title": "英国航班管理系统故障，逾 2000 架次航班被取消",
-      "summary": "英国国家空中交通服务公司（NATS）空管系统发生技术故障，导致逾2000架次航班被取消，其中周二取消1750架次、周三取消291架次，数万名旅客受到影响，这是NATS三年内第三次发生类似故障，影响范围涉及英国及爱尔兰多个主要机场。",
-      "publishedAt": "2026-09-09T21:46:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/453.htm",
-      "subCategory": "网络基础设施"
-    },
-    {
-      "id": "tech-20260909-108",
-      "title": "消息称三星研发带显示屏的 AI 眼镜，预计最早明年下半年发布",
-      "summary": "三星电子正开发首款配备显示屏的AI眼镜，已向三星显示提出微型显示屏研发需求，预计2027年下半年或2028年上半年发布，将采用0.2英寸以下超小型微显示面板，通过4位灰阶方案优先确保文本与UI符号清晰度和低功耗，三星将其定位为智能手机的外围配件。",
-      "publishedAt": "2026-09-09T21:35:49+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/452.htm",
-      "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260909-107",
-      "title": "iPhone 18 Pro 发布会前夕，苹果新 CEO 特努斯发布神秘预热视频“暗示”可变光圈",
-      "summary": "苹果新任CEO约翰·特努斯在iPhone 18 Pro发布会前夕于微博发布神秘预热视频，视频中的聚光灯效果被网友解读为暗示可变光圈功能，该功能将允许用户手动调整相机光圈以控制进光量，苹果将于北京时间9月10日凌晨1时举行发布会推出新款iPhone和Apple Watch等产品。",
-      "publishedAt": "2026-09-09T21:30:07+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/000/451.htm",
-      "subCategory": "消费电子"
     }
   ]
 }
