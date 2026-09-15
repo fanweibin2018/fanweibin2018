@@ -3,8 +3,89 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-14T23:50:00+08:00",
+  "updatedAt": "2026-09-15T08:50:00+08:00",
   "items": [
+    {
+      "id": "tech-20260915-001",
+      "title": "台积电产能吃紧：曝高通与三星重启2nm代工谈判",
+      "summary": "据报道，受台积电2nm产能紧张及地缘政治因素影响，高通与三星电子就骁龙8 Elite Gen 6处理器代工重启谈判，考虑采用双代工策略；三星2nm GAA良率已提升至70%以上，台积电四季度2nm月产能规划6万片但逾半数已被苹果A20 Pro及M6芯片预定，双方分歧主要集中在代工价格。",
+      "publishedAt": "2026-09-15T08:36:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/372.htm",
+      "subCategory": "芯片硬件"
+    },
+    {
+      "id": "tech-20260915-002",
+      "title": "ClickFix攻击肆虐全球：诱骗Win11/macOS用户执行命令窃取信息",
+      "summary": "安全研究人员披露ClickFix攻击活动在全球蔓延，攻击页面伪装成Cloudflare验证界面，诱导Windows与macOS用户将恶意命令粘贴至运行框或终端执行，从而窃取密码、账号凭证及加密货币钱包信息；黑客还曾借助被入侵的HBO Max账号在Reddit投放广告传播恶意链接，部分macOS变种可绕过Gatekeeper防护。",
+      "publishedAt": "2026-09-15T08:35:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/371.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260915-003",
+      "title": "微软推送9月Win10/Win11紧急更新，修复远程桌面问题",
+      "summary": "微软于9月14日发布Windows 10及Windows 11带外紧急更新，修复此前安全补丁引发的RDP连接失败、远程桌面服务无响应等问题，同时解决Hyper-V文件共享、USB音频功能异常，并修补两个权限提升漏洞CVE-2026-62721和CVE-2026-85921。",
+      "publishedAt": "2026-09-15T08:22:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/370.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260915-004",
+      "title": "苹果iOS/iPadOS 27共修复126个安全漏洞，百度等团队参与贡献",
+      "summary": "苹果发布的iOS/iPadOS 27安全更新共修复126个安全漏洞，其中包含影响系统内核的多个高危问题，百度安全、独立研究者CK01及字节跳动IES Red Team等中国团队参与贡献；被修复漏洞包括可致沙盒应用以内核权限执行任意代码的CVE-2026-84607等。",
+      "publishedAt": "2026-09-15T08:10:30+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/368.htm",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20260915-005",
+      "title": "Meta对Instagram应用AI修图功能新增付费限制，需订阅Meta One会员使用",
+      "summary": "Meta对Instagram的AI修图功能设置使用次数上限，超额用户须订阅每月7.99美元的Meta One Core会员方可继续使用高级效果，否则需等到次日；Meta One于今年5月上线，还提供故事免打开预览、复古图标等权益，此举被认为将与Adobe、VSCO等传统修图应用形成竞争。",
+      "publishedAt": "2026-09-15T08:00:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/366.htm",
+      "subCategory": "互联网产品"
+    },
+    {
+      "id": "tech-20260915-006",
+      "title": "CG3M版微星Claw 8 EX AI+掌机曝光：10核Xe3，最高90 INT8 TOPS",
+      "summary": "微星推出Claw 8 EX AI+掌机CG3M版本，搭载英特尔Arc B370显卡，配备10核Xe3架构，最高频率2.2GHz，算力达90 INT8 TOPS；机型配备32GB LPDDR5X内存及512GB PCIe 4.0固态硬盘，8英寸1920×1200分辨率120Hz可变刷新率屏幕，售价1499美元，定位低于12核Xe3的CG3EM版本。",
+      "publishedAt": "2026-09-15T07:52:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/363.htm",
+      "subCategory": "消费电子"
+    },
+    {
+      "id": "tech-20260915-007",
+      "title": "特斯拉计划在越南设立子公司",
+      "summary": "特斯拉已正式提交文件拟在越南设立“Tesla Motors Vietnam”有限责任公司，总部设于胡志明市，注册资本300万美元，经营范围涵盖汽车及零部件批发零售与进出口；越南上半年纯电乘用车销量约11.6万辆，同比增长约71%，居东南亚首位，但公共充电设施仍较分散且多专属于VinFast等本地品牌。",
+      "publishedAt": "2026-09-15T07:44:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/360.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260915-008",
+      "title": "丰田美国纯电版汉兰达车型推迟至2027年投产",
+      "summary": "丰田将美国纯电版汉兰达（Highlander EV）上市时间推迟至2027年一季度，届时以2028款车型身份亮相；截至9月10日燃油版汉兰达经销商库存仅约20天，电动版延迟可能导致交付前出现断货，新车将提供77kWh及95.8kWh两种电池选择，续航最高约515公里。",
+      "publishedAt": "2026-09-15T07:40:41+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/358.htm",
+      "subCategory": "智能汽车"
+    },
+    {
+      "id": "tech-20260915-009",
+      "title": "华为FreeClip 2S女团联名款在日本发售：刻印AKB48全员亲笔签名，售价3.3万日元",
+      "summary": "华为通过日本上荣贸易GARRACK品牌在日推出FreeClip 2S与AKB48联名限定款耳夹式耳机，机身刻有AKB48全体成员亲笔签名，提供金银两色，银色版9月下旬开售、金色版12月中旬发货，售价3.3万日元，机身约重5.1克，具备降噪与防水功能。",
+      "publishedAt": "2026-09-15T07:36:22+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/357.htm",
+      "subCategory": "消费电子"
+    },
     {
       "id": "tech-20260914-012",
       "title": "vivo WATCH 6智能手表亮相：蓝宝石玻璃表镜、钛合金表体，9月21日发布",
