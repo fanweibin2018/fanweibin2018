@@ -15,15 +15,6 @@
       "subCategory": "半导体产业"
     },
     {
-      "id": "industry-20260915-002",
-      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-      "summary": "商汤大装置临港智算中心（AIDC）获中国信息通信研究院算力与电力协同评估最高5A级认证，成为全国唯一同时获得算效与算电双5A认证的智算中心；该设施配备17.888MW/35.776MWh储能系统及自研算电协同平台，预计年化PUE为1.24，年减碳2.4万吨，单位电力成本下的token产出效率提升80%，在上海2026年夏季用电高峰期间需求响应表现领先。",
-      "publishedAt": "2026-09-14T17:46:40+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/489106.html",
-      "subCategory": "公司动态"
-    },
-    {
       "id": "industry-20260914-007",
       "title": "Motor Intelligence：2026年前8月特斯拉在美销量325351辆，同比下降16%",
       "summary": "Motor Intelligence数据显示，2026年前8个月特斯拉在美国电动车市场份额回升至52%，累计销量32.5351万辆，同比下降16%，降幅小于其他电动车厂商的30%。",
@@ -67,6 +58,15 @@
       "source": "199IT（引自摩根大通）",
       "url": "https://www.199it.com/archives/1851676.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260915-002",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "summary": "商汤大装置临港智算中心（AIDC）获中国信息通信研究院算力与电力协同评估最高5A级认证，成为全国唯一同时获得算效与算电双5A认证的智算中心；该设施配备17.888MW/35.776MWh储能系统及自研算电协同平台，预计年化PUE为1.24，年减碳2.4万吨，单位电力成本下的token产出效率提升80%，在上海2026年夏季用电高峰期间需求响应表现领先。",
+      "publishedAt": "2026-09-14T17:46:40+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "subCategory": "公司动态"
     },
     {
       "id": "industry-20260914-004",
@@ -724,15 +724,6 @@
       "source": "199IT",
       "url": "https://www.199it.com/archives/1838546.html",
       "subCategory": "消费零售"
-    },
-    {
-      "id": "industry-20260907-001",
-      "title": "印度政府正式发布\"Semicon 2.0\"半导体产业支持政策",
-      "summary": "印度政府正式发布\"Semicon 2.0\"半导体产业支持政策，覆盖芯片设计、设备材料、晶圆制造、先进封装、研发与人才培育六大领域，总计划支出约1.275万亿卢比，硅基芯片制造项目最高可获得40%的财政支持。",
-      "publishedAt": "2026-09-07T07:37:00+08:00",
-      "source": "DIGITIMES",
-      "url": "https://www.digitimes.com/news/a20260906VL200/semicon-technology-manufacturing-market-demand.html",
-      "subCategory": "半导体产业"
     }
   ]
 }
