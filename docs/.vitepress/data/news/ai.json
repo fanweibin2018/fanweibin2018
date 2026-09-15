@@ -715,6 +715,15 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/204.htm",
       "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20260908-004",
+      "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+      "summary": "vLLM团队发布博客介绍vLLM TT Plugin，通过插件机制支持Tenstorrent加速器运行大模型服务，采用区分预填充与解码阶段的调度器，并为Galaxy系统提供进程级数据并行与设备端采样能力，实现完全独立于vLLM核心代码。",
+      "publishedAt": "2026-09-07",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+      "subCategory": "推理框架"
     }
   ]
 }
