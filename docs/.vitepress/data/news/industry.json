@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-14T23:50:00+08:00",
+  "updatedAt": "2026-09-15T08:50:00+08:00",
   "items": [
+    {
+      "id": "industry-20260915-001",
+      "title": "中信证券：光博会验证光通信行业高景气度，全产业链仍处于快速成长期",
+      "summary": "中信证券研报指出，2026年中国国际光电博览会显示光通信行业需求旺盛，光模块及上游元器件维持高景气，龙头企业积极扩产；技术升级正驱动新增市场需求与价值量提升，传统光通信厂商加快布局综合互联方案，国产芯片与代工产能加速导入，消费电子及精密光学企业也在拓展无源光学元件业务。",
+      "publishedAt": "2026-09-15T08:33:00+08:00",
+      "source": "36氪（中信证券）",
+      "url": "https://36kr.com/newsflashes/3983939737762820",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260915-002",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "summary": "商汤大装置临港智算中心（AIDC）获中国信息通信研究院算力与电力协同评估最高5A级认证，成为全国唯一同时获得算效与算电双5A认证的智算中心；该设施配备17.888MW/35.776MWh储能系统及自研算电协同平台，预计年化PUE为1.24，年减碳2.4万吨，单位电力成本下的token产出效率提升80%，在上海2026年夏季用电高峰期间需求响应表现领先。",
+      "publishedAt": "2026-09-14T17:46:40+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20260914-007",
       "title": "Motor Intelligence：2026年前8月特斯拉在美销量325351辆，同比下降16%",
@@ -715,15 +733,6 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260906VL200/semicon-technology-manufacturing-market-demand.html",
       "subCategory": "半导体产业"
-    },
-    {
-      "id": "industry-20260907-005",
-      "title": "小米董事长兼CEO雷军：小米汽车累计交付量超过 80 万辆",
-      "summary": "小米董事长兼CEO雷军宣布，小米汽车累计交付量已超过80万辆，为公司新能源汽车业务达成的新里程碑。",
-      "publishedAt": "2026-09-07T07:17:00+08:00",
-      "source": "36氪",
-      "url": "https://www.36kr.com/newsflashes/3972541010440709",
-      "subCategory": "新能源汽车"
     }
   ]
 }
