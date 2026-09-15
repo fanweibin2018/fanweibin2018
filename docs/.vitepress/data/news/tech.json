@@ -555,15 +555,6 @@
       "subCategory": "智能汽车"
     },
     {
-      "id": "tech-20260912-011",
-      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
-      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
-      "publishedAt": "2026-09-12T10:14:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "subCategory": "安全漏洞"
-    },
-    {
       "id": "tech-20260912-001",
       "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
       "summary": "OpenAI 内部存储平台 Habitat 完成从 Python 到 Rust 的迁移，该平台管理超过 500PB 数据，服务约 10 亿 ChatGPT 周活跃用户。据介绍，迁移后 CPU 效率提升 6 倍，内存效率提升 15 倍，Rust 版本目前已承担 95% 生产流量，Python 版本将逐步下线。",
