@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-14T23:50:00+08:00",
+  "updatedAt": "2026-09-15T08:50:00+08:00",
   "items": [
+    {
+      "id": "finance-20260915-001",
+      "title": "资金大进大出成常态，倒逼ETF运作管理升级",
+      "summary": "今年A股市场板块轮动加快、结构性分化明显，ETF资金呈现“整体规模先降后升、资金大进大出常态化”的特征，为基金公司运作管理带来新挑战；业内人士建议公募基金管理人优化投资者结构，并借助技术手段实现精细化管理以适应市场环境变化。",
+      "publishedAt": "2026-09-15T08:35:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3983942570375941",
+      "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260915-003",
+      "title": "曝Glass Imaging被OpenAI收购：前苹果员工创办，其影像技术已用于荣耀手机",
+      "summary": "OpenAI收购AI影像初创公司Glass Imaging，交易估值超3亿美元；该公司由苹果前员工Ziv Attar和Tom Bishop于2019年创立，核心产品GlassAI通过基于原始传感器数据训练的神经网络替代传统图像信号处理流程，其变焦影像技术已应用于荣耀手机，收购被认为将服务于OpenAI与苹果前设计师乔纳森·艾维合作研发的AI硬件项目。",
+      "publishedAt": "2026-09-15T07:41:04+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/359.htm",
+      "subCategory": "一级市场"
+    },
+    {
+      "id": "finance-20260915-002",
+      "title": "前8月股债融资“挑大梁”，社融增量占比过半",
+      "summary": "央行数据显示，今年前8个月我国社会融资规模增量23.91万亿元，人民币贷款增加10.44万亿元；企业债券融资占社融增量比重升至11.67%，同比提高5.8个百分点，股债融资合计占比首次超过五成，反映资本密集型行业信贷需求减弱、科技创新等新兴领域更多依赖多元化融资渠道，企业新增贷款平均利率低于3%，个人住房贷款利率为3.1%。",
+      "publishedAt": "2026-09-15T06:53:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4184816.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20260914-006",
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
@@ -696,33 +723,6 @@
       "publishedAt": "2026-09-08T11:22:17+08:00",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/485784.html",
-      "subCategory": "一级市场"
-    },
-    {
-      "id": "finance-20260908-010",
-      "title": "日本央行9月加息概率升至97%！日元本月升近4%突破154",
-      "summary": "隔夜指数掉期定价显示，市场预期日本央行9月18日会议加息25个基点至1.25%的概率升至97%，日元兑美元本月升值近4%至153.24，行长植田表示当前货币条件仍偏宽松。",
-      "publishedAt": "2026-09-08T11:21:00+08:00",
-      "source": "英为财情Investing.com",
-      "url": "https://cn.investing.com/news/forex-news/article-3555172",
-      "subCategory": "政策利率"
-    },
-    {
-      "id": "finance-20260908-009",
-      "title": "1.46万美元！伦铜创历史新高，铜股集体爆发",
-      "summary": "9月8日伦敦金属交易所三个月期铜触及每吨1.46万美元续创历史新高，沪铜主力站上11万元/吨关口，机构指出美国精炼铜关税预期、智利出口下滑及数据中心用铜需求增长共同推高价格。",
-      "publishedAt": "2026-09-08T10:43:15+08:00",
-      "source": "腾讯新闻（格隆汇）",
-      "url": "https://news.qq.com/rain/a/20260908A05UMQ00",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260908-008",
-      "title": "深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投",
-      "summary": "北京深空矩阵科枀9月8日宣布完成亿元级天使轮融资，由鼎晖VGC、麟阁创投联合领投，多家一线机构跟投，资金将用于太空AI算力核心技术研发、“星环计划”系统工程验证及产业链生态建设。",
-      "publishedAt": "2026-09-08T10:15:04+08:00",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15067085.html",
       "subCategory": "一级市场"
     }
   ]
