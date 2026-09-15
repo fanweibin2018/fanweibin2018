@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-14T23:50:00+08:00",
+  "updatedAt": "2026-09-15T08:50:00+08:00",
   "items": [
+    {
+      "id": "ai-20260915-001",
+      "title": "Anthropic Claude Opus 5.2灰度测试曝光",
+      "summary": "开发者在使用Claude Code过程中发现Anthropic正静默灰度测试Claude Opus 5.2，界面仍显示为Opus 5，但响应速度明显更快且能自动连续完成复杂任务而无需用户反复提示；有传闻称Anthropic内部报告提及代号“Model 2”的更强内部模型，已承担公司多数代码生成工作并可能替代研究团队约85%的工作量。",
+      "publishedAt": "2026-09-15T07:57:02+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/365.htm",
+      "subCategory": "大模型"
+    },
     {
       "id": "ai-20260914-009",
       "title": "英伟达：Perplexity本地智能体Portable Computer已向Windows RTX PC开放",
@@ -51,6 +60,15 @@
       "subCategory": "论文进展"
     },
     {
+      "id": "ai-20260915-002",
+      "title": "端侧AI从“能跑”到“会进化”，元空智能跑进惠普预装",
+      "summary": "元空智能宣布与惠普达成战略合作，将其端侧AI模型与应用预装至惠普设备；公司提出“生产力=模型×Agent×设备”理念，发布Boxer端侧模型（20B至100B参数）及Yuankong AI Work、Yuankong AI Science两款智能体，其中Boxer-35B模型在自建WorkArena基准上得分73.1，领先同类模型10.3分，仅占用8GB内存即可保持87.3%性能，产品已适配惠普Z系列工作站。",
+      "publishedAt": "2026-09-14T16:08:29+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/488933.html",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260914-005",
       "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
       "summary": "深度赛博（Deep Cybo）9月9日发布具身智能基础模型PhysBrain 1.5，在28项公开基准测试中综合得分72.5分登顶开源模型第一，14项测试排名第一、10项排名第二，与GPT-6 Astra（73.3分）及Gemini 3.6 Flash（73.0分）差距缩小至约1分；模型整合具身理解、动作生成与未来状态预测三项能力，2B与8B参数版本已在Hugging Face开源。",
@@ -85,6 +103,15 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/488672.html",
       "subCategory": "具身智能"
+    },
+    {
+      "id": "ai-20260915-003",
+      "title": "GitHub三榜第一背后：AI绘图工具Archify获5.88万星标",
+      "summary": "开发者涂少坤打造的AI绘图工具Archify登顶GitHub趋势榜前列，累计获得5.88万星标及3800次分支，该工具可将用户描述与手绘草图转化为结构化流程图，应用范围从软件开发延伸至项目规划等多领域，作者曾经历辍学与多次求职被拒后通过自学与开源贡献逐步获得认可。",
+      "publishedAt": "2026-09-13T15:20:19+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/488519.html",
+      "subCategory": "AI编程"
     },
     {
       "id": "ai-20260913-504",
@@ -688,42 +715,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/0/999/204.htm",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260908-004",
-      "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
-      "summary": "vLLM团队发布博客介绍vLLM TT Plugin，通过插件机制支持Tenstorrent加速器运行大模型服务，采用区分预填充与解码阶段的调度器，并为Galaxy系统提供进程级数据并行与设备端采样能力，实现完全独立于vLLM核心代码。",
-      "publishedAt": "2026-09-07",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260906-008",
-      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-      "summary": "多家具身智能公司探索将上下文学习(ICL)作为机器人核心学习能力：Skild AI的S1模型支持长达10分钟任务示范，Generalist AI的GEN-1.5采用One-Shot学习。国内创业公司可可矩阵成立于2026年4月，提出\"条件表征\"技术与\"强理解、轻生成\"方案，并将评估指标由成功率转向首次成功平均耗时。",
-      "publishedAt": "2026-09-06T19:44:21+08:00",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/484897.html",
-      "subCategory": "具身智能"
-    },
-    {
-      "id": "ai-20260906-007",
-      "title": "阿里千问开源Qwen-Drive-1.0-4B：首个面向自动驾驶的视觉语言基础模型",
-      "summary": "阿里千问开源基于Qwen3.5-4B构建的Qwen-Drive-1.0-4B模型，称为首个面向自动驾驶的视觉语言基础模型，预训练阶段统一三维感知与视觉问答能力并扩展至运动规划，提供SFT与RL两个规划专家版本，已在GitHub、Hugging Face及ModelScope开源。",
-      "publishedAt": "2026-09-06T17:15:06+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/998/997.htm",
-      "subCategory": "开源模型"
-    },
-    {
-      "id": "ai-20260907-005",
-      "title": "AI科学家冲出屏幕！MIT教授掼4张照片，3个Grok一小时造出零件",
-      "summary": "MIT教授Markus Buehler仅提供4张自然结构参考图片，指揎3个Grok智能体分工完成物理仿真、47次虚拟实验与打印文件生成，一小时内独立产出两个实体零件，全程通过桌面软件操作打印机。",
-      "publishedAt": "2026-09-06T16:48:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/p/3971642425372930",
-      "subCategory": "Agent"
     }
   ]
 }
