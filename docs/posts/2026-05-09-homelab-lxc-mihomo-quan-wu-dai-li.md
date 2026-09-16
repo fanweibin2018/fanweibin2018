@@ -11,7 +11,7 @@ tags:
   - 'Clash'
   - '代理'
   - 'homelab'
-description: '「家庭实验室从零到一」系列第 2 篇。用一个 LXC 容器搭一个 7×24 的代理网关，所有 VM 通过 http_proxy=http://<容器 IP>:7890 科学上网。覆盖代理客户端横评（Mihomo / sing-box / Xray / naïveproxy）、为什么用 LXC 而不是 Docker、TUN 设备启用、Mihomo 安装与 systemd 服务、Web Dashboard、订阅自动更新带文件大小校验、其他 VM/Docker/apt 接入方式，及 fake-ip 解决 DNS 污染等 5 个真实踩坑。'
+description: '「家庭实验室从零到一」系列第 2 篇。用一个 LXC 容器搭一个 7×24 的代理网关，所有 VM 通过 http_proxy=http://<容器 IP>:7890 科学上网。覆盖代理客户端横评（Mihomo / sing-box / Xray / naïveproxy）、为什么用 LXC 而不是 Docker、TUN 设备启用、Debian 13 容器初始化、Mihomo 安装与 systemd 服务、订阅拉取（UA + flag 的坑）、Geo 数据预下载、Web Dashboard、订阅自动更新（自动回打补丁 + mihomo -t 校验）、其他 VM/Docker/apt 接入方式，及 fake-ip 解决 DNS 污染等 8 个真实踩坑。'
 series: '家庭实验室从零到一'
 seriesIndex: 2
 ---
@@ -19,6 +19,8 @@ seriesIndex: 2
 # 家庭实验室 #2 ｜ LXC 容器跑全屋代理 (Mihomo) — 让所有 VM 一键科学上网
 
 > 系列第 2 篇 ▏前置：[#0 导览](/posts/2026-05-09-homelab-overview-jia-ting-shi-yan-shi-jia-gou) + [#1 PVE 装机](/posts/2026-05-09-homelab-pve-zhuang-ji-pian)。本篇用一个 LXC 容器搭一个 7×24 的代理网关，所有 VM 通过 `http_proxy=http://<容器 IP>:7890` 就能科学上网。
+
+> 📝 **2026-09-16 修订**：按我实际落地时容器里的 shell history 重新校对了第三、四、五章。主要变化：Debian 13 换源方式（deb822）、二进制放 `/usr/local/bin` + 配置放 `/etc/mihomo`、订阅要带 UA 和 flag 才能拿到 Clash YAML、Geo 数据要预先下载、订阅自动更新脚本要自动回打补丁。踩坑时间线也从 5 个补到 8 个。
 
 ## 卷首：为什么需要全屋代理？
 
@@ -117,6 +119,7 @@ Web UI: 节点 pve → Create CT。
 | **Password** | 强密码 | root 密码 |
 | **SSH key** | 你的公钥（推荐） | 免密登录 |
 | **Template** | debian-13-standard | 上一步下的 |
+| **Unprivileged** | ☑（默认） | 非特权容器，安全；TUN 见 3.3 |
 | **Disk** | 4 GB（local-lvm） | 4G 完全够 |
 | **CPU** | 1 核 | 代理不吃 CPU |
 | **Memory** | 256 MB | 余量足 |
@@ -141,19 +144,9 @@ lxc.cgroup2.devices.allow: c 10:200 rwm
 lxc.mount.entry: /dev/net dev/net none bind,create=dir
 ```
 
-如果 `/dev/net/tun` 不存在，先创建：
+第二行是把宿主机的 `/dev/net` 整个 bind 进容器，所以**容器里不需要也不能** `mknod`（非特权容器没这个权限）。改完重启容器：
 
 ```bash
-# 在 LXC 容器内（先启动容器）
-pct start 120
-pct enter 120
-
-# 容器内
-mkdir -p /dev/net
-mknod /dev/net/tun c 10 200
-chmod 600 /dev/net/tun
-
-exit
 pct stop 120 && pct start 120
 ```
 
@@ -161,12 +154,23 @@ pct stop 120 && pct start 120
 
 ```bash
 pct exec 120 -- ls -la /dev/net/tun
-# 期望: crw------- 1 root root 10, 200 ... /dev/net/tun
+# 非特权容器期望: crw-rw-rw- 1 nobody nobody 10, 200 ... /dev/net/tun
+# 特权容器期望:   crw-rw-rw- 1 root   root   10, 200 ... /dev/net/tun
 ```
+
+> 非特权容器里显示 `nobody nobody` 是正常的（宿主 root 经过 uid 映射后在容器里没对应用户），权限是 `rw-rw-rw-`，mihomo 用起来没问题。
 
 ---
 
 ## 四、容器内安装 Mihomo
+
+目录约定（后面所有命令都按这个来）：
+
+| 东西 | 位置 |
+|---|---|
+| 二进制 | `/usr/local/bin/mihomo` |
+| 配置、Geo 数据、UI、secret | `/etc/mihomo/` |
+| systemd 服务 | `/etc/systemd/system/mihomo.service` |
 
 ### 4.1 进容器
 
@@ -175,92 +179,202 @@ pct enter 120
 # 进入后是 root@lxc-proxy
 ```
 
-### 4.2 安装基础工具
+### 4.2 容器初始化（换源 / locale / 时区 / 工具）
+
+Debian 13 的 apt 源已经不在 `/etc/apt/sources.list`，而是 deb822 格式的 `/etc/apt/sources.list.d/debian.sources`。直接 sed 把域名换掉最省事，不要再新建 sources.list（会和 debian.sources 重复）：
 
 ```bash
-# 换清华源（容器是 Debian 13）
-cat > /etc/apt/sources.list <<'EOF'
-deb https://mirrors.tuna.tsinghua.edu.cn/debian/ trixie main contrib non-free non-free-firmware
-deb https://mirrors.tuna.tsinghua.edu.cn/debian/ trixie-updates main contrib non-free non-free-firmware
-deb https://mirrors.tuna.tsinghua.edu.cn/debian-security/ trixie-security main contrib non-free non-free-firmware
-EOF
+# 1. 切清华源
+sed -i 's|http://deb.debian.org|https://mirrors.tuna.tsinghua.edu.cn|g' \
+  /etc/apt/sources.list.d/debian.sources
 
-apt update
-apt install -y curl wget unzip iproute2 vim
+# 2. 配置 locale（模板默认没生成，各种 perl warning 很烦）
+sed -i 's/^# *en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen
+sed -i 's/^# *zh_CN.UTF-8 UTF-8/zh_CN.UTF-8 UTF-8/' /etc/locale.gen
+locale-gen
+update-locale LANG=en_US.UTF-8
+export LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8
+
+# 3. 时区（看日志时间不用换算）
+timedatectl set-timezone Asia/Shanghai
+
+# 4. 升级 + 装工具
+apt update && apt -y upgrade
+apt install -y curl ca-certificates wget vim htop iptables iproute2 unzip
+
+# 5. 验证 TUN 设备（3.3 配的）
+ls -la /dev/net/tun
+# 期望：crw-rw-rw- 1 nobody nobody 10, 200 ...
+
+# 6. 装 Mihomo 之前先确认国内可达
+ping -c 2 223.5.5.5
+ping -c 2 mirrors.tuna.tsinghua.edu.cn
 ```
 
 ### 4.3 下载 Mihomo 二进制
 
-去 [Mihomo Releases](https://github.com/MetaCubeX/mihomo/releases) 找最新版。
+不要手写版本号，直接问 GitHub API 要最新 tag；下载走 GitHub 加速镜像（**没代理装不上代理**的鸡生蛋问题）：
 
 ```bash
-mkdir -p /opt/mihomo && cd /opt/mihomo
+cd /tmp
 
-# 假设最新版是 v1.18.0，amd64
-wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-linux-amd64-v1.18.0.gz
+# 取最新版本号（api.github.com 国内一般能通，不通就手动去 Releases 页看）
+MIHOMO_VERSION=$(curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases/latest \
+  | grep tag_name | cut -d'"' -f4)
+echo "Mihomo 最新版本: $MIHOMO_VERSION"
 
-gunzip mihomo-linux-amd64-v1.18.0.gz
-mv mihomo-linux-amd64-v1.18.0 mihomo
+# 通过 ghfast 加速下载（amd64）
+wget "https://ghfast.top/https://github.com/MetaCubeX/mihomo/releases/download/${MIHOMO_VERSION}/mihomo-linux-amd64-${MIHOMO_VERSION}.gz" \
+  -O mihomo.gz
+
+# ghfast 失效就换别的加速前缀，例如：
+# wget "https://ghproxy.com/https://github.com/MetaCubeX/mihomo/releases/download/${MIHOMO_VERSION}/mihomo-linux-amd64-${MIHOMO_VERSION}.gz" -O mihomo.gz
+
+# 解压 + 安装
+gunzip mihomo.gz
 chmod +x mihomo
+mv mihomo /usr/local/bin/mihomo
 
 # 验证
-./mihomo -v
+/usr/local/bin/mihomo -v
 ```
 
-⚠️ **国内访问 GitHub 慢**？这是个鸡生蛋问题（**没代理装不上代理**）。两个 workaround：
+> 镜像站偶尔会报证书错误。先确认 `ca-certificates` 装了、时间对了（4.2 的时区那步），别一上来就 `--no-check-certificate`。
 
-1. 用 GitHub 镜像加速：把 URL 里的 `github.com` 换成 `gh-proxy.com` 或类似镜像
-2. 在你能访问 GitHub 的电脑上下好，scp 进 LXC
+镜像都不行的兜底：在能访问 GitHub 的电脑上下好，`pct push 120 mihomo.gz /tmp/mihomo.gz` 推进容器。
+
+⚠️ **PATH 坑**：`pct enter` 进来的 shell，`PATH` 里**没有 `/usr/local/bin`**，直接敲 `mihomo -v` 会 command not found。修一下：
 
 ```bash
-# 镜像加速示例
-wget https://gh-proxy.com/https://github.com/MetaCubeX/mihomo/releases/download/v1.18.0/mihomo-linux-amd64-v1.18.0.gz
+echo $PATH
+# 大概率是 /usr/sbin:/usr/bin:/sbin:/bin，缺 /usr/local/bin
+
+# 临时修复 + 永久写到 .bashrc
+export PATH="/usr/local/sbin:/usr/local/bin:$PATH"
+echo 'export PATH="/usr/local/sbin:/usr/local/bin:$PATH"' >> /root/.bashrc
+hash -r
+
+mihomo -v
+which mihomo
+# 期望：/usr/local/bin/mihomo
 ```
 
-### 4.4 准备配置文件
+后面的 systemd 服务和 cron 脚本里统一写**绝对路径** `/usr/local/bin/mihomo`，不依赖 PATH。
 
-Mihomo 主配置文件 `/opt/mihomo/config.yaml`。**99% 的用户从订阅链接获取**：
+### 4.4 拉订阅生成配置文件
+
+Mihomo 主配置文件 `/etc/mihomo/config.yaml`。**99% 的用户从订阅链接获取**，但有个大坑：
+
+> ⚠️ 机场后端（SSPanel / V2board 一类）是**按 User-Agent 判断返回什么格式**的。用默认的 `curl/8.x` UA 去拉，很多机场会给你一坨 base64 的 v2ray 链接，或者一个 HTML 页面，Mihomo 根本不认。要么 UA 伪装成 Clash 客户端，要么带 `flag=clash.meta` 参数，最好两个都带。
 
 ```bash
-# 假设你的订阅链接是 https://your-provider.com/sub/clash?token=YOUR_TOKEN
-SUBSCRIPTION_URL='<YOUR_SUBSCRIPTION_URL>'
+mkdir -p /etc/mihomo
+SUB_URL='<YOUR_SUBSCRIPTION_URL>'
 
-curl -fsSL "$SUBSCRIPTION_URL" -o /opt/mihomo/config.yaml
-ls -la /opt/mihomo/config.yaml
+# 两种拉法都试一下，看哪个给的是 YAML
+curl -L -A "ClashMeta" "${SUB_URL}?flag=clash.meta" -o /tmp/config-meta.yaml
+curl -L -A "ClashforWindows/0.20.39" "${SUB_URL}?flag=clash" -o /tmp/config-clash.yaml
+
+file /tmp/config-meta.yaml /tmp/config-clash.yaml
+head -10 /tmp/config-meta.yaml
+ls -lh /tmp/config-*.yaml
+# 期望：file 说是 text / Unicode text，head 能看到 port: / mixed-port: / proxies: 这种 YAML 字段
+# 拿到一行 base64 或 <!DOCTYPE html> 的就是错的
 ```
 
-**手动检查 / 修改 config.yaml** 几个关键字段：
+一般 `clash.meta` 那份能用（Mihomo 特有的协议如 vless / hysteria2 只在这份里）。确定后落盘 + 备份原版：
+
+```bash
+# 1. 用 meta 版作为正式配置
+cp /tmp/config-meta.yaml /etc/mihomo/config.yaml
+
+# 2. 备份订阅原文（对比机场改了啥、或者回滚用）
+cp /tmp/config-meta.yaml /etc/mihomo/config.yaml.original
+```
+
+订阅给的配置默认只监听本机，API 也没密码，要改三处。**别手动 vim**，用 sed 改，后面第五章的自动更新脚本要复用这几行：
+
+```bash
+# 3. 生成一个强 secret，并存一份（后面 Dashboard、API、更新脚本都要用）
+SECRET=$(openssl rand -hex 16)
+echo "Web UI secret 是: $SECRET"
+echo "$SECRET" > /etc/mihomo/secret.txt
+chmod 600 /etc/mihomo/secret.txt
+
+# 4. allow-lan 开、API 监听全网卡
+sed -i "s/^allow-lan: false/allow-lan: true/" /etc/mihomo/config.yaml
+sed -i "s|^external-controller:.*|external-controller: '0.0.0.0:9090'|" /etc/mihomo/config.yaml
+
+# 5. secret 字段有就改，没有就插在 external-controller 后面
+if grep -q "^secret:" /etc/mihomo/config.yaml; then
+  sed -i "s|^secret:.*|secret: '$SECRET'|" /etc/mihomo/config.yaml
+else
+  sed -i "/^external-controller:/a secret: '$SECRET'" /etc/mihomo/config.yaml
+fi
+
+# 6. 验证修改结果
+grep -E "^(port|mixed-port|allow-lan|bind-address|mode|log-level|external-controller|secret|external-ui):" \
+  /etc/mihomo/config.yaml
+```
+
+改完关键字段应该长这样（值以你订阅为准）：
 
 ```yaml
-# 顶部
-mixed-port: 7890         # HTTP/SOCKS 同端口（代理用这个）
-external-controller: 0.0.0.0:9090   # API 监听
-secret: '<RANDOM_LONG_STRING>'      # API 密码（强烈建议设）
-external-ui: ./ui        # Web Dashboard 文件目录（后面 4.6 装）
-
-# 全局
-mode: rule               # rule / global / direct
-log-level: info
-allow-lan: true          # ⭐ 让局域网设备能用，必须开
+mixed-port: 7890                      # HTTP/SOCKS 同端口（VM 都用这个）
+allow-lan: true                       # ⭐ 让局域网设备能用，必须开
 bind-address: '*'
+mode: rule                            # rule / global / direct
+log-level: info
+external-controller: '0.0.0.0:9090'   # API 监听
+secret: '<RANDOM_LONG_STRING>'        # API 密码
 ```
 
-### 4.5 创建 systemd 服务
+顺手看一眼订阅有没有引用外部资源，这些启动时要从外网拉：
+
+```bash
+# geodata 相关字段
+grep -E "(geodata|geox-url|geoip|geosite)" /etc/mihomo/config.yaml | head -20
+
+# rule-providers / proxy-providers（会从外部 URL 拉规则）
+grep -E "^(rule-providers|proxy-providers):" /etc/mihomo/config.yaml
+grep -A 5 "url:" /etc/mihomo/config.yaml | head -30
+```
+
+### 4.5 预下载 Geo 数据
+
+只要规则里出现 `GEOIP,CN` / `GEOSITE,xxx`（几乎所有订阅都有），Mihomo 首次启动会去 GitHub 拉 `geoip.dat` / `geosite.dat` / `Country.mmdb`。此时代理还没起来，**要么卡很久要么直接起不来**。先手动用镜像下好：
+
+```bash
+cd /etc/mihomo
+
+# 三个文件，用 ghfast 加速
+wget -O geoip.dat   "https://ghfast.top/https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat"
+wget -O geosite.dat "https://ghfast.top/https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat"
+wget -O Country.mmdb "https://ghfast.top/https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb"
+
+# 验证
+ls -lh /etc/mihomo/{geoip.dat,geosite.dat,Country.mmdb}
+# 期望：geoip.dat 几 MB，geosite.dat 十几 MB，Country.mmdb 几 MB
+```
+
+> 文件名要精确：`Country.mmdb` 是大写 C，而 release 里叫 `country.mmdb`，所以 `-O` 时改了名。
+
+### 4.6 创建 systemd 服务
 
 ```bash
 cat > /etc/systemd/system/mihomo.service <<'EOF'
 [Unit]
-Description=Mihomo Proxy
-After=network.target
+Description=Mihomo Daemon
+After=network-online.target
+Wants=network-online.target
 
 [Service]
 Type=simple
-User=root
-WorkingDirectory=/opt/mihomo
-ExecStart=/opt/mihomo/mihomo -d /opt/mihomo
+ExecStart=/usr/local/bin/mihomo -d /etc/mihomo
 Restart=on-failure
 RestartSec=5
 LimitNOFILE=1048576
+AmbientCapabilities=CAP_NET_ADMIN CAP_NET_BIND_SERVICE CAP_NET_RAW
 
 [Install]
 WantedBy=multi-user.target
@@ -269,22 +383,48 @@ EOF
 systemctl daemon-reload
 systemctl enable mihomo
 systemctl start mihomo
-
-# 看日志
-journalctl -u mihomo -f --no-pager
-# Ctrl+C 退出
+sleep 3
+systemctl status mihomo --no-pager
+journalctl -u mihomo -n 50 --no-pager
 ```
 
-### 4.6 装 Web Dashboard（metacubexd）
+几个点：
+
+- `After=network-online.target`：容器重启时等网络真起来再启动，不然订阅里的域名解析失败会重试半天
+- `AmbientCapabilities`：TUN 模式和 53 端口 DNS 需要的 cap，提前给上，后面开 TUN 不用回来改
+- `ExecStart` 用绝对路径，避开 PATH 坑
+
+### 4.7 验证代理通不通
+
+```bash
+# 端口起来没
+ss -tlnp | grep -E "7890|9090"
+
+# 走代理
+echo "===== 走代理 ====="
+curl -x http://127.0.0.1:7890 -m 10 -s -o /dev/null -w "Google:  %{http_code}\n" https://www.google.com
+curl -x http://127.0.0.1:7890 -m 10 -s -o /dev/null -w "GitHub:  %{http_code}\n" https://github.com
+curl -x http://127.0.0.1:7890 -m 10 -s -o /dev/null -w "YouTube: %{http_code}\n" https://www.youtube.com
+
+# 直连对比
+echo "===== 不走代理 ====="
+curl -m 5 -s -o /dev/null -w "Google direct: %{http_code}\n" https://www.google.com
+```
+
+期望：走代理三个都 200，直连 Google 是 `000`（超时）。都是 000 就回去看 `journalctl -u mihomo`，大概率是节点选择组还没选到可用节点，或者订阅本身挂了。
+
+### 4.8 装 Web Dashboard（metacubexd）
 
 可视化看流量、切换节点。这里用 metacubexd 官方编译好的 release 包，省得本地装 npm 现编译。
 
 #### Step 1：下载 metacubexd UI
 
-```bash
-cd /opt/mihomo
+代理已经通了，这一步直接走自己的代理拉 GitHub，不用镜像：
 
-# 走自身代理拉（前提：mihomo 已经在跑、订阅可用）
+```bash
+cd /etc/mihomo
+
+# 走自身代理拉（前提：4.7 验证通过）
 export http_proxy=http://127.0.0.1:7890
 export https_proxy=http://127.0.0.1:7890
 
@@ -295,48 +435,44 @@ curl -L -o /tmp/ui.tgz \
 ls -lh /tmp/ui.tgz
 
 # 解压
-mkdir -p /opt/mihomo/ui
-tar -xzf /tmp/ui.tgz -C /opt/mihomo/ui
+mkdir -p /etc/mihomo/ui
+tar -xzf /tmp/ui.tgz -C /etc/mihomo/ui
 rm /tmp/ui.tgz
 
 # 验证
-ls /opt/mihomo/ui/index.html
-```
+ls /etc/mihomo/ui/index.html
 
-下不到走 GitHub 镜像：
-
-```bash
-curl -L -o /tmp/ui.tgz \
-  https://gh-proxy.com/https://github.com/MetaCubeX/metacubexd/releases/latest/download/compressed-dist.tgz
+# 用完记得取消，不然后面 apt 也走代理
+unset http_proxy https_proxy
 ```
 
 #### Step 2：在 config.yaml 加一行 external-ui
 
 ```bash
 # 备份
-cp /opt/mihomo/config.yaml /opt/mihomo/config.yaml.bak.$(date +%F)
+cp /etc/mihomo/config.yaml /etc/mihomo/config.yaml.bak.$(date +%F)
 
 # 看 external-ui 现在在不在
-grep -n "external-ui" /opt/mihomo/config.yaml
+grep -n "external-ui" /etc/mihomo/config.yaml
 
 # 不在的话，在 secret 行后面插 external-ui
-sed -i "/^secret:/a external-ui: /opt/mihomo/ui" /opt/mihomo/config.yaml
+sed -i "/^secret:/a external-ui: /etc/mihomo/ui" /etc/mihomo/config.yaml
 
 # 验证
-grep -A1 "^secret:" /opt/mihomo/config.yaml
+grep -A1 "^secret:" /etc/mihomo/config.yaml
 # 期望看到：
 # secret: '<RANDOM_LONG_STRING>'
-# external-ui: /opt/mihomo/ui
+# external-ui: /etc/mihomo/ui
 ```
 
-#### Step 3：（可选）开 CORS 允许局域网浏览器访问 API
+#### Step 3：开 CORS 允许局域网浏览器访问 API
 
 ```bash
 # 在 external-ui 行后再插 CORS 配置
-sed -i "/^external-ui:/a external-controller-cors:\n    allow-origins:\n        - '*'\n    allow-private-network: true" /opt/mihomo/config.yaml
+sed -i "/^external-ui:/a external-controller-cors:\n    allow-origins:\n        - '*'\n    allow-private-network: true" /etc/mihomo/config.yaml
 
 # 验证
-grep -A4 "^external-ui:" /opt/mihomo/config.yaml
+grep -A4 "^external-ui:" /etc/mihomo/config.yaml
 ```
 
 #### Step 4：重启 + 验证
@@ -360,8 +496,8 @@ LXC 内部连通性测一下：
 curl -s http://127.0.0.1:9090/ui/index.html | head -3
 # 期望：看到 <!DOCTYPE html>... 之类的页面内容
 
-# 测 API
-curl -s -H "Authorization: Bearer <SECRET>" \
+# 测 API（secret 从 4.4 存的文件里读）
+curl -s -H "Authorization: Bearer $(cat /etc/mihomo/secret.txt)" \
   http://127.0.0.1:9090/version
 # 期望：{"version":"...","meta":true}
 ```
@@ -378,7 +514,7 @@ http://192.168.X.12:9090/ui/
 
 ```
 API Base URL:  http://192.168.X.12:9090
-Secret:        <你 config.yaml 里 secret 字段的值>
+Secret:        <你 /etc/mihomo/secret.txt 里的值>
 ```
 
 → Add → 进 dashboard。节点切换、延迟测试、实时流量、规则查看全有。
@@ -387,38 +523,74 @@ Secret:        <你 config.yaml 里 secret 字段的值>
 
 ## 五、订阅自动更新
 
-订阅服务的节点会变（有些一周更新一次）。**写个 cron 自动拉**：
+订阅服务的节点会变（有些一周更新一次）。写个 cron 自动拉。但注意，**订阅原文里没有你在 4.4 / 4.8 改的那些东西**（allow-lan、external-controller、secret、external-ui、CORS）。直接 `curl -o config.yaml` 覆盖，等于把补丁全冲掉，重启后局域网连不上、Dashboard 也没了——我换机场重新拉订阅时就撞过一次。
+
+所以脚本要做四件事：**带 UA/flag 拉 → 粗校验 → 自动回打补丁 → 用 `mihomo -t` 校验后再替换**。
 
 ```bash
-# 自动更新脚本
-cat > /opt/mihomo/update-sub.sh <<'EOF'
+cat > /etc/mihomo/update-sub.sh <<'EOF'
 #!/bin/bash
-SUBSCRIPTION_URL='<YOUR_SUBSCRIPTION_URL>'
-TARGET=/opt/mihomo/config.yaml
-TMP=/tmp/mihomo-config-new.yaml
+# 订阅自动更新：拉取 → 校验 → 回打补丁 → mihomo -t → 替换 → 重启
+set -u
+SUB_URL='<YOUR_SUBSCRIPTION_URL>'
+DIR=/etc/mihomo
+TARGET=$DIR/config.yaml
+TMP=$(mktemp /tmp/mihomo-config.XXXXXX)
+SECRET=$(cat "$DIR/secret.txt")
+MIHOMO=/usr/local/bin/mihomo     # cron 的 PATH 没有 /usr/local/bin，写死
 
-curl -fsSL --connect-timeout 10 "$SUBSCRIPTION_URL" -o "$TMP"
+fail() { echo "[$(date)] Update FAILED: $1"; rm -f "$TMP"; exit 1; }
 
-# 简单校验：文件大小 > 10KB（防止 502 写入空文件）
-if [ -s "$TMP" ] && [ $(stat -c %s "$TMP") -gt 10240 ]; then
-    cp "$TARGET" "${TARGET}.bak"
-    mv "$TMP" "$TARGET"
-    systemctl reload mihomo 2>/dev/null || systemctl restart mihomo
-    echo "[$(date)] Update OK"
-else
-    echo "[$(date)] Update FAILED, file too small"
-    rm -f "$TMP"
-    exit 1
-fi
+# 1. 拉订阅：UA + flag 缺一不可
+curl -fsSL --connect-timeout 10 -m 60 -A "ClashMeta" \
+  "${SUB_URL}?flag=clash.meta" -o "$TMP" || fail "download error"
+
+# 2. 粗校验：大小 > 10KB 且看着像 Clash YAML（防 502 页面 / base64 写进去）
+[ "$(stat -c %s "$TMP")" -gt 10240 ] || fail "file too small"
+grep -q "^proxies:" "$TMP" || fail "not a clash yaml"
+
+# 3. 回打补丁（有就改，没有就追加）
+sed -i -e '$a\' "$TMP"   # 保证文件末尾有换行，后面 echo >> 才安全
+set_kv() {
+  if grep -q "^$1:" "$TMP"; then
+    sed -i "s|^$1:.*|$1: $2|" "$TMP"
+  else
+    echo "$1: $2" >> "$TMP"
+  fi
+}
+set_kv allow-lan true
+set_kv external-controller "'0.0.0.0:9090'"
+set_kv secret "'$SECRET'"
+set_kv external-ui /etc/mihomo/ui
+grep -q "^external-controller-cors:" "$TMP" || cat >> "$TMP" <<CORS
+external-controller-cors:
+  allow-origins:
+    - '*'
+  allow-private-network: true
+CORS
+
+# 4. 让 mihomo 自己校验一遍配置，语法错 / 节点格式不认都会在这里拦住
+"$MIHOMO" -t -d "$DIR" -f "$TMP" >/dev/null 2>&1 || fail "mihomo -t rejected config"
+
+# 5. 替换 + 重启
+cp "$TARGET" "${TARGET}.bak"
+cp "$TMP" "$TARGET" && rm -f "$TMP"
+systemctl restart mihomo
+echo "[$(date)] Update OK"
 EOF
 
-chmod +x /opt/mihomo/update-sub.sh
+chmod +x /etc/mihomo/update-sub.sh
+
+# 先手动跑一次，确认 OK
+/etc/mihomo/update-sub.sh
 
 # 加 cron：每天凌晨 4 点更新
 crontab -e
 # 添加：
-# 0 4 * * * /opt/mihomo/update-sub.sh >> /var/log/mihomo-update.log 2>&1
+# 0 4 * * * /etc/mihomo/update-sub.sh >> /var/log/mihomo-update.log 2>&1
 ```
+
+> 想彻底摆脱"订阅覆盖配置"这个问题，更干净的做法是 config.yaml 完全自己写，订阅只作为 `proxy-providers` 引用进来，Mihomo 会按 `interval` 自己刷新节点。代价是 rules / proxy-groups 要自己维护，适合折腾到第二阶段再上。
 
 ---
 
@@ -491,11 +663,31 @@ EOF
 
 **原因**：LXC 默认禁止访问 /dev/net/tun。
 
-**解决**：本文 3.3 章节的 lxc.conf 修改 + mknod。
+**解决**：本文 3.3 章节的 lxc.conf 修改（bind 宿主 `/dev/net`），非特权容器别想着 mknod。
 
 ---
 
-### 坑 2：Day 2 - 局域网其他设备连不上 7890
+### 坑 2：Day 1 - 装完 mihomo 敲不出来：command not found
+
+**症状**：`mv mihomo /usr/local/bin/` 之后 `mihomo -v` 报 command not found，但 `/usr/local/bin/mihomo -v` 正常。
+
+**原因**：`pct enter` 进来的 shell 不是 login shell，PATH 只有 `/usr/sbin:/usr/bin:/sbin:/bin`，没有 `/usr/local/bin`。一开始还以为是 bash 缓存，`hash -r` 了两遍才发现是 PATH。
+
+**解决**：本文 4.3 的 PATH 修复；systemd 和 cron 里一律写绝对路径。
+
+---
+
+### 坑 3：Day 1 - 订阅拉下来不是 YAML
+
+**症状**：`curl -fsSL "$SUB_URL" -o config.yaml`，mihomo 启动直接报 yaml 解析错误，`cat` 一看是一坨 base64。
+
+**原因**：机场按 User-Agent 分发格式，默认 curl UA 拿到的是通用订阅（v2ray 链接 base64）。
+
+**解决**：本文 4.4，`-A "ClashMeta"` 加 `?flag=clash.meta`。
+
+---
+
+### 坑 4：Day 2 - 局域网其他设备连不上 7890
 
 **症状**：在 lxc-proxy 容器内 `curl localhost:7890` 通，但其他 VM `curl 192.168.X.12:7890` 拒绝。
 
@@ -511,7 +703,7 @@ allow-lan: true
 
 ---
 
-### 坑 3：Day 3 - 重启 LXC 后 mihomo 没起来
+### 坑 5：Day 3 - 重启 LXC 后 mihomo 没起来
 
 **症状**：`pct stop 120 && pct start 120` 后，mihomo 服务挂了。
 
@@ -521,15 +713,15 @@ allow-lan: true
 
 ---
 
-### 坑 4：Day 5 - 订阅自动更新挂了，半天没人发现
+### 坑 6：Day 5 - 订阅自动更新挂了，半天没人发现
 
 **症状**：订阅服务商挂了几小时，cron 拉到空文件覆盖了原 config.yaml，全屋代理瘫痪。
 
-**解决**：本文 5 章节的"文件大小校验"。
+**解决**：本文 5 章节的"文件大小校验 + `mihomo -t`"。
 
 ---
 
-### 坑 5：Day 7 - DNS 污染走代理也没用
+### 坑 7：Day 7 - DNS 污染走代理也没用
 
 **症状**：访问某些被污染的域名，**走代理也是 connection refused**。
 
@@ -553,6 +745,16 @@ dns:
     geoip: true
     geoip-code: CN
 ```
+
+---
+
+### 坑 8：换机场 - 重新拉订阅，Dashboard 和局域网访问全没了
+
+**症状**：换了个机场，`rm config.yaml` 重新 `curl` 订阅，重启后 VM 连不上 7890，`:9090/ui` 也 404。
+
+**原因**：订阅原文没有 allow-lan / external-controller / secret / external-ui / CORS 这些手改项，重新拉等于全部重置。手动 sed 一遍是能救回来，但每次换订阅都要记得这一套太反人类。
+
+**解决**：本文 5 章节的更新脚本会自动回打补丁；换机场时也直接改脚本里的 `SUB_URL` 然后跑一次脚本，不要手动 curl。
 
 ---
 
@@ -595,6 +797,12 @@ dns:
 - 订阅服务挂时，自建节点接管
 
 **订阅 + 自建节点双活**，挂一个不影响。
+
+---
+
+### 反思 4：把 history 当第一手资料
+
+这篇文章第一版是凭记忆写的，四个月后回头对着容器里的 `history` 一条条核，发现记忆里"顺手就装好了"的地方，实际卡了 PATH、订阅格式、Geo 下载三次。教训：**装完当天就 `history > ~/setup-$(date +%F).log` 存一份**，写文章、重装、排障都靠它。
 
 ---
 
@@ -642,8 +850,17 @@ pct enter 120
 systemctl start/stop/restart/status mihomo
 journalctl -u mihomo -f --no-pager
 
+# 改完配置先校验再重启
+/usr/local/bin/mihomo -t -d /etc/mihomo
+
+# 查 secret
+cat /etc/mihomo/secret.txt
+
+# 手动触发订阅更新
+/etc/mihomo/update-sub.sh
+
 # 看代理状态
-curl -s http://192.168.X.12:9090/proxies?secret=<SECRET> | jq
+curl -s -H "Authorization: Bearer <SECRET>" http://192.168.X.12:9090/proxies | jq
 
 # 切换节点（API）
 curl -X PUT http://192.168.X.12:9090/proxies/<GROUP_NAME> \
@@ -657,6 +874,7 @@ curl -x http://192.168.X.12:7890 https://api.ipify.org
 pct stop 120
 pct start 120
 pct exec 120 -- systemctl status mihomo
+pct push 120 ./mihomo.gz /tmp/mihomo.gz   # 从 PVE 推文件进容器
 ```
 
 ---
