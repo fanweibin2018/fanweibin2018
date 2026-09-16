@@ -3,8 +3,62 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-16T09:15:00+08:00",
+  "updatedAt": "2026-09-16T16:49:25+08:00",
   "items": [
+    {
+      "title": "Beta版Fedora Linux 45推出：文本渲染更平滑、升级GNOME 51/KDE Plasma 6.7",
+      "summary": "Fedora Linux 45 Beta发布，采用kmscon替代传统内核帧缓冲控制台以提升文本渲染，升级至GNOME 51与KDE Plasma 6.7，RPM默认强制校验包签名，正式版预计10月20日发布。",
+      "publishedAt": "2026-09-16T09:09:36+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/865.htm",
+      "subCategory": "开源生态",
+      "id": "tech-20260916-012"
+    },
+    {
+      "title": "谷歌推送Android 17 QPR1更新，覆盖Pixel 6至Pixel 11系列",
+      "summary": "谷歌发布Android 17 QPR1正式版，包含9月安全补丁，系统模糊效果增强，媒体播放器采用Material 3轮播界面，快捷设置新增弹性动画，覆盖Pixel 6至Pixel 11全系列机型。",
+      "publishedAt": "2026-09-16T08:59:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/860.htm",
+      "subCategory": "操作系统",
+      "id": "tech-20260916-009"
+    },
+    {
+      "title": "蒲得宇：2026Q2英特尔18A工艺良率约为80%，好于预期",
+      "summary": "分析师蒲得宇称，英特尔18A工艺2026年二季度良率约80%，好于预期，对应Panther Lake产品线；大型服务器芯片CWF项目良率约50%，较6月约20%明显提升。",
+      "publishedAt": "2026-09-16T08:57:05+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/859.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260916-008"
+    },
+    {
+      "title": "东芝推出全新Canvio Ready移动机械硬盘，顶盖采用65%回收材料制造",
+      "summary": "东芝发布新款Canvio Ready移动机械硬盘，顶盖采用65%回收材料制造，提供1TB/2TB/4TB三种容量，支持USB 5Gbps传输并配备防震传感器，预计今年第四季度上市。",
+      "publishedAt": "2026-09-16T08:44:17+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/856.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260916-010"
+    },
+    {
+      "title": "索尼发布PS Pulse与Pulse Edge无线耳机：平面磁驱动，支持PlayStation Link",
+      "summary": "索尼推出PlayStation Pulse与Pulse Edge无线耳机，均采用定制平面磁驱动单元并支持PlayStation Link，兼容PS5、Portal及PC等设备，Pulse将于今年假期上市，Pulse Edge则于2027年初发售。",
+      "publishedAt": "2026-09-16T08:41:13+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/855.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260916-011"
+    },
+    {
+      "title": "\"交管12123\"App竟能被山寨，总台起底模拟软件乱象",
+      "summary": "电商平台上出现仿冒\"交管12123\"App，界面高度还原且驾驶证、车辆信息等可任意编辑，被用于伪造电子驾驶证、虚构购车记录，专家指出开发者不能以\"技术中立\"免责，涉嫌构成伪造证件犯罪。",
+      "publishedAt": "2026-09-16T08:26:23+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/852.htm",
+      "subCategory": "安全漏洞",
+      "id": "tech-20260916-007"
+    },
     {
       "title": "苹果 M6 Mac mini 跑分曝光：单核较 M4 款高 24%、多核高 48%",
       "summary": "GeekBench社区曝光苹果新款M6 Mac mini跑分，型号Mac18,5配备32GB内存、运行macOS 27，单核4071分、多核22783分，较M4机型单核提升24%、多核提升48%，预计9月22日开始发货。",
@@ -51,6 +105,15 @@
       "id": "tech-20260916-005"
     },
     {
+      "title": "一箭九星：引力一号遥三火箭发射成功，我国火箭单次海上发射载荷重量创新高",
+      "summary": "东方空间引力一号遥三火箭9月16日6时在黄海海域发射，一箭九星，净载荷超3吨，创中国单次海上发射载荷重量新高，轨道高度约800公里，这是该型火箭第四次发射且四战四捷。",
+      "publishedAt": "2026-09-16T06:43:12+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/827.htm",
+      "subCategory": "航空航天",
+      "id": "tech-20260916-006"
+    },
+    {
       "title": "荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发",
       "summary": "荣耀在开发者大会上宣布与华为旗下引望达成深度合作，支持手机应用一碰上车功能，该功能将率先搭载于启境GX7车型，后续逐步扩展至更多车型。",
       "publishedAt": "2026-09-15T23:35:08+08:00",
@@ -58,6 +121,51 @@
       "url": "https://www.ithome.com/1/002/814.htm",
       "subCategory": "智能汽车",
       "id": "tech-20260915-015"
+    },
+    {
+      "title": "互传联盟推出\"碰一碰互传技术标准\"：荣耀、OPPO、vivo、小米联调，10月中旬起陆续推送",
+      "summary": "互传联盟发布跨品牌\"碰一碰互传\"统一技术标准，由荣耀、OPPO、vivo与小米技术团队联合调试打通底层协议，用户无需额外下载即可在不同品牌手机间传输图片文档，10月中旬起陆续通过系统更新推送。",
+      "publishedAt": "2026-09-15T23:14:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/799.htm",
+      "subCategory": "互联网产品",
+      "id": "tech-20260915-021"
+    },
+    {
+      "title": "美光展示全球首个512GB DDR5内存模组，支持9200MT/s传输速率",
+      "summary": "美光发布全球首款512GB DDR5内存模组，采用3DS RDIMM堆叠技术，支持9200MT/s传输速率，双路24插槽服务器可实现12TB内存容量，较四条128GB模组节能超六成，2027下半年量产。",
+      "publishedAt": "2026-09-15T22:09:35+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/783.htm",
+      "subCategory": "芯片硬件",
+      "id": "tech-20260915-020"
+    },
+    {
+      "title": "消息称苹果Car Key数字车钥匙即将支持林肯、神行者和Lucid车型",
+      "summary": "据MacRumors报道，苹果钱包代码变动显示林肯、Freelander神行者与Lucid Motors车型将支持Car Key数字车钥匙功能，可用iPhone或Apple Watch解锁、远程启动车辆，具体车型与上线时间尚未公布。",
+      "publishedAt": "2026-09-15T22:00:40+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/782.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260915-018"
+    },
+    {
+      "title": "用户称PNY RTX 5090显卡玩低负载游戏后，16-pin供电接口熔毁",
+      "summary": "一名Reddit用户称其PNY RTX 5090显卡在运行低负载游戏《地牢隐者》时16-pin供电接口熔毁，显卡当时并未接近600W满载功率，PNY客服拒绝承担责任，凸显12VHPWR接口反复出现的可靠性问题。",
+      "publishedAt": "2026-09-15T21:45:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/778.htm",
+      "subCategory": "消费电子",
+      "id": "tech-20260915-019"
+    },
+    {
+      "title": "比亚迪辅助驾驶车型保有量超372万辆，天神之眼每天生成数据超2.3亿公里",
+      "summary": "比亚迪披露截至8月31日搭载天神之眼等辅助驾驶系统的车型保有量超372万辆，8月相关车型销量20.15万辆，天神之眼系统每日产生行驶数据超2.3亿公里。",
+      "publishedAt": "2026-09-15T21:19:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/772.htm",
+      "subCategory": "智能汽车",
+      "id": "tech-20260915-017"
     },
     {
       "title": "树莓派 Raspberry Pi OS 更新：新增程序坦、启动台",
@@ -546,6 +654,15 @@
       "subCategory": "安全漏洞"
     },
     {
+      "id": "tech-20260912-011",
+      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
+      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
+      "publishedAt": "2026-09-12T10:14:00-04:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "subCategory": "安全漏洞"
+    },
+    {
       "id": "tech-20260912-012",
       "title": "天龙3号遥二火箭完成总装总测",
       "summary": "天兵科技天龙3号遥二运载火箭完成总装与总测，计划今年第四季度择机复飞，此前遥一火箭因液氧尾焰引发发动机舱起火导致发射失利。",
@@ -607,123 +724,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/001/602.htm",
       "subCategory": "XR-AR-VR"
-    },
-    {
-      "id": "tech-20260912-016",
-      "title": "欧洲首个全无人Robotaxi在克罗地亚上线",
-      "summary": "由Rimac支持的自动驾驶出行公司Verne在克罗地亚萨格勒布上线欧洲首个全无人Robotaxi载客服务，车辆基于极狐Alpha T5打造，搭载小马智行自动驾驶系统，车内无安全员。",
-      "publishedAt": "2026-09-12T17:14:00+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/599.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260912-006",
-      "title": "2027款极敳7X申报图公布，计劒2026年四季度上市",
-      "summary": "工信部公示2027款极敳7X申报信息，新车尺寸4825×1930×1666/1656毫米，轴距2925毫米，采用封闭式电动前脸设计，新增85kWh电池选装，电机最大功率370千瓦，最高车速240公里/小时，计劒2026年四季度上市。",
-      "publishedAt": "2026-09-12T16:18:45+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/592.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260912-011",
-      "title": "荷兰NCSC警告Check Point VPN严重漏洞",
-      "summary": "荷兰国家网络安全中心警告，Check Point VPN产品存在两个可致远程代码执行的严重漏洞CVE-2026-85102和CVE-2026-85103，评估攻击很快会发生，建议立即升级。",
-      "publishedAt": "2026-09-12T10:14:00-04:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260912-001",
-      "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
-      "summary": "OpenAI 内部存储平台 Habitat 完成从 Python 到 Rust 的迁移，该平台管理超过 500PB 数据，服务约 10 亿 ChatGPT 周活跃用户。据介绍，迁移后 CPU 效率提升 6 倍，内存效率提升 15 倍，Rust 版本目前已承担 95% 生产流量，Python 版本将逐步下线。",
-      "publishedAt": "2026-09-12T08:07:04+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/497.htm",
-      "subCategory": "开发者工具"
-    },
-    {
-      "id": "tech-20260912-002",
-      "title": "黑客滥用 Claude 从 180 万个 Android 应用中窃取密钥信息",
-      "summary": "Anthropic披露，包括ShinyHunters、俄罗斯背景的Midnight Blizzard及使用中文的GTG-10007在内的多个威胁组织，在 2025 年 12 月至 2026 年 8 月期间滥用其 Claude 模型开展网络攻击。其中一名攻击者下载并反编译 180 万个 Android 安装包，扫描硬编码密钥，还曾在 34 小时内提取超过 2100 个 Azure AD 令牌，涉及 40 多个企业租户。Anthropic 已中断相关活动并通报执法部门。",
-      "publishedAt": "2026-09-12T04:19:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260912-003",
-      "title": "佛罗里达州确认 DMV 数据库因被盗警员账号遗侵",
-      "summary": "佛罗里达州机动车管理局证实 DAVID 驾驶员数据库遭入侵，源于普兰特城一名警员存放在个人设备的登录凭证被盗用。团伙 ShinyHunters 称利用密码重置漏洞入侵多账号并下载超 20 万条驾驶员记录，但该机构调查认为入侵仅因警察账号凭证被盗，未证实黑客所称漏洞细节及数据规模。",
-      "publishedAt": "2026-09-12T03:00:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260912-004",
-      "title": "通行密钥主题钓鱼攻击致 Microsoft 365 数据被窃",
-      "summary": "多个与 ShinyHunters、Helix、Falcon 等勒索团伙有关联的攻击者自 2026 年 5 月起针对企业 Microsoft 365 账号发起钓鱼攻击，冒充 IT 支持人员通过电话或短信催促员工更新登录凭证，诱导其访问仿冒的微软登录页面，通过中间人攻击和设备代码钓鱼窃取凭证及会话令牌，随后利用 Microsoft Graph 枚举云环境并窃取 SharePoint、OneDrive 与 Exchange 中的数据。",
-      "publishedAt": "2026-09-12T01:26:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260912-005",
-      "title": "JFrog Artifactory 漏洞被串联利用以部署后门恶意软件",
-      "summary": "安全研究人员发现，攻击者正利用 JFrog Artifactory 三个漏洞攻击自托管服务器：组合 CVE-2026-42018 与 CVE-2026-42016 可在五分钟内绕过认证并提权至管理员，另一漏洞 CVE-2026-82329 可用于伪造管理员令牌。得手后攻击者会安装 Groovy 插件并部署具备 C2 功能的自定义 Rust 后门。8 月 15 日至9 月8 日期间已有多个攻击者利用该漏洞，目前近半数可触达实例仍未修复。",
-      "publishedAt": "2026-09-12T00:29:00+08:00",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "subCategory": "安全漏洞"
-    },
-    {
-      "id": "tech-20260911-201",
-      "title": "努比亚冰淇淋散热器开售：至低-18℃ 制冷、25W 峰值功率，99 元",
-      "summary": "努比亚推出冰淇淋主题手机散热器并开售，售价99元，重90克，采用红魄16 Pro同款96个PN结高密度TEC散热元件，最高降温60℃，配备七叶片风扇转速6000转，支持磁吸与支架两种固定方式，厚度25毫米。",
-      "publishedAt": "2026-09-11T22:59:23+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/467.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260911-202",
-      "title": "R 星称《GTA 6》线上模式细节是“最高机密”，保密工作堤比可口可乐配方",
-      "summary": "据Rockstar在一起涉及31名前员工的劳动仲裁案法庭文件，公司称《GTA 6》线上模式细节是公司最严密保护的机密之一，内部曾提及“32人在线模式”但属内部猜测而非最终规格；公司称保护游戏机密如同苹果保护iPhone或可口可乐保护配方，设5名专职调查员及1名主管防止泄密，并提及2022年因钓鱼攻击导致的内部Slack泄露事件。",
-      "publishedAt": "2026-09-11T22:51:39+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/466.htm",
-      "subCategory": "互联网产品"
-    },
-    {
-      "id": "tech-20260911-103",
-      "title": "开发者为V社 Steam Controller 手柄开发 LiveHaptics Mod，可将系统音频转为触觉反馈",
-      "summary": "开发者推出开源工具LiveHaptics，可实时将PC系统音频转换为Steam Controller的触觉反馈，支持USB、蓝牙及Steam Puck连接，无需游戏单独适配，对听障玩家具备辅助价值。",
-      "publishedAt": "2026-09-11T08:38:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/095.htm",
-      "subCategory": "消费电子"
-    },
-    {
-      "id": "tech-20260911-102",
-      "title": "36.9 万元起特斯拉中国焚新款 Model Y 高性能全轮驱动版上市：百公里加速 3.5 秒、标配 21 英寸蛛网轮辂 2.0",
-      "summary": "特斯拉中国推出焚新款Model Y高性能全轮驱动版，起售价36.9万元，CLTC续航659公里，百公里加速3.5秒，最高时速250公里，标配21英寸蛛网轮辂2.0及连续可变阻尼悬架。",
-      "publishedAt": "2026-09-11T08:35:19+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/093.htm",
-      "subCategory": "智能汽车"
-    },
-    {
-      "id": "tech-20260911-101",
-      "title": "阔别 6 年陶瓷款苹果 Apple Watch 回归，Series 12 尺寸 / 重量对比",
-      "summary": "苹果时隔6年在Apple Watch Series 12重新推出陶瓷表壳，提供珍珠白与暗夜蓝配色。46mm陶瓷版重52.9克，比同尺寸铝金属GPS+蜂窝片版重约14.3克，机身尺寸也略大于铝金属和钗金属版本。",
-      "publishedAt": "2026-09-11T08:32:03+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/1/001/092.htm",
-      "subCategory": "消费电子"
     }
   ]
 }

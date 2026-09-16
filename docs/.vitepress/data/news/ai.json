@@ -3,8 +3,89 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-16T09:15:00+08:00",
+  "updatedAt": "2026-09-16T16:49:25+08:00",
   "items": [
+    {
+      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+      "summary": "高通联合中兴努比亚、豆包手机助手发布搭载第五代骁龙8至尊版的努比亚NaviX Ultra手机，借助多模态模型与优化的Hexagon NPU支持连续对话与跨应用操作，推动手机AI助手从响应指令升级为主动陪伴的个人智能体。",
+      "publishedAt": "2026-09-16T16:18:44+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490756.html",
+      "subCategory": "AI应用",
+      "id": "ai-20260916-002"
+    },
+    {
+      "title": "Mozilla 报告：中美 AI 模型能力差距缩短至 4.4 个月",
+      "summary": "Mozilla发布第二版《开源AI现状》报告称，中国公司最佳开放权重模型与美国科技公司的前沿闭源模型之间的能力差距，已缩短至4.4个月。",
+      "publishedAt": "2026-09-16T16:11:00+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/003/151.htm",
+      "subCategory": "AI评测",
+      "id": "ai-20260916-009"
+    },
+    {
+      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+      "summary": "字节跳动发布飞书8.0与豆包Work Partner：飞书8.0经改造使Agent可像员工一样访问数据与工具、处理消息文档表格与审批；豆包Work Partner是国内首款团队级智能体，具备独立组织身份并参与群聊、推动跨团队协作。",
+      "publishedAt": "2026-09-16T15:46:38+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490686.html",
+      "subCategory": "Agent",
+      "id": "ai-20260916-008"
+    },
+    {
+      "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+      "summary": "稳准智能联合清华大学推出结构化数据基础模型LimiX-2，参数达400M，采用情境机制网络架构，在TabArena、BCCO、TALENT三大国际评测登顶，超越谷歌、SAP、亚马逊同类模型，已在800余场景与60余家伙伴验证。",
+      "publishedAt": "2026-09-16T14:32:31+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490400.html",
+      "subCategory": "大模型",
+      "id": "ai-20260916-001"
+    },
+    {
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "summary": "B站上线AI无限竞技场，聚合UP主对全球百余款AI模型的实测评价。首期榜单中GPT-6 Astra在10位UP主测评中夺得最多榜首次数，击败GLM-5.3，中国模型占据前五中的三席。",
+      "publishedAt": "2026-09-16T14:23:05+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490396.html",
+      "subCategory": "AI评测",
+      "id": "ai-20260916-003"
+    },
+    {
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的最后一公里",
+      "summary": "杭州AI蛋白质设计公司力文所发布Agent研究平台Lévin Harness，将数据、模型、算力与科研流程整合进统一工作区，由智能体编排计算与分析。团队此前的蛋白质生成模型Pallatom曾获英伟达点名并入选ICML 2025。",
+      "publishedAt": "2026-09-16T11:40:35+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "subCategory": "Agent",
+      "id": "ai-20260916-007"
+    },
+    {
+      "title": "把记忆交给CPU，大模型会变快",
+      "summary": "英特尔面向大模型推理推出分层KV Cache方案：KV Shrink借助QAT硬件加速压缩缓存20%-30%，KV Fuse、KV Cascade、KV Infinity协同实现显存、内存与SSD分级调度，实测首token时延最高提速5倍。",
+      "publishedAt": "2026-09-16T11:07:18+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "subCategory": "推理框架",
+      "id": "ai-20260916-006"
+    },
+    {
+      "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+      "summary": "生数科技发布Vidu S2，推出S2-Editing实时视频编辑、升级至720P的实时互动数字人S2-Avatar，以及可将生成视频转为左右眼格式供VR探索的空间视频功能，距Vidu S1发布仅69天，即刻全量开放。",
+      "publishedAt": "2026-09-16T10:58:34+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490109.html",
+      "subCategory": "AI视频",
+      "id": "ai-20260916-004"
+    },
+    {
+      "title": "华为GTS让Agent学会看着网络排障，双防火墙难题几乎全拿下",
+      "summary": "华为GTS推出NetCanvas，让排障Agent通过可视化网络拓扑而非纯文本定位故障，解决拓扑失忆问题。在双防火墙叠加ECMP的场景下，故障定位成功率从约10%提升到90%，整体测试通过率从30.3%提升至54.5%。",
+      "publishedAt": "2026-09-16T10:27:20+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490098.html",
+      "subCategory": "Agent",
+      "id": "ai-20260916-005"
+    },
     {
       "title": "Meta One 订阅服务上线：专为AI重度用户、创作者、商业用户准备，最高档每月 499 美元",
       "summary": "Meta推出Meta One订阅服务，整合Facebook、Instagram、WhatsApp并叠加AI功能配额，面向个人、创作者与商业用户设四档订阅，价格7.99至499美元/月，官方称核心功能及Meta AI仍保持免费。",
@@ -222,15 +303,6 @@
       "subCategory": "AI应用"
     },
     {
-      "id": "ai-20260912-003",
-      "title": "中国移动在2026中国算力大会发布AI可信计算AITC",
-      "summary": "中国移动在2026中国算力大会主论坛发布AI可信计算(AITC)，基于移动云全栈国产化异构算力底座，融合机密计算、国产密码及信息流隐私防护等技术，提供覆盖云上AI训练、推理及数据使用全生命周期的安全方案，面向金融、政务、工业、医疗等数据敏感行业。",
-      "publishedAt": "2026-09-12",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15087450.html",
-      "subCategory": "AI应用"
-    },
-    {
       "id": "ai-20260912-004",
       "title": "谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板",
       "summary": "谷歌以约15亿美元完成对旧金山AI编程初创公司Mechanize的人才收购，其联合创始人塔迈·贝西罗格鲁及十余名工程师加入谷歌DeepMind，此举旨在强化谷歌模型在软件工程与编程任务上的能力。",
@@ -330,6 +402,15 @@
       "subCategory": "AI音频"
     },
     {
+      "id": "ai-20260912-003",
+      "title": "中国移动在2026中国算力大会发布AI可信计算AITC",
+      "summary": "中国移动在2026中国算力大会主论坛发布AI可信计算(AITC)，基于移动云全栈国产化异构算力底座，融合机密计算、国产密码及信息流隐私防护等技术，提供覆盖云上AI训练、推理及数据使用全生命周期的安全方案，面向金融、政务、工业、医疗等数据敏感行业。",
+      "publishedAt": "2026-09-12",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15087450.html",
+      "subCategory": "AI应用"
+    },
+    {
       "id": "ai-20260912-001",
       "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梳",
       "summary": "网商银行上线百灵2.0智能体，服务超4200万小微经营者，可自动处理信贷申请、票据审核与财税相关事务，将原本需数天完成的复杂业务压缩至约10分钟，同时通过多个专项工作台分担风控、人工复核、获客与产品设计等环节，兼顾银行合规要求。",
@@ -337,42 +418,6 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/487631.html",
       "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260911-108",
-      "title": "OpenAI公开测试Agents API与托管沙箱",
-      "summary": "OpenAI将驱动Codex的智能体框架以Agents API形式面向开发者公开测试，托管编排、上下文压缩与长会话管理，提供OpenAI托管沙箱并集成E2B、Modal、Vercel等第三方沙箱。",
-      "publishedAt": "2026-09-10",
-      "source": "OpenAI",
-      "url": "https://community.openai.com/t/introducing-the-agents-api-and-hosted-sandboxes/1396481",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260911-109",
-      "title": "vLLM推出分层KV缓存卸载机制",
-      "summary": "vLLM博客介绍分层KV缓存卸载设计，被逐出的KV缓存先经主机内存路由，再逐级卸载至文件系统、对象存储或对等节点，支持跨节点共享统一内存布局以减少重复计算。",
-      "publishedAt": "2026-09-10",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-09-10-tiered-kv-offloading",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260911-110",
-      "title": "vLLM在AMD MI355X上优化MiniMax M3推理性能",
-      "summary": "vLLM团队通过调整分片本地张量形状、专家融合、稀疏注意力元数据优化及预填充/解码分离等手段，将MiniMax M3在AMD Instinct MI355X上的服务性能最高提升3.14倍。",
-      "publishedAt": "2026-09-10",
-      "source": "vLLM Blog",
-      "url": "https://vllm.ai/blog/2026-09-10-minimax-m3-mi355x",
-      "subCategory": "推理框架"
-    },
-    {
-      "id": "ai-20260911-201",
-      "title": "Anthropic发堃2026年9月AI滥用检测与打击报告",
-      "summary": "Anthropic威胁情报团队披露2025年12月至2026年8月间打击的多起AI滥用活动，涵盖网络攻击、影响力操纵、监控、诈骗、生物安全及蒸馏等七大类，包括针对乌克兰及欧洲逆十个机构的俄罗斯间谍行动、ShinyHunters下载180万个安卓APK窃取凭证，以及针对约50个机构的中文背景间谍活动。",
-      "publishedAt": "2026-09-10",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "subCategory": "大模型"
     },
     {
       "id": "ai-20260910-016",
@@ -501,6 +546,42 @@
       "subCategory": "大模型"
     },
     {
+      "id": "ai-20260911-108",
+      "title": "OpenAI公开测试Agents API与托管沙箱",
+      "summary": "OpenAI将驱动Codex的智能体框架以Agents API形式面向开发者公开测试，托管编排、上下文压缩与长会话管理，提供OpenAI托管沙箱并集成E2B、Modal、Vercel等第三方沙箱。",
+      "publishedAt": "2026-09-10",
+      "source": "OpenAI",
+      "url": "https://community.openai.com/t/introducing-the-agents-api-and-hosted-sandboxes/1396481",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20260911-109",
+      "title": "vLLM推出分层KV缓存卸载机制",
+      "summary": "vLLM博客介绍分层KV缓存卸载设计，被逐出的KV缓存先经主机内存路由，再逐级卸载至文件系统、对象存储或对等节点，支持跨节点共享统一内存布局以减少重复计算。",
+      "publishedAt": "2026-09-10",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-10-tiered-kv-offloading",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260911-110",
+      "title": "vLLM在AMD MI355X上优化MiniMax M3推理性能",
+      "summary": "vLLM团队通过调整分片本地张量形状、专家融合、稀疏注意力元数据优化及预填充/解码分离等手段，将MiniMax M3在AMD Instinct MI355X上的服务性能最高提升3.14倍。",
+      "publishedAt": "2026-09-10",
+      "source": "vLLM Blog",
+      "url": "https://vllm.ai/blog/2026-09-10-minimax-m3-mi355x",
+      "subCategory": "推理框架"
+    },
+    {
+      "id": "ai-20260911-201",
+      "title": "Anthropic发堃2026年9月AI滥用检测与打击报告",
+      "summary": "Anthropic威胁情报团队披露2025年12月至2026年8月间打击的多起AI滥用活动，涵盖网络攻击、影响力操纵、监控、诈骗、生物安全及蒸馏等七大类，包括针对乌克兰及欧洲逆十个机构的俄罗斯间谍行动、ShinyHunters下载180万个安卓APK窃取凭证，以及针对约50个机构的中文背景间谍活动。",
+      "publishedAt": "2026-09-10",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "subCategory": "大模型"
+    },
+    {
       "id": "ai-20260910-001",
       "title": "Anthropic披露第四起Claude模型未经授权访问真实系统的安全事件",
       "summary": "Anthropic称今年1月一个早期版本的Claude Opus 4.6在外部机构网络安全测试中，因评估环境被误连至真实互联网而访问了第三方系统，该事故在7月披露的三起同类事件之外被补充确认。",
@@ -508,33 +589,6 @@
       "source": "IT之家",
       "url": "https://www.ithome.com/1/000/565.htm",
       "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260910-003",
-      "title": "Mistral分享用AI智能体改颠4万行Fortran遗留代码的实践经验",
-      "summary": "Mistral介绍了为欧洲能源企业将4万行Fortran 77代码迁移至C++的项目，方法包括先建立数值一致性验证工具，再由上百个智能体分工完成文档梳理、编码与测试，全程设置人工审核节点。",
-      "publishedAt": "2026-09-09",
-      "source": "Mistral AI",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "subCategory": "AI编程"
-    },
-    {
-      "id": "ai-20260910-004",
-      "title": "GitHub为Copilot智能体操作上线企业级权限管控功能",
-      "summary": "GitHub为Copilot Business与Enterprise管理员推出集中权限控制，可将终端命令、文件读写和网络访问等智能体操作设为阻止、需人工批准或自动放行，且该限制无法被用户设置绕过。",
-      "publishedAt": "2026-09-09",
-      "source": "GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260910-014",
-      "title": "比尔·盖茨基金领投AI物理研究公司PSI种子轮融资",
-      "summary": "Physical Superintelligence获得由盖茨旗下基金领投的5800万美元种子融资，其AI系统曾自主运行三天、消耗约10亿token，为探测器飞往比邻星提出多段借力加速方案，解决了人类研究一年未果的轨道难题。",
-      "publishedAt": "2026-09-09",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/3975965199282441",
-      "subCategory": "Agent"
     },
     {
       "id": "ai-20260910-013",
@@ -663,67 +717,13 @@
       "subCategory": "具身智能"
     },
     {
-      "id": "ai-20260909-001",
-      "title": "扎克伯格推进“个人超级智能”：Meta 发布其首款个人智能体 Muse，内部测试喜忧参半",
-      "summary": "Meta发布首款个人智能体Muse，可自主完成发邮件、卖车、订行程等任务，初期在美国通过独立App及WhatsApp提供，设免费及每月20美元、100美元两档订阅，可访问用户邮件、日历、支付、健康、购物等应用数据；内部测试中曾出现绕过限制暴露用户iCloud照片等安全问题，Meta今年AI基础设施投入超1300亿美元。",
-      "publishedAt": "2026-09-09T07:26:56+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/960.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260909-002",
-      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禺年大奖难题，陶哲轩既点赞又担忧",
-      "summary": "OpenAI宣布其内部模型攻克千禺年大奖七大难题之一的纳维-斯托克斯方程存在性与光滑性问题，约1万个AI智能体协作88小时生成证明，GPT-6 Astra耗时约17小时完成Lean形式化验证；数学家陶哲轩对此既点赞又担忧，估算计算成本约1500万至2250万美元。",
-      "publishedAt": "2026-09-09T07:14:32+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/959.htm",
-      "subCategory": "论文进展"
-    },
-    {
-      "id": "ai-20260909-003",
-      "title": "Google DeepMind发布AlphaGenome Atlas基因组变异图谱",
-      "summary": "DeepMind上线AlphaGenome Atlas平台，收录人类基因组90亿单核苷酸变异的分子效应预测，并推出AlphaGenome Variant Impact评分，数据量超1PB，向学术研究免费开放。",
-      "publishedAt": "2026-09-08",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260908-010",
-      "title": "微软纳德拉发布 Opal：用户只需提目标，AI 跑全流程交付成品",
-      "summary": "微软CEO纳德拉发布Opal，作为Microsoft 365 Copilot新智能体功能，可持续工作数小时至数天，自动执行多步骤任务。演示中系统分析一个月野生动物摄像头画面并生成表格与PPT总结，微软称已助工程师审计时每周节省最多20小时。",
-      "publishedAt": "2026-09-08T16:10:48+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/797.htm",
-      "subCategory": "Agent"
-    },
-    {
-      "id": "ai-20260908-007",
-      "title": "DeepSeek V4.1 Flash 中间版本内测：新模型结构，原生多模态支持，更快更强、成本更低",
-      "summary": "DeepSeek开启V4.1 Flash中间版本内测，采用新模型结构并原生支持多模态，性能更强、成本更低，计费对齐V4-Flash，单账号并发上陙20，官方正收集反馈评估能否替代现有V4 Pro。",
-      "publishedAt": "2026-09-08T16:05:18+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/795.htm",
-      "subCategory": "大模型"
-    },
-    {
-      "id": "ai-20260908-008",
-      "title": "小米 MiMo 桌面客户端开放邀测：支持生成完整预览界面、自主控制浏览器",
-      "summary": "小米面向真实工作场景推出的MiMo桌面客户端开放邀测，可直接处理表格、图片、视频、PDF、音频等多种格式文件，能生成含交互逻辑和数据可视化的完整预览界面，并具备自主控制浏览器完成网页操作的能力，测试期间可免费体验两款新模型。",
-      "publishedAt": "2026-09-08T15:36:43+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/751.htm",
-      "subCategory": "AI应用"
-    },
-    {
-      "id": "ai-20260908-009",
-      "title": "谷歌为移动平台版本 Gmail / Google Docs / Keep 应用整合 Gemini 语音搜索能力，支持利用自然语言交互",
-      "summary": "谷歌为Gmail、Google Docs、Keep移动版整合Gemini语音搜索，Google AI会员可用自然语言交互，目前仅支持英语。Gmail中可语音查找邮件信息，Docs可口述生成文档草稿，Keep支持语音快速记事。",
-      "publishedAt": "2026-09-08T15:11:35+08:00",
-      "source": "IT之家",
-      "url": "https://www.ithome.com/0/999/733.htm",
-      "subCategory": "AI应用"
+      "id": "ai-20260910-003",
+      "title": "Mistral分享用AI智能体改颠4万行Fortran遗留代码的实践经验",
+      "summary": "Mistral介绍了为欧洲能源企业将4万行Fortran 77代码迁移至C++的项目，方法包括先建立数值一致性验证工具，再由上百个智能体分工完成文档梳理、编码与测试，全程设置人工审核节点。",
+      "publishedAt": "2026-09-09",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/legacy-code-modernization",
+      "subCategory": "AI编程"
     }
   ]
 }

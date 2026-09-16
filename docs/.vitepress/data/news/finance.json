@@ -3,7 +3,7 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-09-16T09:15:00+08:00",
+  "updatedAt": "2026-09-16T16:49:25+08:00",
   "items": [
     {
       "title": "年内成交二次触底16253亿 过往地量后都发生了什么？",
@@ -15,6 +15,33 @@
       "id": "finance-20260916-003"
     },
     {
+      "title": "1票之差！里程碑式数字货币法案未能通过美国参议院，币圈遭重击",
+      "summary": "美国《数字资产市场结构清晰法案》在参议院以49票赞成、50票反对未获推进所需的60票门槛。消息公布后比特币一度跌5.3%至74910美元，以太坊跌逾8%，Coinbase股价重挫12%，约3亿美元杠杆仓位遭强制平仓。",
+      "publishedAt": "2026-09-16T08:06:36+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781823",
+      "subCategory": "风险事件",
+      "id": "finance-20260916-007"
+    },
+    {
+      "title": "德国被爆想游说欧盟对华增税，专家：默茨面对自身问题选错了药",
+      "summary": "彭博报道称，德国政府正筹备对华经济安全措施，可能包括对混合动力汽车加征新关税，以保护战略产业免受中国影响，并与法国协调争取欧盟其他成员国在10月布鲁塞尔峰会上的支持。有专家对该关税测算方法提出质疑。",
+      "publishedAt": "2026-09-16T08:04:25+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781840",
+      "subCategory": "宏观经济",
+      "id": "finance-20260916-010"
+    },
+    {
+      "title": "油价=美债！高盛和野村观点一致：能源才是主导市场的关键，而非AI",
+      "summary": "高盛与野村研究观点趋同，认为原油而非AI才是当前市场主导变量，传导链条为油价至美债收益率至风险资产。长端美债收益率已突破5%，波斯湾局势导致每日约670万桶原油供应缺口，柴油通胀正向运费、食品及PPI领域扩散。",
+      "publishedAt": "2026-09-16T07:55:19+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781841",
+      "subCategory": "大宗商品",
+      "id": "finance-20260916-008"
+    },
+    {
       "title": "美股三大指数收跌 加密货币概念股下挫 美油涨超4%",
       "summary": "9月15日美股收盘，道指跌0.63%报52093.11点，标普500跌0.45%报7585.73点，纳指跌0.78%报25981.57点，Circle、Coinbase等加密货币概念股因监管法案受挫大幅下跌，WTI原油因供应担忧上涨超4%。",
       "publishedAt": "2026-09-16T06:15:00+08:00",
@@ -22,6 +49,24 @@
       "url": "https://finance.eastmoney.com/a/202609163875156073.html",
       "subCategory": "美股",
       "id": "finance-20260916-001"
+    },
+    {
+      "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "summary": "美股三大指数周二集体收跌，道指跌0.63%，标普500跌0.45%，纳指跌0.78%。WTI原油收涨4.4%报105.83美元，10年期美债收益率盘中触及5.04%，创近20年新高。能源板块逆势收涨2.3%，Coinbase跌10.1%。",
+      "publishedAt": "2026-09-16T06:14:47+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781779",
+      "subCategory": "美股",
+      "id": "finance-20260916-005"
+    },
+    {
+      "title": "20年期美债拍卖收益率创历史新高，10年期美债收益率再刷20年新高",
+      "summary": "美国财政部周二拍卖130亿美元20年期国债，得标收益率5.420%创历史新高，较上次拍卖上升21.6个基点。同期10年期美债收益率突破5%至5.045%，为2007年以来最高。摩根大通数据显示，客户空头仓位单周跳升10个百分点。",
+      "publishedAt": "2026-09-16T06:03:57+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781822",
+      "subCategory": "宏观经济",
+      "id": "finance-20260916-006"
     },
     {
       "title": "OpenAI据悉考虑新一轮融资 估值或超1.2万亿美元",
@@ -42,22 +87,31 @@
       "id": "finance-20260916-002"
     },
     {
-      "title": "8月份国民经济运行平稳、发展向新向优",
-      "summary": "国家统计局9月15日发布数据，8月份全国规模以上工业增加值同比增长5.2%，社会消费品零售总额同比增长0.4%，CPI同比上涨0.8%，工业生产者出厂价格同比上涨3.8%，进出口总额同比增长19.8%，城镇调查失业率为5.3%。",
-      "publishedAt": "2026-09-15",
-      "source": "国家统计局",
-      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202609/t20260915_1965307.html",
-      "subCategory": "宏观经济",
-      "id": "finance-20260915-006"
+      "title": "Crypto's biggest Senate push falls flat as the Clarity Act fails to clear a crucial procedural vote",
+      "summary": "美国参议院就加密货币市场结构法案《清晰法案》举行的程序性投票未能达到所需的60票门槛，法案未能推进，比特币及Coinbase、Circle等加密货币概念股应声下跌。",
+      "publishedAt": "2026-09-15T19:05:00Z",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "subCategory": "风险事件",
+      "id": "finance-20260915-009"
     },
     {
-      "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
-      "summary": "据Crunchbase数据，2026年迄今全球销售与营销类初创公司融资总额约75亿美元，涉及830轮融资，全年预计约93亿美元，低于2025年的111亿美元，AI相关企业占据多数投资份额。",
-      "publishedAt": "2026-09-15",
-      "source": "Crunchbase News",
-      "url": "https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/",
+      "title": "沙特最大红海油港暂停装船数周，被曝取消部分欧洲发货，美油盘中涨超5%",
+      "summary": "据彭博及路透报道，沙特连接东部油田与红海延布港的输油管道遭无人机袭击后关闭，或面临长达六周停运；沙特阿美已暂停延布港部分原油装船并取消部分欧洲客户货物。受此影响，WTI原油收涨4.38%报105.83美元，创近四个月新高。",
+      "publishedAt": "2026-09-16T02:00:04+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3781820",
+      "subCategory": "大宗商品",
+      "id": "finance-20260916-009"
+    },
+    {
+      "title": "Evvy raises $40M as it seeks to further women's health research with vaginal microbiome data",
+      "summary": "女性健康公司Evvy完成4000万美元B轮融资，由Catalio Capital Management领投。公司2021年由Priyanka Jain等人创立，提供居家阴道菌群宏基因组测序检测，已服务超10万患者，并与3000名医师合作。",
+      "publishedAt": "2026-09-15T14:13:59Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
       "subCategory": "一级市场",
-      "id": "finance-20260915-008"
+      "id": "finance-20260915-012"
     },
     {
       "title": "因AI投入加大，消息称字节跳动今年上半年利润降至200亿美元",
@@ -67,15 +121,6 @@
       "url": "https://www.ithome.com/1/002/764.htm",
       "subCategory": "公司财报",
       "id": "finance-20260915-010"
-    },
-    {
-      "title": "Crypto's biggest Senate push falls flat as the Clarity Act fails to clear a crucial procedural vote",
-      "summary": "美国参议院就加密货币市场结构法案《清晰法案》举行的程序性投票未能达到所需的60票门槛，法案未能推进，比特币及Coinbase、Circle等加密货币概念股应声下跌。",
-      "publishedAt": "2026-09-15T19:05:00Z",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
-      "subCategory": "风险事件",
-      "id": "finance-20260915-009"
     },
     {
       "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
@@ -123,6 +168,24 @@
       "subCategory": "A股"
     },
     {
+      "title": "8月份国民经济运行平稳、发展向新向优",
+      "summary": "国家统计局9月15日发布数据，8月份全国规模以上工业增加值同比增长5.2%，社会消费品零售总额同比增长0.4%，CPI同比上涨0.8%，工业生产者出厂价格同比上涨3.8%，进出口总额同比增长19.8%，城镇调查失业率为5.3%。",
+      "publishedAt": "2026-09-15",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202609/t20260915_1965307.html",
+      "subCategory": "宏观经济",
+      "id": "finance-20260915-006"
+    },
+    {
+      "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
+      "summary": "据Crunchbase数据，2026年迄今全球销售与营销类初创公司融资总额约75亿美元，涉及830轮融资，全年预计约93亿美元，低于2025年的111亿美元，AI相关企业占据多数投资份额。",
+      "publishedAt": "2026-09-15",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/",
+      "subCategory": "一级市场",
+      "id": "finance-20260915-008"
+    },
+    {
       "id": "finance-20260915-003",
       "title": "曝 Glass Imaging 被OpenAI收购：前苹果员工创办，其影像技术已用于荣耀手机",
       "summary": "OpenAI收购AI影像初创公司Glass Imaging，交易估值超3亿美元；该公司由苹果前员工Ziv Attar和Tom Bishop于2019年创立，核心产品GlassAI通过基于原始传感器数据训练的神经网络替代传统图像信号处理流程，其变焦影像技术已应用于荣耀手机，收购被认为将服务于OpenAI与苹果前设计师乔纳森·艾维合作研发的AI硬件项目。",
@@ -139,6 +202,15 @@
       "source": "证券时报",
       "url": "https://www.stcn.com/article/detail/4184816.html",
       "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20260914-006",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "生产力平台Superhuman收购Y Combinator孵化的AI会议记录工具Fathom。Fathom此前融资超3000万美元，2024年估值9400万美元，拥有超40万月活跃用户，产生逗100万次会议记录，交易将整合进Superhuman约4000万用户的产品体系。",
+      "publishedAt": "2026-09-14T07:45:00-07:00",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260914-004",
@@ -166,15 +238,6 @@
       "source": "华尔街见闻",
       "url": "https://wallstreetcn.com/articles/3781668",
       "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260914-006",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "生产力平台Superhuman收购Y Combinator孵化的AI会议记录工具Fathom。Fathom此前融资超3000万美元，2024年估值9400万美元，拥有超40万月活跃用户，产生逗100万次会议记录，交易将整合进Superhuman约4000万用户的产品体系。",
-      "publishedAt": "2026-09-14T07:45:00-07:00",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "subCategory": "一级市场"
     },
     {
       "id": "finance-20260914-001",
@@ -510,15 +573,6 @@
       "subCategory": "一级市场"
     },
     {
-      "id": "finance-20260911-103",
-      "title": "甲骨文第一财季营收同比增30%至193亿美元，云基础设施收入翻倍",
-      "summary": "甲骨文2027财年第一财季营收同比增30%至193亿美元，云业务收入增62%至116亿美元，其中云基础设施(IaaS)收入同比增121%至74亿美元；剩余履约义务(RPO)增至6640亿美元，公司将全年营收指引上调至900亿美元以上。",
-      "publishedAt": "2026-09-11",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15081415.html",
-      "subCategory": "公司财报"
-    },
-    {
       "id": "finance-20260911-201",
       "title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
       "summary": "9月11日A股三大指数集体收跌，沪指跌1.18%扥3888.11点，深证成指跌1.08%打13471.26点，创业板指跌0.49%扥3322.04点，全市成交额1.99万亿元，超4800只个股下跌；通信设备、发电设备等少数板块上涨，石化、贵金属板块大跌，半导体探底回升收跌。",
@@ -526,6 +580,15 @@
       "source": "中国新闻网",
       "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694730.shtml",
       "subCategory": "A股"
+    },
+    {
+      "id": "finance-20260911-103",
+      "title": "甲骨文第一财季营收同比增30%至193亿美元，云基础设施收入翻倍",
+      "summary": "甲骨文2027财年第一财季营收同比增30%至193亿美元，云业务收入增62%至116亿美元，其中云基础设施(IaaS)收入同比增121%至74亿美元；剩余履约义务(RPO)增至6640亿美元，公司将全年营收指引上调至900亿美元以上。",
+      "publishedAt": "2026-09-11",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15081415.html",
+      "subCategory": "公司财报"
     },
     {
       "id": "finance-20260911-102",
@@ -553,15 +616,6 @@
       "source": "东方财富网",
       "url": "https://finance.eastmoney.com/a/202609103870813653.html",
       "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260910-001",
-      "title": "智通港股投资日志|9月10日",
-      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
-      "publishedAt": "2026-09-10",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
-      "subCategory": "港股"
     },
     {
       "id": "finance-20260910-018",
@@ -645,6 +699,15 @@
       "subCategory": "港股"
     },
     {
+      "id": "finance-20260910-001",
+      "title": "智通港股投资日志|9月10日",
+      "summary": "该投资日志汇总港股上市公司9月10日的重要事项，涵盖业绩公布、股东大会、停复牌、分红派息等类别，其中新鸿基地产公布业绩，兰谷股份、三和建筑集团等多家公司召开股东大会，超过50家企业进行分红派息或宣布除净日期。",
+      "publishedAt": "2026-09-10",
+      "source": "智通财经",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3558841",
+      "subCategory": "港股"
+    },
+    {
       "id": "finance-20260910-010",
       "title": "特朗普称高油价将持续至中期选举后 共和党选情承压",
       "summary": "特朗普表示，美伊冲突预计持续至11月中期选举之后，意味着届时汽油价格难以回落。目前美国全国汽油均价为每加4.22美元，其支持率降至任内最低的33%，民调显示七成受访者对其应对生活成本表现不满。",
@@ -660,69 +723,6 @@
       "publishedAt": "2026-09-10T04:00:00+08:00",
       "source": "Investrade",
       "url": "https://investrade.com/market-review-september-09-2026/",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260910-005",
-      "title": "苹果发布首款折叠屏手机iPhone Duo 起售价15999元",
-      "summary": "苹果在9月发布会上推出首款折叠屏手机iPhone Duo，起售价15999元，10月16日晚开启预订、23日发售；同期发布的iPhone 18 Pro系列较上代涨价1000元。台积电等被提及为该机型芯片代工相关产业链公司。",
-      "publishedAt": "2026-09-10T02:22:00+08:00",
-      "source": "财联社",
-      "url": "https://finance.eastmoney.com/a/202609103869668850.html",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260910-004",
-      "title": "Meta发布AI助手Muse 股价盘中逆市走高",
-      "summary": "9月9日美股盘中，Meta Platforms发布具备全天候云端运行能力的个人 AI 助手\"Muse\"，股价一度上涨约6.6%，表现优于大盘。当日标普500、纳指、道指均因国际油价升破100美元及美债收益率走高而承压下行。",
-      "publishedAt": "2026-09-10T00:38:00+08:00",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-midday-sept-9-stocks-slide-as-oil-surges-past-usd100-while-meta-gains/",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260910-002",
-      "title": "康卡斯特股价跌7%，宽带用户持续流失，光纤定价“非理性”",
-      "summary": "康卡斯特公司股价下跌7%，该公司高管在高盛大会上警告光纤宽带定价已趋于非理性，预计第三季度宽带用户流失将继续，竞争对手以每月 30—40美元提供千兆网速服务，导致康卡斯特面临激烈的价格竞争压力。",
-      "publishedAt": "2026-09-10T00:23:00+08:00",
-      "source": "Investing.com",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3558868",
-      "subCategory": "美股"
-    },
-    {
-      "id": "finance-20260910-012",
-      "title": "ST三木董事长朱敏辞职",
-      "summary": "ST三木(000632.SZ)公告称，公司董事会于9月8日收到董事长朱敏的书面辞职报告，其因组织安排原因辞去董事长、董事及法定代表人职务，将保留法定代表人职务至9月28日以完成交接后卸任全部职务。",
-      "publishedAt": "2026-09-09T23:37:49+08:00",
-      "source": "财联社",
-      "url": "https://www.cls.cn/detail/2478710",
-      "subCategory": "A股"
-    },
-    {
-      "id": "finance-20260909-103",
-      "title": "三倍回购也压不住？美国财政部拟买入60亿美元美债 10年期收益率反升至4.84%",
-      "summary": "美国财政部宣布将进行60亿美元的美债回购操作，规模为常规水平的三倍，意在改善国债市场流动性，但政策效果有限，公告后10年期美债收益率反而升至4.841%，表明市场仍面临卖压，投资者对长期美债持谨慎态度未改。",
-      "publishedAt": "2026-09-09T23:19:00+08:00",
-      "source": "智通财经",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3558798",
-      "subCategory": "宏观经济"
-    },
-    {
-      "id": "finance-20260910-006",
-      "title": "布伦特原油自7月以来首次升破每桶100美元",
-      "summary": "9月9日美股早盘，布伦特原油升至101.26美元/桶，为7月以来首次突破100美元，WTI原油报95.97美元/桶，中东地区紧张局势持续升级推高油价，高盛警告若冲突扩大油价或触及120美元。(估算)",
-      "publishedAt": "2026-09-09T22:30:00+08:00",
-      "source": "Investrade",
-      "url": "https://investrade.com/mid-morning-look-september-09-2026/",
-      "subCategory": "大宗商品"
-    },
-    {
-      "id": "finance-20260909-104",
-      "title": "美股大型科技股盘前多数下跌，谷歌跌超1%",
-      "summary": "美国股市科技龙头企业开盘前呈现整体下跌态势，英特尔、特斯拉、亚马逊和谷歌跌幅超过1%，而英伟达、苹果、微软等公司跌幅相对较小，Meta股价则逆势上扬，涨幅超4%。",
-      "publishedAt": "2026-09-09T20:52:00+08:00",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/3976173043855616",
       "subCategory": "美股"
     }
   ]

@@ -3,16 +3,43 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-16T09:15:00+08:00",
+  "updatedAt": "2026-09-16T16:49:25+08:00",
   "items": [
     {
-      "title": "DHL and Alibaba.com to offer SMEs AI-powered logistics",
-      "summary": "DHL集团与阿里巴巴国际站签署合作备忘录，计划将DHL全球货运的报价与预订能力接入阿里巴巴AI平台Accio，为跨境中小企业提供实时货运报价、方案比较及一键预订等物流服务。",
-      "publishedAt": "2026-09-15",
-      "source": "IT-Online",
-      "url": "https://it-online.co.za/2026/09/15/dhl-and-alibaba-com-to-offer-smes-ai-powered-logistics/",
+      "title": "安克拓竹大疆系，全挤进UV打印机了",
+      "summary": "桌面级UV打印机品类近期迎来爆发，安克旗下eufyMake E1众筹金额达4676万美元刷新纪录，Morpho与拓竹关联品牌xTool的O1 Omni打印机众筹及首日销售额均突破千万美元级别。UV打印机正从工业设备走向消费级市场，与3D打印机、激光雕刻机形成互补，但喷头成本高、墨水化学及安全性仍是行业待解难题，业内预计到2029年消费级年销量或达4400万台。",
+      "publishedAt": "2026-09-16T16:32:00+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188872",
+      "subCategory": "选品趋势",
+      "id": "trade-20260916-004"
+    },
+    {
+      "title": "账户被锁24小时！Ozon正在严查中国卖家物流",
+      "summary": "俄罗斯电商平台Ozon Global近期加强对中国卖家物流合规审查，因发现卖家未经正规跨境清关手续、直接将货物发往俄罗斯境内Ozon自提点，已对涉事账户处以24小时锁定。平台明确该发货方式不可接受，要求卖家实际运输方式与后台设置一致，否则面临订单取消、FRBS异常指标上升乃至账户延长封禁的风险。",
+      "publishedAt": "2026-09-16T15:33:00+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188869",
       "subCategory": "物流仓储",
-      "id": "trade-20260915-011"
+      "id": "trade-20260916-001"
+    },
+    {
+      "title": "乐天跨境电商（中国）有限公司在杭州正式成立，并发布中国市场战略",
+      "summary": "日本乐天集团在杭州正式设立中国区总部，整合此前分散于上海、深圳、杭州的业务，聚焦帮助中国品牌进入日本市场。公司强调以乐天积分体系及70余项互联服务构建生态而非单纯销售渠道，提出渠道入驻、本地化营销、长期客户资产沉淀三阶段策略，并计划开展面向细分行业及地方协会的招商活动。",
+      "publishedAt": "2026-09-16T14:03:00+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188866",
+      "subCategory": "平台动态",
+      "id": "trade-20260916-002"
+    },
+    {
+      "title": "利用9810报关\"申报不实\"被海关查获！卖家合规不只是换个代码",
+      "summary": "大鹏海关在对9810跨境电商出口监管方式货物查验中，发现卖家在已申报的连接器、线缆等货物中夹带未申报电子烟具约10.8万件、重3.7吨，构成申报不实。文章指出真正的合规须在货物出境前完成经营资质、商品归类、海关关税税务数据一致性等核实，仅切换监管代码并不能自动实现合规。",
+      "publishedAt": "2026-09-16T10:19:00+08:00",
+      "source": "雨果跨境",
+      "url": "https://www.cifnews.com/article/188858",
+      "subCategory": "关税法规",
+      "id": "trade-20260916-003"
     },
     {
       "title": "泰国前11月低价值进口商品征税超40亿泰钢 1500钢免税时代正式落幕",
@@ -85,6 +112,15 @@
       "source": "雨果跨境",
       "url": "https://www.cifnews.com/article/188845",
       "subCategory": "独立站"
+    },
+    {
+      "title": "DHL and Alibaba.com to offer SMEs AI-powered logistics",
+      "summary": "DHL集团与阿里巴巴国际站签署合作备忘录，计划将DHL全球货运的报价与预订能力接入阿里巴巴AI平台Accio，为跨境中小企业提供实时货运报价、方案比较及一键预订等物流服务。",
+      "publishedAt": "2026-09-15",
+      "source": "IT-Online",
+      "url": "https://it-online.co.za/2026/09/15/dhl-and-alibaba-com-to-offer-smes-ai-powered-logistics/",
+      "subCategory": "物流仓储",
+      "id": "trade-20260915-011"
     },
     {
       "id": "trade-20260915-001",
@@ -688,42 +724,6 @@
       "source": "出海网",
       "url": "https://www.chwang.com/news/209720110761",
       "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260908-028",
-      "title": "缩短时效、保障利润，Shopee推出分流式全新物流路由模式",
-      "summary": "Shopee在东南亚及中国台湾地区上线分流式物流路由系统，卖家可选择自仓直发或使用平台托管物流中心发货，系统将根据承运商运力与目的地自动分配内部团队或外部快递配送，卖家需据此调整备货规划以适应新模式。",
-      "publishedAt": "2026-09-08T13:39:23+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209719808753",
-      "subCategory": "物流仓储"
-    },
-    {
-      "id": "trade-20260908-029",
-      "title": "逆势突围！Flipkart Minutes千店落地，强势冲击印度即时电商格局",
-      "summary": "沃尔玛旗下Flipkart即时零售业务Minutes已在印度120到130个城市落地超1000家前置仓，单店日订单量达800到1500单，依托电商供应链优势在生鲜与个护品类挖回流失客户，成为对抗Blinkit等即时零售对手的重要防线。",
-      "publishedAt": "2026-09-08T11:57:35+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209717247015",
-      "subCategory": "新兴市场"
-    },
-    {
-      "id": "trade-20260908-030",
-      "title": "近2500家德国电商受谷歌AI搜索波及，流量重新分配",
-      "summary": "Sistrix与营销机构Leap联合研究显示，近2500家德国主要电商网站在谷歌自然搜索可见度同比下降16.7%，主因是谷歌AI摘要覆盖搜索比例从4.3%升至14.2%，排名靠前商家吃 72%的AI引用份额，独立站需优化内容结构争取曝光。",
-      "publishedAt": "2026-09-08T11:42:43+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209716872638",
-      "subCategory": "独立站"
-    },
-    {
-      "id": "trade-20260909-004",
-      "title": "看见就能买、开口就下单！京东 JoyAI 实现视频通话购物闭环",
-      "summary": "京东JoyAI App上线AI数字助手“万能博士”，支持实时视频购物，用户对准实物拍摄即可获得商品信息与推荐，说“找同款”即可在视频通话界面内直接下单完成购买；据平台介绍JoyAI用户量自2026年初以来增长超15倍，为品牌与跨境商家带来新的营销触达渠道。",
-      "publishedAt": "2026-09-08T11:14:16+08:00",
-      "source": "出海网",
-      "url": "https://www.chwang.com/news/209716156702",
-      "subCategory": "平台动态"
     }
   ]
 }
