@@ -114,13 +114,13 @@
       "subCategory": "半导体产业"
     },
     {
-      "title": "台积电：2027年年中2纳米月产能11万片，同比增长约22%",
-      "summary": "据供应链信息，台积电计划至2027年年中将2纳米制程月产能提升至约11万片，较2026年底增长约22%，3纳米月产能同期扩大至约21万片，以满足苹果及AI芯片客户订单需求。",
+      "title": "恒瑞医药：子公司注射用瑞卡西单抗临床试验获批",
+      "summary": "恒瑞医药公告，子公司广东恒瑞医药自主研发的PCSK9单抗瑞卡西单抗获批开展III期临床试验，适应症为颅内动脉粥样硬化性狭窄成人患者，旨在降低卒中复发风险。",
       "publishedAt": "2026-09-15",
-      "source": "199IT",
-      "url": "https://www.199it.com/archives/1851915.html",
-      "subCategory": "半导体产业",
-      "id": "industry-20260915-006"
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15098049.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260915-013"
     },
     {
       "title": "洛图科技：2026年上半年中国智能眼镜销量90.9万台，同比增长85.5%",
@@ -132,13 +132,13 @@
       "id": "industry-20260915-007"
     },
     {
-      "title": "恒瑞医药：子公司注射用瑞卡西单抗临床试验获批",
-      "summary": "恒瑞医药公告，子公司广东恒瑞医药自主研发的PCSK9单抗瑞卡西单抗获批开展III期临床试验，适应症为颅内动脉粥样硬化性狭窄成人患者，旨在降低卒中复发风险。",
+      "title": "台积电：2027年年中2纳米月产能11万片，同比增长约22%",
+      "summary": "据供应链信息，台积电计划至2027年年中将2纳米制程月产能提升至约11万片，较2026年底增长约22%，3纳米月产能同期扩大至约21万片，以满足苹果及AI芯片客户订单需求。",
       "publishedAt": "2026-09-15",
-      "source": "界面新闻",
-      "url": "https://www.jiemian.com/article/15098049.html",
-      "subCategory": "医疗健康",
-      "id": "industry-20260915-013"
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1851915.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260915-006"
     },
     {
       "id": "industry-20260914-007",
@@ -384,6 +384,69 @@
       "subCategory": "新能源汽车"
     },
     {
+      "id": "industry-20260912-010",
+      "title": "Global IC substrate market to surge 32% to US$19.5 billion in 2026 as Taiwan, Korea lead ABF, BT",
+      "summary": "DIGITIMES报道，受生成式AI、高性能计算及数据中心建设需求拉动，2026年全球IC载板市场规模预计增长32%至195亿美元，台湾与韩国企业在ABF、BT两类载板领域保持领先地位。",
+      "publishedAt": "2026-09-11T05:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD239",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-009",
+      "title": "Samsung, SK Hynix eye 2028 High-NA DRAM rollout",
+      "summary": "DIGITIMES援引韩国fnnews报道，SK海力士计划在2028年前将High-NA极紫外光刻技术应用于DRAM量产，并考虑加入12英寸光罩联合开发计划，三星同步推进相关布局，反映存储芯片产能竞赛持续升级。",
+      "publishedAt": "2026-09-11T05:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL220/sk-hynix-high-na-dram-2028-samsung.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "TrendForce集邦咨询：2Q26全球前十大IC设计厂营收年增73%",
+      "summary": "TrendForce统计显示，2026年第二季全球前十大IC设计厂商合计营收年增73%，主要受GPU、CPU、ASIC及高速互连产品需求带动；英伟达居首，AMD超越高通升至第三位。",
+      "publishedAt": "2026-09-11",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260911-13195.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260911-001"
+    },
+    {
+      "id": "industry-20260914-003",
+      "title": "瑞萨科电子2027年1月起第二次上调产品价格",
+      "summary": "瑞萨科电子宣布自2027年1月1日起对产品价格进行年内第二次调整，此前一次涨价已于2026年7月生效，公司称原材料、能源、先进封装、产能及全球物流等结构性成本持续上升是主因；行业分析认为中低压功率半导体供应偏紧，全球厂商正将产能向AI及数据中心等高利润应用倾斜。",
+      "publishedAt": "2026-09-11",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com/news/2026/09/11/news-renesas-to-raise-prices-again-from-jan-2027-citing-rising-material-energy-and-manufacturing-costs/",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260913-304",
+      "title": "Counterpoint Puts Q2 VR Shipments Down 18 Percent, With Enterprise and Robotics the Named Exceptions",
+      "summary": "Counterpoint Research数据显示，2026年第二季度全球VR头显出货量同比下降18%、环比下降16%，Meta市场份额降至54%，企业与机器人领域需求相对具有韧性。",
+      "publishedAt": "2026-09-11",
+      "source": "VR.org（引用Counterpoint Research数据）",
+      "url": "https://vr.org/articles/counterpoint-q2-2026-vr-shipments-down-18-enterprise-robotics-2026",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260913-004",
+      "title": "德勅发布2026年全球并购趋势脉搏调查",
+      "summary": "德勅调查显示，67%受访企业预计未来并购交易量增长，69%预计交易金额上升，但仅20%计划大幅增加海外投资；44%认为并购后营收协同效应最难实现，48%遇到合规问题，英国仍是最受青睐的成熟市场，占比52%。",
+      "publishedAt": "2026-09-11",
+      "source": "199IT（转引德勅）",
+      "url": "http://www.199it.com/archives/1838514.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260913-003",
+      "title": "世界银行报告：到2035年发展中国家电动交通经济性持续提升",
+      "summary": "世界银行针对40个发展中国家六类车型的研究显示，到2030年电动两轮车在全邉40国具备经济可行性，电动乘用车在28国可行；电动车全生命周期碳排放约为燃油车的四分之一至三分之一，PM2.5排放最高可降75%，扩建充电设施效果或优于购车补贴。",
+      "publishedAt": "2026-09-11",
+      "source": "199IT（转引世界银行）",
+      "url": "http://www.199it.com/archives/1840572.html",
+      "subCategory": "行业研报"
+    },
+    {
       "id": "industry-20260912-013",
       "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
       "summary": "DIGITIMES报道，先进封装工艺下芯片封装体积增大而内部结构日趋精细，检测环节面临双重压力；ViTrox机器视觉事业部负责人 Wong Ting Lik 指出，芯片检测正加速向前段制程环节前移。",
@@ -472,6 +535,33 @@
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260910PR200/analog-devices-industrial-data-center-worldwide-on-device-ai.html",
       "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-009",
+      "title": "苹果发布首款折叠屏iPhone Duo 顶配版26499元 A股供应商回应",
+      "summary": "苹果9月10日发布首款折叠屏手机iPhone Duo，起售价15999元，顶配2TB版26499元，为苹果手机最高定价机型，10月16日预订、23日开售，搭载A20 Pro芯片；蓝思科技、领益智造等A股供应商确认参与精密零部件供应。",
+      "publishedAt": "2026-09-10T07:44:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4179033.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260910-007",
+      "title": "第七批国家组织医用耗材集采今天开标 共纳入 23个品种",
+      "summary": "第七批国家组织医用耗材集中采购9月10日在天津开标，共纳入 23个品种，聚焦胃肠息肉切除、胆胰介入等消化介入类耗材，采购周期约三年，规则兼顾临床多样性需求与产业可持续发展，防止恶性竞争。",
+      "publishedAt": "2026-09-10T07:19:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178975.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260910-008",
+      "title": "从价格战到技术战 锂电隔膜产业迎结构性洗牌",
+      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、琺泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
+      "publishedAt": "2026-09-10T06:52:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178886.html",
+      "subCategory": "制造业"
     },
     {
       "title": "2026届毕业生就业市场报告",
