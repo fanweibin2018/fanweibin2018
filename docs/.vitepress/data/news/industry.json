@@ -1,1 +1,666 @@
-PLACEHOLDER_INDUSTRY
+{
+  "$schema": "./schema.json",
+  "slug": "industry",
+  "title": "行业新闻",
+  "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
+  "updatedAt": "2026-09-17T08:45:00+08:00",
+  "items": [
+    {
+      "id": "industry-20260917-001",
+      "title": "IDC：2025年印度可穿戴市场同比下降4% 降至1.142亿部",
+      "summary": "IDC数据显示，2025年印度可穿戴设备出货量同比下降4%至1.142亿部，为连续第二年下滑；智能手表出货降17.6%，耳机增65.4%，智能眼镜暴增1541.3%，智能手环增67%，智能戒指降30.6%。",
+      "publishedAt": "2026-09-17T02:22:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisaawr4563434.shtml",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260916-015",
+      "title": "华邦电子拟以11.2亿美元收购英飞凌NOR与F-RAM业务，飞索半导体有望回归",
+      "summary": "华邦电子宣布以11.2亿美元收购英飞凌NOR闪存与F-RAM业务，交易预计2027年下半年完成交割，收购后业务将以飞索（Spansion）品牌独立运营，总部设于美国；飞索原为2003年AMD与富士通闪存业务合并而成，此前曾归属赛普拉斯半导体，2020年并入英飞凌。",
+      "publishedAt": "2026-09-16T23:07:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/003/325.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260916-018",
+      "title": "乘联会：9月前13天乘用车零售51.5万辆 新能源渗透率超七成",
+      "summary": "乘联会数据显示，9月1-13日全国乘用车零售51.5万辆，同比降23%，环比增4%；新能源乘用车零售36.2万辆，同比降10%，环比增16%，零售渗透率达70.3%，批发渗透率74.7%。",
+      "publishedAt": "2026-09-16T17:24:00+08:00",
+      "source": "CNMO",
+      "url": "https://internet.cnmo.com/finance/818662.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260916-017",
+      "title": "Samsung Exynos regains share as Galaxy phones test 2nm",
+      "summary": "三星电子自研Exynos处理器在全球智能手机市场份额回升至约9%，公司同时在Galaxy手机上测试2纳米工艺，以强化其应用处理器的市场竞争力。",
+      "publishedAt": "2026-09-16T13:30:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260915PD235/samsung-exynos-galaxy-2nm-global-smartphone.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260916-016",
+      "title": "Samsung reportedly weighs Micron's newest memory for Galaxy S27",
+      "summary": "据报道，三星电子正评估将美光新一代1γ LPDDR5X移动内存用于Galaxy S27系列手机，此举正值手机存储市场面临成本上升与供应链决策复杂化的背景之下。",
+      "publishedAt": "2026-09-16T12:28:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260916PD210/samsung-galaxy-micron-mobile-dram.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260916-019",
+      "title": "TrendForce集邦咨询：预估2026年全球数据中心用电需求年增31%，电网供应缺口自2028年扩大",
+      "summary": "TrendForce预估2026年全球数据中心用电需求容量将达161GW，同比增约31%，AI服务器占需求容量33.4%；电网可交付能力自2026年起与需求背离，缺口自2028年后明显扩大，2030年或达268GW。",
+      "publishedAt": "2026-09-16",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260916-13238.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260915-003",
+      "title": "2026年8月国内动力电池装车量79.0GWh，同比增长26.3%",
+      "summary": "中国汽车动力电池产业创新联盟数据显示，2026年8月国内动力电池装车量达79.0GWh，同比增长26.3%；其中磷酸铁锂电池装车67.6GWh，占比85.6%，三元电池装车11.0GWh，占比14.0%。今年前8个月累计装车489.1GWh，同比增长17.0%，宁德时代以41.45%的份额继续保持市场领先地位。",
+      "publishedAt": "2026-09-15T16:37:31+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/643.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "title": "DIGITIMES Insight: AI sends the semiconductor market toward US$1.6T, with memory doing the heavy lifting",
+      "summary": "DIGITIMES Intelligence预测，受AI驱动，2026年全球半导体市场规模将从2025年的7917亿美元增长至1.6万亿美元，同比增长109.1%，存储芯片贡献最大增量。",
+      "publishedAt": "2026-09-15T15:27:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260914PD228/market-digitimes-2026-growth-investment.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260915-009"
+    },
+    {
+      "id": "industry-20260915-004",
+      "title": "China's humanoid robot race, Part 1: Mass production outruns proven demand",
+      "summary": "中国人形机器人产业正从原型开发转向工业化规模量产，行业面临的关键挑战是证明机器人能以足够可靠且具成本效益的方式运行，从而支撑大规模生产的合理性。",
+      "publishedAt": "2026-09-15T15:16+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260915VL209/robot-production-demand-industrial-shipments.html",
+      "subCategory": "制造业"
+    },
+    {
+      "title": "腾势N8L纯电上市 售价29.98万元起",
+      "summary": "比亚迪腾势N8L纯电版9月14日在深圳上市，售价29.98万至32.98万元，搭载第二代刀片电池，CLTC续航960公里，全球首搭支持A2A、MCP协议的AI智能体迪迪虾。",
+      "publishedAt": "2026-09-15T15:11:00+08:00",
+      "source": "中国质量新闻网/新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-15/doc-inirwwmw6956322.shtml",
+      "subCategory": "新能源汽车",
+      "id": "industry-20260915-010"
+    },
+    {
+      "title": "Global semiconductor revenue hits record US$425B in 2Q26",
+      "summary": "Omdia报告：2026年第二季度全球半导体行业营收达到创纪录的4250亿美元，环比增长31.4%，人工智能需求与存储芯片价格大幅上涨是主要推动因素。",
+      "publishedAt": "2026-09-15T14:28:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260915VL216/revenue-market-2026-growth-omdia.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260915-008"
+    },
+    {
+      "title": "曝苹果接受三星存储报价 存储芯片价涨30%-40%",
+      "summary": "据界面新闻从产业链获悉，苹果已接受三星电子2027年一季度存储芯片报价，DRAM、NAND价格较逦2026年三季度上涨30%至40%，9月15日A股存储芯片板块集体走强。",
+      "publishedAt": "2026-09-15T10:46:00+08:00",
+      "source": "IT之家/新浪新闻",
+      "url": "https://k.sina.cn/article_1826017320_6cd6d02804001ww8w.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260915-012"
+    },
+    {
+      "title": "国家统计局：1-8月份社会消费品零售总额增长1.1%",
+      "summary": "国家统计局数据显示，2026年1—8月社会消费品零售总额327569亿元，同比增长1.1%，扣除汽车的消费品零售额增长2.7%；8月份社会消费品零售总额同比增长0.4%。",
+      "publishedAt": "2026-09-15T10:31:19+08:00",
+      "source": "中新网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696606.shtml",
+      "subCategory": "消费零售",
+      "id": "industry-20260915-005"
+    },
+    {
+      "title": "国家统计局：8月社会消费品零售总额39824亿元，同比增长0.4%",
+      "summary": "国家统计局公布，2026年8月社会消费品零售总额39824亿元，同比增长0.4%，环比下降0.13%；1-8月累计零售总额327569亿元，同比增长1.1%。",
+      "publishedAt": "2026-09-15T10:06:00+08:00",
+      "source": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20260915/herald/c3d78db3dbddddf8bcae8aeba1aa58de.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260915-011"
+    },
+    {
+      "id": "industry-20260915-001",
+      "title": "中信证券：光博会验证光通信行业高景气度，全产业链仍处于快速成长期",
+      "summary": "中信证券研报指出，2026年中国国际光电博览会显示光通信行业需求旺盛，光模块及上游元器件维持高景气，龙头企业积极扩产；技术升级正驱动新增市场需求与价值量提升，传统光通信厂商加快布局综合互联方案，国产芯片与代工产能加速导入，消费电子及精密光学企业也在拓展无源光学元件业务。",
+      "publishedAt": "2026-09-15T08:33:00+08:00",
+      "source": "36氪（中信证券）",
+      "url": "https://36kr.com/newsflashes/3983939737762820",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "恒瑞医药：子公司注射用瑞卡西单抗临床试验获批",
+      "summary": "恒瑞医药公告，子公司广东恒瑞医药自主研发的PCSK9单抗瑞卡西单抗获批开展III期临床试验，适应症为颅内动脉粉样硬化性狭窄成人患者，旨在降低卒中复发风险。",
+      "publishedAt": "2026-09-15",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/15098049.html",
+      "subCategory": "医疗健康",
+      "id": "industry-20260915-013"
+    },
+    {
+      "title": "洛图科技：2026年上半年中国智能眼镜销量90.9万台，同比增长85.5%",
+      "summary": "洛图科技数据显示，2026年上半年中国智能眼镜全渠道销量90.9万台，同比增长85.5%，销额18.8亿元，同比增长98.7%；其中AR眼镜是唯一增长品类，音频与拍摄类眼镜7月出现下滑。",
+      "publishedAt": "2026-09-15",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1851931.html",
+      "subCategory": "消费零售",
+      "id": "industry-20260915-007"
+    },
+    {
+      "title": "台积电：2027年年中2纳米月产能11万片，同比增长约22%",
+      "summary": "据供应链信息，台积电计划至2027年年中将2纳米制程月产能提升至约11万片，较​2026年底增长约22%，3纳米月产能同期扩大至约21万片，以满足苹果及AI芯片客户订单需求。",
+      "publishedAt": "2026-09-15",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1851915.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260915-006"
+    },
+    {
+      "id": "industry-20260914-007",
+      "title": "Motor Intelligence：2026年前8月特斯拉在美销量325351辆，同比下降16%",
+      "summary": "Motor Intelligence数据显示，2026年前8个月特斯拉在美国电动车市场份额回升至52%，累计销量32.5351万辆，同比下降16%，降幅小于其他电动车厂商的30%。",
+      "publishedAt": "2026-09-14T20:32:00+08:00",
+      "source": "199IT（引自Motor Intelligence）",
+      "url": "https://www.199it.com/archives/1851662.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260914-008",
+      "title": "工信部：国内18家主要车企应付账款超1万亿元，平均周转天数达216天",
+      "summary": "工信部副部长柯吉欣通报，17家重点车企承诺账期不超袟60天一年来账期有所改善，但此前数据显示18家主要车企应付账款超1万亿元，平均周转天数曾达216天，工信部已联合市场监管总局出台新规范。",
+      "publishedAt": "2026-09-14T20:31:47+08:00",
+      "source": "199IT（引自工信部）",
+      "url": "https://www.199it.com/archives/1851666.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260914-005",
+      "title": "保时捷：入华25年完成中国内地第100万台新车交付",
+      "summary": "保时捷官方宣布，入华25年后在上海活动中完成中国内地第100万台新车交付；受销量连续下滑影响，2025年营收362.7亿欧元，同比降9.5%，营业利润暂袗92.7%。",
+      "publishedAt": "2026-09-14T20:31:23+08:00",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1851670.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260914-009",
+      "title": "RD观测：截至2026年W36周华为Mate 80系列销量达911.1万台",
+      "summary": "博主RD观测数据显示，截至2026年第36周华为Mate80系列销量约911.1万台，单周销售约13万台，为2026年上半年国产手机单品销量冠军；该系列本月售价已从4699元上调至5499元。",
+      "publishedAt": "2026-09-14T20:31:07+08:00",
+      "source": "199IT（引自RD观测）",
+      "url": "https://www.199it.com/archives/1851674.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260914-006",
+      "title": "摩根大通：2025年ASML在全球光刻机市场份额达95%",
+      "summary": "摩根大通数据显示，ASML去年在全球光刻机市场份额达95%，EUV光刻机领域尤为垄断；其2027年EUV产能已基本被预定，High NA EUV设备将陆续放量。",
+      "publishedAt": "2026-09-14T20:30:59+08:00",
+      "source": "199IT（引自摩根大通）",
+      "url": "https://www.199it.com/archives/1851676.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260915-002",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "summary": "商汤大装置临港智算中心（AIDC）获中国信息通信研究院算力与电力协同评估最高5A级认证，成为全国唯一同时获得算效与算电双5A认证的智算中心；该设施配妀17.888MW/35.776MWh储能系统及自研算电协同平台，预计年化PUE为1.24，年减碳2.4万吨，单位电力成本下的token产出效率提升80%，在上海2026年夏季用电高峰期间需求响应表现领先。",
+      "publishedAt": "2026-09-14T17:46:40+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489106.html",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260914-004",
+      "title": "Omdia数据：2026Q2半导体营收4250亿美元，31.4%环比增幅创纪录",
+      "summary": "据Omdia报告，2026年第二季度全球半导体行业营收达4250亿美元，环比增长31.4%，刷新2026年一季度29.2%的环比增幅纪录；AI驱动需求带动DRAM、NAND、NOR等存储品类环比增速均创各自历史新高，其他半导体品类环比增速也普遍超10%，远高于约3%的季节性常态。2026年前两季度累计营收达7520亿美元，Omdia预计三季度营收将超5000亿美元。",
+      "publishedAt": "2026-09-14T16:35:44+08:00",
+      "source": "IT之家（Omdia）",
+      "url": "https://www.ithome.com/1/002/159.htm",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "海柔创新再次递表港交所 三年半累计亏损超35亿元",
+      "summary": "深圳海柔创新再度向港交所递交上市申请，联席保荐人为高盛、中信证券。招股书显示，公司2023年至2026年上半年累计亏损35.23亿元，同期毛利率已升至34.4%。",
+      "publishedAt": "2026-09-14T15:33:00+08:00",
+      "source": "腾讯新闻/智通财经",
+      "url": "https://news.qq.com/rain/a/20260914A09OCU00",
+      "subCategory": "公司动态",
+      "id": "industry-20260914-012"
+    },
+    {
+      "title": "Hua Hong Grace completes Huali Micoelectronics acquisition, state parent raises stake",
+      "summary": "华红宏力完成通过发行股份方式收购华力微电子约97.4988%股权，公司国资股东同步增持，此次交易强化了华红在中国半导体代工领域的市场地位。",
+      "publishedAt": "2026-09-14T09:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260914VL206/acquisition-2026-development-manufacturing-huali.html",
+      "subCategory": "公司动态",
+      "id": "industry-20260914-013"
+    },
+    {
+      "title": "TrendForce集邦咨询：2H26 NOR Flash价格走势分化，高容量产品涨幅预估达90-110%",
+      "summary": "TrendForce预计，2026年下半年NOR Flash市场供需结构生变，256Mb以上高容量产品价格预估上涨90%至110%，128Mb以下产品涨幅收窄至10%至20%，AI服务器与车用需求为主要推动力。",
+      "publishedAt": "2026-09-14",
+      "source": "TrendForce集邦咨询",
+      "url": "https://www.trendforce.cn/presscenter/news/20260914-13234.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260914-011"
+    },
+    {
+      "title": "TrendForce集邦咨询：2026年Q2英伟达营收接近911.6亿美元，同比增长99%",
+      "summary": "TrendForce集邦咨询公布2026年第二季度全球无晶圆厂IC设计企业营收排名，英伟达营收约911.6亿美元，同比增长99%，博通升至第二，AMD反超高通位列第三。",
+      "publishedAt": "2026-09-14",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1851601.html",
+      "subCategory": "半导体产业",
+      "id": "industry-20260914-010"
+    },
+    {
+      "title": "Counterpoint：2026上半年全球折叠屏面板出货量同比下降13%，大折叠同比增长35%",
+      "summary": "Counterpoint研究显示，2026年上半年全球折叠屏手机面板出货量同比下降13%，翻盖式机型下滑62%，大折叠机型逆势增长35%，市场份额从50%升至78%，三星显示以51%份额位居第一。",
+      "publishedAt": "2026-09-13",
+      "source": "199IT",
+      "url": "http://www.199it.com/archives/1851376.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260913-305"
+    },
+    {
+      "id": "industry-20260913-001",
+      "title": "韩国9月上旬出口额创历史新高，半导体出口同比暴增270%",
+      "summary": "韩国关税厅数据显示，9月1日至10日出口额达349.73亿美元，同比增长82.6%，创同期历史新高；其中半导体出口164.83亿美元，同比增长270.1%，占出口总额比重升至47.1%，AI服务器内存需求为主要驱动因素。",
+      "publishedAt": "2026-09-13T00:16:00+09:00",
+      "source": "財經新聞",
+      "url": "https://www.zaikei.co.jp/article/20260913/869817.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-002",
+      "title": "宏碎8月营收新台币301.8亿元，创下同期13年新高",
+      "summary": "宏碎公布2026年8月合并营收新台币301.8亿元，同比增长38.4%，前8个月累计营恰2148.11亿元，同比增长25.1%；个人电脑营收增长40.5%，其中Chromebook营收激增166.3%，商用产品增长60.6%，非电脑及显示器相关业务占比升至35%。",
+      "publishedAt": "2026-09-12T16:30:39+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/001/593.htm",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260912-003",
+      "title": "中国银行启动\"一网三融\"算力金融生态共建行动",
+      "summary": "中国银行在2026中国算力大会开幕式上宣布启动\"一网三融\"算力金融生态共建行动，联合电信运营商、保险、资管及金融租赁公司，承诺\"十五五\"期间提供不低于3000亿元综合金融支持，助力逗百个智算中心项目并服务超3000家算力用户企业。",
+      "publishedAt": "2026-09-12T16:15:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3980073056500741",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260912-005",
+      "title": "中国区域科技创新评价报告：上海综合科技创新水平蚊联全国第一",
+      "summary": "中国科学技术发展战略研究院9月11日在浦江创新论坛发布2026年度中国区域科技创新评价报告，全国综合科技创新水平指数为81.13分，同比提高0.93分；上海以91.40分蚊联全国第一，上海、北京、江苏、广东、浙江、天津六地被列为创新领先地区。",
+      "publishedAt": "2026-09-12T16:00:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3980054413736965",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260912-004",
+      "title": "中国移动总经理陈扬帆：适度超前建强算力基础设施，AIDC总签约规模超7GW",
+      "summary": "中国移动总经理陈扬帆在2026中国算力大会主论坛上表示，公司将适度超前建设算力基础设施，AIDC总签约规模超7GW，落地全球首个400G OTN骨干网及全球最大智能互联网络G-SRv6，并布局多个万卡智算中心，构建\"集中化汇聚、边缘化分布、训推一体\"的分布式架构。",
+      "publishedAt": "2026-09-12T15:49:00+08:00",
+      "source": "华尔街见闻",
+      "url": "https://wallstreetcn.com/livenews/3164296",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-006",
+      "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
+      "summary": "DIGITIMES报道，AI算力强劲需求正对被动元件行业产能造成挤压，为台湾积层陶瓷电容器（MLCC）供应商带来新的商业机遇，文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-12T09:14:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911PD208/mlcc-demand-expansion-ai-server-capacity.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-007",
+      "title": "Murata targets mass production of its AI power substrate next year",
+      "summary": "全球最大积层陶瓷电容器制造商村田计划明年启动其历时多年研发的AI芯片电源基板iPaS量产，此举标志该公司业务从传统被动元件制造延伸至面向AI应用的先进半导体基板领域。",
+      "publishedAt": "2026-09-12T09:13:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260913-301",
+      "title": "8月国内车市产销稳步回升",
+      "summary": "中国8月汽车产销分别完成268.4万辆和271.2万辆，环比增长4.3%和4.9%，新能源汽车新车销量占比达60.6%创新高，出口101万辆同比增长65.3%。",
+      "publishedAt": "2026-09-12T00:28:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609123872466342.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260911-203",
+      "title": "Counterpoint：预计2026年折叠屏手机面板出货量同比增长23%，苹果为最大增量来源",
+      "summary": "Counterpoint Research季度报告显示，折叠屏面板出货量在上半年下滑13%后将于2026年全年反弹增长23%，其中大尺寸折叠面板上半年产量激增35%、全年预计增长107%；苹果下半年集中出货，贡献27%的出货量，三星以33%份额保持品牌第一，华为份额降至25%，直板折叠设计将占全年出趮81%。",
+      "publishedAt": "2026-09-11T23:12:04+08:00",
+      "source": "IT之家（Counterpoint Research）",
+      "url": "https://www.ithome.com/1/001/469.htm",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260911-202",
+      "title": "ASE to buy AOI, AVI equipment from Machvision for NT$334M",
+      "summary": "日月光（ASE）董事会9月11日核准以新台币3.34亿元向关联公司系统电（Machvision）采购自动光学检测（AOI）及自动视觉检测（AVI）设备，用于支持公司产能扩充需求。",
+      "publishedAt": "2026-09-11T17:52:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911PD236/ase-equipment-machvision-aoi-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260914-001",
+      "title": "Kioxia eyes US listing amid NAND profit rebound",
+      "summary": "据DIGITIMES报道，日本存储芯片厂商铠侠（Kioxia）正筹划在美国上市，以扩大全球机构投资者认购渠道；此举正值 NAND闪存盈利能力显著回升、数据中心需求走强及新一轮产能投资展开之际。",
+      "publishedAt": "2026-09-11T17:25:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://digitimes.com/news/a20260911VL229/kioxia-nand-demand-ssd-2027.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260914-002",
+      "title": "Chipmaking equipment spending could hit US$270 billion by 2030, Futurum says",
+      "summary": "据Futurum Group分析，预计到2030年全球晶圆制造设备(WFE)支出将达约2700亿美元，主要受数据中心产能扩张带动，涉及先进逻辑芯片、高带宽存储器、DRAM及先进封装投资；报告估算每1GW的AI算力约需74.5万片晶圆及61亿美元晶圆厂设备投资。",
+      "publishedAt": "2026-09-11T16:59:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://digitimes.com/news/a20260911VL225/equipment-2030-wafer-fab-capacity.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-201",
+      "title": "Nvidia expands Australian AI factory push as global demand rises",
+      "summary": "DIGITIMES报道，英伟达正扩大在澳大利亚的AI基础设施合作与布局，以应对全球AI算力需求持续上升，文章称相关合作可能影响未来AI算力建设地点及准入格局。文章正文需付费订阅查看。",
+      "publishedAt": "2026-09-11T12:21:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260911PR200/nvidia-demand-australia-infrastructure-capacity.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-101",
+      "title": "中汽协：8月新能源汽车国内销量比例达65.7%",
+      "summary": "中国汽车工业协会数据显示，8月新能源汽车国内销量占比达65.7%，新能源乘用车占乘用车国内销量68%；1-8月汽车产销均完成约2031万辆，同比降3.8%，出口101万辆，同比增65.3%。",
+      "publishedAt": "2026-09-11T08:03:45+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694386.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260912-010",
+      "title": "Global IC substrate market to surge 32% to US$19.5 billion in 2026 as Taiwan, Korea lead ABF, BT",
+      "summary": "DIGITIMES报道，受生成式AI、高性能计算及数据中心建设需求拉动，2026年全球IC载板市场规模预计增长32%至195亿美元，台湾与韩国企业在ABF、BT两类载板领域保持领先地位。",
+      "publishedAt": "2026-09-11T05:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD239",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260912-009",
+      "title": "Samsung, SK Hynix eye 2028 High-NA DRAM rollout",
+      "summary": "DIGITIMES援引韩国fnnews报道，SK海力士计划在2028年前将High-NA极紫外光刻技术应用于DRAM量产，并考虑加其12英寸光罩联合开发计划，三星同步推进相关布局，反映存储芯片产能竞赛持续升级。",
+      "publishedAt": "2026-09-11T05:56:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL220/sk-hynix-high-na-dram-2028-samsung.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260911-102",
+      "title": "新一批国家组织高值医用耗材集采纳入23个品种",
+      "summary": "第七批国家组织高值医用耗材集采在天津开标，23个品种采购成功，148家企业517个产品拟中选，主要涉及消化道球囊扩张导管、食道胆道胰管支架及导丝等，预计2027年1月患者可用上中选产品。",
+      "publishedAt": "2026-09-10T19:24:00+08:00",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10694205.shtml",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260912-014",
+      "title": "Taiwan EV charging operators face profit squeeze despite rapid network expansion",
+      "summary": "DIGITIMES报道，尽管充电网络快速扩张，台湾电动车充电运营商仍面临盈利压力；Blockcert董事长 Chang Chung-I 表示，当地充电产业仍处于竞争激烈、市场分散的阶段。",
+      "publishedAt": "2026-09-10T16:54:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD229/taiwan-ev-charging-profit-market-demand.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260910-014",
+      "title": "China's Nvidia rivals raise prices as HBM shortage bites",
+      "summary": "受高带宽存储器（HBM）短缺加剧及成本上升影响，与英伟达竞争的中国芯片厂商正大幅上调其AI加速器价格，这一涨价压力为中国发展和部署国产算力替代方案增添了新的障碍。",
+      "publishedAt": "2026-09-10T14:37:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL215/hbm-nvidia-chipmakers-cost-ascend.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-015",
+      "title": "TSMC August 2026 revenue jumps 53.3% as AI chip demand drives record growth",
+      "summary": "台积电公圃2026年8月合并营收达新台币5148.1亿元，同比大幅增长53.3%，主要受人工智能相关半导体需求强劲拉动，公司业绩延续AI芯片市场的强劲增长势头。",
+      "publishedAt": "2026-09-10T13:57:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910VL214/tsmc-revenue-growth-demand-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-016",
+      "title": "CXMT's HBM3 yield reportedly stalls at 25% as TSV and stacking challenges expose China's AI memory gap",
+      "summary": "中国长锚存储（CXMT）已启动HBM3存储芯片试产，但面临重大制造挑战，初期良率维持在约25%左右，反映其从传统DRAM生产转向高性能AI存储器过程中，在硅通孔（TSV）及堆叠工艺方面存在明显技术差距。",
+      "publishedAt": "2026-09-10T12:14:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260909VL232/cxmt-tsv-hbm3-dram-yield-rate.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-013",
+      "title": "Qualcomm's AWS deal raises stakes for MediaTek and Alchip",
+      "summary": "高通宣布与亚马逊云科技（AWS）达成多代合作，共同开发面向AI推理及高性能光互连的定制芯片，此举据报道将加剧高通与联发科、创意电子（Alchip）等竞争对手在定制芯片设计领域的竞争压力。",
+      "publishedAt": "2026-09-10T10:21:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD209/aws-qualcomm-asic-ic-design-alchip-mediatek.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-012",
+      "title": "Analysis: China chases EUV as chipmakers move to High-NA",
+      "summary": "DIGITIMES分析文章指出，EUV光刻技术路线正出现分化，部分芯片厂商转向High-NA EUV设备，同时中国厂商也在推进自主 EUV 光刻技术的研发。",
+      "publishedAt": "2026-09-10T10:16:32+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD211/euv-high-na-chipmakers-manufacturing-production.html",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260910-011",
+      "title": "Europe and US IDM grid-to-core push challenges Taiwan power modules",
+      "summary": "DIGITIMES报道，随着数据中心电源系统转向800V高压直流（HVDC）及更密集的DC-DC架构，欧美 IDM厂商加码从电网到芯片的电源方案，对台湾电源模组供应商构成竞争压力。",
+      "publishedAt": "2026-09-10T09:54:30+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PD207/taiwan-power-supply-demand-2026.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-010",
+      "title": "Analog Devices agrees to buy Alif Semiconductor to expand edge AI push",
+      "summary": "亚德诺半导体（Analog Devices）宣布以13.5亿美元全现金收购Alif Semiconductor，旨在拓展面向工业、国防、医疗及消费领域的边缘人工智能芯片能力。",
+      "publishedAt": "2026-09-10T09:04:54+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260910PR200/analog-devices-industrial-data-center-worldwide-on-device-ai.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "title": "2026届毕业生就业市场报告",
+      "summary": "报告显示，2026届毕业生全职岗位数量较去年下降2%，较疫情前低12%；近三分之一科技岗位明确要求AI能力，约85%毕业生已使用AI工具求职，但仅28%认为所学专业真正融入AI教学。",
+      "publishedAt": "2026-09-10",
+      "source": "199IT",
+      "url": "https://www.199it.com/archives/1840372.html",
+      "subCategory": "行业研报",
+      "id": "industry-20260910-017"
+    },
+    {
+      "id": "industry-20260910-009",
+      "title": "苹果发布首款折叠屏iPhone Duo 顶配版26499元 A股供应商回应",
+      "summary": "苹果9月10日发布首款折叠屏手机iPhone Duo，起售价15999元，顶配2TB版26499元，为苹果手机最高定价机型，10月16日预订、23日开售，搭载A20 Pro芯片；蓝思科技、领益智造等A股供应商确认参与精密零部件供应。",
+      "publishedAt": "2026-09-10T07:44:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4179033.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260910-007",
+      "title": "第七批国家组织医用耗材集采今天开标 共纳入 23个品种",
+      "summary": "第七批国家组织医用耗材集中采购9月10日在天津开标，共纳入 23个品种，聚焦胃肠息肉切除、胆胰介入等消化介入类耗材，采购周期约三年，规则兼顾临床多样性需求与产业可持续发展，防止恶性竞争。",
+      "publishedAt": "2026-09-10T07:19:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178975.html",
+      "subCategory": "医疗健康"
+    },
+    {
+      "id": "industry-20260910-008",
+      "title": "从价格战到技术战 锂电隔膜产业迎结构性洗牌",
+      "summary": "报道称锂电隔膜行业供需改善、盈利修复，星源材质、恩捷股份、琪泰来等头部企业合计规划扩产投资超1500亿元；行业协会提示警惕盲目扩产，呼吁资源向具备技术壁垒与产业链协同能力的项目集中，优化产品结构。",
+      "publishedAt": "2026-09-10T06:52:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178886.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260910-006",
+      "title": "海底捐股价大幅跳水 控股股东减持",
+      "summary": "9月9日海底捐股价盘中一度重挖超12%，收跌9.14%报10.34港元；此前控股股东SP NP Ltd.以每肆10.62港元大宗交易减持2.59亿股，约占已发行股份4.65%，套现约27.51亿港元，公司称与经营业绩无关。",
+      "publishedAt": "2026-09-09T21:36:00+08:00",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/article/detail/4178789.html",
+      "subCategory": "消费零售"
+    },
+    {
+      "id": "industry-20260909-010",
+      "title": "问界汽车：全新一代 M9 连续 3 个月蚊联 50 万以上销量 TOP1",
+      "summary": "问界汽车宣布全新一代M9连续3个月蚊联 50万以上销量TOP1，该车型还获得2026年度上半年新能源保值率和用户净推荐值双料第一，新一代M9将搭载华为途靖龙行平台和800V主动悬架系统，提供“人车共舞”等创新功能。",
+      "publishedAt": "2026-09-09T21:16:48+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/448.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260909-011",
+      "title": "零跑汽车：零跑 A10 八月销量突破 3 万台，蚊联全品类 SUV 销量冠军",
+      "summary": "零跑汽车宣布其A10车型八月销量突破3万台，蚊联全品类SUV销量冠军，该月零跑全球交付量达103129辆，同比增长80.7%，单月交付再次突砊10万大关，A10定位小型SUV，起价6.58万元，搭载双芯组合和激光雷达等智能驾驶硬件配置。",
+      "publishedAt": "2026-09-09T20:48:27+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/437.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260909-008",
+      "title": "深科技：子公司拟总投资18.5亿元扩大高端存储芯片封测产能",
+      "summary": "深科技全资子公司沅顿科技计划投资18.5亿元扩充高端存储芯片产能，其中12.2亿元用于新建厂房，预计可承载传统封测9万片/月及2.5D先进封装1万片/月；另外6.3亿元建设先进封装研发线，预计增加2.5D/3DS产能各100片/月，项目旨在把握AI产业发展机遇并突破产能瑶颈。",
+      "publishedAt": "2026-09-09T19:26:00+08:00",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/3976088345637385",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-004",
+      "title": "燧原科战 9月11日科创板上市，发行价142.18元/股",
+      "summary": "燧原科技公告将于9月11日在上交所科创板上市，发行价142.18元/股，发行4303.52万股，预计募资约61.16亿元；网上申购倍数达6109.34倍，公司预计1-9月营收同比增长325.78%至455.36%。",
+      "publishedAt": "2026-09-09T19:19:00+08:00",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/roll/2026-09-09/doc-inirfumq5629425.shtml",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260910-003",
+      "title": "比亚迪：闪充车型市场订单饱满，第二代刀片电池月产能将逐步爱坡",
+      "summary": "比亚迪在投资者关系活动记录中表示，闪充车型市场订单饱满，公司正推进产线扩产，第二代刀片电池月产能将于下半年逐步提升；上半年方程豹、腾势、仰望三大品牌合计销量同比增长61%。",
+      "publishedAt": "2026-09-09T18:21:56+08:00",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_5953466437_162dab0450670bbwiq.html",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260912-012",
+      "title": "AI computing power propels tech sector to US$30 trillion, putting servers at the core of 2027's supply chain",
+      "summary": "DIGITIMES援引台湾产业情报机构MIC预测，服务器与数据中心供应链将成为2027年信息通信产品的主要增长引擎，AI算力需求正推动科技产业整体规模迈向 30万亿美元级别。",
+      "publishedAt": "2026-09-09T17:37:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260909PD237",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20260909-009",
+      "title": "半年度营收首破百亿 石头科技海外收入60.73亿撑起六成盘子",
+      "summary": "石头科技2026年上半年营收达到100.84亿元，同比增长27.6%，实现半年度营收首次突破百亿的里程碑，境外收入 60.73亿元占总营收约六成；剔除关税退税一次性收益后，海外家电需求、渠道下沉及自建售后体系成为企业增长的核心驱动力。",
+      "publishedAt": "2026-09-09T17:35:30+08:00",
+      "source": "出海网",
+      "url": "https://www.chwang.com/news/209761988719",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20260912-008",
+      "title": "乘联分会：8 月国内狭义乘用车市场零售销量 154.1 万辆同比下降 23.6%，新能源渗透率 65.2% 再创新高",
+      "summary": "乘联分会数据显示，2026年8月国内狭义乘用车零售154.1万辆，同比下降23.6%，新能源渗透率达65.2%再创新高；1-8月累计零售1171.6万辆，同比下降20.8%，出口88.8万辆，增长77.8%。",
+      "publishedAt": "2026-09-09T16:44:46+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/000/312.htm",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260910-002",
+      "title": "理想等车企“去宁化”加速，宁德时代股价创年内新低",
+      "summary": "受理想、小米等车企加速转向自研电池影响，宁德时代股价9月9日跌至327.10元，为年内次低点；公司今年上半年净利润同比增长42%至432.8亿元，1-7月国内动力电池装机份额约47.8%。",
+      "publishedAt": "2026-09-09T15:52:00+08:00",
+      "source": "新浪财经",
+      "url": "http://finance.sina.com.cn/tech/roll/2026-09-09/doc-inirfivw8613553.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260909-007",
+      "title": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix",
+      "summary": "三星电子在日本横浜设立先进封装研究中心，以贴近日本关键材料与设备供应商的方式强化其高带宽存储器（HBM）能力，意图借此缩小与竞争对手SK海力士在HBM市场的技术差距。",
+      "publishedAt": "2026-09-09T15:46:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html",
+      "subCategory": "半导体产业"
+    },
+    {
+      "id": "industry-20260910-001",
+      "title": "蓝来李旋：公司逆势增长连续三个季度实现盈利，今年1-8月交付量同比增长57.9%",
+      "summary": "蓝来创始人李旋表示，公司连续三个季度实现盈利，2026年1-8月交付量同比增长57.9%，三大品牌合计交付创历史新高；同期国内乘用车市场同比下滑超20%，行业竞争进入最惨烈阶段。",
+      "publishedAt": "2026-09-09T15:41:00+08:00",
+      "source": "新浪财经",
+      "url": "http://finance.sina.com.cn/tech/digi/2026-09-09/doc-inirfivw8604562.shtml",
+      "subCategory": "新能源汽车"
+    },
+    {
+      "id": "industry-20260909-101",
+      "title": "储能扩张\"踩刺车\"！储能电池新建项目审批或将收紧",
+      "summary": "监管部门对储能电池新建项目审批出现收紧迹象，尚处规划阶段、未正式开工的项目可能面临延迟，但已获批及在建项目不受影响；行业分析师指出今年规划储能产能已超800GWh，超过全球市场需求，警示或将出现类似光伏行业的价格竞争风险。",
+      "publishedAt": "2026-09-09T15:40:00+08:00",
+      "source": "东方财富网",
+      "url": "https://finance.eastmoney.com/a/202609093869295553.html",
+      "subCategory": "制造业"
+    },
+    {
+      "id": "industry-20260909-006",
+      "title": "Kioxia rules out deeper SK Hynix ties, resists further NAND price hikes",
+      "summary": "铠侠表示不会与SK海力士寻求更深层次的代工合作，同时拒绝进一步激进上调NAND价格，公司计划依靠延长客户合约与可控的产能扩张，应对由数据中心需求驱动的存储器持续供应紧张局面。",
+      "publishedAt": "2026-09-09T14:58:00+08:00",
+      "source": "DIGITIMES",
+      "url": "https://www.digitimes.com/news/a20260909VL215/kioxia-sk-hynix-nand-price-manufacturing.html",
+      "subCategory": "半导体产业"
+    }
+  ]
+}
