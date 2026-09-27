@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-17T08:45:00+08:00",
+  "updatedAt": "2026-09-27T15:20:36+08:00",
   "items": [
+    {
+      "id": "policy-20260924-fed-stablecoin-proposals",
+      "title": "美联储就支付型稳定币发行人储备、资本及申请程序征求意见",
+      "summary": "美联储发布两项针对其监管下支付型稳定币发行人的提案：一项涉及合格储备资产、资本和风险管理，另一项规定受监管银行申请发行的程序。目前仍处征求意见阶段，并非已生效规则。",
+      "publishedAt": "2026-09-24",
+      "source": "美国联邦储备委员会",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20260916-004",
       "title": "Restoring Reciprocity in Government Procurement",
@@ -72,7 +81,7 @@
       "id": "policy-20260915-003",
       "title": "市场监管总局会同文化和旅游部召开在线酒店预订平台服务行业行政指导会",
       "summary": "市场监管总局9月15日会同文化和旅游部召开在线酒店预订平台服务行业行政指导会，要求美团、抖音、京东、携程、同程、飞猪等平台严格落实合规责任，防范化解独家合作、\"全网最低价\"等竞争风险，依法遵守反垄断规定，共同维护公平竞争市场秩序、保护消费者权益。",
-      "publishedAt": "2026-09-15T16:00+08:00",
+      "publishedAt": "2026-09-15T16:00:00+08:00",
       "source": "国家市场监督管理总局",
       "url": "https://www.samr.gov.cn/xw/zj/art/2026/art_df94d15242ad470bb6c4dd96ab47fcbb.html",
       "subCategory": "反垄断"
@@ -135,7 +144,7 @@
       "id": "policy-20260915-004",
       "title": "《人工智能安全治理框架3.0》发布",
       "summary": "全国网络安全标准化技术委员会9月14日在国家网络安全宣传周期间发布《人工智能安全治理框架3.0》，在2024年、2025年版本基础上，结合人工智能发展新趋势与安全新挑战细化风险分类与技术应对举措，旨在凝聚共识、提升风险防范能力。",
-      "publishedAt": "2026-09-14T19:40+08:00",
+      "publishedAt": "2026-09-14T19:40:00+08:00",
       "source": "中央网络安全和信息化委员会办公室",
       "url": "https://www.cac.gov.cn/2026-09/14/c_1791137092283345.htm",
       "subCategory": "AI监管"

@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-17T08:45:00+08:00",
+  "updatedAt": "2026-09-27T15:20:36+08:00",
   "items": [
+    {
+      "id": "tech-20260925-cloudflare-turnstile-spin",
+      "title": "Cloudflare 推出 Turnstile Spin，协助开发者补齐服务端验证",
+      "summary": "Cloudflare 发布面向编程 Agent 的 Turnstile Spin，可在获批后修改项目中的前端组件和后端 Siteverify 调用，也可修复已有组件缺失服务端校验的问题。仅放置前端挑战组件并不足以完成防护。",
+      "publishedAt": "2026-09-25",
+      "source": "Cloudflare",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20260917-001",
       "title": "6999 元，华为 WATCH Ultimate 2 非凡探索雪域白今日开售",
@@ -288,7 +297,7 @@
       "id": "tech-20260915-011",
       "title": "英伟达RTX 5090官方渠道断货，第三方要价高达9500美元",
       "summary": "英伟达RTX 5090显卡近几周价格大幅上涨，官方渠道库存已全部售罄，消费者目前只能通过Newegg、Amazon等平台的第三方卖家购买，价格区间达6500至9500美元甚至更高。",
-      "publishedAt": "2026-09-15T16:30+08:00",
+      "publishedAt": "2026-09-15T16:30:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3984409239845888",
       "subCategory": "芯片硬件"
@@ -324,7 +333,7 @@
       "id": "tech-20260915-012",
       "title": "Hyundai Motor Group bets on data, Nvidia, and in-house AI to speed autonomous driving rollout",
       "summary": "现代汽车集团正标准化自动驾驶硬件并深化数据管线建设，以筹备2028至2029年间的量产车型交付，该计划借助英伟达技术并结合公司内部人工智能研发，加快自动驾驶车辆的部署进程。",
-      "publishedAt": "2026-09-15T09:41+08:00",
+      "publishedAt": "2026-09-15T09:41:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260915PD205/hyundai-data-autonomous-driving-nvidia-hardware.html",
       "subCategory": "智能汽车"

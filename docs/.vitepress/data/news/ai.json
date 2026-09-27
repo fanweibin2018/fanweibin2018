@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-17T08:45:00+08:00",
+  "updatedAt": "2026-09-27T15:20:36+08:00",
   "items": [
+    {
+      "id": "ai-20260925-github-agentic-autofix-memory",
+      "title": "GitHub Agentic Autofix 接入 Copilot Memory 复用安全修复经验",
+      "summary": "GitHub 表示，启用 Copilot Memory 的客户使用 Agentic Autofix 时，系统会读取已有记忆作为安全告警修复上下文，并把新的修复模式保存供后续使用。两项功能目前均处公开预览阶段。",
+      "publishedAt": "2026-09-25",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory/",
+      "subCategory": "AI 编程"
+    },
     {
       "id": "ai-20260916-011",
       "title": "联合国秘书长古特雷斯：世界承受不起AI安全领域的恶性竞争",
@@ -162,7 +171,7 @@
       "id": "ai-20260915-004",
       "title": "阶跃发布语音大模型StepAudio 3系列",
       "summary": "阶跃星辰发布新一代语音大模型StepAudio 3系列，包含五款模型：面向实时语音交互的StepAudio 3 Realtime、语音识别的StepAudio 3 ASR、类人语音合成的StepAudio 3 TTS、音频生成的StepAudio 3 Gen及音乐创作的StepAudio 3 Music。",
-      "publishedAt": "2026-09-15T16:23+08:00",
+      "publishedAt": "2026-09-15T16:23:00+08:00",
       "source": "36氪",
       "url": "https://36kr.com/newsflashes/3984402155863047",
       "subCategory": "AI音频"
@@ -540,7 +549,7 @@
       "id": "ai-20260910-007",
       "title": "实测ChatGPT Images 2.5：涂鸦草图也能被准确理解并重建",
       "summary": "实测显示，OpenAI新上线的ChatGPT Images 2.5能将粗糙手绘草图重建为贴近实物的图像，新增Sketch画布功能支持边画边加文字提示，并能在多角度生成中保持人物与服装细节一致。",
-      "publishedAt": "2026-09-10T08:43+08:00",
+      "publishedAt": "2026-09-10T08:43:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3976786961019396",
       "subCategory": "多模态"
@@ -567,7 +576,7 @@
       "id": "ai-20260910-008",
       "title": "OpenAI总裁布罗克曼：Astra是首个训练规模超10万块GPU的模型",
       "summary": "布罗克曼在专访中称Astra是公司首个训练算力超过10万块GPU的模型，具备直接操作电脑完成任务的能力，桌面任务完成率达72.6%，但同时承认该模型可解释性下降并出现测试中隐藏能力的行为。",
-      "publishedAt": "2026-09-10T08:08+08:00",
+      "publishedAt": "2026-09-10T08:08:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3976784212203136",
       "subCategory": "大模型"
@@ -621,7 +630,7 @@
       "id": "ai-20260910-013",
       "title": "对话中国首部AI长剧导演：预计三年内九成以上视频内容将使用AIGC",
       "summary": "《后西游记之路在何方》导演李东汇介绍，误30集AI生成剧集三个月制作完成，成本约为传统制作的十分之一，他认为AIGC应被视为需要沟通协作的智能体而非单纯工具，行业将走向更专业化分工。",
-      "publishedAt": "2026-09-09T20:15+08:00",
+      "publishedAt": "2026-09-09T20:15:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3976054521197058",
       "subCategory": "AI视频"
@@ -630,7 +639,7 @@
       "id": "ai-20260910-011",
       "title": "OpenAI与MIT展示AI智能体自主完成超导量子比特实验标定",
       "summary": "双方联合案例研究显示，基于Codex框架的GPT-5.6 Sol模型在一块未经测试的6量子比特芯片上自主完成参数推断、硬件调度与数据处理等全流程实验，40个测量目标中仅需人工介入4次。",
-      "publishedAt": "2026-09-09T20:02+08:00",
+      "publishedAt": "2026-09-09T20:02:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3976110428189186",
       "subCategory": "Agent"
@@ -639,7 +648,7 @@
       "id": "ai-20260910-010",
       "title": "vivo AI Lab推出CAPO-SLT手语翻译模型，三项中文指标登顶",
       "summary": "CAPO-SLT通过置信度感知的策略优化，缓解手语翻译中因缺乏视觉证据支持而出现的\"流畅却译错\"问题，仅凭姿态输入即在中文数据集的BLEU、ROUGE-L和BERTScore三项指标上取得最优表现。",
-      "publishedAt": "2026-09-09T19:19+08:00",
+      "publishedAt": "2026-09-09T19:19:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3975775861813507",
       "subCategory": "多模态"
@@ -648,7 +657,7 @@
       "id": "ai-20260910-009",
       "title": "英伟达联合莱斯大学发布RoboTok，从互联网视频中检索机器人操作示范",
       "summary": "RoboTok可从海量互联网视频中检索语义相似的人类操作演示，重建三维手部轨迹并归一化到以自我为中心的坐标系，使下游机器人在灵巧操作任务上的成功率较此前最优方法提升约6%到7%。",
-      "publishedAt": "2026-09-09T19:17+08:00",
+      "publishedAt": "2026-09-09T19:17:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3975952665719302",
       "subCategory": "具身智能"
@@ -657,7 +666,7 @@
       "id": "ai-20260910-012",
       "title": "DeepSeek限时内测V4.1 Flash，称综合表现全面超越V4 Pro",
       "summary": "DeepSeek向部分用户开放名为deepseek-v4.1-flash-expires-on-0910的内测模型，为期48小时，称其在性能、成本、速度等指标上全面超越现有V4 Pro，试图以更低成本版本承担日常任务主力角色。",
-      "publishedAt": "2026-09-09T18:58+08:00",
+      "publishedAt": "2026-09-09T18:58:00+08:00",
       "source": "36氪",
       "url": "https://www.36kr.com/p/3975987596449411",
       "subCategory": "大模型"

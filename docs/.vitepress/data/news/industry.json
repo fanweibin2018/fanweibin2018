@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-17T08:45:00+08:00",
+  "updatedAt": "2026-09-27T15:20:36+08:00",
   "items": [
     {
       "id": "industry-20260917-001",
@@ -81,7 +81,7 @@
       "id": "industry-20260915-004",
       "title": "China's humanoid robot race, Part 1: Mass production outruns proven demand",
       "summary": "中国人形机器人产业正从原型开发转向工业化规模量产，行业面临的关键挑战是证明机器人能以足够可靠且具成本效益的方式运行，从而支撑大规模生产的合理性。",
-      "publishedAt": "2026-09-15T15:16+08:00",
+      "publishedAt": "2026-09-15T15:16:00+08:00",
       "source": "DIGITIMES",
       "url": "https://www.digitimes.com/news/a20260915VL209/robot-production-demand-industrial-shipments.html",
       "subCategory": "制造业"

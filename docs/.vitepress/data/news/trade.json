@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-17T08:45:00+08:00",
+  "updatedAt": "2026-09-27T15:20:36+08:00",
   "items": [
+    {
+      "id": "trade-20260924-amazon-mcf-prime-delivery",
+      "title": "Amazon MCF 向美国商家独立站开放 Prime 配送选项",
+      "summary": "Amazon 宣布，美国 MCF 商家可在自有网站提供 Prime 配送，除标准 MCF 费用外不另收费。另推出面向符合条件的 FBA 商家的 Preferred Pricing Program，前六个月履约费用优惠为 15%—25%；两项服务的适用条件需分别核对。",
+      "publishedAt": "2026-09-24",
+      "source": "Amazon Press Center",
+      "url": "https://press.aboutamazon.com/2026/9/merchants-can-now-add-fast-free-prime-delivery-to-their-websites-and-save-up-to-25-on-fulfillment-fees-with-amazon-supply-chain-services",
+      "subCategory": "物流仓储"
+    },
     {
       "id": "trade-20260917-001",
       "title": "SHEIN在印第安纳州新启73.7万平方英尺仓库",
@@ -198,7 +207,7 @@
       "id": "trade-20260915-006",
       "title": "60%买家愿意多付一笔钱？独立站结账页，正在长出第二条收入线",
       "summary": "独立站卖家正通过结账页附加服务开辟新收入来源，Gooval等服务可让商家为货物丢失、损坏或延误提供可选保障，数据显示购物车场景下约60%的消费者会购买此类服务，自动勾选情形下比例最高达85%，同时每月退款纠纷减少约20%，为商家带来额外收入。",
-      "publishedAt": "2026-09-15T10:44+08:00",
+      "publishedAt": "2026-09-15T10:44:00+08:00",
       "source": "雨果跨境",
       "url": "https://www.cifnews.com/article/188845",
       "subCategory": "独立站"
