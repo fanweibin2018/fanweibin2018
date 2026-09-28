@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-28T09:29:58+08:00",
+  "updatedAt": "2026-09-28T09:36:58+08:00",
   "items": [
+    {
+      "id": "ai-20260925-claude-nine-loop-amplitude",
+      "title": "Anthropic 披露 Claude 参与完成九圈散射振幅计算",
+      "summary": "Anthropic 9 月 25 日披露，研究人员借助 Claude Science 按已有方法算出特定理论中的九圈六粒子散射振幅，物理学家 Lance Dixon 对结果进行了核验；另有团队同期算出相关结果。这展示了 AI 组织长时间专业计算的潜力，但不能据此推断其能普遍独立发现新物理规律。",
+      "publishedAt": "2026-09-25",
+      "source": "Anthropic Science",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "subCategory": "AI 科研"
+    },
     {
       "id": "ai-20260925-rope-override-engine-mismatch",
       "title": "社区测试指出 vLLM 与 SGLang 的 RoPE 启动覆盖可能静默改变模型配置",
