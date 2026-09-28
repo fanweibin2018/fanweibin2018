@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-27T15:20:36+08:00",
+  "updatedAt": "2026-09-28T09:29:58+08:00",
   "items": [
+    {
+      "id": "tech-20260925-github-actions-query-count-limit",
+      "title": "GitHub Actions 查询超过 2500 条运行记录时不再返回精确总数",
+      "summary": "GitHub Actions API 与网页端按工作流、事件、状态、分支或操作者查询时，匹配记录超过 2500 条将显示“2500+”，分页结果仍最多返回 1000 条。依赖精确总数的集成需用日期等条件缩小查询范围。",
+      "publishedAt": "2026-09-25",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui/",
+      "subCategory": "开发者平台"
+    },
     {
       "id": "tech-20260925-cloudflare-turnstile-spin",
       "title": "Cloudflare 推出 Turnstile Spin，协助开发者补齐服务端验证",

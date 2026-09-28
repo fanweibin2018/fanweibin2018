@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-27T15:20:36+08:00",
+  "updatedAt": "2026-09-28T09:29:58+08:00",
   "items": [
+    {
+      "id": "trade-20260925-ustr-yokohama-usmca-review",
+      "title": "USTR 要求墨西哥审查横滨轮胎工厂劳工权利，并暂缓相关货物清算",
+      "summary": "USTR 依据《美墨加协定》快速响应劳工机制，要求墨西哥审查科阿韦拉州横滨轮胎工厂的结社与集体谈判权争议，并暂缓该工厂输美货物入境记录的最终清算。墨方有 10 天决定是否审查；这不是已作出的违规裁定或全面进口禁令。",
+      "publishedAt": "2026-09-25",
+      "source": "USTR",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/united-states-seeks-mexicos-review-alleged-denial-workers-rights-yokohama-tire-manufacturing-mexico",
+      "subCategory": "贸易合规"
+    },
     {
       "id": "trade-20260924-amazon-mcf-prime-delivery",
       "title": "Amazon MCF 向美国商家独立站开放 Prime 配送选项",
