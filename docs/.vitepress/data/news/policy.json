@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-27T15:20:36+08:00",
+  "updatedAt": "2026-09-29T08:32:31+08:00",
   "items": [
+    {
+      "id": "policy-20260928-sec-zoe-financial-conflict",
+      "title": "SEC 就 Zoe Financial 未充分披露荐投利益冲突达成和解",
+      "summary": "SEC 认定 Zoe Financial 在算法匹配之外由销售人员推荐顾问，且未充分披露旗下 Zoe Wealth 带来的财务激励。公司在不承认 SEC 调查结果的情况下接受停止令、谴责并支付 45 万美元罚款，技术化荐投仍须完整披露利益冲突。",
+      "publishedAt": "2026-09-28",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20260924-fed-stablecoin-proposals",
       "title": "美联储就支付型稳定币发行人储备、资本及申请程序征求意见",

@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-28T09:29:58+08:00",
+  "updatedAt": "2026-09-29T08:32:31+08:00",
   "items": [
+    {
+      "id": "trade-20260928-ukef-flexible-finance-pilot",
+      "title": "英国推出最高 50 亿英镑出口融资试点，为海外买家贷款提供八成担保",
+      "summary": "英国出口融资署推出 Flexible Finance 试点，为巴西、摩洛哥和墨西哥等市场的部分买家提供更灵活的商业贷款支持，担保总额最高 50 亿英镑、单笔覆盖最高 80%。该安排面向选定借款人，并非普遍补贴，目标是把融资需求与英国供应商采购相连接。",
+      "publishedAt": "2026-09-28",
+      "source": "英国财政部",
+      "url": "https://www.gov.uk/government/news/more-overseas-firms-enticed-to-buy-british",
+      "subCategory": "出口金融"
+    },
     {
       "id": "trade-20260925-ustr-yokohama-usmca-review",
       "title": "USTR 要求墨西哥审查横滨轮胎工厂劳工权利，并暂缓相关货物清算",

@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-27T15:20:36+08:00",
+  "updatedAt": "2026-09-29T08:32:31+08:00",
   "items": [
+    {
+      "id": "industry-20260928-fed-auto-chip-shortage-study",
+      "title": "美联储研究复盘汽车芯片短缺：2021—2022 年累计少产逾 200 万辆",
+      "summary": "美联储研究人员估算，2021—2022 年美国轻型汽车累计产量缺口超过 200 万辆，微控制器交期一度由 15 周增至 30 周；车企通过优先高利润车型和删减非核心配置降低损失。作者同时提示，软件定义汽车可能把下一轮瓶颈转向先进逻辑与存储芯片。",
+      "publishedAt": "2026-09-28",
+      "source": "美国联邦储备委员会研究人员",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/when-the-chips-went-down-motor-vehicle-production-and-the-2021-2022-semiconductor-shortages-20260928.html",
+      "subCategory": "汽车产业"
+    },
     {
       "id": "industry-20260917-001",
       "title": "IDC：2025年印度可穿戴市场同比下降4% 降至1.142亿部",

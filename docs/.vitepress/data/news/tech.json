@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-28T09:29:58+08:00",
+  "updatedAt": "2026-09-29T08:32:31+08:00",
   "items": [
+    {
+      "id": "tech-20260928-github-runner-version-enforcement",
+      "title": "GitHub Actions 今日全面执行自托管 Runner 最低版本要求",
+      "summary": "GitHub Enterprise Cloud 自 9 月 29 日起全面执行自托管 Runner 最低版本要求：低于 2.329.0 的实例不能注册或重新注册，低于运行要求的已注册实例也会停止接单。GitHub Enterprise Server 不受此次调整影响。",
+      "publishedAt": "2026-09-28",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved/",
+      "subCategory": "开发者平台"
+    },
+    {
+      "id": "tech-20260928-cloudflare-cf-cli-open-beta",
+      "title": "Cloudflare 发布面向 Agent 的 cf CLI 开放测试版",
+      "summary": "Cloudflare 推出 cf CLI 开放测试版，通过 API Schema 生成命令，将覆盖范围从 Wrangler 约 280 项扩展到 3000 多项 API 操作，并以 JSON 和命令检索服务人类与 Agent。当前仍是开放测试版，不能据此视为 Wrangler 的稳定替代。",
+      "publishedAt": "2026-09-28",
+      "source": "Cloudflare",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20260925-github-actions-query-count-limit",
       "title": "GitHub Actions 查询超过 2500 条运行记录时不再返回精确总数",

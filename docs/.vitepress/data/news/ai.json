@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-28T09:36:58+08:00",
+  "updatedAt": "2026-09-29T08:32:31+08:00",
   "items": [
+    {
+      "id": "ai-20260928-claude-sonnet-5-5-github-copilot",
+      "title": "Claude Sonnet 5.5 在 GitHub Copilot 全面可用",
+      "summary": "GitHub 将 Claude Sonnet 5.5 向 Copilot Pro、Pro+、Max、Business 和 Enterprise 用户开放，覆盖 IDE、CLI、Coding Agent 与移动端，并采取渐进式推送。GitHub 称其早期测试使用的步骤、Token 和工具调用少于 Sonnet 5，但这不是独立性能验证。",
+      "publishedAt": "2026-09-28",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot/",
+      "subCategory": "AI 编程"
+    },
     {
       "id": "ai-20260925-claude-nine-loop-amplitude",
       "title": "Anthropic 披露 Claude 参与完成九圈散射振幅计算",
