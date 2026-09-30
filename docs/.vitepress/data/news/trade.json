@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-29T08:32:31+08:00",
+  "updatedAt": "2026-09-30T08:38:12+08:00",
   "items": [
+    {
+      "id": "trade-20260929-cbp-indonesia-palm-oil-wro",
+      "title": "美国海关扣留两家印尼种植园生产的棕榈油及衍生品",
+      "summary": "美国海关与边境保护局对 Mitra Aneka Rezeki 和 Hardaya Inti Plantation 签发两份扣留令，即日起在所有美国口岸扣留其棕榈油及衍生品。措施基于存在强迫劳动的合理迹象，并非最终司法定罪，但已带来即时进口合规影响。",
+      "publishedAt": "2026-09-29",
+      "source": "美国海关与边境保护局",
+      "url": "https://content.govdelivery.com/accounts/USDHSCBP/bulletins/42d0ee3",
+      "subCategory": "贸易合规"
+    },
     {
       "id": "trade-20260928-ukef-flexible-finance-pilot",
       "title": "英国推出最高 50 亿英镑出口融资试点，为海外买家贷款提供八成担保",

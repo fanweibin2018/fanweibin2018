@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-09-29T08:32:31+08:00",
+  "updatedAt": "2026-09-30T08:38:12+08:00",
   "items": [
+    {
+      "id": "ai-20260929-anthropic-glm-5-3-cyber-evaluation",
+      "title": "Anthropic 测试称 GLM-5.3 已具备端到端漏洞利用能力",
+      "summary": "Anthropic 在隔离环境中测试称，GLM-5.3 在 ExploitBench 的 410 次尝试中完成 50 次端到端利用，简单诱导或修改权重也可明显绕过拒答。结果来自竞争厂商，且部分为内部或模拟基准，仍需结合独立评估解读。",
+      "publishedAt": "2026-09-29",
+      "source": "Anthropic Frontier Red Team",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "subCategory": "AI 安全"
+    },
+    {
+      "id": "ai-20260929-nvidia-kumo-tabular",
+      "title": "NVIDIA 发布 Kumo Tabular，用一次前向计算完成表格预测",
+      "summary": "NVIDIA 发布三档 2800 万至 2.15 亿参数的 Kumo Tabular，面向表格分类与回归，可依据带标签样本直接预测，无需逐任务训练；代码与权重按 OpenMDW 1.1 提供。四项榜单领先为厂商自测，且原生仅处理数值和类别列。",
+      "publishedAt": "2026-09-29",
+      "source": "NVIDIA / Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "subCategory": "机器学习"
+    },
     {
       "id": "ai-20260928-claude-sonnet-5-5-github-copilot",
       "title": "Claude Sonnet 5.5 在 GitHub Copilot 全面可用",

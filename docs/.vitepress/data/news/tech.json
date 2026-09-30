@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-29T08:32:31+08:00",
+  "updatedAt": "2026-09-30T08:38:12+08:00",
   "items": [
+    {
+      "id": "tech-20260929-github-external-custom-properties",
+      "title": "GitHub 开放外部自定义属性预览，让 CMDB 成为仓库元数据源",
+      "summary": "GitHub Enterprise Cloud 推出外部自定义属性公共预览，企业可从 CMDB 或内部开发者门户同步仓库所有者、服务等级、生命周期和合规状态。属性在 GitHub 界面只读，并可继续用于仓库筛选与规则集定位。",
+      "publishedAt": "2026-09-29",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties/",
+      "subCategory": "开发者平台"
+    },
     {
       "id": "tech-20260928-github-runner-version-enforcement",
       "title": "GitHub Actions 今日全面执行自托管 Runner 最低版本要求",
