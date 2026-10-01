@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-09-29T08:32:31+08:00",
+  "updatedAt": "2026-10-01T08:37:49+08:00",
   "items": [
+    {
+      "id": "policy-20260930-ftc-ai-labs-investigation",
+      "title": "据路透社报道，FTC 对 OpenAI、Anthropic 等启动行业调查",
+      "summary": "据路透社报道并经美联社向 FTC 发言人确认，美国联邦贸易委员会正调查 OpenAI、Anthropic 等 AI 企业产品可能带来的消费者风险，拟索取资料并要求高管作证。调查不等同于认定违法，FTC 尚未公开完整范围或结论。",
+      "publishedAt": "2026-09-30",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20260928-sec-zoe-financial-conflict",
       "title": "SEC 就 Zoe Financial 未充分披露荐投利益冲突达成和解",

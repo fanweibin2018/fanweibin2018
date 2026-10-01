@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-09-29T08:32:31+08:00",
+  "updatedAt": "2026-10-01T08:37:49+08:00",
   "items": [
+    {
+      "id": "industry-20260930-micron-fy2026-results",
+      "title": "美光季度营收达 542.3 亿美元，下一季度指引升至 615 亿美元",
+      "summary": "美光公布 2026 财年第四季度营收 542.3 亿美元，其中核心数据中心业务营收 180 亿美元；公司预计下一季度营收为 615 亿美元、上下浮动 15 亿美元。数据与指引均来自公司披露，反映 AI 基础设施对内存和存储需求的拉动，但不代表独立行业预测。",
+      "publishedAt": "2026-09-30",
+      "source": "Micron Technology",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx",
+      "subCategory": "半导体"
+    },
     {
       "id": "industry-20260928-fed-auto-chip-shortage-study",
       "title": "美联储研究复盘汽车芯片短缺：2021—2022 年累计少产逾 200 万辆",

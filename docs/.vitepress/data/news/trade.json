@@ -2,9 +2,18 @@
   "$schema": "./schema.json",
   "slug": "trade",
   "title": "外贸资讯",
-  "description": "亚马逐、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-09-30T08:38:12+08:00",
+  "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
+  "updatedAt": "2026-10-01T08:37:49+08:00",
   "items": [
+    {
+      "id": "trade-20260930-gfsec-milwaukee-framework",
+      "title": "钢铁产能过剩论坛通过联合行动框架，强化贸易救济与原产追踪",
+      "summary": "GFSEC 成员通过《密尔沃基框架》，拟在各自法律体系内减少扭曲市场的补贴、收集钢铁“熔炼和浇铸国”数据，并加强反倾销、反补贴与反规避协作。框架预计全球钢铁过剩产能 2028 年将达 7.45 亿吨，但具体措施与力度仍由各成员决定。",
+      "publishedAt": "2026-09-30",
+      "source": "全球钢铁产能过剩论坛",
+      "url": "https://www.steelforum.org/content/dam/steel-forum/en/publications/gfsec-comprehensive-framework-for-joint-action.pdf",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20260929-cbp-indonesia-palm-oil-wro",
       "title": "美国海关扣留两家印尼种植园生产的棕榈油及衍生品",
