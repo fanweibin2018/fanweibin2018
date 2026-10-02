@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-01T08:37:49+08:00",
+  "updatedAt": "2026-10-02T08:37:58+08:00",
   "items": [
+    {
+      "id": "policy-20261001-sec-crypto-custody-proposal",
+      "title": "SEC 提议为投资顾问和基金建立加密资产托管框架",
+      "summary": "美国证券交易委员会提出专门面向注册投资顾问和受监管基金的加密资产托管规则，拟在特定条件下允许自托管和使用州信托公司，并调整审计及经纪商托管要求。该方案仍处于征求意见阶段，评论期为《联邦公报》刊登后 60 天，尚未生效。",
+      "publishedAt": "2026-10-01",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20260930-ftc-ai-labs-investigation",
       "title": "据路透社报道，FTC 对 OpenAI、Anthropic 等启动行业调查",

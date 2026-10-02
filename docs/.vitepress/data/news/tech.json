@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-09-30T08:38:12+08:00",
+  "updatedAt": "2026-10-02T08:37:58+08:00",
   "items": [
+    {
+      "id": "tech-20261001-github-private-vulnerability-forms",
+      "title": "GitHub 为私密漏洞报告加入可定制的结构化表单",
+      "summary": "GitHub 将已启用私密漏洞报告的公开仓库默认改为结构化表单，要求提交者填写摘要、详情、至少 150 个字符的概念验证和影响；维护者还可通过 .github/VULNERABILITY_REPORT.yml 自定义字段并要求选择 CWE。这项变更旨在减少低质量或批量生成报告带来的筛选成本。",
+      "publishedAt": "2026-10-01",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports/",
+      "subCategory": "开发者平台"
+    },
     {
       "id": "tech-20260929-github-external-custom-properties",
       "title": "GitHub 开放外部自定义属性预览，让 CMDB 成为仓库元数据源",

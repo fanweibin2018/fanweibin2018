@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-10-01T08:37:49+08:00",
+  "updatedAt": "2026-10-02T08:37:58+08:00",
   "items": [
+    {
+      "id": "ai-20261001-strands-decider-2b",
+      "title": "Strands 开源 Decider 2B，以单次前向计算为 Agent 做选择",
+      "summary": "Strands 开源 Decider 2B：它以 Qwen3.5-2B 为底座，移除文本生成头并换成选项评分头，可用一次前向计算完成是非、选项和评分任务，适合工具选择与参数校验。项目公布的约 115 毫秒中位延迟来自 RTX 3090 测试，JevBench 结果也不足以代表所有真实任务。",
+      "publishedAt": "2026-10-01",
+      "source": "Strands Agents",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "subCategory": "开源模型"
+    },
     {
       "id": "ai-20260930-google-gemini-4-argon",
       "title": "Google 公布 Gemini 4 Argon，首批仅向可信网络防御者开放",

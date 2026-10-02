@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-01T08:37:49+08:00",
+  "updatedAt": "2026-10-02T08:37:58+08:00",
   "items": [
+    {
+      "id": "industry-20260930-airbnb-fall-update",
+      "title": "Airbnb 加入社交旅行地图与自然语言搜索，继续扩展本地服务",
+      "summary": "Airbnb 秋季更新在美国引入自然语言和语音搜索、AI 筛选及房源对比，并推出连接好友的旅行地图；平台还计划分地区扩展餐饮配送、洗衣和婴儿用品租赁。多项功能仅限部分国家、城市或将在秋季稍晚推出，不代表全球同步上线。",
+      "publishedAt": "2026-09-30",
+      "source": "Airbnb",
+      "url": "https://news.airbnb.com/airbnb-2026-fall-update",
+      "subCategory": "消费零售"
+    },
     {
       "id": "industry-20260930-micron-fy2026-results",
       "title": "美光季度营收达 542.3 亿美元，下一季度指引升至 615 亿美元",

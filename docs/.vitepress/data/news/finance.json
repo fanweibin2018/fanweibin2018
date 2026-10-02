@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-01T08:37:49+08:00",
+  "updatedAt": "2026-10-02T08:37:58+08:00",
   "items": [
+    {
+      "id": "finance-20261001-eurostat-unemployment",
+      "title": "欧元区失业率维持 6.4%，失业人数同比增加 26.7 万",
+      "summary": "欧盟统计局公布，欧元区 8 月季调失业率为 6.4%，与 7 月持平、较上年同期的 6.3% 上升；失业人数约 1135.7 万，同比增加 26.7 万。欧盟整体失业率为 6.1%，同样环比持平、同比上升 0.1 个百分点。",
+      "publishedAt": "2026-10-01",
+      "source": "欧盟统计局",
+      "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01102026-ap",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20260930-china-pmi",
       "title": "中国 9 月制造业 PMI 升至 50.1%，重返扩张区间",
