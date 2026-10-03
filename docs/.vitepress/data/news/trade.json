@@ -3,7 +3,7 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-03T08:33:31+08:00",
+  "updatedAt": "2026-10-04T05:40:00+08:00",
   "items": [
     {
       "id": "trade-20261002-ustr-usmca-2027-review-comments",
@@ -12,6 +12,15 @@
       "publishedAt": "2026-10-02",
       "source": "美国贸易代表办公室",
       "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+      "subCategory": "贸易政策"
+    },
+    {
+      "id": "trade-20261001-us-china-aircraft-parts-licenses",
+      "title": "据路透社报道，美国放慢部分对华航空零部件出口许可",
+      "summary": "据路透社援引知情人士报道，美国商务部近几周放慢部分对华航空零部件出口许可，并限制中国商飞可获批的零部件数量；官员还在讨论更便于限制起落架等部件的规则。相关部门未公开确认或发布正式规则，企业应将其视为许可风险信号，而非已经生效的全面禁令。",
+      "publishedAt": "2026-10-01",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/autos-transportation/us-slows-aircraft-part-exports-china-trump-seeks-leverage-trade-negotiations-2026-10-01/",
       "subCategory": "贸易政策"
     },
     {

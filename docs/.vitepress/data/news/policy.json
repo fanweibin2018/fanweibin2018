@@ -3,7 +3,7 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-03T08:33:31+08:00",
+  "updatedAt": "2026-10-04T05:40:00+08:00",
   "items": [
     {
       "id": "policy-20261002-ftc-southern-glazers-settlement",
@@ -22,6 +22,15 @@
       "source": "美国证券交易委员会",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
       "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20260930-california-sb574-legal-ai",
+      "title": "加州通过 SB 574，明确律师使用生成式 AI 的核验与披露义务",
+      "summary": "加州州长批准 SB 574，禁止律师把法律执业委托给生成式 AI，并要求核验输出、纠正错误、向法院披露提交文件中的 AI 使用情况；负责提交文件的律师还须亲自核验其中引用。规则同时限制仲裁员把决策交给 AI，法律服务机构需据此调整审查和保密流程。",
+      "publishedAt": "2026-09-30",
+      "source": "California Legislative Information",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB574",
+      "subCategory": "AI监管"
     },
     {
       "id": "policy-20260930-ftc-ai-labs-investigation",

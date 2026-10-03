@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-03T08:33:31+08:00",
+  "updatedAt": "2026-10-04T05:40:00+08:00",
   "items": [
+    {
+      "id": "tech-20261002-github-stateless-app-tokens",
+      "title": "GitHub App 安装令牌全面切换为无状态格式，长度增至约 520 字符",
+      "summary": "GitHub 已完成无状态安装令牌的分阶段发布，新签发的 GitHub App 安装令牌默认采用约 520 字符的 ghs_APPID_JWT 格式，权限、仓库范围和一小时有效期不变。依赖 40 字符长度、固定字段或旧脱敏规则的集成需检查兼容性，临时请求头将在 11 月 30 日停用。",
+      "publishedAt": "2026-10-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out/",
+      "subCategory": "开发者平台"
+    },
     {
       "id": "tech-20261002-github-confidential-advisory-comments",
       "title": "GitHub 安全公告支持仅维护者可见的机密评论",

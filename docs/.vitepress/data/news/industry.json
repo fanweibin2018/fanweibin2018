@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-02T08:37:58+08:00",
+  "updatedAt": "2026-10-04T05:40:00+08:00",
   "items": [
+    {
+      "id": "industry-20261003-renault-france-ev-investment",
+      "title": "雷诺拟五年在法国投资逾 100 亿欧元，重点投入电动车与平价车型",
+      "summary": "雷诺首席执行官 François Provost 表示，若社会和政治环境允许，公司未来五年将在法国再投资逾 100 亿欧元，用于推进电动车和更平价车型；他同时称 2026 年法国工厂产量将较 2025 年至少增加 25%。这是带前提的管理层投资表态，尚非无条件资本开支承诺。",
+      "publishedAt": "2026-10-03",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/autos-transportation/renault-invest-over-10-bln-euros-france-evs-affordable-cars-ceo-says-2026-10-03/",
+      "subCategory": "汽车产业"
+    },
     {
       "id": "industry-20260930-airbnb-fall-update",
       "title": "Airbnb 加入社交旅行地图与自然语言搜索，继续扩展本地服务",
