@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-02T08:37:58+08:00",
+  "updatedAt": "2026-10-03T08:33:31+08:00",
   "items": [
+    {
+      "id": "tech-20261002-github-confidential-advisory-comments",
+      "title": "GitHub 安全公告支持仅维护者可见的机密评论",
+      "summary": "GitHub 仓库安全公告新增机密评论，只有具备写入权限的维护者可见，报告者及无写入权限的受邀协作者不会收到通知；访问会记入审计日志。该功能适用于已启用私密漏洞报告的公开仓库，GraphQL API 可读取，REST API 暂不返回。",
+      "publishedAt": "2026-10-02",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories/",
+      "subCategory": "开发者平台"
+    },
+    {
+      "id": "tech-20261002-cloudflare-observability-platform",
+      "title": "Cloudflare 统一日志与链路追踪入口，Traces 进入开放测试",
+      "summary": "Cloudflare 整合日志、链路追踪、告警和仪表盘入口，Traces 与统一 SQL 查询 API 进入测试阶段；所有套餐获得 30 天域名分析历史，Logpush 扩展至全部自助套餐。各组件成熟度不同，不能视为整套可观测平台均已正式可用。",
+      "publishedAt": "2026-10-02",
+      "source": "Cloudflare",
+      "url": "https://blog.cloudflare.com/one-observability-platform/",
+      "subCategory": "云计算"
+    },
     {
       "id": "tech-20261001-github-private-vulnerability-forms",
       "title": "GitHub 为私密漏洞报告加入可定制的结构化表单",

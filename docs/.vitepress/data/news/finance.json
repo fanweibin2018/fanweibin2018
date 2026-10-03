@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-02T08:37:58+08:00",
+  "updatedAt": "2026-10-03T08:33:31+08:00",
   "items": [
+    {
+      "id": "finance-20261002-us-employment-report",
+      "title": "美国 9 月非农就业增加 2.9 万，失业率为 4.2%",
+      "summary": "美国劳工统计局公布，9 月非农就业增加 2.9 万，失业率为 4.2%，主要行业就业整体变化不大；7 月和 8 月新增就业合计下修 6 万。私人部门平均时薪环比上涨 0.1%、同比上涨 3.0%。",
+      "publishedAt": "2026-10-02",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20261002-eurostat-inflation-flash",
+      "title": "欧元区 9 月通胀初值升至 3.8%，能源价格同比涨 18.8%",
+      "summary": "欧盟统计局初步估计，欧元区 9 月调和消费者价格同比上涨 3.8%，高于 8 月的 3.2%；能源价格同比涨幅由 14.3% 扩大至 18.8%，剔除能源、食品、酒类和烟草后的通胀率为 2.5%。完整数据定于 10 月 16 日发布。",
+      "publishedAt": "2026-10-02",
+      "source": "欧盟统计局",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-02102026-ap",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261001-eurostat-unemployment",
       "title": "欧元区失业率维持 6.4%，失业人数同比增加 26.7 万",

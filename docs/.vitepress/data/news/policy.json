@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-02T08:37:58+08:00",
+  "updatedAt": "2026-10-03T08:33:31+08:00",
   "items": [
+    {
+      "id": "policy-20261002-ftc-southern-glazers-settlement",
+      "title": "FTC 与 Southern Glazer’s 就零售价格歧视案达成拟议和解",
+      "summary": "美国联邦贸易委员会与酒类分销商 Southern Glazer’s 达成拟议和解，拟对其向 26 个州五大连锁零售商的相关销售设置六年价格歧视限制，并由独立监督员审查。该命令须经联邦地区法院批准签署后才具有法律效力。",
+      "publishedAt": "2026-10-02",
+      "source": "美国联邦贸易委员会",
+      "url": "https://search.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-settlement-protects-small-businesses-illegal-price-discrimination",
+      "subCategory": "反垄断"
+    },
     {
       "id": "policy-20261001-sec-crypto-custody-proposal",
       "title": "SEC 提议为投资顾问和基金建立加密资产托管框架",

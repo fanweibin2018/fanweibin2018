@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-01T08:37:49+08:00",
+  "updatedAt": "2026-10-03T08:33:31+08:00",
   "items": [
+    {
+      "id": "trade-20261002-ustr-usmca-2027-review-comments",
+      "title": "USTR 启动 2027 年 USMCA 联合审查公众咨询",
+      "summary": "美国贸易代表办公室就 2027 年《美墨加协定》联合审查启动公众咨询，征集协定运行意见及公开听证参与申请，截止时间为 2027 年 1 月 12 日。此次是审查前的意见征集，并不代表协定条款已经调整。",
+      "publishedAt": "2026-10-02",
+      "source": "美国贸易代表办公室",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20260930-gfsec-milwaukee-framework",
       "title": "钢铁产能过剩论坛通过联合行动框架，强化贸易救济与原产追踪",
