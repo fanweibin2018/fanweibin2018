@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-04T05:40:00+08:00",
+  "updatedAt": "2026-10-05T05:36:00+08:00",
   "items": [
+    {
+      "id": "tech-20261002-apple-macos-full-disk-access-controls",
+      "title": "Apple 宣布将收紧 macOS 全磁盘访问，AI Agent 授权需更明确",
+      "summary": "Apple 表示将为 macOS 的全磁盘访问权限加入额外控制，要求用户通过非常明确的操作完成授权；该权限可让应用接触文件、邮件、消息和浏览历史。官方尚未公布上线版本、时间或具体 API 变化，开发者仍需等待后续实现细节。",
+      "publishedAt": "2026-10-02",
+      "source": "Apple Developer",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "subCategory": "隐私安全"
+    },
+    {
+      "id": "tech-20261002-meta-muse-gadget-sdk",
+      "title": "Meta 开源 Muse Gadgets SDK，把 AI Agent 接到 ESP32 与 Linux 设备",
+      "summary": "Meta 开源 Muse Gadgets 的 ESP32 固件和 Linux SDK，开发者可把 Muse 连接到显示器、按钮、传感器和执行器，代码主要采用 Apache 2.0。实际配对仍须取得 SDK 令牌并在 Muse 移动端启用开发者模式；令牌条款限个人非商业使用，且接入服务可被撤回，因此代码开源不等于服务无限制开放。",
+      "publishedAt": "2026-10-02",
+      "source": "Meta / GitHub",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+      "subCategory": "开源生态"
+    },
     {
       "id": "tech-20261002-github-stateless-app-tokens",
       "title": "GitHub App 安装令牌全面切换为无状态格式，长度增至约 520 字符",

@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-04T05:40:00+08:00",
+  "updatedAt": "2026-10-05T05:36:00+08:00",
   "items": [
+    {
+      "id": "industry-20261002-bea-ai-utilization-economic-performance",
+      "title": "BEA 研究揭示 AI 使用口径差异：员工报告近 50%，企业调查约 18%",
+      "summary": "一项美国经济分析局工作论文对照两类调查：Gallup 中报告使用 AI 的员工占比从约 20% 升至 2026 年初的近 50%，美国人口普查局企业调查中的采用率则从约 4% 升至 18%；两者最新行业排序的加权相关系数为 0.93。作者发现高使用州—行业单元的实际产出轨迹更强，但明确指出反向因果和部分样本稀疏使结果不能证明 AI 导致增长。",
+      "publishedAt": "2026-10-02",
+      "source": "美国经济分析局（BEA）",
+      "url": "https://apps.bea.gov/scb/spotlights/2026/1026-ai-utilization.htm",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20261003-renault-france-ev-investment",
       "title": "雷诺拟五年在法国投资逾 100 亿欧元，重点投入电动车与平价车型",
