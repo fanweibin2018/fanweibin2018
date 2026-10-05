@@ -3,8 +3,26 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-03T08:33:31+08:00",
+  "updatedAt": "2026-10-06T05:35:12+08:00",
   "items": [
+    {
+      "id": "finance-20261005-us-services-pmi",
+      "title": "美国 9 月服务业 PMI 降至 54.9，投入价格指数升至四年高位",
+      "summary": "美国供应管理协会数据显示，9 月服务业 PMI 由 55.4 降至 54.9，仍处扩张区间；投入价格指数升至 74.0，为 2022 年 7 月以来最高，供应商交付指数升至 53.2。调查中关税和燃料成本是受访企业最常提及的供应链影响因素。",
+      "publishedAt": "2026-10-05",
+      "source": "路透社 / 美国供应管理协会",
+      "url": "https://www.reuters.com/business/us-services-sector-activity-slows-september-price-pressures-mount-2026-10-05/",
+      "subCategory": "宏观经济"
+    },
+    {
+      "id": "finance-20261005-eurostat-producer-prices",
+      "title": "欧元区 8 月工业生产者价格环比上涨 1.9%，能源价格是主因",
+      "summary": "欧盟统计局初步估计，欧元区 8 月工业生产者价格环比上涨 1.9%、同比上涨 8.2%；其中能源价格环比上涨 5.6%、同比上涨 21.0%，剔除能源后的工业生产者价格环比仅涨 0.2%。数据表明本轮上游价格加速主要由能源推动。",
+      "publishedAt": "2026-10-05",
+      "source": "欧盟统计局",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-05102026-ap",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261002-us-employment-report",
       "title": "美国 9 月非农就业增加 2.9 万，失业率为 4.2%",

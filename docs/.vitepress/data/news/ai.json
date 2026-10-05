@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-10-05T05:36:00+08:00",
+  "updatedAt": "2026-10-06T05:35:12+08:00",
   "items": [
+    {
+      "id": "ai-20261005-reflection-beam-preview",
+      "title": "Reflection 预览 5010 亿参数 Beam，权重与技术报告尚未发布",
+      "summary": "Reflection 公布稀疏 MoE 模型 Beam，称其总参数 5010 亿、每 Token 激活 230 亿，并用 10500 块 NVIDIA GB300 完成逾 1 亿次强化学习 rollout。模型仍在最终红队测试和评估，当前仅开放候补申请；权重、模型卡、技术报告及开发者工具计划本月稍后发布，性能数据也仍主要来自厂商评测。",
+      "publishedAt": "2026-10-05",
+      "source": "Reflection AI",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "subCategory": "开源模型"
+    },
     {
       "id": "ai-20261005-openai-gpt-rosalind-pricing",
       "title": "GPT-Rosalind 研究模型 10 月 5 日起计费，访问仍限获批机构",

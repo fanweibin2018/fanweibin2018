@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-04T05:40:00+08:00",
+  "updatedAt": "2026-10-06T05:35:12+08:00",
   "items": [
+    {
+      "id": "policy-20261004-white-house-super-intelligence-force",
+      "title": "据《华尔街日报》报道，白宫组建 AI 工作组并设 120 天报告期",
+      "summary": "据《华尔街日报》报道，美国国家情报总监 Jay Clayton 将主持名为“Super Intelligence Force”的白宫工作组，成员须在 120 天内评估 AI 的风险、机会及联邦政府职责。报道披露了任务期限和负责人，但正式章程及最终政策措施尚未公开。",
+      "publishedAt": "2026-10-04",
+      "source": "华尔街日报",
+      "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261002-ftc-southern-glazers-settlement",
       "title": "FTC 与 Southern Glazer’s 就零售价格歧视案达成拟议和解",
