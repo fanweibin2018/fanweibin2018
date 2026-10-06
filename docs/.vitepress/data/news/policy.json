@@ -3,8 +3,26 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-06T05:35:12+08:00",
+  "updatedAt": "2026-10-07T05:35:00+08:00",
   "items": [
+    {
+      "id": "policy-20261006-fed-supervision-five-regions",
+      "title": "美联储启动银行监管五区域重组，并拟更新固定资产门槛",
+      "summary": "美联储监管职能将按州界重组为五个区域，每区由一名负责人统筹全部监管活动，现有储备银行地点和检查人员保留。监管副主席 Michelle Bowman 还表示，理事会年内将考虑按通胀和经济增长上调固定资产门槛，并设置每五年更新机制；后者仍待理事会审议。",
+      "publishedAt": "2026-10-06",
+      "source": "美国联邦储备委员会",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "policy-20261005-cftc-leveraged-crypto-framework",
+      "title": "据路透社报道，CFTC 提议为零售杠杆加密交易设联邦场所类别",
+      "summary": "据路透社报道，美国商品期货交易委员会提议设立“crypto asset market”场所类别，让提供零售杠杆或保证金交易的平台选择接受联邦监管，并承担储备证明、反操纵等要求。方案未设统一杠杆上限，且不等于 CFTC 已获得全面监管现货加密市场的权限。",
+      "publishedAt": "2026-10-05",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/us-commodities-regulator-proposes-new-federal-crypto-oversight-rules-2026-10-05/",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20261004-white-house-super-intelligence-force",
       "title": "据《华尔街日报》报道，白宫组建 AI 工作组并设 120 天报告期",

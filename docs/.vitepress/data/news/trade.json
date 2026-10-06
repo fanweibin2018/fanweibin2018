@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-05T05:36:00+08:00",
+  "updatedAt": "2026-10-07T05:35:00+08:00",
   "items": [
+    {
+      "id": "trade-20261006-us-august-trade-deficit",
+      "title": "美国 8 月贸易逆差扩大 13.7% 至 1056 亿美元",
+      "summary": "美国经济分析局与人口普查局数据显示，8 月商品和服务进口环比增长 4.3% 至 4208 亿美元，出口增长 1.4% 至 3152 亿美元，逆差因此扩大至 1056 亿美元。尽管单月逆差上升，年初至 8 月累计逆差仍较 2025 年同期减少 19.9%。",
+      "publishedAt": "2026-10-06",
+      "source": "美国经济分析局 / 人口普查局",
+      "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026",
+      "subCategory": "海关数据"
+    },
     {
       "id": "trade-20261002-usmca-tire-factory-remediation",
       "title": "美墨为墨西哥轮胎厂达成 USMCA 劳工补救方案",
