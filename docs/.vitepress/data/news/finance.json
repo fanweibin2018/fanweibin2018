@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-06T05:35:12+08:00",
+  "updatedAt": "2026-10-08T05:38:07+08:00",
   "items": [
+    {
+      "id": "finance-20261007-fomc-september-minutes",
+      "title": "美联储 9 月会议纪要：多数与会者预计年内或需再加息一次",
+      "summary": "美联储公布 9 月 15—16 日会议纪要：多数与会者认为年内再次上调联邦基金利率目标区间可能合适，几位与会者把当前利率视为不具限制性或仅轻度限制性；未来决定仍取决于后续数据。纪要补充了此前加息决定背后的分歧和风险判断，并不代表新的利率决定。",
+      "publishedAt": "2026-10-07",
+      "source": "美国联邦储备委员会",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20261005-us-services-pmi",
       "title": "美国 9 月服务业 PMI 降至 54.9，投入价格指数升至四年高位",

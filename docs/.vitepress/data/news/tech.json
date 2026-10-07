@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-05T05:36:00+08:00",
+  "updatedAt": "2026-10-08T05:38:07+08:00",
   "items": [
+    {
+      "id": "tech-20261006-github-stacked-pr-ga",
+      "title": "GitHub 堆叠式 PR 正式可用，依赖变更可成组进入合并队列",
+      "summary": "GitHub 将堆叠式拉取请求转为正式可用，并新增保留未变代码审批、为变基后的替换提交签名、自动重定向分支栈及 stacked Webhook 事件等能力；整组 PR 也可作为一个合并队列组落地。该功能已覆盖 github.com 全部套餐，自动合并仍在未来数周逐步上线。",
+      "publishedAt": "2026-10-06",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available/",
+      "subCategory": "开发者平台"
+    },
     {
       "id": "tech-20261002-apple-macos-full-disk-access-controls",
       "title": "Apple 宣布将收紧 macOS 全磁盘访问，AI Agent 授权需更明确",

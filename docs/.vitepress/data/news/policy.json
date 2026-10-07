@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-07T05:35:00+08:00",
+  "updatedAt": "2026-10-08T05:38:07+08:00",
   "items": [
+    {
+      "id": "policy-20261007-ftc-usda-ag-equipment-inquiry",
+      "title": "FTC 与 USDA 联合调查农业设备市场，维修和经销限制纳入征询",
+      "summary": "美国联邦贸易委员会与农业部启动联合信息征集，要求农户、独立维修商及设备厂商和经销商员工提交关于合同限制、处罚、报复及其对价格、市场准入和创新影响的材料，意见截止 12 月 7 日。此次仅是为后续执法和监管确定重点，并非已经认定存在违法行为。",
+      "publishedAt": "2026-10-07",
+      "source": "美国联邦贸易委员会",
+      "url": "https://search.ftc.gov/news-events/news/press-releases/2026/10/ftc-usda-seek-public-comment-agricultural-equipment-manufacturing-distribution-market-practices",
+      "subCategory": "反垄断"
+    },
     {
       "id": "policy-20261006-fed-supervision-five-regions",
       "title": "美联储启动银行监管五区域重组，并拟更新固定资产门槛",
