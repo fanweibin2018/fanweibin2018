@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-07T05:35:00+08:00",
+  "updatedAt": "2026-10-09T05:32:07+08:00",
   "items": [
+    {
+      "id": "industry-20261008-globalfoundries-tsmc-interposer-deal",
+      "title": "格罗方德与台积电签署 20 亿美元硅中介层制造协议",
+      "summary": "格罗方德将为台积电 CoWoS 先进封装生态生产硅中介层，并扩建纽约州马耳他工厂产能。协议初始期限五年，格罗方德称该工厂将成为美国首个相关供应来源，预计 2028 年上半年开始提升量产规模；后两项仍属公司计划。",
+      "publishedAt": "2026-10-08",
+      "source": "格罗方德",
+      "url": "https://gf.com/zh/news-and-events/news/globalfoundries-reaches-agreement-to-establish-us-based-supply-of-silicon-interposers-for-advanced-ai-packaging/",
+      "subCategory": "半导体"
+    },
     {
       "id": "industry-20261006-skydance-wbd-acquisition-closed",
       "title": "Skydance 完成收购 Warner Bros. Discovery，交易对价约 780 亿美元",

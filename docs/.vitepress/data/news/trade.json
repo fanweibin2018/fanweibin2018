@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-08T05:38:07+08:00",
+  "updatedAt": "2026-10-09T05:32:07+08:00",
   "items": [
+    {
+      "id": "trade-20261008-wto-global-trade-outlook",
+      "title": "WTO 将 2026 年全球货物贸易增长预期上调至 3.9%",
+      "summary": "据路透社引述 WTO 最新展望，2026 年全球货物贸易量增速预测由 3 月的 1.9% 上调至 3.9%；上半年 AI 赋能商品贸易额同比增长 67%，贡献货物贸易增量的 47%。同期商业服务贸易增速预测由 4.8% 下调至 3.3%，显示硬件需求与运输、旅行压力正在分化。",
+      "publishedAt": "2026-10-08",
+      "source": "路透社 / 世界贸易组织",
+      "url": "https://www.reuters.com/world/asia-pacific/wto-upgrades-goods-trade-forecast-ai-boom-offsets-middle-east-disruption-2026-10-08/",
+      "subCategory": "市场趋势"
+    },
     {
       "id": "trade-20261007-ustr-manufacturing-excess-capacity-statement",
       "title": "美国与另外 14 个经济体签署制造业结构性产能联合声明",

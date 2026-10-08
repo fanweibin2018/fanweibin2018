@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-08T05:38:07+08:00",
+  "updatedAt": "2026-10-09T05:32:07+08:00",
   "items": [
+    {
+      "id": "finance-20261008-ecb-september-account",
+      "title": "欧洲央行 9 月会议纪要：全体成员支持加息 25 个基点",
+      "summary": "欧洲央行公布 9 月 9—10 日会议纪要：全体成员支持把三项关键利率上调 25 个基点，并一致认为通胀风险偏向上行。纪要同时显示，官员未承诺固定加息路径，将继续逐次会议依据数据判断；这是对既有利率决定的讨论细节补充，并非新的加息行动。",
+      "publishedAt": "2026-10-08",
+      "source": "欧洲中央银行",
+      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20261007-fomc-september-minutes",
       "title": "美联储 9 月会议纪要：多数与会者预计年内或需再加息一次",

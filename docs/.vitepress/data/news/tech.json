@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-08T05:38:07+08:00",
+  "updatedAt": "2026-10-09T05:32:07+08:00",
   "items": [
+    {
+      "id": "tech-20261007-github-copilot-local-sandbox-ga",
+      "title": "GitHub Copilot 本地沙箱正式可用，可限制 Agent 的文件、网络与凭据访问",
+      "summary": "GitHub Copilot CLI、Copilot app 及使用 Agent Host 的 VS Code 会话已支持正式版本地沙箱。开发者或组织可限制 Agent 命令访问文件系统、网络和凭据，并把策略应用到受支持的本地 MCP 与语言服务器；该能力基于 MXC，覆盖 Windows、macOS 和 Linux。",
+      "publishedAt": "2026-10-07",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available/",
+      "subCategory": "隐私安全"
+    },
     {
       "id": "tech-20261006-github-stacked-pr-ga",
       "title": "GitHub 堆叠式 PR 正式可用，依赖变更可成组进入合并队列",
