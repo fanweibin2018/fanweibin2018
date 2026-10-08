@@ -9,9 +9,9 @@ const props = defineProps<{
 const category = computed(() => news.bySlug[props.slug])
 
 // 各 slug 的平台 / 来源过滤器(可扩展)。
-// 一个过滤器 = 一个 chip,匹配规则作用于 NewsItem.source。
+// 一个过滤器 = 一个 chip,匹配规则作用于条目的来源、标题和摘要。
 // '其他' 是兜底:命中"非任何已知平台"的条目。
-type PlatformFilter = { label: string; test: (source: string) => boolean }
+type PlatformFilter = { label: string; test: (text: string) => boolean }
 const PLATFORM_FILTERS: Record<string, PlatformFilter[]> = {
   trade: [
     { label: 'Amazon',     test: (s) => /amazon|亚马逊/i.test(s) },
@@ -35,14 +35,15 @@ const selected = ref<Set<string>>(new Set())
 
 watch(() => props.slug, () => { selected.value = new Set() })
 
-function matchesFilter(source: string, label: string): boolean {
+function matchesFilter(item: NewsItem, label: string): boolean {
+  const text = [item.source || '', item.title || '', item.summary || ''].join(' ')
   if (label === '其他') {
     return !platformFilters.value
       .filter((f) => f.label !== '其他')
-      .some((f) => f.test(source))
+      .some((f) => f.test(text))
   }
   const f = platformFilters.value.find((x) => x.label === label)
-  return f ? f.test(source) : false
+  return f ? f.test(text) : false
 }
 
 function toggle(label: string) {
@@ -63,7 +64,7 @@ const filterCounts = computed(() => {
   for (const f of platformFilters.value) {
     let count = 0
     for (const item of cat.items) {
-      if (matchesFilter(item.source || '', f.label)) count++
+      if (matchesFilter(item, f.label)) count++
     }
     result[f.label] = count
   }
@@ -75,9 +76,8 @@ const filteredItems = computed(() => {
   if (!cat) return []
   if (selected.value.size === 0) return cat.items
   return cat.items.filter((item) => {
-    const src = item.source || ''
     for (const label of selected.value) {
-      if (matchesFilter(src, label)) return true
+      if (matchesFilter(item, label)) return true
     }
     return false
   })
