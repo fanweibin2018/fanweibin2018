@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-08T05:38:07+08:00",
+  "updatedAt": "2026-10-10T05:36:52+08:00",
   "items": [
+    {
+      "id": "policy-20261009-eu-tax-list-panama-vietnam",
+      "title": "欧盟将巴拿马和越南移出税收不合作辖区名单",
+      "summary": "欧盟理事会将巴拿马和越南从税收不合作辖区名单移至附件二，两地完成改革并获 OECD 全球论坛重新审查；审查尚未结束。名单现剩 8 个辖区，下一次修订计划在 2027 年 2 月进行，涉及欧盟税务尽调的企业需据此更新辖区状态。",
+      "publishedAt": "2026-10-09",
+      "source": "欧盟理事会",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/09/taxation-council-updates-the-eu-list-of-non-cooperative-jurisdictions-for-tax-purposes/",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20261007-ftc-usda-ag-equipment-inquiry",
       "title": "FTC 与 USDA 联合调查农业设备市场，维修和经销限制纳入征询",

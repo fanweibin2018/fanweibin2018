@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-09T05:32:07+08:00",
+  "updatedAt": "2026-10-10T05:36:52+08:00",
   "items": [
+    {
+      "id": "trade-20261009-eu-china-hybrid-export-agreement",
+      "title": "欧盟贸易委员称欧中同意将中国混动车对欧出口减半",
+      "summary": "据路透社报道，欧盟贸易委员 Maroš Šefčovič 表示，欧中同意将中国混合动力和插电混动车对欧出口减半，同时改善欧企在华市场准入并简化中国稀土出口许可。他称这只是第一步；报道未披露减量基准、执行期限和完整协议文本，相关企业仍需等待具体规则。",
+      "publishedAt": "2026-10-09",
+      "source": "路透社",
+      "url": "https://www.reuters.com/business/autos-transportation/eu-says-it-agrees-with-china-halve-hybrid-vehicle-exports-eu-2026-10-09/",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20261008-wto-global-trade-outlook",
       "title": "WTO 将 2026 年全球货物贸易增长预期上调至 3.9%",

@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-09T05:32:07+08:00",
+  "updatedAt": "2026-10-10T05:36:52+08:00",
   "items": [
+    {
+      "id": "tech-20261008-doj-flax-typhoon-tools-seized",
+      "title": "美国司法部扣押被指用于漏洞扫描与鱼叉钓鱼的黑客工具基础设施",
+      "summary": "美国司法部和 FBI 经法院授权，阻断被指由 Integrity Technology Group 运营的 Microscan 与 FishHub：前者借助物联网僵尸网络扫描关键基础设施，后者在入侵后投递恶意软件。FBI 同步发布入侵指标，网络防守方可据此排查相关活动；相关归属与用途为美方指控。",
+      "publishedAt": "2026-10-08",
+      "source": "美国司法部",
+      "url": "https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools-operated",
+      "subCategory": "隐私安全"
+    },
     {
       "id": "tech-20261007-github-copilot-local-sandbox-ga",
       "title": "GitHub Copilot 本地沙箱正式可用，可限制 Agent 的文件、网络与凭据访问",

@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-09T05:32:07+08:00",
+  "updatedAt": "2026-10-10T05:36:52+08:00",
   "items": [
+    {
+      "id": "finance-20261009-unctad-trade-development-report",
+      "title": "UNCTAD 将 2026 年全球经济增长预期定为 2.6%",
+      "summary": "联合国贸发会议《2026 年贸易和发展报告》预计，全球经济增速将由 2025 年的 2.9% 放缓至 2.6%；货物和服务贸易按不变价格计算仍预计增长 4%。报告称 2024 年以来中美贸易额下降逾 20%，并预计亚洲贡献 2026 年全球增长的 59%，显示增长与贸易结构继续向亚洲集中。",
+      "publishedAt": "2026-10-09",
+      "source": "路透社 / 联合国贸发会议",
+      "url": "https://www.reuters.com/world/asia-pacific/world-economic-growth-slow-26-2026-un-trade-body-says-2026-10-09/",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261008-ecb-september-account",
       "title": "欧洲央行 9 月会议纪要：全体成员支持加息 25 个基点",
