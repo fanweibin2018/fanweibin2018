@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-10T05:36:52+08:00",
+  "updatedAt": "2026-10-11T05:37:17+08:00",
   "items": [
+    {
+      "id": "tech-20261008-artex-closed-source-bank-attacks",
+      "title": "ARTEX 开发者宣布停止开源维护，回应工具被用于银行攻击的报告",
+      "summary": "据路透社报道，ARTEX 开发者 10 月 8 日声明项目停止更新并转为闭源，不再发布版本或提供维护；此前 CrowdStrike 在韩国金融机构攻击活动的基础设施中发现 ARTEX 配置和 AI 编码工具会话。现有证据表明攻击者使用了这些工具，不等于工具或模型自主完成入侵。",
+      "publishedAt": "2026-10-08",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/",
+      "subCategory": "隐私安全"
+    },
     {
       "id": "tech-20261008-doj-flax-typhoon-tools-seized",
       "title": "美国司法部扣押被指用于漏洞扫描与鱼叉钓鱼的黑客工具基础设施",
@@ -22,6 +31,15 @@
       "source": "GitHub Changelog",
       "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available/",
       "subCategory": "隐私安全"
+    },
+    {
+      "id": "tech-20261007-cisco-nxos-hardening",
+      "title": "Cisco 修复 NX-OS 多组关键漏洞，最高评分 9.8 且没有绕过方案",
+      "summary": "Cisco 的 10 月 NX-OS 加固版本修复六组内部发现的漏洞，其中访问控制缺陷和越界写入最高 CVSS 评分为 9.8，影响多款 MDS、Nexus 与 UCS 设备。官方称尚未发现漏洞被实际利用，但没有可用绕过方案，受影响用户需按产品表升级到首个修复版本。",
+      "publishedAt": "2026-10-07",
+      "source": "Cisco Security",
+      "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-nxosw1-cWzSbtR",
+      "subCategory": "安全漏洞"
     },
     {
       "id": "tech-20261006-github-stacked-pr-ga",

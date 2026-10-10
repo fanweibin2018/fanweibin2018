@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-10T05:36:52+08:00",
+  "updatedAt": "2026-10-11T05:37:17+08:00",
   "items": [
+    {
+      "id": "finance-20261010-rbi-rupee-dollar-window",
+      "title": "印度央行直接向国有油企供给美元，并收紧外汇套保规则",
+      "summary": "据路透社报道，印度央行将从周一起通过特别窗口满足三家国有石油公司的日常美元需求，并对超过 200 万美元的部分外汇衍生品要求交易商计提 20% 风险准备；无需证明基础敞口的衍生品交易上限也由 1 亿美元降至 500 万美元，旨在缓和卢比市场压力。",
+      "publishedAt": "2026-10-10",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/india/india-central-bank-takes-steps-support-rupee-opens-dollar-window-oil-companies-2026-10-10/",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261009-unctad-trade-development-report",
       "title": "UNCTAD 将 2026 年全球经济增长预期定为 2.6%",

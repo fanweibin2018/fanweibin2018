@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-10T05:36:52+08:00",
+  "updatedAt": "2026-10-11T05:37:17+08:00",
   "items": [
+    {
+      "id": "policy-20261009-china-new-quality-productive-forces",
+      "title": "中央发布新质生产力意见，部署 AI 行业中试基地并约束盲目投资",
+      "summary": "中共中央、国务院发布发展新质生产力意见，提出布局国家人工智能行业应用中试基地和高价值场景，完善算力、算法、数据供给及风险预警体系；文件同时要求避免新兴产业“内卷式”竞争，并追责借政策名义一哄而上、盲目投资造成的重大损失。",
+      "publishedAt": "2026-10-09",
+      "source": "新华社 / 国家保密局",
+      "url": "https://www.gjbmj.gov.cn/n1/2026/1010/c409080-40811646.html",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20261009-eu-tax-list-panama-vietnam",
       "title": "欧盟将巴拿马和越南移出税收不合作辖区名单",
