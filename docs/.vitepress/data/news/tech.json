@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-11T05:37:17+08:00",
+  "updatedAt": "2026-10-13T05:33:45+08:00",
   "items": [
+    {
+      "id": "tech-20261012-github-push-attribution-preview",
+      "title": "GitHub 为提交记录已认证推送者，新增阻止身份冒用的仓库规则",
+      "summary": "GitHub 开始为每个推送提交持久记录已认证的推送者身份，并在界面和 API 中与可自行填写的作者、提交者字段并列展示；新规则可要求提交者邮箱必须匹配推送者。该能力目前仅向 GitHub Enterprise 客户提供限量公测。",
+      "publishedAt": "2026-10-12",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview/",
+      "subCategory": "供应链安全"
+    },
     {
       "id": "tech-20261008-artex-closed-source-bank-attacks",
       "title": "ARTEX 开发者宣布停止开源维护，回应工具被用于银行攻击的报告",

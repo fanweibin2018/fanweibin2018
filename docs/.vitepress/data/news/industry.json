@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-09T05:32:07+08:00",
+  "updatedAt": "2026-10-13T05:33:45+08:00",
   "items": [
+    {
+      "id": "industry-20261012-microsoft-maia-300",
+      "title": "微软发布 Maia 300 AI 加速器，计划 2027 年投入生产部署",
+      "summary": "Maia 300 面向长上下文和解码密集型推理，采用多芯粒架构，单机架集成 96 个加速器、功耗上限 167 千瓦。微软计划 2027 年开始生产部署；其性能与能效数据均为厂商测试结果，尚非独立评测。",
+      "publishedAt": "2026-10-12",
+      "source": "Microsoft",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "subCategory": "半导体"
+    },
+    {
+      "id": "industry-20261012-ionq-elisity-acquisition",
+      "title": "IonQ 拟以最高 13 亿美元股票收购零信任安全公司 Elisity",
+      "summary": "IonQ 签署最终协议，拟将后量子密码和量子密钥分发业务与 Elisity 的身份化网络微隔离平台整合。交易含最高 1.5 亿美元业绩对价，预计 2026 年第四季度完成，仍需监管批准等交割条件。",
+      "publishedAt": "2026-10-12",
+      "source": "IonQ",
+      "url": "https://www.ionq.com/news/ionq-to-acquire-elisity-to-accelerate-zero-trust-for-the-quantum-era",
+      "subCategory": "企业并购"
+    },
     {
       "id": "industry-20261008-globalfoundries-tsmc-interposer-deal",
       "title": "格罗方德与台积电签署 20 亿美元硅中介层制造协议",

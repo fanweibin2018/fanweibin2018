@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-11T05:37:17+08:00",
+  "updatedAt": "2026-10-13T05:33:45+08:00",
   "items": [
+    {
+      "id": "finance-20261012-india-september-cpi",
+      "title": "印度 9 月 CPI 同比升至 5.54%，食品通胀升至 7.74%",
+      "summary": "印度统计部门初步数据显示，9 月全国 CPI 同比上涨 5.54%，高于 8 月终值 4.83%；农村和城市通胀分别为 6.08% 和 4.88%。同期食品价格指数同比上涨 7.74%，显示食品价格是本月通胀加速的重要来源。",
+      "publishedAt": "2026-10-12",
+      "source": "印度统计和计划实施部",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2322244&lang=2&reg=48",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261010-rbi-rupee-dollar-window",
       "title": "印度央行直接向国有油企供给美元，并收紧外汇套保规则",
