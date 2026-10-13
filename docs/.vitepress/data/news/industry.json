@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-13T05:33:45+08:00",
+  "updatedAt": "2026-10-14T05:40:23+08:00",
   "items": [
+    {
+      "id": "industry-20261013-omron-onlogic-interlogic-acquisition",
+      "title": "欧姆龙签约收购 OnLogic 母公司，企业价值 6.75 亿美元",
+      "summary": "欧姆龙披露已于 10 月 10 日签署协议，以 6.75 亿美元企业价值现金收购 Interlogic 及旗下工业计算机厂商 OnLogic，计划约在 2027 年 1 月完成。交易仍需监管批准等条件，欧姆龙拟将工业计算机与控制、传感和机器人业务组合成制造现场的物理 AI 平台。",
+      "publishedAt": "2026-10-13",
+      "source": "欧姆龙",
+      "url": "https://www.omron.com/global/en/ir/irlib/pdfs/20261013_01_e.pdf",
+      "subCategory": "企业并购"
+    },
+    {
+      "id": "industry-20261012-character-ai-chapter-11",
+      "title": "Character.AI 进入 Chapter 11，无可执行收购方案时将关闭平台",
+      "summary": "Character.AI 启动自愿 Chapter 11 程序，拟在法院监督下出售全部或绝大部分资产，预计 11 月底或 12 月初完成。平台和订阅目前继续运行；公司明确表示，若出售过程未产生可维持运营的方案，服务将被关闭。",
+      "publishedAt": "2026-10-12",
+      "source": "Character.AI",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20261012-microsoft-maia-300",
       "title": "微软发布 Maia 300 AI 加速器，计划 2027 年投入生产部署",

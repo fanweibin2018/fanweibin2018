@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-13T05:33:45+08:00",
+  "updatedAt": "2026-10-14T05:40:23+08:00",
   "items": [
+    {
+      "id": "finance-20261013-imf-october-weo",
+      "title": "IMF 将 2026 年全球增长预测调至 3.1%，警示 AI 投资回调风险",
+      "summary": "IMF 10 月《世界经济展望》将 2026 年全球增速预测由 7 月的 3.0% 调至 3.1%，2027 年仍为 3.4%；基线假设霍尔木兹海峡 2027 年 3 月前重开、航运在同年 10 月恢复。其下行情景测算称，AI 投资骤降可能令 2028 年全球 GDP 较基线低 1.1%，该数字不是基线预测。",
+      "publishedAt": "2026-10-13",
+      "source": "路透社 / IMF",
+      "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261012-india-september-cpi",
       "title": "印度 9 月 CPI 同比升至 5.54%，食品通胀升至 7.74%",

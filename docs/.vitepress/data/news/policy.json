@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-11T05:37:17+08:00",
+  "updatedAt": "2026-10-14T05:40:23+08:00",
   "items": [
+    {
+      "id": "policy-20261013-bank-regulators-ai-risk-inquiries",
+      "title": "据路透社：美欧银行监管机构加强 AI 风险问询，尚未形成新规则",
+      "summary": "路透社引述六名知情人士称，美联储、OCC 和 FDIC 正在询问银行如何限制、监控和审计自主 AI 代理，英国与欧元区监管方则关注系统恢复和第三方依赖。美方仍处于信息收集阶段，尚未提出强制要求，多家监管机构拒绝置评。",
+      "publishedAt": "2026-10-13",
+      "source": "路透社",
+      "url": "https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20261009-china-new-quality-productive-forces",
       "title": "中央发布新质生产力意见，部署 AI 行业中试基地并约束盲目投资",
