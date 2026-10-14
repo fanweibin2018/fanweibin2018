@@ -122,6 +122,7 @@ ${items}
 }
 
 const posts = loadPosts()
+const lifeGuide = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'data/life-guide.json'), 'utf-8'))
 
 // --------------------------- news RSS (buildEnd) ---------------------------
 const NEWS_SLUGS = ['policy', 'tech', 'industry', 'trade', 'ai', 'finance']
@@ -316,12 +317,25 @@ export default defineConfig({
         ]
       },
       { text: '关于', link: '/pages/about' },
-      { text: '视频拆条', link: 'https://chaitiao.fanweibin.cn/', target: '_blank' },
+      { text: '高性价比人生', link: '/life/', activeMatch: '/life/' },
       { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
       { text: 'RSS', link: '/feed.xml', target: '_blank' }
     ],
 
     sidebar: {
+      '/life/': [
+        { text: '高性价比人生', items: [
+          { text: '指南目录', link: '/life/' },
+          { text: '阅读说明与证据分级', link: '/life/reading' }
+        ] },
+        ...lifeGuide.groups.map((group) => ({
+          text: group.title,
+          collapsed: true,
+          items: lifeGuide.chapters
+            .filter((chapter) => chapter.group === group.id)
+            .map((chapter) => ({ text: `${chapter.number}. ${chapter.title}`, link: chapter.href }))
+        }))
+      ],
       '/posts/': [
         {
           text: `全部文章 (${posts.length})`,

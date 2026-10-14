@@ -16,3 +16,17 @@
 - 本仓库即博客源码，基于 VitePress 构建并部署到 GitHub Pages
 
 <sub>欢迎通过博客评论区交流。</sub>
+
+### 高性价比人生栏目
+
+`/life/` 收录 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 的章节正文，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。来源版本与同步日期记录在 `docs/.vitepress/data/life-guide.json`，页面标注本站对排版、导航和摘要的调整。
+
+更新内容时，先将上游仓库检出到需要同步的版本，再运行：
+
+```bash
+node scripts/import-life-guide.mjs /path/to/HowToLiveBetter
+pnpm test
+pnpm docs:build
+```
+
+正文保存在 `docs/life/chapter-*.md`，构建和阅读不依赖实时访问 GitHub。

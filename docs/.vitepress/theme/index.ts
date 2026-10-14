@@ -1,6 +1,6 @@
 // Custom theme extending VitePress DefaultTheme.
 // https://vitepress.dev/guide/extending-default-theme
-import { h } from 'vue'
+import { defineAsyncComponent, h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import BlogHome from './components/BlogHome.vue'
@@ -16,6 +16,7 @@ import SiteStatsFooter from './components/SiteStatsFooter.vue'
 import NewsFeed from './components/NewsFeed.vue'
 import NewsOverview from './components/NewsOverview.vue'
 import './custom.css'
+import './life-guide.css'
 
 export default {
   extends: DefaultTheme,
@@ -42,5 +43,6 @@ export default {
     app.component('SiteStatsFooter', SiteStatsFooter)
     app.component('NewsFeed', NewsFeed)
     app.component('NewsOverview', NewsOverview)
+    app.component('LifeGuide', defineAsyncComponent(() => import('./components/LifeGuide.vue')))
   }
 } satisfies Theme

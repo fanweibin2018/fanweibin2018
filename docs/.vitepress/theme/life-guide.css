@@ -1,0 +1,23 @@
+/* Reading styles only apply to imported guide pages. */
+.life-chapter .vp-doc { font-size: 16px; }
+.life-chapter .vp-doc p { line-height: 1.9; overflow-wrap: anywhere; }
+.life-chapter .vp-doc h1 { font-size: 30px; line-height: 1.45; }
+.life-chapter .vp-doc h2 { margin-top: 44px; padding-top: 28px; font-size: 21px; line-height: 1.65; scroll-margin-top: 88px; }
+.life-chapter .vp-doc a { overflow-wrap: anywhere; }
+.life-chapter-meta { margin: 14px 0 24px; color: var(--vp-c-text-2); font-size: 13px; line-height: 1.8; }
+.life-reading-note { margin: 24px 0 32px; padding: 2px 16px; border-left: 3px solid var(--vp-c-brand-1); background: var(--vp-c-bg-soft); color: var(--vp-c-text-2); font-size: 14px; }
+.life-entry-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 18px; }
+.life-entry-tags span { display: inline-flex; align-items: center; padding: 3px 9px; border-radius: 5px; background: var(--vp-c-bg-soft); color: var(--vp-c-text-2); font-size: 12px; line-height: 1.8; }
+.life-entry-tags .life-evidence { background: var(--vp-c-brand-soft); color: var(--vp-c-brand-1); font-weight: 600; }
+.life-chapter .vp-doc .custom-block.tip { padding: 16px 20px; border: 1px solid var(--vp-c-brand-soft); background: var(--vp-c-brand-soft); color: var(--vp-c-text-1); font-size: 16px; }
+.life-chapter .vp-doc .custom-block.tip .custom-block-title { color: var(--vp-c-brand-1); font-size: 13px; }
+.life-chapter .vp-doc .custom-block.details { margin: 20px 0 32px; padding: 16px 20px; background: var(--vp-c-bg-soft); font-size: 14px; }
+.life-chapter .vp-doc .custom-block.details summary { line-height: 1.7; color: var(--vp-c-text-2); }
+.life-chapter .vp-doc .custom-block.details[open] summary { margin-bottom: 16px; color: var(--vp-c-text-1); }
+.life-attribution { margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--vp-c-divider); color: var(--vp-c-text-2); font-size: 13px; }
+@media (max-width: 639px) {
+  .life-chapter .vp-doc h1 { font-size: 26px; }
+  .life-chapter .vp-doc h2 { font-size: 19px; margin-top: 36px; padding-top: 22px; }
+  .life-chapter .vp-doc .custom-block.tip,
+  .life-chapter .vp-doc .custom-block.details { padding: 14px 16px; }
+}

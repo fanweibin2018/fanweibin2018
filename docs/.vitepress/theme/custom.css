@@ -13,6 +13,14 @@
   --vp-c-brand-3: #456eda;
 }
 
+/* The longer guide label needs the compact navigation on tablet widths. */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .VPNav .VPNavBar .VPNavBarMenu,
+  .VPNav .VPNavBar .VPNavBarExtra { display: none; }
+  .VPNav .VPNavBar .VPNavBarHamburger { display: flex; }
+  .Layout .VPNav .VPNavScreen { display: block; }
+}
+
 /* ---------- Home ---------- */
 /* Hero/stats/section-head 的排版全部在 BlogHome.vue scoped 样式中处理，
    这里只留非首页专属、被其他页面也复用的 .block 类。 */
