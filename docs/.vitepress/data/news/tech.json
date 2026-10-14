@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-13T05:33:45+08:00",
+  "updatedAt": "2026-10-15T05:35:18+08:00",
   "items": [
+    {
+      "id": "tech-20261014-github-hydrafusion-max",
+      "title": "GitHub 更新 HydraFusion 多模型编排，并增加 Max 模式",
+      "summary": "GitHub 将 HydraFusion 的模型池扩展至 Claude Opus 5.5、GPT-6 Astra、GPT-6.1 Sol 和 GPT-6 Luna，并让 Cascade 流程按需加入判断与修复步骤、Critique 流程直接检查工作区并并行调用批评模型。新增 Max 模式面向更深推理，但两种模式仍处研究预览，需启用预览功能并受组织模型策略约束。",
+      "publishedAt": "2026-10-14",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option/",
+      "subCategory": "开发工具"
+    },
     {
       "id": "tech-20261012-github-push-attribution-preview",
       "title": "GitHub 为提交记录已认证推送者，新增阻止身份冒用的仓库规则",

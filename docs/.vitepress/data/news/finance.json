@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-14T05:40:23+08:00",
+  "updatedAt": "2026-10-15T05:35:18+08:00",
   "items": [
+    {
+      "id": "finance-20261014-us-september-cpi",
+      "title": "美国 9 月 CPI 环比上涨 0.6%，汽油价格贡献超过一半涨幅",
+      "summary": "美国劳工统计局数据显示，9 月 CPI 经季调环比上涨 0.6%、同比上涨 3.7%，较 8 月的 3.4% 加快；汽油价格环比上涨 9.1%，推动能源指数上涨 5.2%。剔除食品与能源后的核心 CPI 环比上涨 0.3%、同比上涨 2.6%，显示本月总体通胀加速主要受能源拉动。",
+      "publishedAt": "2026-10-14",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261013-imf-october-weo",
       "title": "IMF 将 2026 年全球增长预测调至 3.1%，警示 AI 投资回调风险",

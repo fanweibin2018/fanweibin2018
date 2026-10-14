@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-10-14T05:40:23+08:00",
+  "updatedAt": "2026-10-15T05:35:18+08:00",
   "items": [
+    {
+      "id": "ai-20261014-probabilistic-bias-correction-weather",
+      "title": "Nature 论文用机器学习纠偏，将两至六周天气预测推过气候平均基线",
+      "summary": "MIT、Microsoft、ECMWF 等团队提出 Probabilistic Bias Correction：不替换现有天气模型，而是学习其历史系统性误差并在输出端纠偏。作者报告该方法在两至六周预测上首次稳定超过气候平均基线，竞赛组合方案把原模型预测能力提高一倍；模型开源且推理不依赖超级计算机，但投入业务运行仍需各气象机构验证。",
+      "publishedAt": "2026-10-14",
+      "source": "MIT News / Nature",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "subCategory": "AI研究"
+    },
     {
       "id": "ai-20261013-google-gemini-4-argon-stable-api",
       "title": "Gemini 4 Argon 从受限开放转为稳定版 API",

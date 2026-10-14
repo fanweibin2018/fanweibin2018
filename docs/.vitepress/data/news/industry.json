@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-14T05:40:23+08:00",
+  "updatedAt": "2026-10-15T05:35:18+08:00",
   "items": [
+    {
+      "id": "industry-20261014-globalfoundries-us-japan-fabs",
+      "title": "美日项目拟为 GlobalFoundries 纽约两座晶圆厂提供最高 210 亿美元资金",
+      "summary": "GlobalFoundries 获选为纽约州 Malta 两座新晶圆厂的技术提供方和运营方。约 100 亿美元首期资金用于加快一座 300 毫米晶圆厂建设，预计 2029 年投产；第二座工厂所需的约 100 亿美元仍属后续安排。两厂满产后各计划增加约 90 万片年产能，实际进度仍取决于资金和建设执行。",
+      "publishedAt": "2026-10-14",
+      "source": "GlobalFoundries",
+      "url": "https://gf.com/news-and-events/news/globalfoundries-selected-to-operate-two-new-semiconductor-fabs-in-new-york-under-landmark-us-japan-initiative/",
+      "subCategory": "半导体"
+    },
     {
       "id": "industry-20261013-omron-onlogic-interlogic-acquisition",
       "title": "欧姆龙签约收购 OnLogic 母公司，企业价值 6.75 亿美元",

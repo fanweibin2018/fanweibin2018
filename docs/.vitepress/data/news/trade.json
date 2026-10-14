@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-10T05:36:52+08:00",
+  "updatedAt": "2026-10-15T05:35:18+08:00",
   "items": [
+    {
+      "id": "trade-20261014-china-september-trade",
+      "title": "中国 9 月出口同比增长 36.3%，月度贸易顺差扩大至 1335.3 亿美元",
+      "summary": "中国海关数据经路透社报道显示，9 月出口和进口分别同比增长 36.3% 和 31.0%，当月贸易顺差为 1335.3 亿美元，前九个月累计顺差达 9381.1 亿美元。半导体和汽车继续支撑出口增长，但扩大的顺差也可能加重主要贸易伙伴的限制压力。",
+      "publishedAt": "2026-10-14",
+      "source": "路透社 / 中国海关",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-exports-surge-363-yy-september-imports-up-31-2026-10-14/",
+      "subCategory": "宏观贸易"
+    },
     {
       "id": "trade-20261009-eu-china-hybrid-export-agreement",
       "title": "欧盟贸易委员称欧中同意将中国混动车对欧出口减半",

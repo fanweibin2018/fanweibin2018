@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-14T05:40:23+08:00",
+  "updatedAt": "2026-10-15T05:35:18+08:00",
   "items": [
+    {
+      "id": "policy-20261014-character-ai-bankruptcy-data-protection",
+      "title": "40 名美国州检察长介入 Character.AI 破产案，要求资产出售保护用户对话",
+      "summary": "纽约州检察长与另外 39 名两党州检察长向 Character.AI 破产程序提交利益通知，要求任何业务或资产出售为用户私人对话、儿童安全和删除权设置保护条件。各州调查称平台存在安全与隐私问题，但此次提交本身不是法院对违法行为的最终认定。",
+      "publishedAt": "2026-10-14",
+      "source": "纽约州总检察长办公室",
+      "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-urges-court-protect-children-and-consumers-characterai",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261013-bank-regulators-ai-risk-inquiries",
       "title": "据路透社：美欧银行监管机构加强 AI 风险问询，尚未形成新规则",
