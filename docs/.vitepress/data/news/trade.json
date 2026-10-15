@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-15T05:35:18+08:00",
+  "updatedAt": "2026-10-16T05:32:09+08:00",
   "items": [
+    {
+      "id": "trade-20261015-sk-hynix-dalian-us-fab-license",
+      "title": "据路透社报道，SK 海力士把大连设备许可与美国 NAND 新厂计划挂钩",
+      "summary": "路透社援引两名知情人士称，SK 海力士正寻求美国批准向大连工厂出口更多芯片设备，并把该许可与旗下 Solidigm 在美国建设 NAND 工厂的计划相联系。SK 海力士确认设备安装正与美国政府协商并获授权，但称并未寻求扩大大连 Mod B 产能；美国商务部未回应，2027 年新增许可也尚未签发。",
+      "publishedAt": "2026-10-15",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20261014-china-september-trade",
       "title": "中国 9 月出口同比增长 36.3%，月度贸易顺差扩大至 1335.3 亿美元",

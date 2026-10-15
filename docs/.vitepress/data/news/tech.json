@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-15T05:35:18+08:00",
+  "updatedAt": "2026-10-16T05:32:09+08:00",
   "items": [
+    {
+      "id": "tech-20261015-eiliko-robot-data-exposure",
+      "title": "调查发现 Eiliko 机器人暴露 1300 万段对话，逾 3.1 万份儿童资料可被访问",
+      "summary": "据 The Verge 调查，安全研究者可读取约 1300 万段用户对话、访问约 6.8 万台活跃 Eiliko 机器人，并发现超过 3.1 万份儿童资料；部分照片和录音还位于公开网址，机器人使用的模型行为也可被远程篡改。厂商 Energize Lab 在记者一个多月的联系期内未就漏洞作出实质回应，研究者计划披露的 9 个 CVE 尚未正式发布。",
+      "publishedAt": "2026-10-15",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "subCategory": "隐私安全"
+    },
     {
       "id": "tech-20261014-github-hydrafusion-max",
       "title": "GitHub 更新 HydraFusion 多模型编排，并增加 Max 模式",
