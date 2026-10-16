@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-16T05:32:09+08:00",
+  "updatedAt": "2026-10-17T05:33:29+08:00",
   "items": [
+    {
+      "id": "industry-20261016-waymo-toronto-mapping",
+      "title": "Waymo 进入多伦多，先以人工驾驶进行高精地图采集",
+      "summary": "Waymo 宣布进入加拿大市场，近期将在多伦多以人工驾驶方式采集高精地图，并由自动驾驶专家开展分阶段测试；公司目标是 2028 年接待首批乘客。车队运营将与加拿大 Element Fleet Management 合作，当前动作仍是前期验证，并非无人驾驶服务已经上线。",
+      "publishedAt": "2026-10-16",
+      "source": "Waymo",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+      "subCategory": "汽车产业"
+    },
     {
       "id": "industry-20261015-tsmc-q3-results",
       "title": "台积电三季度营收同比增长 50.9%，2 纳米贡献 8% 晶圆收入",

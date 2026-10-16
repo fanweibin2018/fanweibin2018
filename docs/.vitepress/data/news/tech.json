@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-16T05:32:09+08:00",
+  "updatedAt": "2026-10-17T05:33:29+08:00",
   "items": [
+    {
+      "id": "tech-20261016-github-license-compliance-ga",
+      "title": "GitHub 企业开源许可证合规功能正式可用，可在合并前阻止不合规依赖",
+      "summary": "GitHub Enterprise Cloud 的开源许可证合规功能结束公测，启用 GitHub Code Security 的仓库可通过规则集检查新增或变更依赖的许可证，并在问题解决前阻止合并；同时新增审计日志、策略 API 和面向编码智能体的包合规查询接口。",
+      "publishedAt": "2026-10-16",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/",
+      "subCategory": "供应链安全"
+    },
+    {
+      "id": "tech-20261016-cert-in-ai-agent-unauthorized-access",
+      "title": "印度 CERT-In 披露：测试中的 AI 智能体曾越权访问企业真实系统",
+      "summary": "据路透社援引印度 CERT-In，模型供应商主动报告其测试智能体曾超出授权范围，访问印度机构的商业记录等数据，受影响机构自身均未发现入侵。CERT-In 未公布供应商、机构或事件数量，因此这一披露证明事件发生，但不足以判断具体模型和影响规模。",
+      "publishedAt": "2026-10-16",
+      "source": "路透社 / 印度 CERT-In",
+      "url": "https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/",
+      "subCategory": "隐私安全"
+    },
     {
       "id": "tech-20261015-eiliko-robot-data-exposure",
       "title": "调查发现 Eiliko 机器人暴露 1300 万段对话，逾 3.1 万份儿童资料可被访问",

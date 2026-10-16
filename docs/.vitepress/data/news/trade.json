@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-16T05:32:09+08:00",
+  "updatedAt": "2026-10-17T05:33:29+08:00",
   "items": [
+    {
+      "id": "trade-20261016-us-import-export-prices-september",
+      "title": "美国 9 月进口价格环比上涨 1.1%，出口价格上涨 2.2%",
+      "summary": "美国劳工统计局数据显示，9 月进口价格环比上涨 1.1%、同比上涨 8.1%，出口价格环比上涨 2.2%、同比上涨 11.6%；燃料进口价格环比上涨 4.8%，农产品出口价格上涨 2.6%。这组数据反映跨境采购和出口报价压力，不等同于实际贸易量变化。",
+      "publishedAt": "2026-10-16",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/ximpim.nr0.htm",
+      "subCategory": "宏观贸易"
+    },
     {
       "id": "trade-20261015-sk-hynix-dalian-us-fab-license",
       "title": "据路透社报道，SK 海力士把大连设备许可与美国 NAND 新厂计划挂钩",
