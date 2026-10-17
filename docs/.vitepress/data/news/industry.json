@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-17T05:33:29+08:00",
+  "updatedAt": "2026-10-18T05:38:17+08:00",
   "items": [
+    {
+      "id": "industry-20261016-anthropic-employment-study",
+      "title": "Anthropic 内部数据：8 月 AI Agent 工时为员工工时 6 倍，初级技术岗位招聘占比下降",
+      "summary": "报告汇总公司就业、AI 使用、产出、沟通和招聘记录，并辅以 17 次员工访谈；其内部数据显示，AI Agent 工时 3 月首次超过员工工时，8 月达到 6 倍，经理对自主性和判断力的重视也上升。研究样本来自高度采用 AI 的单一公司，不能直接外推为总体就业市场变化。",
+      "publishedAt": "2026-10-16",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "subCategory": "行业研报"
+    },
+    {
+      "id": "industry-20261016-schneider-q3-guidance",
+      "title": "施耐德电气三季度营收有机增长 16.9%，再次上调全年目标",
+      "summary": "施耐德电气三季度营收达到 114.6 亿欧元，并把 2026 年有机收入增长目标由 10%—13% 上调至 12%—14%，调整后 EBITDA 有机增长目标由 14%—19% 上调至 18%—21%。公司称数据中心需求是主要增长动力；这些全年区间仍是公司指引而非已实现结果。",
+      "publishedAt": "2026-10-16",
+      "source": "路透社 / Schneider Electric",
+      "url": "https://www.reuters.com/business/schneider-electric-raises-2026-targets-again-booming-data-centre-demand-2026-10-16/",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20261016-waymo-toronto-mapping",
       "title": "Waymo 进入多伦多，先以人工驾驶进行高精地图采集",

@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-15T05:35:18+08:00",
+  "updatedAt": "2026-10-18T05:38:17+08:00",
   "items": [
+    {
+      "id": "policy-20261016-china-technology-export-registration",
+      "title": "商务部、科技部拟将 40 项 AI、生物医药与光伏技术增列至出口目录，并先行实施出口前登记",
+      "summary": "征求意见稿涉及人工智能 23 项、生物医药 5 项和光伏 12 项技术，意见期为 10 月 16 日至 11 月 15 日；正式修订实施前，相关技术所有权转让、境外授权和实际控制人变更等需先登记，已开始但尚未完成的出口也在范围内。已开源或通过论文进入公共领域的相关技术拟不纳入管理。",
+      "publishedAt": "2026-10-16",
+      "source": "商务部 / 科技部",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/art/2026/art_1666fcaa24424766afe0683498ff0908.html",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20261014-character-ai-bankruptcy-data-protection",
       "title": "40 名美国州检察长介入 Character.AI 破产案，要求资产出售保护用户对话",

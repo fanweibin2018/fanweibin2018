@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-16T05:32:09+08:00",
+  "updatedAt": "2026-10-18T05:38:17+08:00",
   "items": [
+    {
+      "id": "finance-20261016-ny-fed-business-leaders-survey",
+      "title": "纽约联储 10 月服务业活动指数降至 -20.7，销售价格涨幅为 2022 年以来最快",
+      "summary": "10 月 2—9 日收集的地区调查显示，服务业活动指数下降 12 点至 -20.7，为 3 月以来最低；销售价格指数升至 36.3，为四年来最高，未来六个月活动预期也转为负值。该结果反映纽约州、北新泽西和康涅狄格州部分地区企业的扩散指数，不等同于全美服务业产出。",
+      "publishedAt": "2026-10-16",
+      "source": "纽约联邦储备银行",
+      "url": "https://www.newyorkfed.org/survey/business_leaders/bls_overview",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261015-us-september-ppi",
       "title": "美国 9 月 PPI 环比上涨 1.3%，创 2022 年 3 月以来最大涨幅",
