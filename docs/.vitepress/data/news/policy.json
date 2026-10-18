@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-18T05:38:17+08:00",
+  "updatedAt": "2026-10-19T05:39:05+08:00",
   "items": [
+    {
+      "id": "policy-20261016-us-graham-act-russia-waiver",
+      "title": "美国暂缓执行《Graham Act》对俄制裁及相关关税，豁免期限未写死",
+      "summary": "10 月 16 日行政令先规定对俄罗斯商品加征 500% 关税、对俄罗斯油气主要进口国及协助规避制裁的国家商品加征 100% 关税，随后依据法案第 115 条豁免上述关税和多项制裁。豁免持续至总统或有关官员决定采取进一步行动，且不影响此前行政令下已经实施的对俄制裁。",
+      "publishedAt": "2026-10-16",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+      "subCategory": "跨境贸易"
+    },
     {
       "id": "policy-20261016-china-technology-export-registration",
       "title": "商务部、科技部拟将 40 项 AI、生物医药与光伏技术增列至出口目录，并先行实施出口前登记",

@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-18T05:38:17+08:00",
+  "updatedAt": "2026-10-19T05:39:05+08:00",
   "items": [
+    {
+      "id": "industry-20261018-anthropic-public-benefit-fund",
+      "title": "Anthropic 拟将 5% 股份注入公共利益基金，仍待股东批准",
+      "summary": "Anthropic 计划设立全资 LLC 形式的公共利益基金，初始注入 5% 公司股份；公司价值每提高 50%，董事会可酌情追加 2%。基金可向非营利机构捐赠或向特定人群直接分配，但具体治理、估值门槛仍待披露，初始股份安排也尚未完成股东批准。",
+      "publishedAt": "2026-10-18",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20261016-anthropic-employment-study",
       "title": "Anthropic 内部数据：8 月 AI Agent 工时为员工工时 6 倍，初级技术岗位招聘占比下降",
