@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-18T05:38:17+08:00",
+  "updatedAt": "2026-10-20T05:36:14+08:00",
   "items": [
+    {
+      "id": "finance-20261019-china-q3-gdp",
+      "title": "中国三季度 GDP 同比增长 4.5%，前三季度增长 4.6%",
+      "summary": "国家统计局初步核算显示，三季度 GDP 同比增长 4.5%、环比增长 1.2%；前三季度规模以上高技术制造业增加值增长 14.3%，但固定资产投资下降 7.2%，房地产开发投资下降 20.6%。数据呈现生产端较强、投资端偏弱的分化，统计局同时指出国内需求不足问题仍较突出。",
+      "publishedAt": "2026-10-19",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261016-ny-fed-business-leaders-survey",
       "title": "纽约联储 10 月服务业活动指数降至 -20.7，销售价格涨幅为 2022 年以来最快",

@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-19T05:39:05+08:00",
+  "updatedAt": "2026-10-20T05:36:14+08:00",
   "items": [
+    {
+      "id": "policy-20261020-us-deepseek-federal-removal-order",
+      "title": "美国 DHS 下令联邦民用系统移除 DeepSeek，并停止相关采购",
+      "summary": "DHS 依据《联邦采购供应链安全法》发布命令，将 DeepSeek 及其关联实体的 IT 产品和服务排除出联邦民用机构采购，并要求从民用机构 IT 中移除 DeepSeek 产品以及基于 DeepSeek 实现开发的第三方产品和服务。命令范围不只覆盖 DeepSeek 自有产品，也明确延伸到采用其实现的第三方服务。",
+      "publishedAt": "2026-10-20",
+      "source": "美国国土安全部 / Federal Register",
+      "url": "https://public-inspection.federalregister.gov/2026-21447.pdf",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261016-us-graham-act-russia-waiver",
       "title": "美国暂缓执行《Graham Act》对俄制裁及相关关税，豁免期限未写死",

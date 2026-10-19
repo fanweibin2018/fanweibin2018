@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-19T05:39:05+08:00",
+  "updatedAt": "2026-10-20T05:36:14+08:00",
   "items": [
+    {
+      "id": "industry-20261019-meta-prometheus-first-phase",
+      "title": "Meta 披露 Prometheus 超级集群首期已完成，当前规模达数十万张 GPU",
+      "summary": "Meta 称 Prometheus 首期已用于训练 Muse 模型，当前跨多栋建筑部署数十万张 GPU，计划最终扩至约 100 万张；其 Muse 预训练与强化学习运行的有效计算占比分别超过 85% 和 90%。文章同时披露 NVL72 机架以 64 张工作 GPU 加 8 张架内备用 GPU 运行，但规模与运行指标均为 Meta 自报，尚非独立审计。",
+      "publishedAt": "2026-10-19",
+      "source": "Meta Engineering",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20261018-anthropic-public-benefit-fund",
       "title": "Anthropic 拟将 5% 股份注入公共利益基金，仍待股东批准",

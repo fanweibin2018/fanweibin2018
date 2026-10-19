@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-17T05:33:29+08:00",
+  "updatedAt": "2026-10-20T05:36:14+08:00",
   "items": [
+    {
+      "id": "tech-20261019-meta-thin-orchestrator",
+      "title": "Meta 公开生产级“瘦编排器”：路由确定化，领域推理交给隔离子智能体",
+      "summary": "Meta 将数据管道智能体拆为约 1300 行的确定性编排器和 14 个上下文隔离的专项智能体：编排器只做意图分类、字段收集、可靠性检查与路由，20 多个工作流由状态机模板组合。Meta 称配置准备时间由人工 3—4 天降至 1 小时内，约三分之二的改动无需大量人工修改；这些效果来自其内部场景，仍需在其他代码库复现。",
+      "publishedAt": "2026-10-19",
+      "source": "Meta Engineering",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20261016-github-license-compliance-ga",
       "title": "GitHub 企业开源许可证合规功能正式可用，可在合并前阻止不合规依赖",
