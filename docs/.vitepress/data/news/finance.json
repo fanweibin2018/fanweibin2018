@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-20T05:36:14+08:00",
+  "updatedAt": "2026-10-21T05:29:46+08:00",
   "items": [
+    {
+      "id": "finance-20261020-us-september-housing-starts",
+      "title": "美国 9 月单户住宅开工折年率降至 85.9 万套，许可降至 84.5 万套",
+      "summary": "美国人口普查局数据显示，经季调后单户住宅开工折年率环比下降 4.6% 至 85.9 万套，单户许可下降 4.0% 至 84.5 万套；总体住宅开工下降 5.2% 至 122.1 万套。开工降幅小于其调查误差范围，方向性信号仍需结合后续修订判断。",
+      "publishedAt": "2026-10-20",
+      "source": "美国人口普查局",
+      "url": "https://www.census.gov/construction/nrc/current/",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261019-china-q3-gdp",
       "title": "中国三季度 GDP 同比增长 4.5%，前三季度增长 4.6%",

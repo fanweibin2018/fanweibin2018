@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-20T05:36:14+08:00",
+  "updatedAt": "2026-10-21T05:29:46+08:00",
   "items": [
+    {
+      "id": "tech-20261020-github-package-firewall-preview",
+      "title": "GitHub 公测包防火墙：在 CI 与编码智能体下载 npm 包前执行策略检查",
+      "summary": "GitHub Enterprise Cloud 管理员可让 CI/CD 主机、Actions 运行器和编码智能体通过包防火墙请求包元数据与下载，并设置冷却期、恶意软件或漏洞告警及证明降级等检查。该功能目前仅支持 npm，公测期免费，正式可用后将按用量计费。",
+      "publishedAt": "2026-10-20",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+      "subCategory": "供应链安全"
+    },
     {
       "id": "tech-20261019-meta-thin-orchestrator",
       "title": "Meta 公开生产级“瘦编排器”：路由确定化，领域推理交给隔离子智能体",
