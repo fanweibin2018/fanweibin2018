@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-21T05:29:46+08:00",
+  "updatedAt": "2026-10-22T05:33:45+08:00",
   "items": [
+    {
+      "id": "finance-20261021-uk-september-cpi",
+      "title": "英国 9 月 CPI 同比升至 3.5%，CPIH 升至 3.6%",
+      "summary": "英国国家统计局数据显示，9 月消费者价格指数同比上涨 3.5%，高于 8 月的 3.1%；包含自有住房成本的 CPIH 同比上涨 3.6%，高于前月的 3.3%。CPIH 当月环比上涨 0.4%，而上年同期为 0.1%，显示价格涨幅重新加快。",
+      "publishedAt": "2026-10-21",
+      "source": "英国国家统计局",
+      "url": "https://www.ons.gov.uk/economy/inflationandpriceindices",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261020-us-september-housing-starts",
       "title": "美国 9 月单户住宅开工折年率降至 85.9 万套，许可降至 84.5 万套",

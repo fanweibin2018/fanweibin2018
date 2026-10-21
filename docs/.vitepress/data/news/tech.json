@@ -3,8 +3,35 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-21T05:29:46+08:00",
+  "updatedAt": "2026-10-22T05:33:45+08:00",
   "items": [
+    {
+      "id": "tech-20261021-php-critical-rce-security-releases",
+      "title": "PHP 紧急修复两项无需认证 RCE，旧版本需依赖厂商回补",
+      "summary": "PHP 项目发布 8.5.12、8.4.27、8.3.36 和 8.2.35，修复 CVE-2026-109618 与 CVE-2026-109619；两项缺陷均可导致无需认证的远程代码执行。官方称没有完整缓解措施，升级才是安全方案；8.1 及更早版本已停止项目级更新，需确认发行版或 LTS 厂商是否提供回补。",
+      "publishedAt": "2026-10-21",
+      "source": "PHP",
+      "url": "https://www.php.net/archive/2026.php",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20261021-storm-0940-artex-connectwise-oauth",
+      "title": "Microsoft：Storm-0940 借被盗 ConnectWise 应用身份，以 ARTEX 批量触达逾 2250 个租户",
+      "summary": "相较 10 月 8 日仅有韩国金融机构案例，本次新增了供应链入口与影响范围：Microsoft 称 Storm-0940 在 ConnectWise 多个 OAuth 应用身份被盗后，借 ARTEX 以每分钟约 2900 次登录尝试触达逾 2250 个租户，并在多个客户环境执行目录操作、建立持久化。多数目标未成功，2250 代表触达范围而非确认受害数。",
+      "publishedAt": "2026-10-21",
+      "source": "Microsoft Security Blog",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+      "subCategory": "网络安全"
+    },
+    {
+      "id": "tech-20261021-claude-security-continuous-monitoring",
+      "title": "Claude Security 增加持续扫描、修复追踪与 API/MCP，仍限企业公测",
+      "summary": "Anthropic 为 Claude Security 公测增加持续监控、漏洞修复与重新开启追踪、跨仓库项目、可编辑威胁模型以及 API、Webhook 和 MCP 接口。功能目前仅向 Claude Enterprise 客户开放；这些更新证明产品能力变化，不代表其漏洞发现效果已获独立验证。",
+      "publishedAt": "2026-10-21",
+      "source": "Anthropic",
+      "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20261020-github-package-firewall-preview",
       "title": "GitHub 公测包防火墙：在 CI 与编码智能体下载 npm 包前执行策略检查",

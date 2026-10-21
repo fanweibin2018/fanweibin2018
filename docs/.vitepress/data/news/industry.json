@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-20T05:36:14+08:00",
+  "updatedAt": "2026-10-22T05:33:45+08:00",
   "items": [
+    {
+      "id": "industry-20261020-supermicro-q1-fy2027-preliminary-update",
+      "title": "Supermicro 上调季度收入预估至 185亿—195亿美元，完整财报尚待发布",
+      "summary": "Supermicro 预计截至 9 月 30 日的 2027 财年第一季度收入为 185 亿—195 亿美元，高于此前 145 亿—155 亿美元指引，预计毛利率也由 10.4%—10.8% 上调至 12.0%—12.5%。公司将变化主要归因于 AI 平台需求及产品、客户组合；这些数字未经审计且可能调整，完整业绩定于 11 月 3 日公布。",
+      "publishedAt": "2026-10-20",
+      "source": "Supermicro",
+      "url": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Provides-First-Quarter-of-Fiscal-Year-2027-Preliminary-Business-Update/default.aspx",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261019-meta-prometheus-first-phase",
       "title": "Meta 披露 Prometheus 超级集群首期已完成，当前规模达数十万张 GPU",

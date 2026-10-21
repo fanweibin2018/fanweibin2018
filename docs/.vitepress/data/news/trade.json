@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-21T05:29:46+08:00",
+  "updatedAt": "2026-10-22T05:33:45+08:00",
   "items": [
+    {
+      "id": "trade-20261021-japan-september-exports",
+      "title": "日本 9 月出口同比增长 16.7%，贸易逆差收窄至 5366 亿日元",
+      "summary": "日本财务省数据显示，9 月出口同比增长 16.7%，连续第 13 个月上升；进口增长 18.9%，贸易逆差为 5366 亿日元，较 8 月约 1.1 万亿日元收窄。对美国和中国出口分别增长 22.9% 和 8.6%，半导体相关产品及汽车是主要支撑。",
+      "publishedAt": "2026-10-21",
+      "source": "日本财务省 / 路透社",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-september-exports-rise-167-helped-by-chip-demand-2026-10-21/",
+      "subCategory": "贸易数据"
+    },
     {
       "id": "trade-20261020-gellert-canada-tariff-lawsuit",
       "title": "美国食品进口商起诉特朗普政府，挑战加拿大商品 50% 关税",
