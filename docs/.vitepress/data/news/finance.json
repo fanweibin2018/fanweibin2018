@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-22T05:33:45+08:00",
+  "updatedAt": "2026-10-23T05:30:11+08:00",
   "items": [
+    {
+      "id": "finance-20261022-canada-industrial-raw-material-prices",
+      "title": "加拿大 9 月工业品价格环比上涨 2.0%，原材料价格上涨 4.8%",
+      "summary": "加拿大统计局称两项指数同比分别上涨 14.5% 和 27.0%；能源和石油产品是工业品价格的主要推动因素，剔除能源与石油后环比仅上涨 0.3%，显示当月价格上行高度集中于能源。",
+      "publishedAt": "2026-10-22",
+      "source": "加拿大统计局",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261022/dq261022a-eng.htm",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261021-uk-september-cpi",
       "title": "英国 9 月 CPI 同比升至 3.5%，CPIH 升至 3.6%",

@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-22T05:33:45+08:00",
+  "updatedAt": "2026-10-23T05:30:11+08:00",
   "items": [
+    {
+      "id": "tech-20261021-gitlab-cve-2026-110264-rce",
+      "title": "GitLab 发布紧急补丁，修复 CVSS 10 的未认证远程代码执行漏洞",
+      "summary": "CVE-2026-110264 来自正则表达式编译器整数溢出，GitLab 称特制输入可让未认证者在服务器执行任意代码；自托管实例应立即升级至 19.5.1、19.4.3、19.3.6 等受支持补丁，GitLab.com 与符合版本条件的 Dedicated 环境已修复。",
+      "publishedAt": "2026-10-21",
+      "source": "GitLab",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261021-php-critical-rce-security-releases",
       "title": "PHP 紧急修复两项无需认证 RCE，旧版本需依赖厂商回补",

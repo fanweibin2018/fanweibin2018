@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-22T05:33:45+08:00",
+  "updatedAt": "2026-10-23T05:30:11+08:00",
   "items": [
+    {
+      "id": "industry-20261021-meta-q3-capex-class-c-stock",
+      "title": "Meta 三季度资本开支 349.1 亿美元，批准 2027 年启用无投票权 C 类股",
+      "summary": "Meta 季度收入 646.01 亿美元、同比增长 26%，含融资租赁本金支付的资本开支达 349.1 亿美元；董事会称新股类别可用于融资、员工薪酬和并购等，并预计 2026 年全年资本开支为 1350 亿至 1450 亿美元。",
+      "publishedAt": "2026-10-21",
+      "source": "Meta 投资者关系",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261020-supermicro-q1-fy2027-preliminary-update",
       "title": "Supermicro 上调季度收入预估至 185亿—195亿美元，完整财报尚待发布",

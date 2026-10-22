@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-22T05:33:45+08:00",
+  "updatedAt": "2026-10-23T05:30:11+08:00",
   "items": [
+    {
+      "id": "trade-20261022-us-wind-turbine-import-negotiations",
+      "title": "美国启动风力涡轮机进口谈判，180 天内评估是否采取进一步措施",
+      "summary": "白宫依据 Section 232 调查认定进口风机及零部件威胁国家安全，指示商务部和美国贸易代表办公室与贸易伙伴谈判并在 180 天内汇报。公告当前未新设专项关税，但明确谈判无果时可考虑包括关税在内的其他措施。",
+      "publishedAt": "2026-10-22",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20261021-japan-september-exports",
       "title": "日本 9 月出口同比增长 16.7%，贸易逆差收窄至 5366 亿日元",
