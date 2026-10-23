@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-23T05:30:11+08:00",
+  "updatedAt": "2026-10-24T05:31:42+08:00",
   "items": [
+    {
+      "id": "industry-20261023-slb-data-center-solutions-q3",
+      "title": "SLB 数据中心解决方案季度收入达 2.3 亿美元，同比增长 76%",
+      "summary": "SLB 三季度总收入为 94.5 亿美元；其中数据中心解决方案收入环比增长 23%、同比增长 76%，业务包括模块化数据中心外壳、冷却系统等基础设施。该板块规模仍小于传统能源业务，但已成为公司单独披露的增长来源。",
+      "publishedAt": "2026-10-23",
+      "source": "SLB",
+      "url": "https://investorcenter.slb.com/news-releases/news-release-details/slb-announces-third-quarter-2026-results",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261021-meta-q3-capex-class-c-stock",
       "title": "Meta 三季度资本开支 349.1 亿美元，批准 2027 年启用无投票权 C 类股",

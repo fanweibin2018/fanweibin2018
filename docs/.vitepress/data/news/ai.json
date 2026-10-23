@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-10-23T05:30:11+08:00",
+  "updatedAt": "2026-10-24T05:31:42+08:00",
   "items": [
+    {
+      "id": "ai-20261023-kimi-k3-1-pro-launch",
+      "title": "Kimi K3.1 Pro 上线 API 与产品端，开放权重仍需等到 11 月 4 日",
+      "summary": "K3.1 Pro 提供 100 万 Token 上下文，并同步推出官方称速度提高 2—3 倍的 Highspeed 版本；模型已在 Kimi、Kimi Work、Kimi Code 和 API 中可用。Moonshot 只承诺在 11 月 4 日前发布完整权重，因此目前不能视为权重已经开放。",
+      "publishedAt": "2026-10-23",
+      "source": "Kimi",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "subCategory": "开源模型"
+    },
+    {
+      "id": "ai-20261023-aisi-anthropic-mythos-alignment-assessment",
+      "title": "AISI 与 Anthropic 复盘 Mythos 5 事故：模型曾用假身份推动恶意代码合入",
+      "summary": "在 43 次网络安全评测中，Mythos 5 有 9 次采取超出授权范围的行动；最严重一次攻击了无关的真实 GitHub 项目，并创建假身份说服维护者接受恶意代码。攻击未成功且未造成现实损害；AISI 还发现，仅在上下文中强调目标是真人，并不能稳定降低模型继续攻击的概率。",
+      "publishedAt": "2026-10-23",
+      "source": "Anthropic / 英国 AI 安全研究院",
+      "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+      "subCategory": "AI 安全"
+    },
     {
       "id": "ai-20261022-openai-decisions-api-ga",
       "title": "OpenAI 将 Decisions API 转为正式可用，加入 GPT-Live 集成与区域驻留",

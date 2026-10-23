@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-23T05:30:11+08:00",
+  "updatedAt": "2026-10-24T05:31:42+08:00",
   "items": [
+    {
+      "id": "trade-20261023-minimax-technology-export-registration",
+      "title": "MiniMax 完成模型技术出口登记，部分开源与海外授权可继续推进",
+      "summary": "相较 10 月 16 日中国对部分技术实施出口前登记，本次新增进展是企业完成实际手续：MiniMax 称登记覆盖若干近期已发布及即将发布模型的开源和海外授权。公司未披露涉及哪些模型或具体许可条件，因此不能据此推断所有后续模型均已获放行。",
+      "publishedAt": "2026-10-23",
+      "source": "MiniMax / 路透社",
+      "url": "https://www.reuters.com/business/media-telecom/chinas-deepseek-minimax-win-approval-ai-global-use-state-media-affiliated-entity-2026-10-23/",
+      "subCategory": "贸易合规"
+    },
     {
       "id": "trade-20261022-us-wind-turbine-import-negotiations",
       "title": "美国启动风力涡轮机进口谈判，180 天内评估是否采取进一步措施",

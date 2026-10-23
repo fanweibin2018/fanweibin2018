@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-23T05:30:11+08:00",
+  "updatedAt": "2026-10-24T05:31:42+08:00",
   "items": [
+    {
+      "id": "tech-20261023-php-cve-2026-115560-mitigation",
+      "title": "PHP 再披露一项尚无补丁的 RCE，特定配置需立即关闭上传进度",
+      "summary": "相较 10 月 21 日已修复的两项漏洞，CVE-2026-115560 需要应用先把会话序列化处理器设为 php_binary 或 php_serialize，再在运行时切换为 php，因而影响范围较窄；补丁要等下一次常规版本，PHP 建议此前先设置 session.upload_progress.enabled=0。",
+      "publishedAt": "2026-10-23",
+      "source": "PHP / 加拿大网络安全中心",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261021-gitlab-cve-2026-110264-rce",
       "title": "GitLab 发布紧急补丁，修复 CVSS 10 的未认证远程代码执行漏洞",

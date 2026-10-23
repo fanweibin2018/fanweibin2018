@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-20T05:36:14+08:00",
+  "updatedAt": "2026-10-24T05:31:42+08:00",
   "items": [
+    {
+      "id": "policy-20261022-us-outbound-investment-nprm",
+      "title": "美国财政部拟扩大对外投资审查，将生物技术纳入限制范围",
+      "summary": "拟议规则要求美国人士及其控制的境外实体，对涉及特定半导体、人工智能、量子、高性能计算、超音速系统等技术的部分境外投资申报或禁止交易，并新增生物技术。规则仍处于征求意见阶段，最终实施时间将由后续正式规定确定。",
+      "publishedAt": "2026-10-22",
+      "source": "美国财政部",
+      "url": "https://home.treasury.gov/news/press-releases/sb0667",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20261020-us-deepseek-federal-removal-order",
       "title": "美国 DHS 下令联邦民用系统移除 DeepSeek，并停止相关采购",

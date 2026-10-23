@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-23T05:30:11+08:00",
+  "updatedAt": "2026-10-24T05:31:42+08:00",
   "items": [
+    {
+      "id": "finance-20261023-uk-september-retail-sales",
+      "title": "英国 9 月零售销量环比下降 0.4%，三季度仍增长 0.7%",
+      "summary": "英国国家统计局称，9 月零售销量同比增长 0.8%，但环比转为下降；三季度较二季度增长 0.7%、同比增长 1.5%。当月网购服装与超市销售走弱，月度回落与季度增长并存，需避免用单月数据推断整体消费趋势。",
+      "publishedAt": "2026-10-23",
+      "source": "英国国家统计局",
+      "url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2026",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261022-canada-industrial-raw-material-prices",
       "title": "加拿大 9 月工业品价格环比上涨 2.0%，原材料价格上涨 4.8%",
