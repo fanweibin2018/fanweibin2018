@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-24T05:31:42+08:00",
+  "updatedAt": "2026-10-25T05:36:59+08:00",
   "items": [
+    {
+      "id": "industry-20261022-bloom-energy-q3-results",
+      "title": "Bloom Energy 第三季度收入 12.36 亿美元，同比增长 138.1%",
+      "summary": "公司第三季度产品收入为 10.74 亿美元，GAAP 营业利润为 2.25 亿美元，并将全年收入指引上调至 44 亿至 46 亿美元。管理层将增长与数据中心等场景的现场分布式发电需求联系起来；这是公司披露，不等同于全行业需求已获独立验证。",
+      "publishedAt": "2026-10-22",
+      "source": "Bloom Energy",
+      "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-Reports-Record-Third-Quarter-2026-Financial-Results-and-Raises-Full-Year-2026-Guidance/default.aspx",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261023-slb-data-center-solutions-q3",
       "title": "SLB 数据中心解决方案季度收入达 2.3 亿美元，同比增长 76%",

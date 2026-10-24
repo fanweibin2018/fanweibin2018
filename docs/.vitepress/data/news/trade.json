@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-24T05:31:42+08:00",
+  "updatedAt": "2026-10-25T05:36:59+08:00",
   "items": [
+    {
+      "id": "trade-20261023-us-canada-tariff-list-change",
+      "title": "美国重排加拿大商品 50% 关税清单，10 月 30 日生效",
+      "summary": "在 9 月已调整范围后，白宫再次修改 Section 338 清单：移出胶合板、部分纸品、制冷及包装机械等商品，同时纳入部分阀门、地毯和废弃物等商品。新增和移除项目自 10 月 30 日起生效，仍被列入的加拿大商品需在其他适用关税之外再承担该附加税。",
+      "publishedAt": "2026-10-23",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "subCategory": "关税法规"
+    },
     {
       "id": "trade-20261023-minimax-technology-export-registration",
       "title": "MiniMax 完成模型技术出口登记，部分开源与海外授权可继续推进",

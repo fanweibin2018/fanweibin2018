@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-24T05:31:42+08:00",
+  "updatedAt": "2026-10-25T05:36:59+08:00",
   "items": [
+    {
+      "id": "policy-20261024-uk-ai-budget-investment",
+      "title": "英国把 AI 纳入预算，新增生物安全、网络防御与本土产业资金",
+      "summary": "英国财政部列出 1.65 亿英镑国家 AI 生物安全计划、向 AI 安全研究院追加 1.2 亿英镑，以及 6000 万英镑国家网络盾和 7000 万英镑漏洞中心等项目。资金还覆盖主权 AI 基金、研发采购与芯片设计人才，政策重点同时落在风险治理和本土能力建设。",
+      "publishedAt": "2026-10-24",
+      "source": "英国财政部",
+      "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20261022-us-outbound-investment-nprm",
       "title": "美国财政部拟扩大对外投资审查，将生物技术纳入限制范围",
