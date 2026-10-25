@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-25T05:36:59+08:00",
+  "updatedAt": "2026-10-26T05:27:57+08:00",
   "items": [
+    {
+      "id": "industry-20261023-china-innovation-index-2025",
+      "title": "2025 年中国创新指数增长 6.4%，创新产出增速快于创新成效",
+      "summary": "国家统计局测算，2025 年中国创新指数为 185.5（2015 年为 100），同比增长 6.4%；创新产出分指数增长 8.0%，创新成效分指数仅增长 2.9%。高价值发明专利指标连续第四年保持两位数增长，但专利密集型产业增加值占 GDP 比重指标与上年持平，显示投入产出增长尚未等比例转化为产业成效。",
+      "publishedAt": "2026-10-23",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261023_1965677.html",
+      "subCategory": "行业研报"
+    },
     {
       "id": "industry-20261022-bloom-energy-q3-results",
       "title": "Bloom Energy 第三季度收入 12.36 亿美元，同比增长 138.1%",

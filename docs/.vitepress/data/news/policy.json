@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-25T05:36:59+08:00",
+  "updatedAt": "2026-10-26T05:27:57+08:00",
   "items": [
+    {
+      "id": "policy-20261024-china-ai-employment-opinion",
+      "title": "国务院要求评估 AI 应用的就业冲击，并把相关风险纳入规模性失业应对",
+      "summary": "国务院办公厅发布人工智能就业意见：对市场准入领域中可能造成较大就业冲击的 AI 应用场景项目，评审时同步开展就业风险评估；同时鼓励企业在大规模应用前告知受影响劳动者、提供转岗支持，并将 AI 就业风险纳入规模性失业风险防范机制。文件还提出 AI 中小企业创业支持、专项培训和新职业标准等配套方向。",
+      "publishedAt": "2026-10-24",
+      "source": "国务院办公厅",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202610/t20261024_1184583.shtml",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20261024-uk-ai-budget-investment",
       "title": "英国把 AI 纳入预算，新增生物安全、网络防御与本土产业资金",

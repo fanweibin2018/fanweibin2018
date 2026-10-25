@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-24T05:31:42+08:00",
+  "updatedAt": "2026-10-26T05:27:57+08:00",
   "items": [
+    {
+      "id": "tech-20261023-github-public-monitoring-triage",
+      "title": "GitHub 公共泄密监控增加持续有效性检查、处置记录与实时 Webhook",
+      "summary": "GitHub Enterprise Cloud 的公共监控现在可持续检查受支持令牌是否仍有效，并允许安全团队关闭、重开和审计告警；新增 REST API 与企业级 Webhook，可把归因到本组织的公开仓库泄密接入响应流程。功能仍处公测，仅面向启用 GitHub Advanced Security 或 Secret Protection 的客户；关闭告警不会自动撤销凭据或删除公开内容。",
+      "publishedAt": "2026-10-23",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks/",
+      "subCategory": "供应链安全"
+    },
     {
       "id": "tech-20261023-php-cve-2026-115560-mitigation",
       "title": "PHP 再披露一项尚无补丁的 RCE，特定配置需立即关闭上传进度",
