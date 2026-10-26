@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-26T05:27:57+08:00",
+  "updatedAt": "2026-10-27T05:30:16+08:00",
   "items": [
+    {
+      "id": "industry-20261026-anthropic-s1-filing",
+      "title": "Anthropic 提交 S-1，首次披露高速增长背后的亏损与渠道集中",
+      "summary": "Anthropic 披露，2026 年上半年收入为 163 亿美元、净亏损为 807 亿美元；其中 724 亿美元来自可转换票据、衍生负债和 SAFE 的公允价值变动。同期经云服务商市场产生的收入占 48%，显示其增长伴随显著的会计波动与分销渠道依赖；本次初步申报尚未给出发行价格。",
+      "publishedAt": "2026-10-26",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "subCategory": "公司动态"
+    },
     {
       "id": "industry-20261023-china-innovation-index-2025",
       "title": "2025 年中国创新指数增长 6.4%，创新产出增速快于创新成效",

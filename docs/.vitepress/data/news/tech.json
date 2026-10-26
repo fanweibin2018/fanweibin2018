@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-26T05:27:57+08:00",
+  "updatedAt": "2026-10-27T05:30:16+08:00",
   "items": [
+    {
+      "id": "tech-20261026-cadence-maestro-chip-design-models",
+      "title": "Cadence 推出 Maestro 芯片设计模型组合，首批仅向部分客户开放",
+      "summary": "Maestro 把领域后训练语言模型、决策模型和可持续改进的 Agent 技能接入 Cadence 的 EDA 工具与确定性求解器，用工具反馈形成强化学习闭环，并支持云端或客户自管本地部署。Cadence 公布的最高 30% 质量提升和 5 倍 Token 效率均为厂商初步结果；首批模型计划于 2026 年第四季度向部分早期客户开放。",
+      "publishedAt": "2026-10-26",
+      "source": "Cadence",
+      "url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases/pr/2026/cadence-introduces-maestro-a-domain-specialized-ai-model.html",
+      "subCategory": "开发工具"
+    },
+    {
+      "id": "tech-20261025-dotnet-out-of-band-security-update",
+      "title": ".NET 发布带外安全更新，并补上两项未完全修复的旧漏洞",
+      "summary": "新版本修复可让未认证攻击者读取或破坏进程内存的 Brotli 缓冲区溢出，以及 Linux tar 包所有权问题；微软同时承认 10 月 13 日更新未完全修复另外两项漏洞。使用 .NET 8、9、10 或 11 RC 的团队应升级至 8.0.33、9.0.22、10.0.14 或 11 RC3；自包含应用与容器需重新构建和部署。",
+      "publishedAt": "2026-10-25",
+      "source": "Microsoft .NET Blog",
+      "url": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261023-github-public-monitoring-triage",
       "title": "GitHub 公共泄密监控增加持续有效性检查、处置记录与实时 Webhook",
