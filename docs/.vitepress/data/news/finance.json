@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-24T05:31:42+08:00",
+  "updatedAt": "2026-10-28T05:28:46+08:00",
   "items": [
+    {
+      "id": "finance-20261027-china-industrial-profits-nine-months",
+      "title": "中国前 9 个月规上工业利润增长 15.5%，行业分化明显",
+      "summary": "国家统计局按可比口径计算，1—9 月制造业利润同比增长 17.0%，电力、热力、燃气及水生产和供应业下降 14.3%，9 月单月利润增长 14.4%。同期营业收入增长 6.6%，应收账款增长 10.0%，显示利润改善并未消除行业分化与回款压力。",
+      "publishedAt": "2026-10-27",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261027_1965697.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261023-uk-september-retail-sales",
       "title": "英国 9 月零售销量环比下降 0.4%，三季度仍增长 0.7%",

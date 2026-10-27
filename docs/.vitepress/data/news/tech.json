@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-27T05:30:16+08:00",
+  "updatedAt": "2026-10-28T05:28:46+08:00",
   "items": [
+    {
+      "id": "tech-20261026-github-copilot-assisted-permissions-ga",
+      "title": "Copilot 辅助权限正式可用，安全请求可自动放行",
+      "summary": "GitHub Copilot CLI、Copilot 应用和 VS Code 现可让模型评估命令、文件路径及 URL 请求；被判定为明确安全的操作自动继续，其余仍需人工批准，企业拒绝规则继续生效。GitHub 明确警告模型可能误批危险操作，该功能不能替代沙箱和访问限制。",
+      "publishedAt": "2026-10-26",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available/",
+      "subCategory": "开发工具"
+    },
     {
       "id": "tech-20261026-cadence-maestro-chip-design-models",
       "title": "Cadence 推出 Maestro 芯片设计模型组合，首批仅向部分客户开放",

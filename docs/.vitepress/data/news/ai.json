@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-10-27T05:30:16+08:00",
+  "updatedAt": "2026-10-28T05:28:46+08:00",
   "items": [
+    {
+      "id": "ai-20261027-ai2-novelty-judge-benchmark",
+      "title": "Ai2 开放新颖性评测基准：LLM 评审对提示词高度敏感",
+      "summary": "研究测试六种 LLM 评审器，发现只改少量提示词就可能让同一组科研想法的两两判断准确率变化超过 50 个百分点，增加检索或推理预算也未稳定改善结果。论文、数据和代码已公开；其中 AI 生成想法的低新颖性标签属于弱标签，不能当作逐条确认的事实。",
+      "publishedAt": "2026-10-27",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/novelty-bench",
+      "subCategory": "AI评测"
+    },
     {
       "id": "ai-20261026-openai-gpt-6-1-terra",
       "title": "OpenAI 推出 GPT-6.1 Terra，以较低 API 价格面向高频电脑操作",
