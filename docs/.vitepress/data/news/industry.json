@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-27T05:30:16+08:00",
+  "updatedAt": "2026-10-29T05:36:00+08:00",
   "items": [
+    {
+      "id": "industry-20261028-alphabet-q3-cloud-model-api-growth",
+      "title": "Alphabet 第三季度收入增长 25%，Google Cloud 收入增长 103%",
+      "summary": "Alphabet 披露，第三季度收入同比增长 25%；Google Cloud 收入同比增长 103%，自有模型 API 每分钟处理近 320 亿 Token，较上一季度增长 40%。这些数字来自公司业绩说明，显示云与模型调用规模继续扩大，但不能替代独立的市场份额或采用率验证。",
+      "publishedAt": "2026-10-28",
+      "source": "Google / Alphabet",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261026-anthropic-s1-filing",
       "title": "Anthropic 提交 S-1，首次披露高速增长背后的亏损与渠道集中",

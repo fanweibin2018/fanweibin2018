@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-28T05:28:46+08:00",
+  "updatedAt": "2026-10-29T05:36:00+08:00",
   "items": [
+    {
+      "id": "finance-20261028-fed-holds-rates-split-vote",
+      "title": "美联储维持利率在 3.75%—4.00%，两名委员主张加息",
+      "summary": "联邦公开市场委员会以 10 比 2 的投票维持联邦基金利率目标区间不变，并继续维持银行体系准备金充足；Lisa Cook 和 Beth Hammack 反对该决定，主张加息 25 个基点。声明称经济活动保持强劲扩张，但通胀仍然偏高。",
+      "publishedAt": "2026-10-28",
+      "source": "美联储",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20261027-china-industrial-profits-nine-months",
       "title": "中国前 9 个月规上工业利润增长 15.5%，行业分化明显",

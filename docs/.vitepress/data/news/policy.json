@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-26T05:27:57+08:00",
+  "updatedAt": "2026-10-29T05:36:00+08:00",
   "items": [
+    {
+      "id": "policy-20261024-southern-regional-power-market-formal-operation",
+      "title": "南方区域电力市场转入正式运行",
+      "summary": "国家能源局 10 月 24 日宣布南方区域电力市场转入正式运行。官方称这一变化标志着区域电力市场建设进入新阶段，有助于优化电力资源配置并进一步深化全国统一电力市场建设；公告未披露新的交易规模数字。",
+      "publishedAt": "2026-10-24",
+      "source": "国家能源局",
+      "url": "https://www.nea.gov.cn/20261024/5507e2777ede4b7e97ae56de1d275d46/c.html",
+      "subCategory": "新能源政策"
+    },
     {
       "id": "policy-20261024-china-ai-employment-opinion",
       "title": "国务院要求评估 AI 应用的就业冲击，并把相关风险纳入规模性失业应对",

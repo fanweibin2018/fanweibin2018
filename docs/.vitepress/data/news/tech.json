@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-28T05:28:46+08:00",
+  "updatedAt": "2026-10-29T05:36:00+08:00",
   "items": [
+    {
+      "id": "tech-20261028-github-replica-open-source",
+      "title": "GitHub 开源 Replica：用团队设计系统生成交互原型",
+      "summary": "Replica 以 MIT 许可证开放源码，可读取团队已有的组件、模式和文档，并通过 GitHub Copilot 应用中的自然语言对话生成和迭代交互原型；团队还可自托管可选的 Replica Hub，供成员查看原型和留言。官方尚未提供效果对比，适合先用于产品想法验证。",
+      "publishedAt": "2026-10-28",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+      "subCategory": "开源生态"
+    },
     {
       "id": "tech-20261026-github-copilot-assisted-permissions-ga",
       "title": "Copilot 辅助权限正式可用，安全请求可自动放行",
