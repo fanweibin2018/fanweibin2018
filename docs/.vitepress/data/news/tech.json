@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-29T05:36:00+08:00",
+  "updatedAt": "2026-10-30T05:30:29+08:00",
   "items": [
+    {
+      "id": "tech-20261028-cisco-asa-ftd-vpn-dos",
+      "title": "Cisco ASA/FTD VPN 漏洞正被利用，须升级修复",
+      "summary": "Cisco 披露，CVE-2026-76418 影响启用远程访问 SSL VPN 且在隧道组配置二次认证的 ASA 与 FTD：未认证远程攻击者可通过构造请求让设备重载并造成拒绝服务。该漏洞 CVSS 评分为 8.6，Cisco 已观察到实际利用，且没有永久性绕过方案，受影响组织应按公告核对配置并升级到修复版本。",
+      "publishedAt": "2026-10-28",
+      "source": "Cisco Security Advisory",
+      "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-tunnel-dos-s6mgkb75",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261028-github-replica-open-source",
       "title": "GitHub 开源 Replica：用团队设计系统生成交互原型",

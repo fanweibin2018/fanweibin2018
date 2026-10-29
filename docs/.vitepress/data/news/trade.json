@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-28T05:28:46+08:00",
+  "updatedAt": "2026-10-30T05:30:29+08:00",
   "items": [
+    {
+      "id": "trade-20261028-us-robotics-industrial-machinery-section-232-negotiations",
+      "title": "美国启动机器人和工业机械进口谈判，尚未立即加征关税",
+      "summary": "美国总统采纳商务部依据《贸易扩展法》第 232 条作出的国家安全结论，要求商务部与贸易代表办公室就机器人、工业机械及其零部件进口同贸易伙伴谈判，并在 180 天内报告进展。公告把关税、配额和费用列为后续可选措施，但本次行动本身没有立即加征关税，相关出口商应先评估产品范围与谈判进展。",
+      "publishedAt": "2026-10-28",
+      "source": "美国白宫",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
+      "subCategory": "关税法规"
+    },
     {
       "id": "trade-20261027-china-signs-negotiable-cargo-documents-convention",
       "title": "中国签署联合国可转让货物单证公约，尚待国内批准",
@@ -13,6 +22,15 @@
       "source": "商务部",
       "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_da4b229ac9304688b60bd4ca6178540f.html",
       "subCategory": "贸易规则"
+    },
+    {
+      "id": "trade-20261025-china-2027-export-quotas",
+      "title": "商务部公布 2027 年七类货物出口配额，11 月 1 日起申请",
+      "summary": "商务部公布甘草及其制品、药料用人工种植麻黄草、对港澳活畜禽、锯材和蔺草制品等七类货物的 2027 年出口配额；除招标分配品种外，申请期为 2026 年 11 月 1 日至 15 日。相关经营者须取得配额并申领出口许可证，磷矿石和白银则继续暂停配额管理、实行许可证管理。",
+      "publishedAt": "2026-10-25",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_45feaf534cb7410c880c1b4ca04a90b9.html",
+      "subCategory": "贸易合规"
     },
     {
       "id": "trade-20261023-china-crossborder-ecommerce-nine-months",

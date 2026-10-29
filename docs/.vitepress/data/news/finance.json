@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-29T05:36:00+08:00",
+  "updatedAt": "2026-10-30T05:30:29+08:00",
   "items": [
+    {
+      "id": "finance-20261029-us-september-pce",
+      "title": "美国 9 月 PCE 价格同比上涨 3.6%，实际消费几乎停滞",
+      "summary": "美国经济分析局公布，9 月 PCE 价格指数环比上涨 0.5%、同比上涨 3.6%，剔除食品和能源后分别上涨 0.3% 和 3.1%。名义个人消费支出环比增长 0.5%，但实际消费支出增幅低于 0.1%，显示当月消费金额增长主要伴随价格上涨。",
+      "publishedAt": "2026-10-29",
+      "source": "美国经济分析局",
+      "url": "https://bea.gov/index.php/news/2026/personal-income-and-outlays-september-2026",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261028-fed-holds-rates-split-vote",
       "title": "美联储维持利率在 3.75%—4.00%，两名委员主张加息",
