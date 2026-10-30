@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-29T05:36:00+08:00",
+  "updatedAt": "2026-10-31T05:29:00+08:00",
   "items": [
+    {
+      "id": "policy-20261030-uk-drcf-personal-ai-agents-law",
+      "title": "英国四监管机构明确：个人 AI Agent 继续适用现有法律",
+      "summary": "英国数字监管合作论坛 10 月 30 日代表 CMA、FCA、ICO 和 Ofcom 发布联合声明，明确竞争、消费者保护、数据保护、在线安全、金融服务、支付及网络安全等现有框架适用于个人 AI Agent，Agent 的自主性不减轻部署机构的合规责任。开发或部署方应说明授权方式、个人数据使用、商业利益影响、责任归属和救济路径，并尽早参与监管测试。",
+      "publishedAt": "2026-10-30",
+      "source": "英国数字监管合作论坛（DRCF）",
+      "url": "https://www.drcf.org.uk/publications/joint-statements/joint-statement-on-protecting-people-and-businesses-in-an-agentic-economy",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261024-southern-regional-power-market-formal-operation",
       "title": "南方区域电力市场转入正式运行",

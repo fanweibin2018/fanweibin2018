@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-10-29T05:36:00+08:00",
+  "updatedAt": "2026-10-31T05:29:00+08:00",
   "items": [
+    {
+      "id": "industry-20261029-intel-q3-dcai-growth",
+      "title": "Intel 第三季度数据中心与 AI 收入增长 78%",
+      "summary": "Intel 披露，2026 年第三季度总收入为 165 亿美元，同比增长 21%；数据中心与 AI 业务收入 73 亿美元，同比增长 78%，客户端计算与 Physical AI 业务收入 81 亿美元，同比下降 5%。这些数字来自公司业绩公告；从分部数据看，本季度增长集中在服务器侧，而客户端业务仍承压。",
+      "publishedAt": "2026-10-29",
+      "source": "Intel",
+      "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-26-000188/q326earningsrelease.htm",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20261028-alphabet-q3-cloud-model-api-growth",
       "title": "Alphabet 第三季度收入增长 25%，Google Cloud 收入增长 103%",

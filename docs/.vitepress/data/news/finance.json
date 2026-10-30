@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-10-30T05:30:29+08:00",
+  "updatedAt": "2026-10-31T05:29:00+08:00",
   "items": [
+    {
+      "id": "finance-20261030-us-q3-employment-cost-index",
+      "title": "美国三季度就业成本环比上涨 0.8%，私营部门实际工资同比下降",
+      "summary": "美国劳工统计局公布，2026 年第三季度民用劳动者薪酬成本经季调环比上涨 0.8%，其中工资薪金上涨 0.7%、福利成本上涨 0.9%；薪酬成本同比上涨 3.4%。私营部门经通胀调整后的工资薪金同比下降 0.6%，显示其名义工资增长未抵消同期物价变化。",
+      "publishedAt": "2026-10-30",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/archives/eci_10302026.htm",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261029-us-september-pce",
       "title": "美国 9 月 PCE 价格同比上涨 3.6%，实际消费几乎停滞",

@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-10-30T05:30:29+08:00",
+  "updatedAt": "2026-10-31T05:29:00+08:00",
   "items": [
+    {
+      "id": "tech-20261030-cursor-malicious-claude-code-extension-update",
+      "title": "Cursor 扩展市场曾分发恶意 Claude Code 扩展，卸载本身不足以清除",
+      "summary": "Cursor 10 月 30 日更新通报，确认其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.312 与 2.1.313（Windows 和 macOS）被恶意修改，可加入未授权 SSH 密钥、安装持久化并外传主机信息。官方已下架版本、重建市场并使攻击服务器下线；在暴露时段安装或更新过的用户仍需按公告隔离设备、移除持久化并轮换可访问凭据，单纯卸载并不充分。",
+      "publishedAt": "2026-10-30",
+      "source": "Cursor 安全公告",
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "subCategory": "供应链安全"
+    },
     {
       "id": "tech-20261028-cisco-asa-ftd-vpn-dos",
       "title": "Cisco ASA/FTD VPN 漏洞正被利用，须升级修复",
