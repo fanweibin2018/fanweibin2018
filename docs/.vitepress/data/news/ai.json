@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-10-31T05:29:00+08:00",
+  "updatedAt": "2026-11-01T05:30:32+08:00",
   "items": [
+    {
+      "id": "ai-20261031-apple-intelligence-china-qwen",
+      "title": "Apple 智能确认进入中国，千问将接入 Siri、写作与视觉功能",
+      "summary": "Apple 宣布，首批 Apple 智能功能将于 11 月 4 日随 iOS 开发者 Beta 在中国开放测试，并计划在 12 月随 iOS 27.3 正式推出；Apple 与阿里巴巴合作，让部分 Siri、写作工具和视觉智能请求可接入千问。公告明确本次更新不包含 Siri AI 及 WWDC 2026 公布的其他下一代功能，其他平台还需取得必要审批。",
+      "publishedAt": "2026-10-31",
+      "source": "Apple",
+      "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20261030-google-suncatcher-orbit-tpu-inference",
       "title": "Google 在轨原型卫星完成数据中心级 TPU 模型回应",

@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-10-31T05:29:00+08:00",
+  "updatedAt": "2026-11-01T05:30:32+08:00",
   "items": [
+    {
+      "id": "policy-20261028-new-york-ai-companion-minors-law",
+      "title": "纽约州签署未成年人 AI 陪伴聊天安全法，2027 年 6 月生效",
+      "summary": "纽约州于 10 月 28 日签署 S9051B，禁止企业向未成年人提供带有特定不安全功能的 AI 陪伴聊天服务，包括暗示真人或关系身份、性内容以及鼓励自伤或伤害他人的输出。违规者可能面临受影响用户的民事诉讼和州总检察长执法；法律对能证明服务不供未成年人使用，以及内部或客服用途的聊天机器人设有例外，生效日调整为 2027 年 6 月 1 日。",
+      "publishedAt": "2026-10-28",
+      "source": "纽约州参议院",
+      "url": "https://www.nysenate.gov/legislation/bills/2025/S9051",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261030-uk-drcf-personal-ai-agents-law",
       "title": "英国四监管机构明确：个人 AI Agent 继续适用现有法律",
