@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-01T05:30:32+08:00",
+  "updatedAt": "2026-11-02T05:30:18+08:00",
   "items": [
+    {
+      "id": "finance-20261031-china-october-pmi",
+      "title": "中国 10 月制造业 PMI 降至 49.3%，供需指数同步回落",
+      "summary": "国家统计局公布，10 月制造业 PMI 为 49.3%，比上月下降 0.8 个百分点；生产指数和新订单指数分别降至 49.8% 和 49.4%，均低于临界点。非制造业商务活动指数与综合 PMI 产出指数均为 49.7%，显示当月制造业供需及整体景气水平同步走弱。",
+      "publishedAt": "2026-10-31",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261030-eurostat-q3-gdp-flash",
       "title": "欧元区第三季度 GDP 环比增长 0.4%，增速较二季度放缓",

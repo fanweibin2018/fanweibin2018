@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-01T05:30:32+08:00",
+  "updatedAt": "2026-11-02T05:30:18+08:00",
   "items": [
+    {
+      "id": "industry-20261030-china-culture-enterprises",
+      "title": "前三季度规上文化企业收入增长 4.3%，利润下降 7.3%",
+      "summary": "国家统计局对 8.3 万家规模以上文化及相关产业企业的调查显示，前三季度营业收入为 108210 亿元，同比增长 4.3%；其中文化新业态收入增长 8.9%，文化服务业增长 7.3%。同期利润总额下降 7.3%，营业收入利润率同比降低 0.96 个百分点，收入扩张尚未同步转化为利润增长。",
+      "publishedAt": "2026-10-30",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202610/t20261030_1965708.html",
+      "subCategory": "文化产业"
+    },
     {
       "id": "industry-20261029-amazon-q3-aws-ai-capex",
       "title": "Amazon 第三季度 AWS 收入增长 39%，AI 投入推高现金支出",
