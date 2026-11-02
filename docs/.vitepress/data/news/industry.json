@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-02T05:30:18+08:00",
+  "updatedAt": "2026-11-03T05:30:16+08:00",
   "items": [
+    {
+      "id": "industry-20261102-openai-grid-protectors",
+      "title": "OpenAI 启动 Grid Protectors，Georgia 试点规划最多 1,000 MW 可调负荷",
+      "summary": "OpenAI 启动 Grid Protectors 计划，拟让未来算力园区在电网承压时降低用电；其与 Georgia Power 的协议包含最多 1,000 MW 灵活需求响应，并计划以 Effingham County 园区作首个试点。该园区仍在开发，其他地区的安排尚未敲定，负荷灵活性也不能替代新增电源与输电投资。",
+      "publishedAt": "2026-11-02",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/grid-protectors-program/",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261030-china-culture-enterprises",
       "title": "前三季度规上文化企业收入增长 4.3%，利润下降 7.3%",

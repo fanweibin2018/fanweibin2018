@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-02T05:30:18+08:00",
+  "updatedAt": "2026-11-03T05:30:16+08:00",
   "items": [
+    {
+      "id": "finance-20261102-pboc-overnight-reverse-repo",
+      "title": "央行隔夜逆回购常态化操作落地，首日开展 5410 亿元",
+      "summary": "中国人民银行 11 月 2 日以固定利率、数量招标方式开展 5410 亿元隔夜期逆回购，操作利率为 1.25%，标志着每日隔夜逆回购机制正式运行。此前央行已明确将 7 天期逆回购改为主要在税期、月末等时点开展，并把相关工具的加减点基准切换至隔夜逆回购利率。",
+      "publishedAt": "2026-11-02",
+      "source": "新华财经",
+      "url": "https://www.cnfin.com/hg-lb/detail/20261102/4489697_1.html",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20261031-china-october-pmi",
       "title": "中国 10 月制造业 PMI 降至 49.3%，供需指数同步回落",
