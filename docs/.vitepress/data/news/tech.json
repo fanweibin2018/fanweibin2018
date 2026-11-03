@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-02T05:30:18+08:00",
+  "updatedAt": "2026-11-04T05:36:00+08:00",
   "items": [
+    {
+      "id": "tech-20261103-codeql-2273-python315-ai-threat-model",
+      "title": "CodeQL 2.27.3 支持 Python 3.15，并新增可配置的 AI 数据威胁模型",
+      "summary": "GitHub 发布 CodeQL 2.27.3，加入 Python 3.15 语法与新内置类型分析，并为大模型生成数据增加可选的 ai 威胁模型；该模型默认不含任何来源，需用数据扩展自行定义。GitHub Actions 控制流图已切换至共享实现，依赖旧节点、边或基本块边界的自定义查询可能需要调整。",
+      "publishedAt": "2026-11-03",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions/",
+      "subCategory": "开发工具"
+    },
     {
       "id": "tech-20261030-ivanti-connect-secure-kev-update",
       "title": "CISA 将两项 Ivanti Connect Secure 漏洞列入已知利用目录",

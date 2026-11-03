@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-10-31T05:29:00+08:00",
+  "updatedAt": "2026-11-04T05:36:00+08:00",
   "items": [
+    {
+      "id": "trade-20261103-eu-ecommerce-product-identifiers",
+      "title": "欧盟跨境电商进口商品标识申报已强制实施",
+      "summary": "欧盟自 11 月 1 日起强制要求面向欧盟消费者的跨境远程销售商品在海关申报中提供平台商品编号、制造商型号及标准化商品标识；没有标准化标识时须填豁免代码。卖家、平台、制造商以及 IOSS 持有人或报关代理需确保供应链数据能够传递。",
+      "publishedAt": "2026-11-03",
+      "source": "欧盟委员会税务与关税同盟总司",
+      "url": "https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en",
+      "subCategory": "贸易合规"
+    },
     {
       "id": "trade-20261030-china-switzerland-fta-upgrade-signed",
       "title": "中瑞签署自贸协定升级议定书，零关税覆盖将超过 99% 贸易额",
