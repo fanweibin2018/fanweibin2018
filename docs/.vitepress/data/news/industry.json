@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-04T05:36:00+08:00",
+  "updatedAt": "2026-11-05T05:35:26+08:00",
   "items": [
+    {
+      "id": "industry-20261104-openai-pierre-acquisition",
+      "title": "OpenAI 宣布收购 Pierre，Codex 使用的 Trees 和 Diffs 团队将并入",
+      "summary": "OpenAI 宣布将收购 Code Storage 及多款开源开发者工具背后的 Pierre；其 Trees 和 Diffs 库已用于 Codex 的文件浏览和代码变更审阅。交易仍待监管批准，交割后 Pierre 的开源项目将继续开源，Code Storage 客户可继续使用服务，相关功能则计划逐步并入 Codex。",
+      "publishedAt": "2026-11-04",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "subCategory": "企业并购"
+    },
     {
       "id": "industry-20261103-global-semiconductor-sales-q3",
       "title": "全球半导体销售第三季度环比增长 24.1%",

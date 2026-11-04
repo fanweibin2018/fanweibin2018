@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-04T05:36:00+08:00",
+  "updatedAt": "2026-11-05T05:35:26+08:00",
   "items": [
+    {
+      "id": "trade-20261104-us-september-trade-deficit",
+      "title": "美国 9 月贸易逆差小幅收窄至 1050 亿美元，进出口同步增长",
+      "summary": "美国经济分析局与人口普查局公布，9 月商品和服务贸易逆差为 1050 亿美元，较修订后的 8 月减少 7 亿美元；出口增至 3215 亿美元，进口增至 4266 亿美元。数据经过季节调整但未按价格变化调整，显示名义进出口同时扩张，逆差仍处高位。",
+      "publishedAt": "2026-11-04",
+      "source": "美国经济分析局 / 人口普查局",
+      "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+      "subCategory": "宏观贸易"
+    },
     {
       "id": "trade-20261103-eu-ecommerce-product-identifiers",
       "title": "欧盟跨境电商进口商品标识申报已强制实施",

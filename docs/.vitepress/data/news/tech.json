@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-04T05:36:00+08:00",
+  "updatedAt": "2026-11-05T05:35:26+08:00",
   "items": [
+    {
+      "id": "tech-20261104-firecracker-process-memory-cve",
+      "title": "Firecracker 进程内存暴露漏洞修复，自管快照恢复环境应升级",
+      "summary": "AWS 披露 CVE-2026-122192：Firecracker 0.23.0 至 1.16.1 在特定主机内存条件下，使用 File 内存后端从快照恢复且配置 balloon 或 virtio-mem 的虚拟机，来宾 root 用户可能读取或修改 Firecracker 进程内存。修复已进入 1.16.2 和 1.17.0；AWS Lambda 等 AWS 服务不受影响，相关自管部署应升级或改用 Uffd 后端。",
+      "publishedAt": "2026-11-04",
+      "source": "AWS Security Bulletin",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-169-aws/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261103-codeql-2273-python315-ai-threat-model",
       "title": "CodeQL 2.27.3 支持 Python 3.15，并新增可配置的 AI 数据威胁模型",

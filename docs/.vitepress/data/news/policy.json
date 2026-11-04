@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-01T05:30:32+08:00",
+  "updatedAt": "2026-11-05T05:35:26+08:00",
   "items": [
+    {
+      "id": "policy-20261104-china-comprehensive-conservation-action-plan",
+      "title": "五部门发布全面节约行动方案，明确 2030 年能耗、水耗和用地目标",
+      "summary": "国家发展改革委等五部门提出，到 2030 年单位国内生产总值能耗、用水量和建设用地使用面积分别比 2025 年降低 10% 左右、10% 和 15%，主要再生资源年循环利用量达到 5.1 亿吨。方案还要求新建高耗能高排放工业项目实施碳排放等量或减量置换，并推进算力、通信基站和机房节能降碳改造。",
+      "publishedAt": "2026-11-04",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202611/t20261103_1408561.html",
+      "subCategory": "绿色发展"
+    },
     {
       "id": "policy-20261028-new-york-ai-companion-minors-law",
       "title": "纽约州签署未成年人 AI 陪伴聊天安全法，2027 年 6 月生效",
