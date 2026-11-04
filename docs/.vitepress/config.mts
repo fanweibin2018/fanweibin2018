@@ -5,7 +5,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 const SITE_URL = 'https://fanweibin.cn'
-const SITE_TITLE = '范伟彬 · 写作空间'
+const SITE_TITLE = '学习资料'
 const SITE_DESC = '技术、投资、AI 工作流的记录与思考 — 范伟彬的个人博客'
 const AUTHOR = '范伟彬'
 const OG_IMAGE = '/logo.svg'
@@ -291,7 +291,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'fanweibin.cn',
+    siteTitle: SITE_TITLE,
     logo: { src: '/logo.svg', width: 24, height: 24, alt: 'FF' },
 
     nav: [
@@ -392,7 +392,7 @@ export default defineConfig({
     footer: {
       // spans 由客户端脚本填充：Vercount 注入真实 PV 到隐藏 tracker，
       // SiteStatsFooter 叠加 2018 以来的预估值写入可见的 #site-pv-display
-      message: `已运行 <span id="site-runtime-days" data-start="${SITE_START_DATE}">…</span> · 总访问 <span id="site-pv-display">…</span> 次<span id="vercount_value_site_pv" style="display:none">0</span>`,
+      message: `<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">浙ICP备19028705号-2</a><br>已运行 <span id="site-runtime-days" data-start="${SITE_START_DATE}">…</span> · 总访问 <span id="site-pv-display">…</span> 次<span id="vercount_value_site_pv" style="display:none">0</span>`,
       copyright: `© 2018-${new Date().getFullYear()} ${SITE_TITLE}`
     }
   },

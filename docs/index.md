@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 范伟彬 · 写作空间
+title: 学习资料
 sidebar: false
 aside: false
 ---

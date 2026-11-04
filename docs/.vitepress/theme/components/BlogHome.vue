@@ -43,7 +43,7 @@ const stats = computed(() => {
   <div class="blog-home">
     <header class="hero">
       <div class="wordmark">
-        <h1 class="wordmark-cn">范伟彬</h1>
+        <h1 class="wordmark-cn">学习资料</h1>
         <div class="wordmark-en">FANWEIBIN · fanweibin.cn</div>
       </div>
       <p class="tagline">{{ SITE_TAGLINE }}</p>
