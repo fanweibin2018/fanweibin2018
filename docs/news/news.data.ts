@@ -13,6 +13,7 @@
 import { defineLoader } from 'vitepress'
 import fs from 'node:fs'
 import path from 'node:path'
+import { publishNews } from '../.vitepress/news-publishing.mts'
 
 export interface NewsItem {
   id?: string
@@ -109,6 +110,6 @@ function buildData(): NewsData {
 export default defineLoader({
   watch: [path.join(DATA_DIR, '*.json')],
   load(): NewsData {
-    return buildData()
+    return publishNews ? buildData() : { categories: [], bySlug: {}, latest: [] }
   }
 })

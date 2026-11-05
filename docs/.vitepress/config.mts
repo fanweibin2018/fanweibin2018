@@ -1,8 +1,9 @@
 // VitePress site config.
 // Docs: https://vitepress.dev/reference/site-config
-import { defineConfig } from 'vitepress'
+import { defineConfig, type HeadConfig } from 'vitepress'
 import fs from 'node:fs'
 import path from 'node:path'
+import { publishNews } from './news-publishing.mts'
 
 const SITE_URL = 'https://fanweibin.cn'
 const SITE_TITLE = '学习资料'
@@ -197,12 +198,15 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   metaChunk: true,
+  srcExclude: publishNews ? [] : ['news/**'],
   sitemap: { hostname: SITE_URL },
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE, href: '/feed.xml' }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE + ' · 信息与资讯', href: '/news.xml' }],
+    ...(publishNews ? [
+      ['link', { rel: 'alternate', type: 'application/rss+xml', title: SITE_TITLE + ' · 信息与资讯', href: '/news.xml' }] satisfies HeadConfig
+    ] : []),
     ['meta', { name: 'author', content: AUTHOR }],
     ['meta', { name: 'theme-color', content: '#3e7bff' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -304,7 +308,7 @@ export default defineConfig({
           { text: '按标签', link: '/tags' }
         ]
       },
-      {
+      ...(publishNews ? [{
         text: '资讯',
         items: [
           { text: '总览', link: '/news/' },
@@ -315,7 +319,7 @@ export default defineConfig({
           { text: 'AI 与大模型', link: '/news/ai' },
           { text: '投资与财经', link: '/news/finance' }
         ]
-      },
+      }] : []),
       { text: '关于', link: '/pages/about' },
       { text: '高性价比人生', link: '/life/', activeMatch: '/life/' },
       { text: 'Indie', link: 'https://indie.fanweibin.cn/', target: '_blank' },
@@ -403,9 +407,11 @@ export default defineConfig({
     const xml = buildFeedXml(posts)
     await fs.promises.writeFile(path.join(outDir, 'feed.xml'), xml, 'utf-8')
     console.log(`[rss] wrote feed.xml (${posts.length} items)`)
-    const newsXml = buildNewsFeedXml()
-    const newsItems = loadNewsItems().length
-    await fs.promises.writeFile(path.join(outDir, 'news.xml'), newsXml, 'utf-8')
-    console.log(`[rss] wrote news.xml (${Math.min(newsItems, 50)} items from ${newsItems} total)`)
+    if (publishNews) {
+      const newsXml = buildNewsFeedXml()
+      const newsItems = loadNewsItems().length
+      await fs.promises.writeFile(path.join(outDir, 'news.xml'), newsXml, 'utf-8')
+      console.log(`[rss] wrote news.xml (${Math.min(newsItems, 50)} items from ${newsItems} total)`)
+    }
   }
 })
