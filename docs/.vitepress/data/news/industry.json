@@ -3,7 +3,7 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-05T05:35:26+08:00",
+  "updatedAt": "2026-11-06T05:35:12+08:00",
   "items": [
     {
       "id": "industry-20261104-openai-pierre-acquisition",
@@ -13,6 +13,15 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/openai-to-acquire-pierre/",
       "subCategory": "企业并购"
+    },
+    {
+      "id": "industry-20261103-amd-q3-data-center-revenue",
+      "title": "AMD 第三季度数据中心收入同比增长 97%，达 85 亿美元",
+      "summary": "AMD 披露第三季度总收入为 133.77 亿美元，同比增长 45%；其中数据中心业务收入 85 亿美元，同比增长 97%，公司归因于 EPYC 处理器需求和 Instinct MI450 系列 GPU 上市。同期客户端与游戏业务收入同比下降 8%，显示增长仍主要由数据中心拉动。",
+      "publishedAt": "2026-11-03",
+      "source": "AMD 投资者关系",
+      "url": "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000188/q32026991.htm",
+      "subCategory": "半导体产业"
     },
     {
       "id": "industry-20261103-global-semiconductor-sales-q3",

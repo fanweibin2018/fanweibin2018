@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-03T05:30:16+08:00",
+  "updatedAt": "2026-11-06T05:35:12+08:00",
   "items": [
+    {
+      "id": "finance-20261105-boe-bank-rate-4-percent",
+      "title": "英格兰银行加息 25 个基点至 4%，委员会以 8 比 1 通过",
+      "summary": "英格兰银行货币政策委员会将 Bank Rate 上调 0.25 个百分点至 4%，八名委员支持该幅度，一名委员主张上调 0.5 个百分点。英国 9 月 CPI 同比上涨 3.5%，央行预计次年年中可能升至约 5%，并把能源价格上升和近期经济活动强于预期列为收紧政策的主要依据。",
+      "publishedAt": "2026-11-05",
+      "source": "英格兰银行",
+      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "subCategory": "政策利率"
+    },
     {
       "id": "finance-20261102-pboc-overnight-reverse-repo",
       "title": "央行隔夜逆回购常态化操作落地，首日开展 5410 亿元",

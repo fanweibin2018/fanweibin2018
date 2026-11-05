@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-05T05:35:26+08:00",
+  "updatedAt": "2026-11-06T05:35:12+08:00",
   "items": [
+    {
+      "id": "tech-20261105-openssh-10-6p2-auth-bypass",
+      "title": "OpenSSH 10.6p2 紧急修复特定 Linux 配置的密码认证绕过",
+      "summary": "OpenSSH 发布 10.6p2，为使用 musl libc 且禁用 PAM 的 Linux 系统加入关键安全规避措施；受影响配置中的 sshd 可能出现密码认证绕过。项目称根因位于 sshd 之外，但可由 sshd 触发并在此版本规避，相关部署应优先升级并核查认证配置。",
+      "publishedAt": "2026-11-05",
+      "source": "OpenSSH",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261104-firecracker-process-memory-cve",
       "title": "Firecracker 进程内存暴露漏洞修复，自管快照恢复环境应升级",
