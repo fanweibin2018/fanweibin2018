@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-05T05:35:26+08:00",
+  "updatedAt": "2026-11-07T05:38:15+08:00",
   "items": [
+    {
+      "id": "trade-20261106-us-foreign-importer-ctpat-rule",
+      "title": "美国提高外国进口商登记要求，2027 年起需经 CTPAT 验证或使用合规报关行",
+      "summary": "美国 CBP 发布临时最终规则，自 2027-01-05 起，外国进口商自行办理正式及相关非正式进口申报，须通过 CTPAT 验证；未验证者需委托经 CTPAT 验证的持牌报关行。报关行可申请延后合规，但最迟须在 2027-05-06 完成，跨境卖家应提前核对 IOR 与代理安排。",
+      "publishedAt": "2026-11-06",
+      "source": "美国海关与边境保护局",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+      "subCategory": "贸易合规"
+    },
     {
       "id": "trade-20261104-us-september-trade-deficit",
       "title": "美国 9 月贸易逆差小幅收窄至 1050 亿美元，进出口同步增长",

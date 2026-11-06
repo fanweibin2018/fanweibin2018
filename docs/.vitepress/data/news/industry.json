@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-06T05:35:12+08:00",
+  "updatedAt": "2026-11-07T05:38:15+08:00",
   "items": [
+    {
+      "id": "industry-20261105-nvidia-h200-hong-kong-stockpile",
+      "title": "据路透：约 60 万块 Nvidia H200 滞留香港，等待中国大规模进口许可",
+      "summary": "路透援引多名知情人士称，约 60 万块 H200 存放在香港，内地尚未批准大批量进口；部分大型互联网企业据称各获约 1 万块。工信部、国家发改委、Nvidia 及相关企业未回应，库存数字和审批节奏尚无官方确认；报道显示进口许可仍在实际约束高端 GPU 供应。",
+      "publishedAt": "2026-11-05",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20261104-openai-pierre-acquisition",
       "title": "OpenAI 宣布收购 Pierre，Codex 使用的 Trees 和 Diffs 团队将并入",

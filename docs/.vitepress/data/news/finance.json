@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-06T05:35:12+08:00",
+  "updatedAt": "2026-11-07T05:38:15+08:00",
   "items": [
+    {
+      "id": "finance-20261106-us-october-employment",
+      "title": "美国 10 月新增非农就业 16.5 万，失业率维持 4.1%",
+      "summary": "美国劳工统计局称，10 月非农就业增加 16.5 万，失业率为 4.1%；平均时薪环比增长 0.4%、同比增长 3.1%，8、9 月新增就业合计上修 8.4 万。就业增长主要来自专业和商业服务、医疗及运输仓储；因经济原因从事兼职的人数增加 33.9 万至 480 万。",
+      "publishedAt": "2026-11-06",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261105-boe-bank-rate-4-percent",
       "title": "英格兰银行加息 25 个基点至 4%，委员会以 8 比 1 通过",

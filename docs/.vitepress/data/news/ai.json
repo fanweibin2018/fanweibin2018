@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-06T05:35:12+08:00",
+  "updatedAt": "2026-11-07T05:38:15+08:00",
   "items": [
+    {
+      "id": "ai-20261106-anthropic-agent-memory-components",
+      "title": "Anthropic 拆解 Agent 记忆：在线笔记、显著性判断与离线整理各有边界",
+      "summary": "Anthropic 发布 Claude Agent 记忆实验，区分会话内写笔记与离线读取日志后整理、纠错的“dreaming”。其内部文档评测显示，wiki 与搜索组合在部分多文档任务上优于单独搜索，但单文档任务未见明确收益；维护记忆还会消耗算力并可能放大错误，结果不代表通用性能。",
+      "publishedAt": "2026-11-06",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "subCategory": "AI研究"
+    },
     {
       "id": "ai-20261105-gemini-omni-1-2-flash",
       "title": "Gemini Omni 1.2 Flash 上线：视频延长至 15 秒并支持多轮编辑",
