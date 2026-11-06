@@ -129,7 +129,7 @@ Windows 上的 iLoader 已经显示 `Place` 成功，iPhone 也有了 LiveContai
 
 ### 为什么在 A 点共享 App，却自动跳到 B
 
-这次实际看到了这个行为。B 已经打开某个共享 App，回 A 点同一个 App，又被带回 B。LiveContainer 启动时检查的是**选中的数据容器**。如果该容器已在另一个实例里运行，系统会把正在运行的实例带到前台。转换为「共享 App」让两个启动器都能访问同一份 App，不会自动创建第二套数据。 [应用设置文档](https://livecontainer.github.io/zh-CN/docs/guides/app-settings) · [LiveContainer 启动调度代码](https://github.com/LiveContainer/LiveContainer/blob/main/LiveContainerSwiftUI/Models/LCAppModel.swift#L1668-L1703)
+这次实际看到了这个行为。B 已经打开某个共享 App，回 A 点同一个 App，又被带回 B。LiveContainer 启动时检查的是**选中的数据容器**。如果该容器已在另一个实例里运行，系统会把正在运行的实例带到前台。转换为「共享 App」让两个启动器都能访问同一份 App，不会自动创建第二套数据。 [应用设置文档](https://livecontainer.github.io/zh-CN/docs/guides/app-settings) · [LiveContainer 启动调度代码](https://github.com/LiveContainer/LiveContainer/blob/9108ae624ea001f7d7696d48407f890b48fa2653/LiveContainerSwiftUI/Models/LCAppModel.swift#L251-L270)
 
 要同时开两份，可先让 B 保持打开，在 A 长按同一个 App，进入 **容器** 选择 B 没用的那份，确认卡片显示的是第二个容器再点「启动」。如果 A 和 B 本来就要跑两个不同的 App，各自启动对应的 App 即可。 [同一 App 的不同容器](https://livecontainer.github.io/zh-CN/docs/guides/containers-and-external-data)
 
