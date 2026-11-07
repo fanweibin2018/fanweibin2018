@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-07T05:38:15+08:00",
+  "updatedAt": "2026-11-08T05:39:01+08:00",
   "items": [
+    {
+      "id": "trade-20261106-china-eu-para-aramid-antidumping",
+      "title": "中国对欧盟进口对位芳纶长丝发起反倾销调查",
+      "summary": "商务部 11 月 6 日立案调查原产于欧盟的进口对位芳纶长丝，倾销调查期为 2025-07-01 至 2026-06-30，产业损害期为 2023-01-01 至 2026-06-30。产品覆盖光纤增强、防护、轮胎、汽车和航天等用途；这只是立案，尚未形成倾销裁定或税率，利害关系方须在公告发布后 20 天内登记。",
+      "publishedAt": "2026-11-06",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/gpmy/art/2026/art_b545d55da00c48f0b77e3dcb2e0cabcc.html",
+      "subCategory": "贸易救济"
+    },
     {
       "id": "trade-20261106-us-foreign-importer-ctpat-rule",
       "title": "美国提高外国进口商登记要求，2027 年起需经 CTPAT 验证或使用合规报关行",

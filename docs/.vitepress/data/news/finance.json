@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-07T05:38:15+08:00",
+  "updatedAt": "2026-11-08T05:39:01+08:00",
   "items": [
+    {
+      "id": "finance-20261106-us-september-consumer-credit",
+      "title": "美国 9 月消费信贷年化增长 6.4%，循环信贷增速升至 14.5%",
+      "summary": "美联储 G.19 显示，9 月美国消费信贷按季调年率增长 6.4%，其中循环信贷增长 14.5%、非循环信贷增长 3.6%；三季度总额增长 4.2%。9 月数据为初值，以上均为年化增速而非同比，显示循环信贷在 8 月收缩后明显反弹。",
+      "publishedAt": "2026-11-06",
+      "source": "美联储",
+      "url": "https://www.federalreserve.gov/releases/g19/current/",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261106-us-october-employment",
       "title": "美国 10 月新增非农就业 16.5 万，失业率维持 4.1%",

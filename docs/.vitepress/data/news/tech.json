@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-06T05:35:12+08:00",
+  "updatedAt": "2026-11-08T05:39:01+08:00",
   "items": [
+    {
+      "id": "tech-20261105-agent-substrate-cncf-donation",
+      "title": "Google 将 Agent Substrate、gVisor 与 OpenRL 捐给 CNCF Sandbox",
+      "summary": "Google 在 KubeCon 宣布把 Agent Substrate、gVisor 和 OpenRL 捐给 CNCF Sandbox。Agent Substrate 通过把空闲 Agent 快照到存储、按请求恢复到较小的 Worker 池来提高密度；仓库 11 月 5 日发布的仍是 v1.0.0-rc.3，并提示从 v0.6.0 不支持直接升级，试用者应按候选版评估迁移风险。",
+      "publishedAt": "2026-11-05",
+      "source": "Google Open Source / GitHub",
+      "url": "https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html",
+      "subCategory": "云原生"
+    },
     {
       "id": "tech-20261105-openssh-10-6p2-auth-bypass",
       "title": "OpenSSH 10.6p2 紧急修复特定 Linux 配置的密码认证绕过",
