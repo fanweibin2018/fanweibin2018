@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-08T05:39:01+08:00",
+  "updatedAt": "2026-11-09T05:30:09+08:00",
   "items": [
+    {
+      "id": "tech-20261106-aws-babelfish-tds-memory-safety",
+      "title": "AWS 修复 Babelfish TDS 层两项内存安全漏洞，Aurora 用户需升级",
+      "summary": "AWS 披露 CVE-2026-119923 和 CVE-2026-119924：前者可被远程未认证攻击者通过 TDS 连接握手影响数据库进程的机密性、完整性和可用性，后者可被已认证攻击者读取相邻进程内存或造成拒绝服务。修复已进入 Babelfish 4.10、5.6 和 6.1；Aurora PostgreSQL 用户还需升级集群并应用待处理维护。",
+      "publishedAt": "2026-11-06",
+      "source": "AWS Security Bulletin",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-166-aws/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261105-agent-substrate-cncf-donation",
       "title": "Google 将 Agent Substrate、gVisor 与 OpenRL 捐给 CNCF Sandbox",

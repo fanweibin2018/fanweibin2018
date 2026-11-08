@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-05T05:35:26+08:00",
+  "updatedAt": "2026-11-09T05:30:09+08:00",
   "items": [
+    {
+      "id": "policy-20261106-miit-agent-terminal-network-access",
+      "title": "工信部将预置智能体纳入终端进网检测和 OTA 升级管理",
+      "summary": "工信部要求预置智能体的手机、平板和可穿戴设备在进网检测中完成适配验证、涉诈风险评估及反诈能力前置评测；通过 OTA 推送智能体升级前后还需提交方案和报告。应用分发平台应公示适配机型，未经应用开发者声明同意，智能体不得强制调用应用。",
+      "publishedAt": "2026-11-06",
+      "source": "工业和信息化部",
+      "url": "https://wap.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_bc3e3e4c3fa84ca2a1c14ff1067ab844.html",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261104-china-comprehensive-conservation-action-plan",
       "title": "五部门发布全面节约行动方案，明确 2030 年能耗、水耗和用地目标",

@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-07T05:38:15+08:00",
+  "updatedAt": "2026-11-09T05:30:09+08:00",
   "items": [
+    {
+      "id": "ai-20261106-meta-muse-specialized-models",
+      "title": "Meta 将基于 Muse Wonder 训练的专用模型部署到 Muse 与 Meta AI",
+      "summary": "Meta 开始向 Muse 和 Meta AI 推出基于 Muse Wonder 训练的专用模型，并把 Active Memory 与 Active Focus 能力带入产品，分别用于识别跨会话仍相关的信息和在受阻时继续完成目标。Meta 公布的遗忘率、任务完成率等改善来自内部评测，尚不能视为独立验证。",
+      "publishedAt": "2026-11-06",
+      "source": "Meta AI Research",
+      "url": "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai",
+      "subCategory": "Agent"
+    },
     {
       "id": "ai-20261106-anthropic-agent-memory-components",
       "title": "Anthropic 拆解 Agent 记忆：在线笔记、显著性判断与离线整理各有边界",

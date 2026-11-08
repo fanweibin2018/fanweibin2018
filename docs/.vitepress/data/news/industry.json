@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-07T05:38:15+08:00",
+  "updatedAt": "2026-11-09T05:30:09+08:00",
   "items": [
+    {
+      "id": "industry-20261108-nvidia-board-independent-investigation",
+      "title": "Nvidia 董事会启动独立调查，核查 CEO 成为外国情报目标的报道",
+      "summary": "Nvidia 董事会表示，将由独立董事委员会和外部独立律师调查有关 CEO 黄仁勋成为外国情报活动目标的报道。董事会同时称，目前没有理由认为美国国家安全或 Nvidia 机密已经受损；调查尚未给出结论，黄仁勋承诺配合。",
+      "publishedAt": "2026-11-08",
+      "source": "Nvidia / 路透社",
+      "url": "https://www.reuters.com/world/china/nvidia-launches-probe-after-report-ceo-huang-was-target-foreign-intelligence-2026-11-08/",
+      "subCategory": "公司治理"
+    },
+    {
+      "id": "industry-20261106-openai-funding-first-close",
+      "title": "据彭博、路透：OpenAI 新融资首批约 110 亿美元到账",
+      "summary": "彭博援引知情人士称，OpenAI 已完成约 110 亿美元融资的首批交割，对应估值 1.25 万亿美元，本轮总额可能增至 200 亿美元；路透随后援引消息人士确认融资金额和估值。OpenAI 拒绝置评，剩余融资规模和完成时间仍未最终确定。",
+      "publishedAt": "2026-11-06",
+      "source": "彭博社 / 路透社",
+      "url": "https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/",
+      "subCategory": "AI 产业"
+    },
     {
       "id": "industry-20261105-nvidia-h200-hong-kong-stockpile",
       "title": "据路透：约 60 万块 Nvidia H200 滞留香港，等待中国大规模进口许可",
