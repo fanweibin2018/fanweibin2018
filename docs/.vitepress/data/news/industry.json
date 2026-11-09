@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-10T05:34:11+08:00",
+  "updatedAt": "2026-11-10T05:46:21+08:00",
   "items": [
+    {
+      "id": "industry-20261109-palantir-nhs-gp-data-lobbying",
+      "title": "据《卫报》调查：Palantir 曾游说将 NHS 平台扩展至 GP 病历",
+      "summary": "《卫报》披露的通信记录由倡议组织通过英国信息自由法取得，显示 Palantir 曾游说时任卫生部长考虑把 GP 病历纳入 NHS 联邦数据平台。现有 3.3 亿英镑合同明确排除 GP 数据，报道援引业内人士称扩围还需修改法律；Palantir 表示具体部署范围由政府决定。",
+      "publishedAt": "2026-11-09",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+      "subCategory": "医疗健康"
+    },
     {
       "id": "industry-20261109-adobe-disney-ai-alliance",
       "title": "Adobe 与 Disney 扩大 AI 合作，覆盖 Imagineering、StudioLAB 与 ESPN",
