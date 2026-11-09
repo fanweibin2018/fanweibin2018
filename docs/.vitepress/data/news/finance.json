@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-08T05:39:01+08:00",
+  "updatedAt": "2026-11-10T05:34:11+08:00",
   "items": [
+    {
+      "id": "finance-20261109-china-october-cpi-ppi",
+      "title": "中国 10 月 CPI 同比涨幅回落，PPI 同比涨幅扩大",
+      "summary": "国家统计局数据显示，10 月 CPI 环比持平、同比上涨 0.7%，同比涨幅较上月回落 0.2 个百分点；PPI 环比上涨 0.7%、同比上涨 5.7%，同比涨幅扩大 0.7 个百分点。居民消费价格与工业生产者价格走势分化，观察成本传导时需分别判断。",
+      "publishedAt": "2026-11-09",
+      "source": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202611/t20261109_1965796.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261106-us-september-consumer-credit",
       "title": "美国 9 月消费信贷年化增长 6.4%，循环信贷增速升至 14.5%",

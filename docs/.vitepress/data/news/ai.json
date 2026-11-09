@@ -3,8 +3,35 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-09T05:30:09+08:00",
+  "updatedAt": "2026-11-10T05:34:11+08:00",
   "items": [
+    {
+      "id": "ai-20261109-anthropic-fable-mythos-5-2",
+      "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，以不同访问门槛部署同一模型",
+      "summary": "Anthropic 将同一模型分为公开可用的 Fable 5.2 和面向经核验项目的 Mythos 5.2，后者用于更高风险的网络与生物研究。Fable 已通过产品和 API 开放，标准 API 价格为每百万输入、输出 Token 8 美元和 40 美元；速度与能力提升数据来自 Anthropic 自测。",
+      "publishedAt": "2026-11-09",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "subCategory": "大模型"
+    },
+    {
+      "id": "ai-20261109-meta-muse-ember",
+      "title": "Meta 发布 Muse Ember，面向高频工具调用与 Agent 子任务",
+      "summary": "Meta 推出小型高效模型 Muse Ember 1.0，定位于工具调用、代码子任务、路由、结构化抽取和长文档解析，已通过 Meta Model API 与 Muse Code 开放。模型支持 100 万 Token 上下文；官方公布的价格为每百万输入、输出 Token 0.10 美元和 0.50 美元，性能比较仍属厂商评测。",
+      "publishedAt": "2026-11-09",
+      "source": "Meta AI Research",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "subCategory": "Agent"
+    },
+    {
+      "id": "ai-20261109-bytedance-seedream-5-5",
+      "title": "字节跳动发布 Seedream 5.5，加入原生透明图与连续编辑能力",
+      "summary": "Seedream 5.5 新增原生 RGBA 透明图输出，并把连续图像编辑扩展到最多 100 轮；字节跳动称模型会尽量保持未编辑区域的像素级一致性。透明素材可直接进入设计工作流，但文字、写实度和多轮稳定性改进目前主要由官方示例与评测支持。",
+      "publishedAt": "2026-11-09",
+      "source": "字节跳动 Seed",
+      "url": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5",
+      "subCategory": "多模态"
+    },
     {
       "id": "ai-20261106-meta-muse-specialized-models",
       "title": "Meta 将基于 Muse Wonder 训练的专用模型部署到 Muse 与 Meta AI",

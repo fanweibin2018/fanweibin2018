@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-09T05:30:09+08:00",
+  "updatedAt": "2026-11-10T05:34:11+08:00",
   "items": [
+    {
+      "id": "tech-20261109-google-tpu-8tx-8i-max",
+      "title": "Google 推出 TPU 8tx 与 8i Max，分别强化机密推理和超长上下文",
+      "summary": "Google 发布两套 TPU 系统：8tx 在 8t 芯片基础上加入机密计算保护，用于敏感数据推理；8i Max 将两颗 8i 组合，扩大计算、片上存储和内存带宽，面向超长上下文与大规模推理。Google 公布的延迟改善属于厂商测试结果。",
+      "publishedAt": "2026-11-09",
+      "source": "Google Cloud",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max",
+      "subCategory": "芯片硬件"
+    },
     {
       "id": "tech-20261106-aws-babelfish-tds-memory-safety",
       "title": "AWS 修复 Babelfish TDS 层两项内存安全漏洞，Aurora 用户需升级",

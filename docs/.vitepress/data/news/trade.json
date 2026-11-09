@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-08T05:39:01+08:00",
+  "updatedAt": "2026-11-10T05:34:11+08:00",
   "items": [
+    {
+      "id": "trade-20261109-china-us-additional-tariff-suspension",
+      "title": "中国延长对美商品 24% 加征关税暂停期，10% 税率继续保留",
+      "summary": "国务院关税税则委员会决定，自 11 月 10 日 13 时 01 分起继续暂停对美国进口商品加征的 24% 关税两个月，同时保留 10% 加征税率。该措施延续现行安排而非取消加征关税，相关进口商需继续按保留税率核算成本。",
+      "publishedAt": "2026-11-09",
+      "source": "国务院关税税则委员会",
+      "url": "https://gss.mof.gov.cn/gzdt/zhengcefabu/202611/t20261109_4004260.htm",
+      "subCategory": "关税政策"
+    },
     {
       "id": "trade-20261106-china-eu-para-aramid-antidumping",
       "title": "中国对欧盟进口对位芳纶长丝发起反倾销调查",

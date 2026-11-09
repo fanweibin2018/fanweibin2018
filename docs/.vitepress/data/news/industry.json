@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-09T05:30:09+08:00",
+  "updatedAt": "2026-11-10T05:34:11+08:00",
   "items": [
+    {
+      "id": "industry-20261109-adobe-disney-ai-alliance",
+      "title": "Adobe 与 Disney 扩大 AI 合作，覆盖 Imagineering、StudioLAB 与 ESPN",
+      "summary": "Adobe 与 Disney 签署多年合作协议，将 Firefly Foundry 定制模型用于 Disney 自有素材和工作流。合作从已在使用相关工具的 Imagineering 扩展到 StudioLAB 与 ESPN Edge，重点面向创意概念、内容生产和体育媒体实验；这证明合作范围扩大，不代表模型效果已获独立验证。",
+      "publishedAt": "2026-11-09",
+      "source": "Adobe",
+      "url": "https://news.adobe.com/news/2026/11/adobe-and-the-walt-disney-company-alliance",
+      "subCategory": "产业合作"
+    },
     {
       "id": "industry-20261108-nvidia-board-independent-investigation",
       "title": "Nvidia 董事会启动独立调查，核查 CEO 成为外国情报目标的报道",
