@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-10T05:34:11+08:00",
+  "updatedAt": "2026-11-12T05:32:30+08:00",
   "items": [
+    {
+      "id": "tech-20261110-windows-ntlm-signing-phase-one",
+      "title": "Windows 开始默认协商 NTLM 消息签名，服务器将在 2027 年强制",
+      "summary": "微软 11 月 10 日更新启动第一阶段：Windows 客户端默认在所有非匿名 NTLM 连接中提供消息签名，服务器暂时仍接受未签名客户端；管理员可通过事件 4022/4023 审计兼容性。微软计划 2027 年 5 月让服务器默认拒绝未签名客户端，企业应在强制前清点旧应用。",
+      "publishedAt": "2026-11-10",
+      "source": "Microsoft Support",
+      "url": "https://support.microsoft.com/en-us/servicing/os/windows/docs/2026/11/kb5135557-ntlm-signing-security-improvements",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261109-google-tpu-8tx-8i-max",
       "title": "Google 推出 TPU 8tx 与 8i Max，分别强化机密推理和超长上下文",

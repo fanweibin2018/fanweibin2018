@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-10T05:34:11+08:00",
+  "updatedAt": "2026-11-12T05:32:30+08:00",
   "items": [
+    {
+      "id": "trade-20261110-ustr-section301-178-exclusions-extension",
+      "title": "美国延长 178 项对华 301 关税排除至 2027 年 1 月 9 日",
+      "summary": "美国贸易代表办公室把现行 178 项对华 301 关税排除延长至美东时间 2027 年 1 月 9 日 23:59，适用于 11 月 10 日起进口消费或出库消费的相关商品。此次仅延长既有排除，不是下调全部对华 301 关税；进口商仍需按 HTSUS 9903.88.69 等适用条目核对报关资格。",
+      "publishedAt": "2026-11-10",
+      "source": "美国贸易代表办公室",
+      "url": "https://ustr.gov/sites/default/files/files/Issue_Areas/Enforcement/Section%20301/USTR%20FRN%20Extending%20Section%20301%20China%20FTT%20Exclusions%20to%20Jan%202027.pdf",
+      "subCategory": "关税法规"
+    },
     {
       "id": "trade-20261109-china-us-additional-tariff-suspension",
       "title": "中国延长对美商品 24% 加征关税暂停期，10% 税率继续保留",

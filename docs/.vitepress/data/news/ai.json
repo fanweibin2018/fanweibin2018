@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-10T05:34:11+08:00",
+  "updatedAt": "2026-11-12T05:32:30+08:00",
   "items": [
+    {
+      "id": "ai-20261111-google-gemini-decisions-api",
+      "title": "Google 推出 Gemini Decisions API，一次可评估最多 1,000 个封闭式问题",
+      "summary": "Google 在 Gemini API 中上线 Gemini Decisions API，由 gemini-decision-1 处理文本、图像、音频、视频和 PDF；单次可对同一输入评估最多 1,000 个是非、选择或量表问题，并返回概率与置信度。官方定价为每百万输入 Token 0.10 美元、输出不计费；150—250 毫秒延迟和基准优势均为 Google 测试结果。",
+      "publishedAt": "2026-11-11",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "subCategory": "AI应用"
+    },
     {
       "id": "ai-20261109-anthropic-fable-mythos-5-2",
       "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，以不同访问门槛部署同一模型",

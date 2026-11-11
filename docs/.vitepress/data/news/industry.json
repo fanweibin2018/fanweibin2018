@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-10T05:46:21+08:00",
+  "updatedAt": "2026-11-12T05:32:30+08:00",
   "items": [
+    {
+      "id": "industry-20261110-anthropic-s1a-compute-commitments",
+      "title": "Anthropic 修订 S-1，披露约 9009 亿美元算力与基础设施承诺",
+      "summary": "Anthropic 11 月 10 日提交的 S-1/A 首次填入此前留白的承诺金额：截至及之后 9 月 30 日签订的采购与租赁协议合计约 9009 亿美元，其中约 4516 亿美元预计 2030 年底前发生、707 亿美元在未来 12 个月到期。公司称这些承诺几乎都与算力和基础设施有关；这是相对 10 月初稿的实质新增披露，不等同于已经支付的资本开支。",
+      "publishedAt": "2026-11-10",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261109-palantir-nhs-gp-data-lobbying",
       "title": "据《卫报》调查：Palantir 曾游说将 NHS 平台扩展至 GP 病历",
