@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-12T05:32:30+08:00",
+  "updatedAt": "2026-11-13T05:36:43+08:00",
   "items": [
+    {
+      "id": "industry-20261112-nvidia-ceo-transition",
+      "title": "黄仁勋辞去 Nvidia CEO 和董事职务，CFO Colette Kress 临时接任",
+      "summary": "Nvidia 在 11 月 12 日提交的 8-K 中披露，董事会已于 11 月 11 日接受黄仁勋辞去总裁、CEO 和董事职务，任命 CFO Colette Kress 兼任临时 CEO，并启动继任者遴选。相较 11 月 8 日仅宣布独立调查，这次新增了已确认的管理层变动；申报文件未说明辞职原因，也未将两件事关联。",
+      "publishedAt": "2026-11-12",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm",
+      "subCategory": "公司治理"
+    },
     {
       "id": "industry-20261110-anthropic-s1a-compute-commitments",
       "title": "Anthropic 修订 S-1，披露约 9009 亿美元算力与基础设施承诺",
