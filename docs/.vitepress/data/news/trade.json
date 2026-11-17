@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-12T05:32:30+08:00",
+  "updatedAt": "2026-11-18T05:34:07+08:00",
   "items": [
+    {
+      "id": "trade-20261117-us-import-export-prices",
+      "title": "美国 10 月进口与出口价格均环比上涨 1.1%",
+      "summary": "美国劳工统计局数据显示，10 月进口价格连续第二个月上涨 1.1%，出口价格上涨 1.1%；非燃料进口价格上涨 0.8%，其中进口资本品价格创该月度序列 1988 年发布以来最大涨幅。因 2025 年政府停摆造成部分调查数据缺失，BLS 无法公布多项同比变化。",
+      "publishedAt": "2026-11-17",
+      "source": "美国劳工统计局",
+      "url": "https://www.bls.gov/news.release/archives/ximpim_11172026.htm",
+      "subCategory": "宏观贸易"
+    },
     {
       "id": "trade-20261110-ustr-section301-178-exclusions-extension",
       "title": "美国延长 178 项对华 301 关税排除至 2027 年 1 月 9 日",

@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-13T05:36:43+08:00",
+  "updatedAt": "2026-11-18T05:34:07+08:00",
   "items": [
+    {
+      "id": "industry-20261117-azure-cobalt-200-ga",
+      "title": "Azure Cobalt 200 Arm 虚拟机正式可用，首批覆盖 14 个区域",
+      "summary": "微软将 Cobalt 200 虚拟机从预览推进至正式可用，提供通用、高内存和本地 NVMe 存储等五个系列，支持 AKS 节点池；首批覆盖 14 个 Azure 区域，计划年底扩至 23 个。相对 Cobalt 100 最高 50% 的性能提升来自微软测试，实际迁移仍需按工作负载验证 Arm 兼容性与成本。",
+      "publishedAt": "2026-11-17",
+      "source": "Microsoft Azure",
+      "url": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
+      "subCategory": "AI 基础设施"
+    },
     {
       "id": "industry-20261112-nvidia-ceo-transition",
       "title": "黄仁勋辞去 Nvidia CEO 和董事职务，CFO Colette Kress 临时接任",

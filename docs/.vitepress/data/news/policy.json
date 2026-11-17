@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-09T05:30:09+08:00",
+  "updatedAt": "2026-11-18T05:34:07+08:00",
   "items": [
+    {
+      "id": "policy-20261117-recycling-system-opinion",
+      "title": "九部门推动动力电池、光伏组件和风机叶片纳入再生资源回收体系",
+      "summary": "商务部等九部门公布再生资源回收体系建设意见，提出研究动力电池数字身份证制度、制定退役风机叶片和光伏组件回收处理办法，并将“新三样”固废回收利用纳入试点。文件提出的是后续制度与试点安排，不等同于相关管理办法已经生效。",
+      "publishedAt": "2026-11-17",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/zc/art/2026/art_1c6148fb278d47e0bfa38e2e8a9d575c.html",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20261106-miit-agent-terminal-network-access",
       "title": "工信部将预置智能体纳入终端进网检测和 OTA 升级管理",
