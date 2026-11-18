@@ -3,8 +3,26 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-18T05:34:07+08:00",
+  "updatedAt": "2026-11-19T05:38:26+08:00",
   "items": [
+    {
+      "id": "industry-20261118-meta-muse-privacy-investigation",
+      "title": "路透调查：Meta Muse 内部测试持续出现隐私与错误操作问题",
+      "summary": "路透审阅 20 多条 Meta 内部帖子，并与 Signal、AI Now Institute 复现 Muse 对 Signal 通知的访问；Meta 称相关案例孤立，许多疑似串号信息其实是模型幻觉。路透无法确认银行余额等内容来自其他账户还是模型编造，但问题从发布初期持续到 11 月。",
+      "publishedAt": "2026-11-18",
+      "source": "路透社",
+      "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+      "subCategory": "公司动态"
+    },
+    {
+      "id": "industry-20261118-openai-amd-chip-design",
+      "title": "OpenAI 称模型改写的 RTL 已进入 AMD 送厂设计",
+      "summary": "OpenAI 称其模型在 AMD 旗舰 GPU IP 上相对高度优化基线取得最高 14% 的功耗、性能与面积综合改善，部分改动已进入近期送厂设计；AMD 还验证了下一代旗舰 CPU 关键模块的个位数百分比改善。这些结果来自合作方内部验证，并非独立基准。",
+      "publishedAt": "2026-11-18",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "subCategory": "半导体产业"
+    },
     {
       "id": "industry-20261117-azure-cobalt-200-ga",
       "title": "Azure Cobalt 200 Arm 虚拟机正式可用，首批覆盖 14 个区域",

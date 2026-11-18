@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-18T05:34:07+08:00",
+  "updatedAt": "2026-11-19T05:38:26+08:00",
   "items": [
+    {
+      "id": "ai-20261118-google-genie-4-project-genie",
+      "title": "Google 将 Genie 4 世界模型开放给部分 AI Ultra 订阅用户",
+      "summary": "相较 10 月仅面向受信测试者的研究预览，Google DeepMind 现已通过 Project Genie 向符合条件的 AI Ultra 订阅者开放 Genie 4。模型可生成最高 720p、24 帧的实时视频与同步音频，但官方提示连续交互仅支持数分钟，物体持久性、文字和复杂物理仍会漂移。",
+      "publishedAt": "2026-11-18",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "subCategory": "多模态"
+    },
     {
       "id": "ai-20261117-openai-gpt-6-2-astra-sol",
       "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，并下调 Astra API 单价",

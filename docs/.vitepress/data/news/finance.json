@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-18T05:34:07+08:00",
+  "updatedAt": "2026-11-19T05:38:26+08:00",
   "items": [
+    {
+      "id": "finance-20261117-nvidia-q3-fy2027-results",
+      "title": "Nvidia 季度营收同比增长 103%，数据中心收入达 1076 亿美元",
+      "summary": "Nvidia 截至 10 月 25 日的财季营收为 1158 亿美元，同比增长 103%；数据中心收入 1076 亿美元，同比增长 110%。公司预计下一财季营收约 1300 亿美元，且指引未计入任何来自中国的数据中心计算收入；以上均为公司财报与预测。",
+      "publishedAt": "2026-11-17",
+      "source": "Nvidia 投资者关系",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/",
+      "subCategory": "公司财报"
+    },
     {
       "id": "finance-20261117-us-industrial-production-capacity",
       "title": "美国 10 月工业产出环比下降 0.4%，产能利用率降至 76.4%",

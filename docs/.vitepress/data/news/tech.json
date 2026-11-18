@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-13T05:36:43+08:00",
+  "updatedAt": "2026-11-19T05:38:26+08:00",
   "items": [
+    {
+      "id": "tech-20261118-nginx-1-31-9-security-release",
+      "title": "NGINX 1.31.9 与 1.30.7 修复 10 项安全漏洞",
+      "summary": "NGINX 发布 mainline 1.31.9 与 stable 1.30.7，修复 HTTP/2 流控内存破坏、TLS 1.3 请求体处理死循环等 10 项漏洞；官方把前述两项及邮件代理 use-after-free 列为 major，受影响部署应升级到上述版本或更高版本。",
+      "publishedAt": "2026-11-18",
+      "source": "NGINX",
+      "url": "https://nginx.org/news.html",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261111-nodejs-security-releases",
       "title": "Node.js 三条活跃版本线发布安全更新，修复多项 HTTP/2 与 TLS 高危漏洞",

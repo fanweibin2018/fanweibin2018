@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-18T05:34:07+08:00",
+  "updatedAt": "2026-11-19T05:38:26+08:00",
   "items": [
+    {
+      "id": "trade-20261117-wto-restrictive-measures-stockpile",
+      "title": "WTO：全球进口限制措施存量覆盖贸易额升至 5.4 万亿美元",
+      "summary": "WTO 年度监测显示，截至 2026 年 6 月 30 日，2009 年以来仍生效的进口限制及其他非便利化措施覆盖 5.4 万亿美元贸易、占全球进口 21.3%，均为监测以来最高。2026 年上半年成员新增 333 项限制性措施，同时也新增 466 项贸易便利化措施。",
+      "publishedAt": "2026-11-17",
+      "source": "世界贸易组织",
+      "url": "https://www.wto.org/english/news_e/news26_e/tmwto_17nov26_552_e.htm",
+      "subCategory": "宏观贸易"
+    },
     {
       "id": "trade-20261117-us-import-export-prices",
       "title": "美国 10 月进口与出口价格均环比上涨 1.1%",
