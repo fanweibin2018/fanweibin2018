@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-19T05:38:26+08:00",
+  "updatedAt": "2026-11-20T05:33:00+08:00",
   "items": [
+    {
+      "id": "trade-20261118-eu-indonesia-cepa-signature-authorisation",
+      "title": "欧盟理事会授权签署欧盟—印尼全面经济伙伴关系协定",
+      "summary": "欧盟理事会授权签署并临时适用欧盟—印尼 CEPA 及投资保护协定。CEPA 完全实施后将放开最多 98.5% 的税目，96% 的印尼关税拟在五年内取消；协定仍须正式签署，并经欧洲议会同意等程序后才能完成缔结和全面生效。",
+      "publishedAt": "2026-11-18",
+      "source": "欧盟理事会",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/18/eu-indonesia-council-greenlights-signature-of-landmark-trade-and-investment-agreements/",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20261117-wto-restrictive-measures-stockpile",
       "title": "WTO：全球进口限制措施存量覆盖贸易额升至 5.4 万亿美元",

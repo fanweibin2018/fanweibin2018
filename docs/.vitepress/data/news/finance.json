@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-19T05:38:26+08:00",
+  "updatedAt": "2026-11-20T05:33:00+08:00",
   "items": [
+    {
+      "id": "finance-20261119-anthropic-ipo-pricing",
+      "title": "Anthropic 完成 IPO 定价，9.8 亿股 A 类股定价 83 美元",
+      "summary": "Anthropic 向 SEC 提交最终招股书，首次公开发行合计 9.8 亿股 A 类普通股，定价为每股 83 美元；其中公司发行 956351354 股，现有股东出售 23648646 股，纳斯达克交易代码为 ANT。相较此前仅披露发行计划的 S-1，本次给出了最终价格和发行数量，但不代表公司前景或二级市场表现已经得到验证。",
+      "publishedAt": "2026-11-19",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+      "subCategory": "美股"
+    },
     {
       "id": "finance-20261117-nvidia-q3-fy2027-results",
       "title": "Nvidia 季度营收同比增长 103%，数据中心收入达 1076 亿美元",

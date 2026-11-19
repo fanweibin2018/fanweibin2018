@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-18T05:34:07+08:00",
+  "updatedAt": "2026-11-20T05:33:00+08:00",
   "items": [
+    {
+      "id": "policy-20261119-uk-finance-cyber-resilience-guidance",
+      "title": "英国金融监管机构提出网络韧性指南，并发布 AI 与量子风险实践建议",
+      "summary": "英格兰银行、FCA 与 PRA 就金融机构网络风险与韧性指南征求意见，并另行发布 AI 与量子计算相关的有效实践。指南整合现有要求而非新增刚性规则；有效实践也不属于正式监管预期，但为机构检查 AI 依赖、人工监督和公钥密码迁移准备提供了更具体的参照。",
+      "publishedAt": "2026-11-19",
+      "source": "英格兰银行 / FCA / PRA",
+      "url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+      "subCategory": "金融监管"
+    },
     {
       "id": "policy-20261117-recycling-system-opinion",
       "title": "九部门推动动力电池、光伏组件和风机叶片纳入再生资源回收体系",
