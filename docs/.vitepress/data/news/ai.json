@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 20953)
-Total output lines: 1188
-
 {
   "$schema": "./schema.json",
   "slug": "ai",
@@ -526,7 +523,67 @@ Total output lines: 1188
       "summary": "B站上线AI无限竞技场，聚合UP主对全球百余款AI模型的实测评价。首期榜单中GPT-6 Astra在10位UP主测评中夺得最多榜首次数，击败GLM-5.3，中国模型占据前五中的三席。",
       "publishedAt": "2026-09-16T14:23:05+08:00",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09…953 tokens truncated…、国家互联网应急中心联合百度、科大讯飞、知乎等机构共建，数据量达120GB，为大模型训练提供可信语料支撑。",
+      "url": "https://www.qbitai.com/2026/09/490396.html",
+      "subCategory": "AI评测",
+      "id": "ai-20260916-003"
+    },
+    {
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的最后一公里",
+      "summary": "杭州AI蛋白质设计公司力文所发布Agent研究平台Lévin Harness，将数据、模型、算力与科研流程整合进统一工作区，由智能体编排计算与分析。团队此前的蛋白质生成模型Pallatom曾获英伟达点名并入选ICML 2025。",
+      "publishedAt": "2026-09-16T11:40:35+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "subCategory": "Agent",
+      "id": "ai-20260916-007"
+    },
+    {
+      "title": "把记忆交给CPU，大模型会变快",
+      "summary": "英特尔面向大模型推理推出分层KV Cache方案：KV Shrink借助QAT硬件加速压缩缓存20%-30%，KV Fuse、KV Cascade、KV Infinity协同实现显存、内存与SSD分级调度，实测首token时延最高提速5倍。",
+      "publishedAt": "2026-09-16T11:07:18+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "subCategory": "推理框架",
+      "id": "ai-20260916-006"
+    },
+    {
+      "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+      "summary": "生数科技发布Vidu S2，推出S2-Editing实时视频编辑、升级至720P的实时互动数字人S2-Avatar，以及可将生成视频转为左右眼格式供VR探索的空间视频功能，距Vidu S1发布仅69天，即刻全量开放。",
+      "publishedAt": "2026-09-16T10:58:34+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490109.html",
+      "subCategory": "AI视频",
+      "id": "ai-20260916-004"
+    },
+    {
+      "title": "华为GTS让Agent学会看着网络排障，双防火墙难题几乎全拿下",
+      "summary": "华为GTS推出NetCanvas，让排障Agent通过可视化网络拓扑而非纯文本定位故障，解决拓扑失忆问题。在双防火墙叠加ECMP的场景下，故障定位成功率从约10%提升到90%，整体测试通过率从30.3%提升至54.5%。",
+      "publishedAt": "2026-09-16T10:27:20+08:00",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490098.html",
+      "subCategory": "Agent",
+      "id": "ai-20260916-005"
+    },
+    {
+      "id": "ai-20260916-012",
+      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+      "summary": "Mistral与Mozilla宣布合作，Mistral模型将为Firefox Smart Window（测试版）提供技术支持，率先在法国和北美上线，英国、德国稍后跟进，双方称对话默认不保存在Mozilla服务器且采用零数据留存政策。",
+      "publishedAt": "2026-09-16",
+      "source": "Mistral AI",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "subCategory": "AI应用"
+    },
+    {
+      "title": "Meta One 订阅服务上线：专为AI重度用户、创作者、商业用户准备，最高档每月 499 美元",
+      "summary": "Meta推出Meta One订阅服务，整合Facebook、Instagram、WhatsApp并叠加AI功能配额，面向个人、创作者与商业用户设四档订阅，价格7.99至499美元/月，官方称核心功能及Meta AI仍保持免费。",
+      "publishedAt": "2026-09-15T23:57:09+08:00",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/1/002/818.htm",
+      "subCategory": "AI应用",
+      "id": "ai-20260915-008"
+    },
+    {
+      "title": "中文互联网基础语料 4.0 发布：数据量 120GB，为大模型训练提供可信数据支撑",
+      "summary": "中文互联网基础语料 4.0在国家网络安全宣传周AI安全治理论坛发布，由中国网络空间安全协会、国家互联网应急中心联合百度、科大讯飞、知乎等机构共建，数据量达120GB，为大模型训练提供可信语料支撑。",
       "publishedAt": "2026-09-15T22:49:09+08:00",
       "source": "IT之家",
       "url": "https://www.ithome.com/1/002/795.htm",
