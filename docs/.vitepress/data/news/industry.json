@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-19T05:38:26+08:00",
+  "updatedAt": "2026-11-21T05:37:05+08:00",
   "items": [
+    {
+      "id": "industry-20261120-nvidia-sec-accounting-investigation",
+      "title": "路透：美国 SEC 正调查 Nvidia 的潜在会计问题",
+      "summary": "据路透援引两名知情人士报道，美国 SEC 执法人员正在审查 Nvidia 的潜在会计问题；SEC 拒绝置评，Nvidia 未立即回应，调查启动时间和具体范围尚不明确。监管调查本身不构成违规证据，也可能在不采取执法行动的情况下结束。",
+      "publishedAt": "2026-11-20",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+      "subCategory": "公司治理"
+    },
     {
       "id": "industry-20261118-meta-muse-privacy-investigation",
       "title": "路透调查：Meta Muse 内部测试持续出现隐私与错误操作问题",

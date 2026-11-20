@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-20T05:33:00+08:00",
+  "updatedAt": "2026-11-21T05:37:05+08:00",
   "items": [
+    {
+      "id": "trade-20261120-china-singapore-fta-4-negotiations",
+      "title": "中国与新加坡启动自贸协定 4.0 版升级谈判",
+      "summary": "中、新两国商务部门签署谅解备忘录，正式启动双边自贸协定 4.0 版升级谈判，拟在政府采购、数字经贸规则等领域继续磋商。当前动作是启动谈判，并不代表新规则已经生效；原协定曾于 2018 年和 2023 年两次升级。",
+      "publishedAt": "2026-11-20",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_70e5e9b43c9f41628bb30aa22ebd09a5.html",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20261118-eu-indonesia-cepa-signature-authorisation",
       "title": "欧盟理事会授权签署欧盟—印尼全面经济伙伴关系协定",

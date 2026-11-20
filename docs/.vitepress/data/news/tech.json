@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-20T05:33:00+08:00",
+  "updatedAt": "2026-11-21T05:37:05+08:00",
   "items": [
+    {
+      "id": "tech-20261120-gitlab-critical-ruby-cve-2026-132825",
+      "title": "GitLab 紧急修补捆绑 Ruby 的堆缓冲区溢出漏洞",
+      "summary": "GitLab 发布 19.6.1、19.5.8 和 19.4.10，更新其捆绑的 Ruby，以修复字符串大小写转换中的堆缓冲区溢出漏洞 CVE-2026-132825。GitLab.com 与 Dedicated 已修补，自管 CE/EE 实例应立即升级到对应版本。",
+      "publishedAt": "2026-11-20",
+      "source": "GitLab",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-6-1-released/",
+      "subCategory": "安全漏洞"
+    },
     {
       "id": "tech-20261119-php-8-6-release",
       "title": "PHP 8.6 正式发布，加入原生 Polling API 与部分函数应用",
