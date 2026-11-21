@@ -3,7 +3,7 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-21T05:37:05+08:00",
+  "updatedAt": "2026-11-22T05:39:00+08:00",
   "items": [
     {
       "id": "tech-20261120-gitlab-critical-ruby-cve-2026-132825",
@@ -13,6 +13,15 @@
       "source": "GitLab",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-6-1-released/",
       "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20261119-dragos-ai-inference-supply-chain-canaries",
+      "title": "Dragos 用近 200 万个金丝雀提示词追踪 AI 推理供应链泄露",
+      "summary": "Dragos 报告称，其在 2026 年 7—11 月向 AI 服务、路由商和推理市场发送约 200 万条含唯一 URL 或测试凭据的提示词，观察到至少三家提供商的数据暴露迹象、多个转售商可通过常规日志查看并保留提示词，以及部分隐私设置未被落实。使用模型路由服务的团队应审计实际上游链路，并禁止真实密钥进入提示词。",
+      "publishedAt": "2026-11-19",
+      "source": "Dragos",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "subCategory": "供应链安全"
     },
     {
       "id": "tech-20261119-php-8-6-release",

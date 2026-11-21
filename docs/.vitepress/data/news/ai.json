@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-21T05:37:05+08:00",
+  "updatedAt": "2026-11-22T05:39:00+08:00",
   "items": [
+    {
+      "id": "ai-20261120-figma-specs-agent-coding-handoff",
+      "title": "Figma Specs 开放测试，把设计上下文交给编码智能体",
+      "summary": "Figma 将 Specs 以开放测试形式提供给所有套餐，支持在画布中用 Markdown 汇集产品需求、技术说明、标注设计与可运行的 code layers。官方工作流展示 Figma agent 先把这些材料整理成实施计划，再通过 Figma MCP 用一个链接交给编码智能体；这减少了设计到代码的上下文搬运，但生成计划仍需人工审核。",
+      "publishedAt": "2026-11-20",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/",
+      "subCategory": "AI 编程"
+    },
     {
       "id": "ai-20261120-thinking-machines-inkling-2-mini",
       "title": "Thinking Machines 开放 Inkling 2 Mini 权重，用循环层换取更多内部计算",

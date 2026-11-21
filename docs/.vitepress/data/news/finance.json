@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-21T05:37:05+08:00",
+  "updatedAt": "2026-11-22T05:39:00+08:00",
   "items": [
+    {
+      "id": "finance-20261120-sec-consolidated-audit-trail-restructure",
+      "title": "美国 SEC 拟接管综合审计追踪系统的治理与资金安排",
+      "summary": "美国 SEC 提议撤销要求交易所和行业自律组织共同运营综合审计追踪系统（CAT）的 Rule 613，改以新 Rule 17a-26 要求自律组织和经纪商向 SEC 或其指定方报告基本相同的数据，CAT 将转由 SEC 直接控制并使用国会拨款承担运营成本。方案仍在征求意见，相关报告义务尚未取消。",
+      "publishedAt": "2026-11-20",
+      "source": "美国证券交易委员会",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+      "subCategory": "金融监管"
+    },
     {
       "id": "finance-20261120-china-fdi-jan-oct",
       "title": "中国前十月实际使用外资下降 2.4%，高技术产业逆势增长",

@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-21T05:37:05+08:00",
+  "updatedAt": "2026-11-22T05:39:00+08:00",
   "items": [
+    {
+      "id": "trade-20261121-us-la-long-beach-port-tentative-deal",
+      "title": "洛杉矶与长滩港雇主同安保工会达成临时协议，罢工风险暂缓",
+      "summary": "据路透社报道，太平洋海事协会与 ILWU Local 26 就洛杉矶和长滩港约 250 名安保人员的新合同达成临时协议，原合同将在工会成员表决期间延长，原定可能发生的罢工因此暂时避免。协议尚待批准，港口经营者和货主仍需关注表决结果。",
+      "publishedAt": "2026-11-21",
+      "source": "路透社",
+      "url": "https://www.reuters.com/world/us/southern-california-port-employers-watchmen-union-reach-tentative-deal-2026-11-21/",
+      "subCategory": "物流仓储"
+    },
+    {
+      "id": "trade-20261121-eu-indonesia-cepa-ipa-signed",
+      "title": "欧盟与印尼正式签署 CEPA 与投资保护协定",
+      "summary": "欧盟与印尼在 11 月 21 日完成 CEPA 和投资保护协定签署，这是 11 月 18 日欧盟理事会授权后的实际进展。CEPA 完全实施后拟放开最多 98.5% 的税目，但签署不等于立即全面生效：双方完成内部程序后才可临时适用，正式缔结仍需欧洲议会同意等程序。",
+      "publishedAt": "2026-11-21",
+      "source": "欧盟委员会",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2532",
+      "subCategory": "贸易政策"
+    },
     {
       "id": "trade-20261120-china-singapore-fta-4-negotiations",
       "title": "中国与新加坡启动自贸协定 4.0 版升级谈判",

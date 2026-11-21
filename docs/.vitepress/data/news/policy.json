@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-20T05:33:00+08:00",
+  "updatedAt": "2026-11-22T05:39:00+08:00",
   "items": [
+    {
+      "id": "policy-20261119-us-bis-remote-compute-semiconductor-controls",
+      "title": "美国 BIS 将先进芯片出口管制延伸至境外数据中心远程算力",
+      "summary": "美国商务部 BIS 的临时最终规则自 11 月 19 日生效：境外数据中心向总部位于 D:5 国家组或澳门的实体提供大量先进算力时需申请许可；向印尼、马来西亚、新加坡、泰国和巴西出口相关先进芯片也新增许可要求，符合报告条件的美国总部企业例外。规则同时正式撤销 AI 扩散规则。",
+      "publishedAt": "2026-11-19",
+      "source": "美国商务部工业与安全局",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf",
+      "subCategory": "半导体出口管制"
+    },
     {
       "id": "policy-20261119-uk-finance-cyber-resilience-guidance",
       "title": "英国金融监管机构提出网络韧性指南，并发布 AI 与量子风险实践建议",
