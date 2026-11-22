@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-22T05:39:00+08:00",
+  "updatedAt": "2026-11-23T05:30:52+08:00",
   "items": [
+    {
+      "id": "tech-20261121-together-ai-prompt-sample-leak",
+      "title": "Together AI 确认提示词样本泄露，AI 编码 Agent 曾把仓库凭据提交到公开项目",
+      "summary": "相较 11 月 19 日 Dragos 对推理供应链的概览，Together AI 新增确认自身的一次具体事件：AI 编码 Agent 把私有 Hugging Face 仓库凭据提交到公开 xorl 仓库，未授权方据此下载了 6—7 月部分 Serverless 推理请求样本。公司称调查仍在进行，已把 ZDR 设为新账户默认值，并加强 PR 密钥检查和 Agent 开发流程。",
+      "publishedAt": "2026-11-21",
+      "source": "Together AI",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "subCategory": "供应链安全"
+    },
+    {
+      "id": "tech-20261121-lean-mathlib-riemann-proof-verified",
+      "title": "Lean 与 Mathlib 社区确认黎曼猜想形式化证明通过独立复核",
+      "summary": "Lean 与 Mathlib 社区联合声明称，已复核 Levent Alpöge 11 月 20 日发布的约 1700 万行 Lean 证明库：多人独立编译得到相同导出，两套比较工具确认所证命题与 Mathlib 的 RiemannHypothesis 一致，Lean 内核及多个独立检查器也接受该证明。机器可校验的正确性已获确认，但证明思想仍待数学界进一步解释和研究。",
+      "publishedAt": "2026-11-21",
+      "source": "Lean / Mathlib 社区",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "subCategory": "形式化验证"
+    },
     {
       "id": "tech-20261120-gitlab-critical-ruby-cve-2026-132825",
       "title": "GitLab 紧急修补捆绑 Ruby 的堆缓冲区溢出漏洞",

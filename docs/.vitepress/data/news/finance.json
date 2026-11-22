@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-22T05:39:00+08:00",
+  "updatedAt": "2026-11-23T05:30:52+08:00",
   "items": [
+    {
+      "id": "finance-20261120-us-stock-indexes-correction",
+      "title": "标普 500 与道指进入修正区间，纳指创 2020 年以来最大单周跌幅",
+      "summary": "据路透社报道，11 月 20 日标普 500、道指和纳指分别下跌 3.70%、1.93% 和 5.28%；标普 500 与道指均较历史收盘高点回落超过 10%，确认进入修正区间，纳指单周跌幅为 2020 年 3 月以来最大。报道将抛售与市场对 AI 巨额投资回报及利率路径的担忧联系起来，但这些事实不代表后续走势已经确定。",
+      "publishedAt": "2026-11-20",
+      "source": "路透社",
+      "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/",
+      "subCategory": "美股"
+    },
     {
       "id": "finance-20261120-sec-consolidated-audit-trail-restructure",
       "title": "美国 SEC 拟接管综合审计追踪系统的治理与资金安排",
