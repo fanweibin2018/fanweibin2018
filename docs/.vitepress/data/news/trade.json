@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-22T05:39:00+08:00",
+  "updatedAt": "2026-11-24T05:35:13+08:00",
   "items": [
+    {
+      "id": "trade-20261123-wto-g20-trade-measures",
+      "title": "WTO：G20 新增贸易限制与便利化措施同步加速，限制存量再创新高",
+      "summary": "WTO 对截至 2026 年 6 月底的监测显示，G20 上半年新增 206 项限制或非便利化措施，已超过 2025 年全年的 194 项，相关进口覆盖额约 2 万亿美元；同期新增 282 项贸易便利化措施，相关进口覆盖额约 9770 亿美元。上述数字是措施覆盖的贸易额，不等同于实际损失或新增关税收入。",
+      "publishedAt": "2026-11-23",
+      "source": "世界贸易组织",
+      "url": "https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm",
+      "subCategory": "宏观贸易"
+    },
     {
       "id": "trade-20261121-us-la-long-beach-port-tentative-deal",
       "title": "洛杉矶与长滩港雇主同安保工会达成临时协议，罢工风险暂缓",

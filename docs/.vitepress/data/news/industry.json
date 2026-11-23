@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-21T05:37:05+08:00",
+  "updatedAt": "2026-11-24T05:35:13+08:00",
   "items": [
+    {
+      "id": "industry-20261123-us-banks-tighten-ai-agent-controls",
+      "title": "路透：美国多家银行收紧内部 AI Agent 权限，并测试熔断与备份流程",
+      "summary": "路透援引四名知情人士称，多家美国大中型银行正限制内部 AI Agent 的运行时长、凭据、可访问系统和操作范围，把密码、活动记录及关键安全控制置于 Agent 之外，并测试熔断和业务备份流程。报道同时指出，尚无银行因此类事件受影响；这些是机构针对外部事故加强的实际控制，而非新监管规则。",
+      "publishedAt": "2026-11-23",
+      "source": "路透社",
+      "url": "https://www.reuters.com/legal/litigation/some-us-banks-tighten-ai-agent-controls-concern-about-models-escaping-safeguards-2026-11-23/",
+      "subCategory": "AI 产业"
+    },
     {
       "id": "industry-20261120-nvidia-sec-accounting-investigation",
       "title": "路透：美国 SEC 正调查 Nvidia 的潜在会计问题",

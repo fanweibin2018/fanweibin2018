@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-22T05:39:00+08:00",
+  "updatedAt": "2026-11-24T05:35:13+08:00",
   "items": [
+    {
+      "id": "policy-20261123-china-eldercare-childcare-service-plan",
+      "title": "四部门发布“一老一小”服务方案，明确 2030 年养老托育供给目标",
+      "summary": "国家发展改革委等四部门 11 月 23 日公布经国务院同意的实施方案：到 2030 年，养老机构护理型床位占比达到 73%，社区养老服务机构和设施覆盖率达到 70%，3 岁以下婴幼儿入托率较 2025 年提高 6 个百分点；方案还提出统筹中央预算内投资、专项债券等资金并完善价格与预收费监管。",
+      "publishedAt": "2026-11-23",
+      "source": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202611/t20261123_1409026.html",
+      "subCategory": "产业政策"
+    },
     {
       "id": "policy-20261119-us-bis-remote-compute-semiconductor-controls",
       "title": "美国 BIS 将先进芯片出口管制延伸至境外数据中心远程算力",

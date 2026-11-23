@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-23T05:30:52+08:00",
+  "updatedAt": "2026-11-24T05:35:13+08:00",
   "items": [
+    {
+      "id": "tech-20261123-anthropic-claude-ship-beta",
+      "title": "Anthropic 测试 Claude Ship，把 PR 修复与审批策略接入 GitHub 流程",
+      "summary": "Claude Ship 将已正式可用的 Code Review 与两个测试版智能体组合：PR Steward 可处理失败的 CI、合并冲突和审查意见并推送修复，Claude Approvals 则按仓库内的自然语言策略文件决定是否批准。服务面向 GitHub 上的 Claude Team 与 Enterprise 组织，按 Token 计费；官方建议先用只观察模式验证策略，工具也可能漏掉缺陷和安全问题。",
+      "publishedAt": "2026-11-23",
+      "source": "Anthropic",
+      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20261121-together-ai-prompt-sample-leak",
       "title": "Together AI 确认提示词样本泄露，AI 编码 Agent 曾把仓库凭据提交到公开项目",

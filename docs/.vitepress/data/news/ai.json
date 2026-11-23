@@ -3,8 +3,26 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-23T05:30:52+08:00",
+  "updatedAt": "2026-11-24T05:35:13+08:00",
   "items": [
+    {
+      "id": "ai-20261123-aisi-monitor-attack-policy-evaluation",
+      "title": "英国 AISI：攻击样本生成方式可让同一 AI 监视器漏报率从 0.2% 变到 23%",
+      "summary": "英国 AI 安全研究院红队比较四类合成攻击策略后发现，在最高优化水平下，同一监视器对成功攻击的漏报率从基础提示的 0.2% 到转录编辑的 23% 不等，说明弱攻击样本会制造监视器可靠的假象。研究只测试了一个预生产监视器和一个 Agent，不能直接外推到所有系统；团队因此主张继续配合能力限制、人工介入和沙箱等分层防护。",
+      "publishedAt": "2026-11-23",
+      "source": "英国 AI 安全研究院",
+      "url": "https://www.aisi.gov.uk/blog/attack-policy-selection-can-make-monitor-evaluations-misleading",
+      "subCategory": "AI评测"
+    },
+    {
+      "id": "ai-20261123-deepmind-formally-verified-quantum-programs",
+      "title": "Google DeepMind 用 Gemini 4 智能体与 Lean 验证改进量子算法",
+      "summary": "Google DeepMind 与 Google Quantum AI 让多组 Gemini 4 智能体搜索量子程序，再用 Lean 证明正确性和资源成本；论文报告聚变模拟电路成本降低 11.8 倍，并开源 Lean 4 库、问题规格与验证解法。这些结果是算法资源估算和形式化证明，并非现有量子硬件上的运行性能，论文也承认相关科学模拟仍超出首批容错量子计算机的资源范围。",
+      "publishedAt": "2026-11-23",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "subCategory": "AI 科研"
+    },
     {
       "id": "ai-20261122-openai-perplexity-shared-safety-metric",
       "title": "OpenAI 公开内部预训练困惑度趋势，提议将其用于跨实验室安全标准",
