@@ -3,8 +3,17 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-24T05:35:13+08:00",
+  "updatedAt": "2026-11-25T05:34:00+08:00",
   "items": [
+    {
+      "id": "tech-20261124-anthropic-skills-over-mcp",
+      "title": "Anthropic 公测 Skills over MCP，连接器可随工具分发操作指南",
+      "summary": "Anthropic 将 Skills over MCP 开放公测：MCP 服务器可以把按需加载的技能与工具一同发布，兼容客户端连接后自动同步；Tasks 与 Elicitation 扩展同时转为正式可用，分别支持长任务和运行中请求用户输入。Skills over MCP 在 Claude Pro、Max、Ultra 默认启用，Team 需管理员开启，Enterprise 将稍后提供；扩展是否可用仍取决于客户端实现。",
+      "publishedAt": "2026-11-24",
+      "source": "Anthropic",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20261123-anthropic-claude-ship-beta",
       "title": "Anthropic 测试 Claude Ship，把 PR 修复与审批策略接入 GitHub 流程",

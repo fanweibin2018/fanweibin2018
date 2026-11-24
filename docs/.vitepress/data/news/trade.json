@@ -3,8 +3,17 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-24T05:35:13+08:00",
+  "updatedAt": "2026-11-25T05:34:00+08:00",
   "items": [
+    {
+      "id": "trade-20261124-brazil-us-tariffs-wto-panel-request",
+      "title": "巴西首次请求 WTO 审查美国两档附加关税，专家组尚未成立",
+      "summary": "巴西首次请求 WTO 争端解决机构设立专家组，审查美国依据两项“301 调查”对部分巴西产品加征的 25% 和 12.5% 附加从价税；美国在 11 月 24 日会议上反对，因此专家组尚未成立。巴西可在后续会议再次提出，当前进展只是争端程序推进，不代表关税已经取消或 WTO 已作出裁决。",
+      "publishedAt": "2026-11-24",
+      "source": "世界贸易组织",
+      "url": "https://www.wto.org/english/news_e/news26_e/dsb_24nov26_563_e.htm",
+      "subCategory": "关税政策"
+    },
     {
       "id": "trade-20261123-wto-g20-trade-measures",
       "title": "WTO：G20 新增贸易限制与便利化措施同步加速，限制存量再创新高",

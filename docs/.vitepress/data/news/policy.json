@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-24T05:35:13+08:00",
+  "updatedAt": "2026-11-25T05:34:00+08:00",
   "items": [
+    {
+      "id": "policy-20261124-miit-beidou-short-message-draft",
+      "title": "工信部就北斗短报文通信服务管理办法征求意见",
+      "summary": "工信部发布征求意见稿，拟要求北斗短报文通信服务经营者取得电信业务经营许可，并使用获批的码号和卫星通信资源；提供国际通信服务还须经批准设立国际通信出入口局。意见可在 12 月 25 日前反馈，现阶段仍是草案，尚未生效。",
+      "publishedAt": "2026-11-24",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2026/art_261beb1d69344424bed28b90c3cc2173.html",
+      "subCategory": "通信监管"
+    },
     {
       "id": "policy-20261123-china-eldercare-childcare-service-plan",
       "title": "四部门发布“一老一小”服务方案，明确 2030 年养老托育供给目标",

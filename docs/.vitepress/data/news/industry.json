@@ -3,8 +3,17 @@
   "slug": "industry",
   "title": "行业新闻",
   "description": "企业服务、SaaS、云计算、制造业、消费互联网的产业动态。",
-  "updatedAt": "2026-11-24T05:35:13+08:00",
+  "updatedAt": "2026-11-25T05:34:00+08:00",
   "items": [
+    {
+      "id": "industry-20261124-north-america-pcb-october",
+      "title": "北美 PCB 10 月出货与订单同比大增，材料供给仍是约束",
+      "summary": "全球电子协会的北美样本显示，10 月 PCB 出货额同比增长 40.3%，订单额增长 79.2%，订单出货比为 1.60；协会称数据中心、高速网络及航空航天需求仍在拉动市场，同时提示铜箔、树脂和电子玻纤可能影响交期。统计仅覆盖美国和加拿大的代表性厂商，协会也提醒月度订单波动较大，应结合更长趋势判断。",
+      "publishedAt": "2026-11-24",
+      "source": "全球电子协会",
+      "url": "https://www.electronics.org/news-release/north-american-pcb-industry-posts-strong-year-over-year-growth-october",
+      "subCategory": "电子制造"
+    },
     {
       "id": "industry-20261123-us-banks-tighten-ai-agent-controls",
       "title": "路透：美国多家银行收紧内部 AI Agent 权限，并测试熔断与备份流程",
