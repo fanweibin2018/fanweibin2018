@@ -4,7 +4,7 @@ import { data as news } from '../../../news/news.data'
 import { computed } from 'vue'
 import PostList from './PostList.vue'
 
-const SITE_TAGLINE = '不定期更新的长期思考 — 工程、投资、AI。'
+const SITE_TAGLINE = '范伟彬的工程笔记、AI 实践与投资思考'
 
 const featured = computed(() => posts.filter((p) => p.featured).slice(0, 5))
 const latest = computed(() => {
