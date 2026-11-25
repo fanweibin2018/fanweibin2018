@@ -3,8 +3,26 @@
   "slug": "trade",
   "title": "外贸资讯",
   "description": "亚马逊、TikTok Shop、阿里国际站、Shopify 等平台政策与跨境电商市场、独立站、物流支付、关税法规、选品趋势。",
-  "updatedAt": "2026-11-25T05:34:00+08:00",
+  "updatedAt": "2026-11-26T05:41:00+08:00",
   "items": [
+    {
+      "id": "trade-20261125-ustr-section301-overcapacity-proposals",
+      "title": "美国就 14 个经济体作出 301 调查认定，拟议关税进入征求意见",
+      "summary": "美国贸易代表办公室认定中国、欧盟、日本、韩国及部分东南亚经济体等 14 个对象的制造业政策构成可采取行动的做法，并分别提出额外关税方案。措施尚未生效，书面意见和出席听证申请截止 2027 年 1 月 5 日，听证会定于 1 月 25 日。",
+      "publishedAt": "2026-11-25",
+      "source": "美国贸易代表办公室",
+      "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "subCategory": "关税政策"
+    },
+    {
+      "id": "trade-20261124-china-us-dual-use-export-pause-extension",
+      "title": "中国延长对美部分两用物项出口限制暂停期至 2027 年 1 月 27 日",
+      "summary": "商务部将 2024 年第 46 号公告第二款的暂停实施期延至 2027 年 1 月 27 日，涉及镓、锗、锑、超硬材料及石墨相关两用物项；针对美国军事用户或军事用途的第一款禁令不在本次暂停范围内。",
+      "publishedAt": "2026-11-24T15:00:00+08:00",
+      "source": "商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2026/art_1bb17d2be5de433283d33f213f0824ef.html",
+      "subCategory": "出口管制"
+    },
     {
       "id": "trade-20261124-brazil-us-tariffs-wto-panel-request",
       "title": "巴西首次请求 WTO 审查美国两档附加关税，专家组尚未成立",

@@ -3,8 +3,17 @@
   "slug": "ai",
   "title": "AI 与大模型",
   "description": "大模型、Agent、AI 编程、推理框架、开源模型的发布与落地。",
-  "updatedAt": "2026-11-25T05:34:00+08:00",
+  "updatedAt": "2026-11-26T05:41:00+08:00",
   "items": [
+    {
+      "id": "ai-20261124-tencent-wemm-ecom-open-models",
+      "title": "腾讯开源 WeMM-Ecom 电商多模态模型，覆盖 0.8B 至 35B-A3B",
+      "summary": "微信视觉团队公开 5 个中英双语模型及 BF16、FP8、GPTQ、GGUF 权重，支持文本、单图、多图与视频输入，并可使用 Transformers、vLLM、SGLang 和 llama.cpp 运行。团队称模型已用于微信电商业务，但生产效果与公开基准表现目前主要来自项目方披露。",
+      "publishedAt": "2026-11-24",
+      "source": "腾讯微信视觉团队",
+      "url": "https://github.com/Tencent/WeMM-Ecom",
+      "subCategory": "开源模型"
+    },
     {
       "id": "ai-20261124-openai-gpt6-protein-design",
       "title": "OpenAI 报告 GPT-6 可直接编写蛋白设计代码，湿实验仍依赖专用模型筛选",

@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-25T05:34:00+08:00",
+  "updatedAt": "2026-11-26T05:41:00+08:00",
   "items": [
+    {
+      "id": "policy-20261124-characterai-chat-data-auction-opposition",
+      "title": "美国 42 名州总检察长反对 Character.AI 拍卖用户聊天数据",
+      "summary": "继 10 月要求资产出售保护用户隐私后，美国 42 名州总检察长进一步要求破产法院否决 Character.AI 计划于 12 月 1 日进行的数据拍卖。加州总检察长办公室称，交易将涉及超过 2100 万个美国账户的聊天记录，其中逾 210 万个为未成年人账户，且现有方案没有要求买方延续原隐私承诺。",
+      "publishedAt": "2026-11-24",
+      "source": "加利福尼亚州总检察长办公室",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns",
+      "subCategory": "数据隐私"
+    },
     {
       "id": "policy-20261124-miit-beidou-short-message-draft",
       "title": "工信部就北斗短报文通信服务管理办法征求意见",

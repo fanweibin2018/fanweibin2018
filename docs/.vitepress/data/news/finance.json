@@ -3,8 +3,17 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-23T05:30:52+08:00",
+  "updatedAt": "2026-11-26T05:41:00+08:00",
   "items": [
+    {
+      "id": "finance-20261125-us-october-new-home-sales",
+      "title": "美国 10 月新房销售年化估计升至 70.1 万套，增幅统计上不显著",
+      "summary": "美国人口普查局与住房和城市发展部估计，10 月新建单户住宅销售折年率为 70.1 万套，环比增加 14.2%，但误差范围为正负 22.6%，不足以确认真实增长；待售新房约 47 万套，相当于当前销售速度下 8 个月供应量。",
+      "publishedAt": "2026-11-25",
+      "source": "美国人口普查局 / 住房和城市发展部",
+      "url": "https://www.census.gov/construction/nrs/current/index.html",
+      "subCategory": "房地产"
+    },
     {
       "id": "finance-20261120-us-stock-indexes-correction",
       "title": "标普 500 与道指进入修正区间，纳指创 2020 年以来最大单周跌幅",

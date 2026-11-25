@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-25T05:34:00+08:00",
+  "updatedAt": "2026-11-26T05:41:00+08:00",
   "items": [
+    {
+      "id": "tech-20261125-pydantic-pax-harness-beta",
+      "title": "Pydantic 发布 Pax 与 Harness beta，编码智能体能力可插件化组合",
+      "summary": "Pax 是基于 Pydantic AI Harness 的终端编码智能体，可用插件开关编码、沙箱、MCP 与 Logfire 等能力，也能通过 --agent 接入自定义 Pydantic AI Agent。官方公布的基准目前仅为单次运行，完整方法和复测计划随 1.0 发布，现阶段不能视为独立验证的性能结论。",
+      "publishedAt": "2026-11-25T17:00:00+08:00",
+      "source": "Pydantic",
+      "url": "https://pydantic.dev/articles/pax-harness-beta",
+      "subCategory": "开发者工具"
+    },
+    {
+      "id": "tech-20261125-anthropic-messages-api-rust-migration",
+      "title": "Anthropic 将 Messages API 迁至 Rust，用生产流量回放校验行为一致性",
+      "summary": "Anthropic 把同一次模型输出交给 Python 与 Rust 两条处理管线比较，在不读取客户请求正文的前提下定位差异，并由工程师审核 Agent 提交的修复。公司报告迁移后每请求 CPU 约减少 70%、内存减少逾 80%、首 Token 中位时间约降低 20%；这些均为其内部生产数据。",
+      "publishedAt": "2026-11-25",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "subCategory": "工程实践"
+    },
     {
       "id": "tech-20261124-anthropic-skills-over-mcp",
       "title": "Anthropic 公测 Skills over MCP，连接器可随工具分发操作指南",
