@@ -3,8 +3,26 @@
   "slug": "tech",
   "title": "科技新闻",
   "description": "前沿科技、互联网产品、芯片硬件、开源生态。",
-  "updatedAt": "2026-11-26T05:41:00+08:00",
+  "updatedAt": "2026-11-27T05:30:59+08:00",
   "items": [
+    {
+      "id": "tech-20261126-calif-tor-browser-deanonymization-chain",
+      "title": "研究披露 Tor Browser 15.0.22 去匿名漏洞链，研究方称 15.0.23 已修复",
+      "summary": "Calif 公开的利用链要求用户在恶意页面点击一次，随后借 Firefox/Gecko ReadableStream BYOB 释放后使用漏洞获得渲染器执行，再触发绕过 Tor 的直连以泄露公网 IP。研究仅证明 15.0.22 默认配置可复现；Tor Project 已于 9 月 15 日发布含 Firefox 安全更新的 15.0.23，旧版用户应升级。",
+      "publishedAt": "2026-11-26",
+      "source": "Calif / Tor Project",
+      "url": "https://calif.io/research/tortilla-with-onion",
+      "subCategory": "安全漏洞"
+    },
+    {
+      "id": "tech-20261125-cloudflare-search-for-agents",
+      "title": "Cloudflare 推出 Search for Agents，以标准端点向智能体开放站内检索",
+      "summary": "启用后，Cloudflare 会创建 AI Search 索引，并在域名下开放 /.well-known/search；智能体可用 GET 或 HTTP QUERY 发起关键词、自然语言查询，获得 Markdown 检索结果而非生成答案。该功能目前向所有套餐开放，但用量受 AI Search 定价和套餐额度约束。",
+      "publishedAt": "2026-11-25",
+      "source": "Cloudflare",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-11-25-search-for-agents/",
+      "subCategory": "开发者工具"
+    },
     {
       "id": "tech-20261125-pydantic-pax-harness-beta",
       "title": "Pydantic 发布 Pax 与 Harness beta，编码智能体能力可插件化组合",

@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-26T05:41:00+08:00",
+  "updatedAt": "2026-11-27T05:30:59+08:00",
   "items": [
+    {
+      "id": "policy-20261126-china-next-generation-communications-plan",
+      "title": "三部门发布新一代通信网建设方案，2030 年前推进 5G-A、6G 与卫星互联网",
+      "summary": "工信部、国家网信办和国家发展改革委提出到 2030 年建成新一代通信网，推进 5G-A 规模覆盖、适时开展 6G 网络建设、扩大万兆光网，并加快低轨卫星互联网系统建设。方案已经国务院同意，后续将调度重大工程和投资进度。",
+      "publishedAt": "2026-11-26",
+      "source": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_808db1814bb74a0e87965d66e74f5b4b.html",
+      "subCategory": "通信监管"
+    },
     {
       "id": "policy-20261124-characterai-chat-data-auction-opposition",
       "title": "美国 42 名州总检察长反对 Character.AI 拍卖用户聊天数据",
