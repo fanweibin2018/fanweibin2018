@@ -3,8 +3,35 @@
   "slug": "finance",
   "title": "投资与财经",
   "description": "宏观经济、A 股 / 港股 / 美股、一级市场融资、行业研报观点。",
-  "updatedAt": "2026-11-26T05:41:00+08:00",
+  "updatedAt": "2026-11-28T05:34:25+08:00",
   "items": [
+    {
+      "id": "finance-20261127-pboc-renminbi-interest-rate-rules",
+      "title": "央行重订人民币存贷款利率规则，贷款须展示含费用的年化成本",
+      "summary": "中国人民银行发布新规，要求贷款营销与办理环节明显展示年化利率，计算时纳入利息及与贷款直接相关的费用；罚息利率、计息方式和宽限期改由借贷双方协商，但仍须符合央行规定。新规 2027 年 3 月 21 日施行，并为系统与合同改造留下约四个月过渡期。",
+      "publishedAt": "2026-11-27",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/tiaofasi/144941/144957/2026112716494015022/index.html",
+      "subCategory": "金融监管"
+    },
+    {
+      "id": "finance-20261127-pboc-large-certificate-of-deposit-rules",
+      "title": "央行下调大额存单门槛，并明确转让与浮动利率安排",
+      "summary": "新版《大额存单管理办法》把个人和机构认购起点分别降至 10 万元和 500 万元，允许通过发行人自有渠道或认可的第三方平台转让，并明确浮动利率可参考 Shibor、DR 等基准。办法自 2027 年 3 月 21 日施行，银行需同步调整发行、登记、披露和转让流程。",
+      "publishedAt": "2026-11-27",
+      "source": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/tiaofasi/144941/3581332/2026112716325422180/index.html",
+      "subCategory": "银行业"
+    },
+    {
+      "id": "finance-20261127-ecb-october-consumer-expectations",
+      "title": "欧元区消费者短期通胀预期升至 3.5%，收入增长预期明显下调",
+      "summary": "ECB 10 月调查显示，消费者对未来 12 个月的通胀预期中位数由 3.1% 升至 3.5%，名义收入增长预期由 1.1% 降至 0.6%；预期未来信贷条件收紧的净比例升至 2023 年 10 月以来最高。调查覆盖 11 个欧元区国家约 1.9 万名成年人，反映居民预期而非 ECB 预测。",
+      "publishedAt": "2026-11-27",
+      "source": "欧洲中央银行",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "subCategory": "宏观经济"
+    },
     {
       "id": "finance-20261125-us-october-new-home-sales",
       "title": "美国 10 月新房销售年化估计升至 70.1 万套，增幅统计上不显著",

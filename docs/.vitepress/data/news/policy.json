@@ -3,8 +3,17 @@
   "slug": "policy",
   "title": "政策信息",
   "description": "国家与地方政策、监管动态、产业扶持与合规要求。",
-  "updatedAt": "2026-11-27T05:30:59+08:00",
+  "updatedAt": "2026-11-28T05:34:25+08:00",
   "items": [
+    {
+      "id": "policy-20261126-china-ai-training-data-rules-draft",
+      "title": "国家数据局就 AI 训练用数规则征求意见，拟明确合法取得数据的使用边界",
+      "summary": "征求意见稿提出，依法取得相应持有权、使用权或经营权的数据，在不违法、不违约且不侵权的前提下可用于 AI 训练和推理；同时鼓励为高质量数据付费，并要求留存数据来源和授权记录。意见征集截至 12 月 6 日，后续将通过试点推动，尚未成为正式规则。",
+      "publishedAt": "2026-11-26",
+      "source": "国家数据局",
+      "url": "https://www.nda.gov.cn/sjj/hdjl/yjzq/yjzqform/list/index_pc.html?code=ff808081-a1d5596e-01a2-17aa8b5d-096b",
+      "subCategory": "AI监管"
+    },
     {
       "id": "policy-20261126-china-next-generation-communications-plan",
       "title": "三部门发布新一代通信网建设方案，2030 年前推进 5G-A、6G 与卫星互联网",
